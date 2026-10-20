@@ -1,0 +1,36 @@
+PennGlobal: PMR192
+Period: 1335 caitra śudi 13
+Location: Ajayagaḍh
+King: Vīravarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 2 verses
+Metres: Verse 1 Vasantatilaka; v.2 Anuṣṭhubh
+Gist: Registers the installation of an image of Śāntinatha, the sixteen of the Jaina pontiffs, 
+	by the sādhu Sōḍhala, the son of sādhu Sīḍhala and Dēvakī residing 
+	at the Jayapura-durgga and belonging to the Grahapati family.
+Published reference: Trivedi (1989), no. 192.
+
+
+Text{1}
+
+1. siddham{2} | oṃ namo vītarāgāya || śrīmadvīravarmmadevavijayarājye saṃvata(t) 1335 caitra su(śu)di 13 some 
+   jayapura[du]rggo{3}ga(gra)hapatiśrī-
+2. sādhuśrīmāsala{4}tasya suta sādhu soḍhala | dāmodara | gaṃgādhara | jaso(yaśo)dhara nityaṃ [praṇamanti]{5} [|*]
+3. cetaḥ paropakṛtikarmmaṭhamanya[to]ṣavyāhārasāracikurā{6}madhurā ca vāṇī | gātraṃ sadā jinapadapraṇatipraṇītapāvitrya-
+   pātramamalaṃ{7}ca vi-˘
+4. tasya ||1|| sīṭasādhu pitā ja(ya)sya devakī jananī tathā | sādhunā soṭalenāyaṃ śāntinātha[ḥ*] pratiṣṭhitaḥ{8} ||
+   tasya suta nānadeva nityaṃ praṇamanti(ti) ||{9}
+   
+----------------------------------------------------------
+
+{1} From a photograph.
+{2} Expressed by a symbol.
+{3} The akṣaram in brackets shows an unnecessary curve above.
+{4} This and the other proper names below are all without case ending but separated by a daṇḍa.
+{5} The bracketed letters are all lost. Rather read ete nityaṃ . . . . .
+{6} The akṣara in brackets is formed as va by a wrong stroke of the chisel, as some others also, which
+	are not noted separately.
+{7} The same as above, in the form of trya and tra.
+{8} The correct word required here is pratiṣṭhāpitaḥ, which would not suit the metre.
+{9} I am not certain about the closing sign in the end.

@@ -1,0 +1,28 @@
+PennGlobal: PMR79
+Period: VS 1293
+Location: Dēvkhētar
+Dynasty: Paramāra
+King: Somsiṃha
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Purpose of the stone is not clear. 
+	  Refers  to the prosperous reign of Sūmasiha(Sōmasiṃha).
+Published reference: Trivedi (1978), no. 79.
+
+
+Text{1}
+
+1. śrīḥ || saṃvatu(t) 1293 varṣe jeṭhima[hā?]....{2}
+2. da(?)dine sūmasīṃ{3}hadevavija(ya) (rājye . . . .*){4}
+3. {5}pā . cāṃ . ḍaṃ(?) caukumakataṃ tathā . . . . .
+4. ca . ra veci caukaḍamuka . . . . . . .
+
+-----------------------------------
+
+{1} From an impression.
+{2} The number of akṣaras lost after this akṣara cannot be made out.
+{3} That is somasiṃha-. The sign of anusvāra is faint even on the stone.
+{4} This akṣara is probably ya, which was obviously followed by rājye, which too appears to be lost. 
+{5} The rest of the record is all in the local dialect and I am unable to make out the sense.
+

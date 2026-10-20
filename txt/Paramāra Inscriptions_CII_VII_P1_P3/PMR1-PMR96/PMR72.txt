@@ -1,0 +1,26 @@
+PennGlobal: PMR72
+Period: VS 1249
+Location: Bāmaṇwārjī
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Purpose cannot be clearly made out, 
+	  though possibly records a gift to the temple of which 
+	  the inscribed slab was found, or to some other temple 
+	  in the vicinity where it was brought.
+Published reference: Trivedi (1978), no. 72.
+
+
+1. svasti{1} saṃvat 124[9] varṣaiṃ śrīdhārā[va*]rṣa saṃ[rā]je [bāṃ(bāṃ)]bha-
+2. ṇavāḍa grāme saṅga[ccha]ti ------ sakalavidraṃmadamakale (?)
+3. .........śaṃka[ra*?]sī(siṃ)ha [bhū]mīha [maṃ ?]ta[vyā*]
+4. ....................
+5. .....gulamaguhina(?)pratī(ti)maṃdrā(?) maṃgalaṃ mahāśrī[ḥ]{2} ||
+
+-----------------------------------------------------------------
+
+{1} Expressed by a symbol which is damaged.
+{2} The reading of most of the akṣaras is only conjectural, but up to the name of the place in 1.2 it is
+	certain.

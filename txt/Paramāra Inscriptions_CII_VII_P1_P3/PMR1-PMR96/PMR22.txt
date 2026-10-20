@@ -1,0 +1,66 @@
+PennGlobal: PMR22
+Period: VS 1143 vaisākha śudi 10
+Location: Jhālrāpāṭan  
+Dynasty: Paramāra
+King: Udayāditya
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: To record the construction of a temple of śaṃbhu.
+Published reference: Trivedi (1978), no. 22. 
+
+TEXT{1}
+
+1. oṃ{2} namaḥ śivāya || saṃvat{3} 1143 vaisā(śā)kha śudi 10 a-
+2. dyeha śrīmadudayādityadeva kalyāṇa vijayarājye |{4} tai-
+3. likānvaye paṭṭakila cā{5}hilasuta paṭṭakila ja[nnake]{6} -
+4. na śaṃbhoḥ prāsādamidaṃ kāritaṃ(tam){7} | tathā cirihillatale cā{8} -
+5. ḍā | ghoṣakūpikāvru(bru ?)vāsakayoḥ{9} {10}aṃtarāle vāpī ca ||
+6. utkīrṇṇoyaṃ pa(paṃ)ḍita harṣukene(ṇe)ti ||{11} ||jānāsatka{12} mā-
+7. tā dhāiṇiḥ praṇamati || śrī loligasvāmidevassa(sya) keriṃ{13}
+8. tailikānvae(ye) paṭṭakila cāhilasuta paṭṭakila janakena || śrī seṃ(sai ?)dhavadeva para-
+9. [va]nimityaṃ{14} dīpatailya(la) catuḥ palaṃmekaṃ{15} mūdakaṃ{16} krītvā tathā vari[ṣaṃ](varṣaṃ) prati sa(saṃ)vi[jñā ?] -
+10. taṃ(tam) || cha ||{17} || maṃgalaṃ mahāśrī[ḥ] ||{18}
+
+------------------------------------------------------
+{1} From an ink impression.
+{2} Denoted by a symbol.
+{3} A petal like ornamentation is engraved around the anusvāra of saṁ.
+{4} The daṇḍa is redundant.
+{5} While editing the inscription in the J.A.S.B, Vol.X, Shastri observes that he is not certain about the reading
+	of this letter, for it may also be read as ga. But the letter ga has quite a different form in lōliga,1.7.
+{6}	This letter, along with a part of the preceding one, is totally lost and hence I adopt the reading of it as done by
+	Shastri in his transcript.
+{7} Read prāsādoyaṃ kāritaḥ.
+{8} One akṣara at the end of this line is lost and the mātrā of chā may have been connected with it.
+{9} The consonant of the first akṣara of the second name I take to be v in view of its identification proposed in the
+	end, and not dh which is almost similar to it in form throughout in this inscription. Cf.-sēndhava-, 1.8, where
+	the top stroke of dh is less developed(1.8) but also the second akṣara in 1.8 where it is well developed and
+	which has to be taken as dha in view of its verticals being joined by a horizontal stroke as we generally find.
+{10} Sandhi is not observed here.
+{11} Between the double daṇḍas there is a design representing a wheel.
+{12} Jana is obviously a Prakrit form of Jannaka, mentioned in 1.3 above. For satka in the sense of 'belonging to',
+	 see the Augāsi plate record of Madanavarman, below, No.118, text 1.7.
+{13} I am unable to explain this word. Perhaps kṛte is intended, as remarked by Shastri.
+{14} Read parvanimittaṃ.
+{15} Read dīpatailacatuṣpalamekaṃ.
+{16} The meaning is not clear. Perhaps modakaṃ is intended.
+{17} Between the double daṇḍas is engraved an ornamentation somewhat resembling a taurine.
+{18} The anusvāras of maṁgalaṁ are very small and the second one is misplaced. What appears at the end of the
+	 line is read by Shastri the figure of nine. But it is only an ornamentation corresponding to the one that we find
+	 at the beginning of the line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

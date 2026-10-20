@@ -1,0 +1,107 @@
+PennGlobal: PMR45
+Period: VS 1178-79
+Location: Shājāpur
+Dynasty: Paramāra
+King: Hariśchandra
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 14 verses
+Metres: Verses 1-2 and 4-10 Anuṣṭubh; v.11 Indravajrā; vv. 3 and 13 Vasantatilakā; v.12 Śālinī; v.14 Puṣpitāgrā
+Gist: Land(Village) grant 
+Published reference: Trivedi (1978), no. 45.
+
+
+Text{1}
+
+śrīḥ
+1. || śrīgaṇeśāyanamaḥ ||
+2. || svasti jayobhyudayaśca || jayati vyomakeśosau yaḥ sargāya bibhartti tāṃ || aiṃdavīṃ śirasā lekhāṃ jagadbījāṃkurākṛtiṃ ||1||{2}
+3. tanvantu naḥ(vaḥ?) smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ || kalpāntasamayoddāmataḍidvalayapiṅgalāḥ ||2||
+4. paramabhaṭṭārakamahārājādhirājaparameśvaraśrī{3}udayādityapādānudhyāta-
+5. paramabhaṭṭārakamahārājādhirājaparameśvaraśrīnaravarmmadevapādānudhyātapara-
+6. mabhaṭṭārakamahārājādhirājaparameśvaraśrīyaśovarmmadevapādānudhyātaparama-
+7. bhaṭṭārakamahārājādhirājaparameśvaraśrījayavarmmadeva ityetasmātpṛṣṭhatamapra-
+8. bhoḥ prasādādavāptanijādhipatyaḥ samastapraśastopetasamadhigatapañcamahāśabdā-
+9. laṅkāravirājamānamahākumāraśrīhariścandradevaḥ nīlagirimaṇḍale'maḍāpa-
+10. drapratijāgaraṇakae saṃvaddhapalasavāḍāgrāmanivāsisammatigrāmanivāsinaśca{4}
+11. samastarājapuruṣaviṣayike paṭṭakilajanapadādibrāhmaṇottarān bodhayatyastu
+12. vaḥ saṃviditaṃ yathā'smābhiḥ śrīvikramakālātīta 1235 pañcatriṃśadadhika-
+13. dvādaśaśatasaṃvatsarāntaḥ pātipauṣavadi amāvāsyāyāṃ saṃjātasūryaparvaṇi
+14. caturmukhamārkkaṇḍeśvaradevopakaṇṭhe vimalatarapavitranarmmadātīrthāṃbhobhiḥ snā-
+15. tvā sitavāsasī paridhāya devarṣimanuṣyapitṝn santarpya carācaraguruṃ bhaga-
+16. vantaṃ bhavānīpatiṃ samabhyarcya samitkuśatilānnādyāhutibhirhiraṇyaretasaṃ
+17. hutvā jātave'rghyaṃ{5} vidhāya kapilāṃ triḥ pradakṣiṇīkṛtyopaspṛśya gosahasranāma -
+18. mahādānaṃ{6} datvā ca saṃsārasyāsāratāṃ dṛṣṭvā nalinīdalagatajalavi(bi)nduvaccañca-
+19. lataraṃ yauvanaṃ vittaṃ cāvekṣya || uktañca | vātābhravibhramamidaṃ vasudhādhi-
+20. patyamāpātamātramadhuro viṣayaprabhogaḥ ||{7} prāṇāstṛṇāgrajalabindusamā
+21. narāṇāṃ dharmmaḥ sakhā paramaho paralokayāne ||3||{8}
+22. ityevamākalayya ||{9} mātāpitrorātmanaśca puṇyayaśobhivṛddhaye kātyāyana-
+23. gotrāya tripravarāya paṇḍitasiṃhasūta{10}paṇḍitadaśarathaśarmmaṇe vilikhitapaṭasavāḍā{11}grāmasyāṃśadvayamaṃkeṃśa 2
+24. tathā 1236 ṣaṭriṃśadadhika{12}dvādaśaśatasaṃvatsarāntaḥ pātivaiśākhamāsi
+25. paurṇamāsyāṃ parāśaragotrāya tripravarāya paṇḍitadelūsutapaṇḍitamālūṇe śarmmaṇe brāhmaṇāyāṃśamekamaṃke'ṃśa 1
+26. guṇapuradurgatalahaṭṭikāvāsanikāyuktamityubhayamaṃśam evamaṃśatrayopaka-
+27. lpito nīlagirimaṇḍalīyakuḍavamāpyena catvāriṃśanmānikāparimita upa-
+28. rilikhitasavāḍāgrāmaḥ savṛkṣamālākulo nidhinikṣepasahitaścatuḥ(ṣ) kaṅkaṭa—
+29. viśuddho vāpīkūpataḍāgopayuktaḥ | sarvābhyantarasiddhyāsa{13}sanenodakapūrvakatayā
+30. pradattaḥ | tatra ca grāmanivāsipaṭṭakilādilokaistathā karṣakaiścātra grāme
+31. yathotpadyamānabhāgabhogakarahiraṇyādikamājñāvāgvidheyairbhūtvā sarvamanayoḥ
+32. samupanetavyaṃ{14} | sāmānyaṃ caitatpuṇyaphalaṃ budhvāsmadvaṃśajairanyairapi bhāvibhoktṛbhi-
+33. rasmatpradattadharmādāyoyamanumantavyaḥ pālanīyaśca || yate(taḥ) || bahubhirvasudhā
+34. bhuktā rājabhiḥ sagarādibhiḥ ||(|) yasya yasya yadā bhūmistasya tasya tadā phalaṃ(lam ) ||4||
+35. bhūmiṃ yaḥ pratigṛhṇāti yaśca bhūmiṃ prayacha(ccha )ti ||(|) ubhau tau puṇyakarmmāṇau niyataṃ svargagāminau ||5||
+36. śaṅkhaṃ bhadrāsanaṃ chatraṃ varāśvaṃ(śvo) varavāhanaṃ(nam) ||(|)  bhūmidānasya cihnāni phalametat purandara ||6||
+37. harttā hārayitā bhūmermandabuddhistamovṛtaḥ ||(|) sa baddho vāruṇaiḥ pāśaistiryagyoniḥ prajāyate ||7||
+38. svadattāṃ paradattāṃ vā yo harenna(ta)vasundharāṃ(rām ) ||(|) ṣaṣṭiṃ varṣasahasrāṇāṃ viṣṭhāyāṃ jāyate kṛmiḥ ||8||
+39. suvarṇamekaṃ gāmekāṃ bhūmerapyekamaṃgulaṃ(lam) ||(|) harannarakamāpnoti yāvadābhūtasaṃplavaṃ(vam) ||9||
+40. trīṇyāhuratidānāni gāvaḥ pṛthvī sarasvatī ||(|) āsaptamaṃ punaṃtyetā dohavāhanivedanaiḥ ||10||
+41. yānīha dattāni purā narendrairdānāni dharmmārthayaśaskarāṇi ||(|) nirmālyavāntipratimāni tāni ko nāma sādhuḥ punarādadīta ||11||
+42. sarvānetān bhāvinaḥ pārthivendrān bhūyo bhūyo yācate rāmabhadraḥ ||(|) sā-
+43. mānyoyaṃ dharmmaseturnṛpāṇāṃ kāle kāle pālanīyo bhavadbhiḥ ||12||
+44. madvaṃśajāḥ paramahīpativaṃśajā vā pāpānnivṛttamanaso bhuvi bhāvibhū-
+45. pāḥ ||(|) ye pālayanti mama dharmamahī{15} tu teṣāṃ pādāravindayugalaṃ śirasā namāmi ||13||
+46. ityārṣeyavacanakramamavalaṃbya || iti kamaladalāṃbubindulolāṃ śriyamanu-
+47. ciṃtya manuṣyajīvitaṃ ca ||(|) sakalamidamudāhṛtaṃ ca budhvā(ddhvā) na hi puruṣaiḥ parakīrttayo vilopyāḥ ||14||
+48. iti || svahastoyaṃ mahākumāra śrīlakṣmīvarmmadevasutamahākumāraśrīhariścandradevaparamārakulakamalabandhoḥ || śrīrastu ||
+    || hastākṣara rāmacandrakā ||{16}
+
+
+----------------------------------------------------
+
+{1} As in Journ. of Asiatic Society of Bengal, Vol.VII, pp.736-39. The figures numbering the lines are
+	given by me. The transcript also contains some redundant punctuation marks.
+{2} As in many Paramāra grants, there appears to have been an auspicious symbol at the beginning, which has
+	been omitted in the transcript. Read tāṃ and kṛtiṃ respectively at the end of each of the hemistiches.
+	It is possible that in both the words in this verse and in similar cases below, the consonants v and b may
+	have been engraved. But we cannot be definite about it.
+{3} The rule of sandhi is not observed here.
+{4} This expression is apparently a mistake for pratigrāmanivāsinaśca. Also read amarāpadra in the preceding line,
+	and delete the mātrā of ke in viṣayike in the next line.
+{5} Read jātavedaderdhyaṃ.
+{6} For these great gifts, see Hemādri, Chaturvargachintāmaṇi, Dānakhaṇḍa (Ban. edn.) Vol. I, pp.256 ff.
+{7} Delete one of the daṇḍas.
+{8} In the transcript, this verse is numbered one, and the initial two verses are not numbered. I have my own 
+	arrangement of numbering the verses, as necessary.
+{9} The punctuation marks are redundant.
+{10} This is evidently a printing mistake for suta, though grammatically correct.
+{11} The name of the village is given as palasavāḍā in 1.10, above as savāḍā in 1.30, below.
+{12} Read ṣaṭtriṃśadadhika-.
+{13} Read śā for sa and separate this word from the preceding one.
+{14} Read -vyam. Below, as here, there are instances with the anusvāra for ṃ at the end of a sentence or a
+	 hemistich; these are not pointed out separately.
+{15} This expression generally appears as dharmamahaṃ in the inscriptions.
+{16} THis line which is not a part of the original inscription, was evidently written in a later age by somebody.
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

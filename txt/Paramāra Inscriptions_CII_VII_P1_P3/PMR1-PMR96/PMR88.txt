@@ -1,0 +1,154 @@
+PennGlobal: PMR88
+Period: VS 1240 vaiśākha śudi 3
+Location: Arthūṇā
+Dynasty: Paramāra
+King: Cāmuṇḍarājā
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 33 verses.
+Metres: Verses 1-2, 6, 14, 16, 18-19, 23 Śārdūlavikrīḍita; v. 3 Toṭaka; v. 4 Drutavilambita; v. 5 Vasantatilakā; v.
+	   7 Sragddharā; vv. 8-13, 24-32 Anuṣṭubh; v. 15 Mandākrāntā; vv. 17, 21 Rathoddhatā; vv. 20, 22
+	   Āryā(?); v.33 (only the first foot preserved) Pṛthvī  
+Gist: During the reign of Cāmuṇḍarājā a temple in honour of Śiva  was built by Hari,
+	  one of the six sons of a goldsmith named Dōhaḍa, a resident of the fort of Citrakūṭa in Mēdapāṭa. 
+Published reference: Trivedi (1978), no. 88.
+
+Text{1}
+
+1. siddham{2} || oṃ namaḥ śivāya || kailāsodaya śaila[lavdha(bdha)]mahimā gaurīmukhāṃbhoruhasrī(śrī)raprītikaraṃ [mu]rāri mathanaścādṛṣṭado[ṣaḥ]
+   sadā | nityaṃ yā pa-
+2. U nispahaḥ{3} śaśikalā dattāśrayo gopatiḥ pāyādvaḥ parameśvaras trinayanaḥ pūṣeva lokapriyaḥ ||1|| śrīkhaṃḍāgurunāgavallidalabhṛtpūgānurā-
+3. gānvitaḥ puṣpasrī(śrī) ghana sāra bhūṣita tanuḥ{4} gaṃdharvva gī[tolvaṇa]ḥ | itthaṃ parvvata rāja putra iti yaḥ khyātorvvu(rbbu)daḥ kṣmādharo dhātryā-
+   masti surāṃganā-
+4. [bhramasa?]kho ramyopa kaṭhāśayaḥ ||2|| tatra vaśiṣṭha munipravarasya tī[vra]tapobhiratasya jahāra | gādhinṛpasya suto varadhenuṃ sānuśayo
+   hutavānmu |{5}
+5. mi(ni)ragni[m] ||3|| atha parābhavajātaruṣāmunā hutasamaṃtrahutāśanakuṃḍataḥ | [druta]mupātta U ṣaḥ sthitavā[npuro] jitaparaḥ paramāra-
+   kṛtābhidhaḥ ||4||
+6. tasmād anukramavaśā[t pa]ramāravaṃśaḥ pīyūṣa puṃja iva caṃdramasaḥ pravṛttaḥ | yatrābhavajjana mavo(no)nayanābhirāmaḥ śrīmaṃḍanaḥ kṣititala prathito na-
+7. reṃdraḥ{6} ||5|| sūnustasya saroja patra nayanaḥ saṃpūrṇṇa caṃdrānano jātya svarṇṇa samaprabhaḥ smaranibho rūpeṇa cāhlādinā | nistṛṃ(stiṃ)śaṃ ripu-
+   mastakeṣu ni-
+8. śitaṃ bhaṃ[ktvā]vṛkalpaṃ{7} sudhīḥ [naṃ]datveṣa ka[latra] putra sahitaḥ cāmuṃḍarājaḥ kṣitau ||6|| yatra prakārasaṃsthaṃ taruṇapura vadhūvṛṃda - -
+   didṝkṣuḥ dṛṣṭvā sva-
+9. sthā va(ba)bhūvuḥ smarasa(śa)ravivaśāḥ - U - - U yakṣāḥ | asti śrīmedapāṭe dharaṇitalagava(ta)svarggakhaṃḍāvatāraṃ durggaṃ lakṣmī-
+   nidhānaṃ pravaraguṇaga ||
+10. ṇālaṃkṛtaṃ citrakū[ṭaṃ(ṭam)] ||7|| devadvijāgnisu - ˍU dharmadhīrdhanadodhane | citrakū[ṭā]nvaye sādhurāsīd dohaḍa saṃjñakaḥ ||8|| suvarṇṇa
+    varṇṇavi[jñātā] ka-
+11. ṣacchedavicakṣaṇaḥ | sauvarṇṇika iti khyātastatputro rāṃha-bhavat{8} ||9|| vasaṃtasyeva puṣpha(ṣpa) śrīrllakṣmīr viṣṇoriva priyā | tasyāsī-
+    llakṣaṇopetā
+12. satī patnī salakṣaṇā{9} ||10|| sudhiyaḥ sādhavaḥ saṃtaḥ sukarmmaṇaḥ suvāṃ(bāṃ)dhavāḥ | ṣaṭ putrāḥ sajjanā dāṃtā dampatyorabha-
+    vanstayoḥ ||11|| govindaḥ prathamasteṣām(ṣāṃ) 
+13. laghurdāmodarastataḥ | nārāyaṇonujastasya tatkaniṣṭho haristataḥ ||12|| cāhaḍo mahaṇaścaiva ṣaḍete bhrātaro bhuvi | naṃdaṃtu paramāṃ
+    vṛddhiṃ prāpnuvantu ci-
+14. rāyuṣaḥ ||13|| dakṣā vajra parīkṣaṇeṣu caturāḥ{10} māṇikya saṃprekṣaṇe vijñā vidruma nīla mauktika parijñāne kalā kovidāḥ | - - sāṃdravicitra-
+    ca U{11}rajana-
+15. sthāneṣu vijñānino dhātrī maṃḍala maṃḍanaṃ ṣaḍapi te - - U rājñā naraḥ ||14|| teṣāṃ madhye haririva hariḥ saṃ(śaṃ)kha cakrāvja(bja)-
+    pāṇir llakṣmīnātho vijita narakaḥ 
+16. yāsaya[rda ?]priyaścā(śca |) śuddhaḥ kṛ - U davirahito yo gadāśliṣṭa de[ho?] - keṃ - puḥ samadhikaguṇaḥ sārda(?)pāṇerapoha{12}
+    ||15|| śṛṃgārī ramaṇījane guru-
+17. jane śāṃtodbhutaḥ kīrttane{13} vīraḥ sāhasa karmmaṇi dviṣi [tathā] raudrastathā [ka]lmaṣe | hāsyo{14} narmma kathādi - U[ṣūru ?]karuṇo dīne
+    parapreya-
+18. sī{15} vī(bī)bhatso dharaṇītaletra navadhā yaścaikarūpopi san ||16|| sajjanopakṛti[hetu] jīvitaṃ pūjyasa[tkṛ ?]tikṛtekhilaṃ dha[naṃ ?] | puṇya ka-
+19. rmma kṛti kāraṇe vapuryaḥ kṛtārthamakarod U - U -{16} ||17|| ā[ḍhyā]neka U -{17}ryute va(ba)hujane sphīta prakṛtyanvite puṇyārāmasaraḥ
+    surālayamahāsatra-
+20. prapāsaṃkule | atrotthūṇaka[pattane] nivasatā - - U{18}mabhraṃkaṣaṃ tenākāri harīśvarasya himava[ccaṃ]dropamaṃ śreyase ||18|| tenaiveta-
+    dakhāni tuṅgalaharīsaṃspṛ-
+21. ṣṭatārā[patha]ḥ{19}saṃkrāṃtāmṛ[ta]varṣapūrṇṇamacala[prasyaddvi]{20}pālaṃkṛtaṃ(tam) | - - nnīravihāra[paura]ramaṇī[pīna]stanaprocchalallāvaṇyopaci-
+    - U - dhvagajanatṛṣṇātara(ro?)ccheda-{21}
+22. kaṃ(kam) ||19|| so(śo)bhana pada saṃcārā vāpī supayodharā su - - ˍU{22} | janayati - - U U - rama[ṇī]va janasya sarvvasya
+    ||20|| tena deva[va(ba)]libhogahetutāduḥ(duṣ)kṛtodaya- |
+23. [nirāsahetu(?)]nā | kāritā vividha puṣpha(ṣpa) vāṭikā - U - U U U - U - U - ||21|| ----------te[ne]tyamarapura-
+24. miva puramidamapi kā[rri(ri)]taṃ su U he{23} ||22|| la - - U palāśa - U kaṇikātulyaṃ U radvāridaṃ chāyāgatvara - U - U
+    nayanaprāntāsthiraṃ yauvanaṃ(nam) | matvaitatsama-
+25. laṃcakāri U U - - - pṛthivyaṃtarā - - nena śa[sāṃ(śāṃ)]ka - U{24} dhavalā - - U saṃ[pā]yinī ||23|| janakasya jananyāśca
+    puṇyasyārddhamudīritaṃ(tam) | vāṃ(bāṃ)dhava-{25}
+26. nānāṃ pari - marddhaṃ na - ha saḥ ||24|| -------------{26} ||25|| puṇyaṃ samabhāgaṃ
+27. ---------- ||26|| atha bhūmiriyaṃ dattā rājñā devāya sā(śā)śvatī | śrīmaccāmuṃḍa[ra]ājena sarvāghāṭopala{27}-
+28. pūrvvaiṇa deva ------------------- eva hi dakṣiṇe ------{28}
+29. na vilopanapūjā{29} ------------
+30. -------------------------------prārthitā mayā --------
+31. ------------ ||32|| sthalijanapade cāyaṃ (?) pṛthvīpatipravaro [dadau]{30} ---- . . . . .
+32. devavrā(brā)hmaṇarāja[rṣika]rmmiṇāṃ ca tapasvināṃ(nām) [|*] paṃcakulatalārasya mahājanadhanārhi[dhi?]kaḥ{31} | vāpyārāmataḍāgaṃ [ca] . . .{32}
+33. eteṣāṃ samarpaṇā[tsarvvaire]tatpālanīyaṃ yāvaccaṃ[dra]divākara[au] | va(ba)hubhirvasudhā bhuktā rājabhiḥ[*] sagarādibhiḥ [|*] ya---{33}
+
+--------------------------------------------------------------------
+
+{1} From an impression and personal examination of the original stone. 
+{2} Expressed by a symbol which is partly visible. 
+{3} Probably the reading is vyāptatamopahaḥ. A number of the akṣaras in this inscription are mutilated, and some 
+	others are misformed, and these errors are not always pointed out for the fear of increasing the footnotes.
+	Redundant and missing strokes also are not every time drawn attention to for the same reason, e.g., the 
+	consonant of p in parama- is engraved as ṣa and vice versa is the case of the consonant ṣa in doṣa in the 
+	preceding line. 
+{4} The first word here also appears as puṣyat. Above ta of bhūṣita a redundant repha was at first 
+	engraved and then scored off. The sandhi is not formed here as also in some places below, e.g., in 
+	v.6. The reading of the bracketed letters that follow is from traces left. 
+{5} This punctuation mark, as also some others below, is redundant. This too is not every time drawn 
+	attention to. 
+{6} Excepting a slight change in the third quarter, this verse is a copy of v.7 of No.85. 
+{7} These four letters are mutilated and neither the reading is certain nor is the meaning clear. 
+{8} The first akṣara of the name is mutilated and the third is overwritten, and thus the reading of both 
+	these is not certain. 
+{9} Originally su, with the mātrā perhaps erased later on. 
+{10} The visarga is not dropped here. 
+{11} This akṣara may have been tva.
+{12} A number of the akṣaras of this verse cannot be made out but the general sense is to compare this 
+     person with Viṣṇu by using such expressions as may be applicable to both. The reading may be śārṅgapāṇe-.
+{13} What appears as the sign of anusvāra above this letter is either a redundant stroke or an abrasion. 
+{14} Originally ta, later on changed. 
+{15} Reading uncertain. 
+{16} Here, the inscription shows traces of three and not four akṣaras as required by the metre. 
+{17} Both these letters, which are mutilated beyond recognition, may have been naraiḥ. 
+{18} A word denoting temple may have been employed here, but perhaps prāsāda was written. In his notice 
+	 of the inscription in the Report of the Western Circle, 1908-09, p.49, D.R. Bhandarkar took the first 
+	 two akṣaras of this stich as ārā, instead of atro as we read, and took the name as Ārāthūṇaka, con-
+	 necting it with Ārthūṇaka, i.e., Arthūṇā. But to me the reading seems to be as taken here. 
+{19} The sign of visarga is lightly scratched off and that of anusvāra is put here. The word means the sky. 
+{20} The reading of these three akṣaras is doubtful and the first of them is written in the level of the margin 
+	 on the proper right side of the stone, with an arrow mark where it is to be supplied. 
+{21} The twelfth akṣara of the fourth foot of this verse is not long as metrically required. The lacuna may 
+	 be supplied with tāṃgama. 
+{22} Probably susandhānā may have been intended here. 
+{23} This akṣara is mutilated and the preceding one is altogether indistinct. 
+{24} The intended akṣaras were probably viṃva.
+{25} Two akṣaras are lost here. Could they be jana? 
+{26} The whole verse 25 is lost, and of the one that follows, only six letters are preserved. 
+{27} The next two akṣaras which are lost may conjecturally be restored as kṣitā. 
+{28} Almost all the letters in this line are indistinct. 
+{29} From here the impression fails to give any intelligible and connected reading.
+{30} The rest of the line is altogether indistinct and the letters in the next line are only partly preserved. The 
+	 rest of the inscription is altogether lost, as stated above.  
+{31} The restoration is tentative. The last two lines are incised at the top. 
+{32} The rest of the line is lost. 
+{33} As above. The verse may have been completed on the border on the right side which has peeled of 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

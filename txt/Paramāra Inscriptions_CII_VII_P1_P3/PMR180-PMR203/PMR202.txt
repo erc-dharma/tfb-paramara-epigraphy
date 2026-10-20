@@ -1,0 +1,151 @@
+PennGlobal: PMR202
+Period: VS 1283
+Location: Madhya Pradesh
+King: Trailōkyavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 3 verses
+Metres: Verses 1-3 Anuṣṭhubh
+Gist: Refers to the victorious reign of king Trailōkyavarman. 
+	Records the donation made by him of the village  Varahī in the Vishaya division of Paṭiśato some Brāhmaṇas, 
+	from his stay at the fort of Jayapura, which is Ajayagaḍh.
+Published reference: Trivedi (1989), no. 202.
+
+
+Text{1}
+
+1. siddham{2} | svasti || jayatyāhlādayanviśvaṃ viśveśvaraśirodhṛtaḥ |{3} caṇdrātreyanarendrāṇāṃ vaṃśaścaṃdra ivoddhṛtaḥ ||
+	1|| tatra pravarddhamānavi-
+2. rodhivijayabhrājiṣṇujayaśaktivijayaśaktyādivīrāvirbhāvabhāsvare paramabhaṭṭārakamahārājādhirājaparameśvaraśrīmadana-
+   varmmadevapādānudhyā-
+3. taparamabhaṭṭārakamahārājādhirājaparameśvaraśrīparamarddidevapādānudhyātaparamabhaṭṭārakamahārājādhirājaparameśvaraparamamāhe-
+   [śva]-
+4. rasī(śrī)kālaṃjarādhipati[śrī]trailokyavarmmadevo vijaya(yī) || rsa(sa) eṣa durvviṣahatarapratāpatāpitaripukula[ḥ*]
+   kulūdhūgi(kulavadhūmi)va vaśuṃ(suṃ)dharānni(rāṃ ni)rākulā(lāṃ) paripā-
+5. layannavikalavivekanirmmalīkṛtamatiḥ |{4} cacāhipi(vi)ṣapā(yā)ntaḥpātipaṭisāgrāmopagatānvrā(nbrā)hmaṇānanyāṃśca
+   mānyānadhi[kṛ*]tānkuṭuṃvi(bi)kāyasthadūta-
+6. vaidyamahattarānmedayaṃḍālaparyantānsarvvānsaṃvo(bo)dhayati samā[jñā]payati cāstu{5} vaḥ saṃviditaṃ yathoparilikhitoyaṃ
+   grāmaḥ sajalasthalaḥ sasthāvarajaṃga-
+7. maḥ svasīmāvacchinnaḥ sādhaūrddhvo bhūtabhaviṣyadvarttamānaniḥśeṣādāyasahitaḥ pratiṣiddhacāṭādipraveśaścāsmābhiḥ |4
+   śrā(śrī)jayapuradurgge saṃvata(t) 1283 caitra
+8. sudi 11 vu(bu)dhavāre nānāgotrebhyo nānā[pra*]pautrebhyo nānāpautrebhyo nānāputrebhyo nānāśarmmavrā(brā)hmaṇebhyaḥ
+   kuśalatāptāna(putena) ha[sto]dakena svasti-
+9. vācanapūrvvaṃ caṃdrāṃrkkasamakālaṃ putrapautrānvayānugāmi śāsana kutvā{6} pradattaḥ | madhye{7} | gautamagotra avasthi | mahi-
+   dharaputra śrotri{8} | mahāśama-
+10. ||ḥ{9} padadvayaṃ(yam) go(gau)tamagotra ti{10} | goviṃdaputra upā{11} [bhuṃ ?]bhānasya padamekaṃ(kam) | agastigotra pa{12} |
+    vyasaputra śrotri | manorathasya padatraya(yam) | vatsagotra śrotri
+11. bharataputrasya | devaputrasya padantrayaṃ(yam) | tathā bhātṛdelhūkasya{13} padadvayaṃ(yam) | kausi(śi)kagotra dīkṣitaputra{14}
+    pa | ālhaṇasya sārddha(rddhaṃ) padadvayaṃ(yam) | tathā pa(pa) | golheka-
+12. sya padārddhaṃ(rddham) | vatsagotra paṃ | vāta-{15}putra paṃ | lāhaḍabhrātṛva[tu] bhiḥ{16} saha padamekaṃ(kam) | go(ko)-
+    si(śi)kagotra paṃ | jaṇahaputra paṃ | gāgekasya padamekaṃ(kam) | tathā pa | mālādhara-
+13. syapadārddhaṃ(rddham) | vatsagotra paṃ | dekuputra paṃ | sāḍharisipatayoḥ{17} padamekaṃ(kam) | tathā jāsovātūkayoḥ{18}
+    padamekaṃ(kam) | sā(śāṃ)ḍilyagotra paṃ | māheputra paṃ | nānekasya
+14. padamekaṃ(kam) | rāhulagotra{19} paṃ | someputra paṃ | sumānakasya padadvayaṃ(yam) | gautamagotra ṭha | rāyādharaputra{20}
+    ṭha vāsudevasya pada[me]kaṃ(kam) | [vyā]sagotra ṭha{21} | nārāyaṇaputra
+15. ṭha | bherābhakaśya(sya){22} da(pa)damekaṃ(kam) | va[tsa].......{23} padameka(kam) | śādi(śāṃḍi)lyagotra paṃ | 
+    ....{24}kasya padārddha(rddham) | - - - - gotra [|]{25}
+16. vāmadevaputra pa(paṃ) | sūlhaṇasya padārddhaṃ(rddham) | vatsagotra paṃ | mādhavaputra paṃ | dharaṇīdharasya padamekaṃ(kam) |
+    kasya(śya)pagotra pa | gaṃgādharaprata(putra) pa | vīlhaṇasya padamekaṃ(kam) | kaśyapagotra vaṃ (paṃ) vīhī-{26}
+17. vataputra paṃ | pāmekasya padamekaṃ(kam) | pārāśaragotra paṃ | pī[tu]kasya padamekaṃ(kam) |
+    tathā jātukasya{27} padamekaṃ(kam) | garggagotra va(paṃ?) devo[di]tya putra{28} sāṭakasya
+18. padamekaṃ(kam) | vatsagotra ṭha | gajānana putra paṃ | [pu]ruso(ṣo)ttamasya padārddhaṃ(rddham) | kas(śya)pagotra
+    vaṃ(paṃ) | gāgūputra paṃ | devoditāsya{29} padamekaṃ(kam) | bharadvāja gotra dvi(?) dādeputra pa(paṃ) | pā-{30}
+19. lhaṇasya pava(da)meka(kam) | kasya(śya)pagotra ṭha | nā[rā]yaṇaputra{31} pa(paṃ) | mārkkaṃḍasya{32} padārddhaṃ(rddham) |
+    iti matvā bhavadbhirājñāśravaṇa[vidheyai]bhu(rbhū)tvā bhāgabhogādika(kaṃ) sarvvameṣāṃ
+20. samupanetavyaṃ(vyam) | tadenameṣāṃ dānaṃ sama(maṃ)diraṃ sanirggamapravesaṃ(śaṃ) sasarvvāśanekṣukarppāsa[śai]lagasa[ṇāmra]
+    [ma*]dhūkā[di]bhūruhaṃ{33} savanakhaninidhānaṃ salohādyā-
+21. karamaparairapi [sīmāntarggatairvvastubhiḥ]{34} sahitaṃ savā(bā)[hyā]bhyantarādā[yaṃ] bhu(bhuṃ)jānānāṃ va(na) kenāpi
+    vā(bā)dhā kāyā(ryā) | atra ca rājarāja[puruṣā]dibhiḥ sva.˛[svamā]-
+22. bhāvyaṃ parihātaṃ(harta)vyamidaṃ{35} cāsmaddānamanācchedyamanāhāryañceti bhāvibhirapi bhūmipālai |(ḥ) pālanīyaṃ(yam) ||
+    uktañca || śa(śaṃ)khaṃ bhadrāsanaṃ chatraṃ varā[śvā]varavā-
+23. || - - khāraṇāḥ{36} | bhūmidānasya puṣpāṇi phalaṃ svaggāḥ(rggaḥ) pura(raṃ)dara ||2|| ṣa[ṣṭi]rvarva(rṣa)sahasrāṇi
+    svargge vata(sa)ti bhūmidaḥ{37} | ācchettā cānumantā ca tānyeva ta(na)rake [vaset] ||3||
+24. svahastoyaṃ rājaśrā(śrī)[trailokya]varmmadevasya |
+    
+
+-------------------------------------------------------------------------------------------------------
+
+{1} From a photograph.
+{2} Expressed by a symbol.
+{3} The punctuation mark and the preceding visarga sign are intervened by the figures of the goddess.
+{4} The punctuation mark is redundant.
+{5} Read ca | astu.
+{6} Read śāsanaṃ kṛtvā.
+{7} These two syllables we also find in some other Chaṇḍēlla grants. For example, wee above, No. 126, 
+	line 17. In the business portion that follows, the words denoting names etc., are all without case end-
+	ings and are also intervened by unnecessary punctuation marks. They are reproduced here, without
+	any emendation.
+{8} That is, Śrōtriya.
+{9} Reading uncertain. Probably sya is intended, as in the other cases.
+{10} Probably to be emended to tri, for Triveda or Tripāṭhin.
+{11} That is, Upādhyāya. The reading of the first name that follows is doubtful.
+{12} Here, as also in some cases below, this syllable has no anusvāra sign above, and with the following 
+	 daṇḍa, it is likely to be taken as Pā, for Pāṭhaka. But in view of all the instances which are invari-
+	 ably followed by a punctuation mark, the syllable denoting the first letter of the surname is read as
+	 used for Paṇḍita in all these cases. -Also note Vyāsa as a name.
+{13} The curve of ha is not engraved.
+{14} Either the father's name is omitted here, or, the first letter di may denote Dīkṣita, and the rest two,
+	 which are indistinct, may have been intended ?????????????????????????????????? be made out.
+{15} This sullable is mutilated beyond recognition.
+{16} The reading of the bracketed akṣara is doubtful, and the construction is also grammatically faulty.
+	 Should we read bhrātṛbhiścaturbhiḥ saha ?
+{17} The Sanskrit form of the second name is probably Śrīpati, or Ṛṣiputra.
+{18} The reading of the mātrās in these two names is not certain. May also be read as Jāsēvō.
+{19} The first two letters are mutilated and the reading thereof is only from the traces left.
+{20} The reading of the first two letters is again doubtful here.
+{21} That is, Ṭhakkura.
+{22} The reading of the consonant of the first letter of the name is doubtful, as also of the stroke after
+	 ra, which may be taken either as a mātrā of ā, or a pṛṣṭha mātrā.
+{23} About eighteen akṣaras are lost here, and one point is used in the text to denote two lost akṣaras.
+{24} About ten akṣaras are again lost here.
+{25} Here the gōtra consisting of four letters cannot be made out.
+{26} A curve above the syllable shows that it may also be read as Vi, and the reading of the second is 
+     not certain.
+{27} The details of this donee, as of some others, are not mentioned.
+{28} The curve of the mātrā of the bracketed letter is omitted in engraving.
+{29} Read devodityasya, or more probably, devādityasya, as in the preceding line.
+{30} A redundant stroke here, as also at the beginning of the next line, is probably put to show that name
+	 is not completed here.
+{31} The bracketed syllable, which was omitted at first, is written above the line, in smaller form.
+{32} The repha of this akṣara is cut on the preceding syllable, and the anusvāra sign on the one that
+	 follows it.
+{33} The three akṣaras śailaga, which probably denote hilly product, are not found in any other known
+	 grant of the house.
+{34} All the letters in the bracketed are most crudely formed.
+{35} Read pariharttavyaṃ | idaṃ
+{36} The first two letters in this line are repeated inadvertently by the writer.
+{37} The curve of the mātrā of mi is omitted in engraving.
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

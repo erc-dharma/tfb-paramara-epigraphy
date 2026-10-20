@@ -1,0 +1,72 @@
+PennGlobal: PMR38
+Period: VS 1192 mārggavadi 3
+Location: Ujjain
+Dynasty: Paramāra
+King: Yaśovarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 5 verses
+Metres{2}: Verse 1 Anuṣṭhubh; v.2 Indravajrā; v.3 Vasantatilakā; v.4 Śālinī; v.5 Puṣpitāgrā
+Gist: Records the grant of the village to two persons whose names are lost.
+Published reference: Trivedi (1978), no. 38.
+
+
+Text{1}
+
+1. śrīmomaladevī sāṃvatsarike{3} kalpitatvād bhujyamāna devalapāṭakād bhūhaladvaya parivarttena{4} vrā(brā)hmaṇamāpyakīya bhūhala-
+2. dvaya samva(ba)ddhe ṭhīkarikā grāma vibhāga ubhayaṃ{5} jana dvābhyāṃ bhūnivarttana saptadaśakopeta bhūhalaikādaśaka saṃvadhe{6} samasta upa-
+3. rilikhita laghuvaigaṇapadra grāmas tathā ṭhikkarikāgrāmārddhaś ca svasīmā tṛṇayūti gocaraparyantaḥ savṛkṣamālākulaḥ
+4. sahiraṇyabhāgabhogaḥ soparikaraḥ sarvvādāyasametaś ca mātāpitror ātmanaśca puṇyayaśobhivṛddhaye śāsanenodaka-
+5. pūrvvakatayā pradattas tan matvā yathādīyamānabhāgabhogakarahiraṇyādikamā7jñāśravaṇavidheyairbhūtvā sarvvametābhyāṃ sa[mu]pa-
+6. netavyaṃ(vyam) | sāmānyaṃ caitatpuṇyaphalaṃ vudhvā(buddhvā)'smadvaṃśajairanyairapi bhāvibhoktṛbhirasmatpradattadharmmādāyoyamanumanta-
+7. vyaḥ pālanīyaśca | uktaṃ ca | va(ba)hubhirvvasudhā bhuktā rājabhiḥ sagarādibhiḥ | yasya yasya yadā bhūmistasya tasya tadā phalam ||1||
+8. yānīha danāni purā nareṃdrairddānāni dharmmārthayaśaskarāṇi | nirmmālyavāntipratimāni tāni ko nāma sādhuḥ puna-
+9. rādadīta ||2|| asmatkulakramamudāramudāharadbhiranyaiśca dānamidamabhyanumodanīyaṃ(yam) | lakṣmāstaḍidvalayavudvu(budbu)da[caṃ]ca-
+10. lāyā dānaṃ phalaṃ parayaśaḥ paripālanaṃ ca ||3|| sarvvānetānbhāvinaḥ pārthiveṃdrānbhūyo bhūyo yācate rāmabhadraḥ | sāmā-
+11. nyoyaṃ dharmmaseturnṛpāṇāṃ kāle kāle pālanīyo bhavadbhiḥ ||4|| iti kamaladalāṃvuviṃ(bubiṃ)dulolā[ṃ - ] śriyamanuciṃ[tya ma]
+12. nuṣyajīvitaṃ ca | sakalamidamudāhṛ{7}taṃ ca vu{8}dhvā(buddhvā) na hi puruṣaiḥ parakīrttayo vilopyā iti ||5|| samvat{9} 1192 mā[rgga]va-
+13. di 3 || dū०{10} purohitaṭhakkuraśrīvāmanasvāmiṭhakkuraśrīpuruṣottamarājaputraśrīdevadharaprabhṛtayaḥ |
+14. maṃgalaṃ mahāśrīḥ || ra{11}
+15. svahastoyaṃ mahārājaśrīmadyaśovarmmadevasya |
+16. adhi || śrīḥ ||{12}
+
+------------------------------------------------------
+
+{1} From a photograph.
+{2} The verses are numbered as in this plate.
+{3} Kielhorn read this akṣara as ka and remarked that it may possibly be read as ke. But I take it to be ke,
+	considering that the mātrā has left a trace above the top-stroke. On the word kalpita that follows, see
+	n. in No. 12, 1.10.
+{4} To be restored to parivarttanena.
+{5} The sign of anusvāra is faint but it is there.
+{6} Possibly to be read as saṃbaddhe. It is interesting to note that along with nivartana, the standard measure of
+	land, the extent of land is also shown here by the use of the measure of hala, one hala signifying as much 
+	land as could be ploughed by a single pair of bullocks.
+{7} The mātrā is faintly visible.
+{8} The va appears as na.
+{9} Possibly the sign of anusvāra is also engraved on the letter sa.
+{10} This is a contraction of dūtaka.
+{11} Kielhorn remarks: "This akṣara, which is engraved on a level with the preceding words but is of much
+	 larger size, I am unable to explain properly. I can only suggest that it may stand for racitaṃ(which
+	 we find in the grants of Arjunavarman), and that it should have been followed by the name of the 
+	 official who executed the grant." To me, however, it appears to be an ornamentation, as already stated
+	 above.
+{12} I think that the woed adhiśrīḥ is broken into two and is so written for the sake of symmetry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

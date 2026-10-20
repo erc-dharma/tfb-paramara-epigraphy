@@ -1,0 +1,50 @@
+PennGlobal: PMR64
+Period: VS 1202 māgha śudi 14
+Location: Ajhārī
+Dynasty: Paramāra
+King: Yaśodhavala
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Inscription refers to the Maāmandalēśvara Yaśodhavala and 
+	  records his chief queen Saubhāgyadevī made a grant of yava grain 
+	  from her own Jāgīr at Ajahārī.
+Published reference: Trivedi (1978), no. 64.
+
+
+
+Text{1}
+
+1. oṃ{2} svasti| saṃvat 12[0]2 varṣe māghasu(śu)di [1]4 | so-
+2. me ... maṃḍale{3} mahāmaṃḍalesva(śva)ra śrīya-
+3. so(śo)dhavaladevarājye caulūkya vaṃso(śo)dbhava-
+4. paṭa(ṭṭa)rājñī śrīsaubhāgyadevyā ājāharīsugrā-
+5. me ..... syārthe .....{4}
+6. yā bha[ya]va[dro ?]ṇa{5} .. prada[ttā(ttaḥ)] | ya[ḥ] kopi [ha*]ri-
+7. ṣyati sa saptapuruṣasahito kuṃbhīpāti[ka?]na-
+8. rke(rake) yāsyati{6} | [loka]...[rājyasahasre]
+9. ...tasya..[tiṣṭhati]{7} ...tāni kalikāla..saha
+10. .........vrā(brā)hmaṇa....
+11. ------------catvāri saripati[mahā]..
+12. talāra sahitena sūtradhāra cāḍadevena{8}
+13. -----dī. sahi[tā] surabhī(bhiḥ) pratiṣṭhitā{9}
+14. iti || śrī[ḥ] ||{10}
+
+-------------------------------------------------------
+
+{1} From impressions.
+{2} Expressed by a symbol, which is damaged.
+{3} Originally vē, later on corrected to lē, without scrapping off the original. The traces indicate that the
+	name of the maṇḍala was Arvv(bb)uda.
+{4} In the first of the gaps in this line the object may have been shown, and in the second, the name of
+	the donee.
+{5} The reading is from the traces left.
+{6} The upper curve of the medial i is not engraved and what follows is a daṇḍa.
+{7} In this and the preceding line the reading is mostly from the traces left.
+{8} The reading of the second akṣara of the name is not certain.
+{9} This refers to the local custom of marking boundary by stone images of cow. Cf. No. 68, 11. 12-13,
+	below.
+{10} These letters are in a separate line and not in continuation, as read by Halder. It begins at about the
+	 middle of the other lines.
+
+

@@ -1,0 +1,47 @@
+PennGlobal: PMR200
+Period: Undated
+Location: Sāwargāon
+King: Jagaddēva
+Language: Sanskrit
+Script: Nagari
+Text: Metrical
+Metres: Śragdharā.  
+Gist: Refers to an illustrious hero of the name of Jagaddēva who is described as vanquishing  thousans of (enemical)  warriors, 
+	all alone, when those who sided with him fled. The inscription describes the fight. 
+	Enemy likely to have been none other than the Hoysala Ballāla.
+Published reference: Trivedi (1989), no. 200.
+
+
+
+Text{1}
+
+
+1. svasthi{2} | satrāse kālidāse{3} drava-
+2. ti vigalati kvāpi karṇṇāṭada[ṇṭe]{4}
+3. pāṇḍaye kudhasya{5} raṃgkraṃ paṭati bhaṭi-
+4. ti ca bhramyati svepi sainye [|]{6} bhānau{7}
+5. pūrvvādrisānau bhramati bhujava(ba)laḥ{8} śrī-
+6. jagaddevadevo lakṣyaṃ{9} vīraḥ pravīra [ḥ]
+7. [a]jayadiha{10} dṛḍhaḥ kālameghādhirū-
+8. [ḍhaḥ]ḥ{11} || aśva[tthā]makaveḥ{12} ślokaḥ |
+
+-------------------------------------------------
+
+{1} From photograph facing page 144 of Vidarbha Research Society's Annual (Marathi), for 1973.
+{2} This word is proceded by some indistinct incisions appearing as of the Siddham symbol.
+{3} The poet is very fond of using alliterations as he has done here and also below, for example, in
+	dravati and vigalati, kudhra and randhra, bhānau and sānau, etc.
+{4} The bracketed akṣara is not well formed, but the reading is certain. The word daṇḍa means an
+	army here.
+{5} The word which is used here for alliteration means a mountain.
+{6} The daṇḍa has disappeared, leaving only traces.
+{7} As said above, here the word denotes Vikramāditya VI of the Western Chalūkya dynasty.
+{8} The word bala is used in double meaning: army and strength. SInce Jagaddeva's army had scattered,
+	he won the battle on his own strength.
+{9} Prof. Kolte emends the second letter to kṣya, meaning the aim. But it is unnecessary. Here it 
+	means hundred thousands, that is, innumerable, which is also consistent with ajayat.
+{10} The first akṣara in this line is partly broken, and the sandhi is not observed for the sake of metre.
+{11} This akṣara too is partly broken. Kālamegha, literally meaning 'cloud of the deluge', appears as the 
+	 name of Jaggadeva's horse.
+{12} Kolte read the third letter of the name as ccha and corrected it to stha. But also see the same
+	 letter in the name of the poet, above, on Plate XXXII, line 28.  

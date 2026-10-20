@@ -1,0 +1,42 @@
+PennGlobal: PMR95
+Period: VS 1239 āśvina vadi 10
+Location: Bhinmāl
+Dynasty: Paramāra
+King: Jayatsiṃhadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records that during the reign of the Mahārāja putra Jayatsiṃha at Śrīmāla, one Aravasāka,
+ 	  a son  of Paramahidā, presented one dramma, in cash, to Vālākadēva and 
+ 	  another dramma was offered to the same deity by his wife.
+Published reference: Trivedi (1978), no. 95.
+
+Text{1}
+
+1. siddham{2} | saṃ. 1239 [ā]śvina vadi 10 [vu(bu)]dhe
+2. adyeha śrī - śrīmāle mahārāja-
+3. [putra]śrījayatasīhadevarājye ||{3}
+4. guhilo [parama]hidā{4}-suta-tra.{5} arava-
+5. sākavahiyaṇa [vālāka]{4} devāya
+6. drava(?) dra.{6} 1 tathā[sya] bhāryā mālhaṇade-
+7. [vī]kṛta dra. 1 [|*] ye ko'pi ya(ca) [ati]bhava-
+8. ti teṣāṃ prati draṃ. vi 1 labhyā(bhyaḥ |) yaḥ ko-
+9. pi [ccha]{7}trapālo bhavati tena varṣā[nu]-
+10. varṣaṃ dine dātavyaṃ(vyam) ||
+
+------------------------------------------------------
+
+{1} From impressions.
+{2} Denoted by a symbol. Of the figures that follow, those of thousand and hundred are damaged and the 
+	first of these is engraved as joined to the point after saṃ. What appears between them is only a scratch 
+	on the stone. 
+{3} The daṇḍas are redundant. In his List referred to above, Kielhorn read the first two letters in this line 
+	as given here and remarked that the original text has perhaps -kula. But the impression before me
+	shows the traces of putra as taken here. 
+{4} The bracketed letters are lost and have been restored from Jackson's reading. 
+{5} The impressions show a curve above this letter, suggesting that it may have been tri, an abbreviation of 
+	trivedin. 
+{6} This is an abbreviation of dramma.
+{7} This letter appears to be ch, and in view of the following letters we have to read it as cch(च्छ).
+    
+	

@@ -1,0 +1,33 @@
+PennGlobal: PMR77
+Period: VS 1277 māgha śudi 9
+Location: Dhāntā
+Dynasty: Paramāra
+King: Somasiṃha
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records the installation of an image, 
+	  on the pedestal of which it is engraved during the reign of Somasiṃha
+Published reference: Trivedi (1978), no. 77.
+
+
+Text{1}
+
+1. siddham{2} | (saṃ)vatu(t) 1277 va[rṣe] māha{3} su(śu)di 9 so[me] śrīcaṃdrāvatyāṃ ||{4}
+2. śrīsā[e] masi(siṃ)havijayarājye dhā[ṇa]tāgrāme śrīsīgāradevi-
+3. ..{5}kāle pravarta[māne] de[vyāḥ mūrttiḥ]{6} kārāpitā{7} pra..{8}
+4. .......................... ||
+
+----------------------------------------------
+
+{1} From the facsimile facing page 211 in Ep. Ind., Vol. XXXVII.
+{2} Expressed by a symbol which is partly visible.
+{3} Read māgha.
+{4} The daṇḍas are superflous.
+{5} These two akṣaras cannot be made out. The first of them appears to be bh (?). THe first letter of
+	the name is perhaps sīṃ on the original.
+{6} The reading of the bracketed letters is conjectural, from the traces left.
+{7} Incorrect for kāritā, as we find also in many other inscriptions of the time. 
+{8} The intended reading is perhaps pratiṣṭhā for pratiṣṭhāpitā. All the letters in the line that follows are
+	partially visible. 
+

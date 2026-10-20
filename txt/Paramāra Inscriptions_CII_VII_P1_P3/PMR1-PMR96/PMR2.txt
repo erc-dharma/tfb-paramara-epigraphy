@@ -1,0 +1,82 @@
+﻿PennGlobal: PMR2
+Period: VS 1005 māgha vadi 30
+Location: Harsōla
+Dynasty: Paramāra
+King: Sīyaka
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 7 verses
+Meters: Verse 1 Śārdūlavikrīḍita; vv.2, 7 Indravajrā vv. 3, 4, 6 Anushṭubh (Ślōka); v. 5 Vasantatilakā.
+Gist: Grant issued on the bank of Māhī by Sīyaka; gift of a village Sīhakā in the Mōhaḍavāsaka viṣaya to Nīnā Dikṣita, son of Lallopādhyāya.
+Published reference: Trivedi (1978), no. 1-2. 
+
+
+
+TEXT{1} (Grant B)
+
+First Plate
+
+1. siddham{2} | vidyukca(cca)krakaḍārakesarasaṭābhiṃnāṃvu(bhinnāṃbu)daśreṇayaḥ śoṇaṃ netrahutāśaḍaṃva(ba)rabhṛtaḥ siṃghā(hā)-
+2. kṛteḥ śārṅgiṇaḥ | visphūrjjadgalagarjjitarjjita{3}kakunmātaṃgadarpodayāḥ saṃraṃbhā: su-
+3. khayaṃtu vaḥ kharanakhakṣuna(kṣuṇṇa)dviṣadvakṣasaḥ ||1|| paramabhaṭṭārakamahārājādhirājaparameśvaraśrī-
+4. madamoghavarṣadevapādānudhyātaparamabhaṭṭārakamahārājādhirājaparameśvara{4}śrīmadakā-
+5. lavarṣadevapṛthvīvallabhaśrīvallabhanare(ren)drapādānāṃ(nām) | tasminkule kalmaṣamoṣadakṣe jātaḥ
+6. pratāpāgnihutāripakṣaḥ | va(ba)ppaiparājeti nṛpaḥ prasiddhastasmātsutobhūdanu vairisiṃghaḥ(haḥ) ||2|| dṛ-
+7. ptārivanitāvaktracaṃdraviṃva(biṃba)kalaṃkatā | no dhautā yasya kīrtyāpi harahāsāvadātayā ||3|| durvvārari-
+8. pubhūpālaraṇara(raṃ)gaikanāyakaḥ | nṛpaḥ śrīsīyakastasmātkula kalpadrumobhavat ||4|| sa evaṃvi-
+9. dhaḥ praṇatasakalasāmaṃtaśiromaṇimarīciraṃjitacaraṇa{5}yugalaḥ śrīkheṭakamaṃḍalā{3}-
+10. dhipatipratipattiprativa(ba)ddha[vukti ?]{5} sa(sva ?])tūryāravasaṃtra{3}stānekaripusamūhaḥ anekaśaṃkhadhva-
+11. niva(ba)dhiritapaṃcavarṇṇapatākārājīvirājitavisā(śā)lavakṣa[ḥ*]sthalāvalamvi(mbi)takumudavāṃ(bāṃ)dha-
+12. vaḥ atuladānasaṃpādanaikakalpadrumaḥ mahāmaṃḍalikacūḍāmaṇimahārājādhi-
+13. rājapatiśrīsīyakaḥ svabhujyamānamohaḍavāsakaviṣayasaṃva(ba)ddhasīhakāgrā-
+
+Second Plate
+
+14. maḥ{6} | samastarājapuruṣānprativāsijanapadāṃśca vo(bo)dhayatyastu vaḥ{7} yathā yogarā -
+15. jasyopari yātrāsamayasaṃsiddhakā{8}ryānantaravyāghuṭitairmahīnadītaṭanivāsibhi-
+16. rasmābhiścaṃdrā[r*]kayogaparvvaṇi śivanāthaṃ samabhyarcyāvadhārya | vātābhravibhramamidaṃ vasu-
+17. dhādhipatyamāpātamāttramadhuro viṣayopabhogaḥ | prāṇāstri(stṛ)ṇāgrajalaviṃ(biṃ)dusamā narāṇāṃ dharmā(rmma)-
+18. ssakhā paramaho paralokayānai(ne) ||5|| iti jagadanityaṃ {9}sakalamavadhāryoparilikhito
+19. grāmaḥ svasīmātṝṇagocaraparyanta[ḥ*] sopari(ri)karaḥ sarvvādāyasamo(mu)pā(pe)taḥ{10} śrīmadānaṃda -
+20. purīyanāgarāya vyārṣeyāya gopālisago[trā]ya lallopādhyāyasutanīnādīkṣitāya
+21. mātāpitrorātmanaśca puṇyayaso(śo)bhivṛddhaye adṛṣṭaphalamaṃgīkṛtya caṃdrārkkārṇṇa-
+22. vakṣitisamakālaṃ parayā bhaktyā śāsanena udakapūrvvakaṃ{11} pratipādita iti || tani(nni)vā-
+23. sijanapadairyathādīyamānabhāgabhogakara{12} hiraṇyādisarvvamājñāśravaṇavidhi(dhe)yebhū(yairbhū) -
+24. tvā tatputrapautrādibhyaḥ samupanetavyaṃ(vyam) | iti budhvā(buddhvā) {13}asmadvaṃsa(śa)jairanyairapi bhāvibhokta(ktṛ)bhiḥ matpra-
+25. dattadharmadāyoyaṃ(yam) anumaṃtavyaḥ pālanīyaśca | uktaṃ ca | va(ba)hubhirvvasudhā bhuktā rājabhiḥ sagarā-
+26. dibhiḥ | yasya yasya yadā bhūmistasya tasya tadā phalaṃ(lam) ||6|| yānīha dattāni purā nareṃdrairddānāni dharmā{14}rtha-
+27. yaśaskarāṇi | nimmā(rmmā)lyava(vā)ntapratimāni tāni ko nāma[sādhuḥ]punarādadīta ||7|| sa(saṃ) 1005 māgha va(ba) 3[0]
+28. [vu(bu)dhe] dāpakotra ṭhaku(kku)raḥ śrīviṣṇuḥ | rājājñayā likhitaṃ kāyasthaguṇadhareṇa | svahastoyaṃ
+29. śrīsīyakasya |{15} (In the right margin).
+
+-----------------------------------------------
+
+
+{1} From Plate B, facing p.243 in Ep. Ind., Vol. XIX.
+{2} Expressed by a symbol
+{3} There is a redundant anusvāra above this letter.
+{4} In the process of engraving, as also in some other cases below, the tail of this letter is separated from the 
+	loop.
+{5} See n. on this word in Grant A.
+{6} This phrase is grammatically unconnected with the preceding or following word.
+{7} Supply saṃviditaṃ after vaḥ
+{8} Above this letter, a superscript r appears to have been carved and subsequently erased when found
+	redundant.
+{9} This akṣara is engraved as ma.
+{10} Dikshit and Diskalkar read samo(mu)petaḥ.
+{11} What appears as anusvāra above pū is probably a redundant chisel stroke.
+{12} Originally, bhau appears to have been engraved and later on corrected.
+{13} The sandhi is not observed here, as also in some cases below. 
+{14} Diksit and Dislakar read here rmma, but the plate does not show the consonant of this akṣara to be doubled.
+{15} The daṇḍa is followed by some traces which may have been of a symbol, as in Grant A.
+
+
+
+
+
+
+
+
+
+
+

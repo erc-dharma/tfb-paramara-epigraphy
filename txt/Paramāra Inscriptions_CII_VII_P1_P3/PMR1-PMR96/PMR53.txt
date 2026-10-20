@@ -1,0 +1,61 @@
+PennGlobal: PMR53
+Period: VS 1289 mārgga vadi 3
+Location: Udaipur
+Dynasty: Paramāra
+King: Devapāla
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Land grant  
+Published reference: Trivedi (1978), no. 53.
+
+Text{1}
+
+1. siddham{2} || saṃvatu(t) 128[9] varṣe
+2. mārga vadi 3{3} gurau a[dye]-
+3. ha{4} udayapure samasta rājā-
+4. valīmālā[laṃkṛ]ta paramabha-
+5. ṭā(ṭṭā)ra[ka] mahārājā[dhi]rā-
+6. ja śrīdevapāladevarājye{5} -
+7. [pārī ?]u[ma]rata{6} [pra]dā(da){7}ttaḥ |..
+8. [laḥ ?]......bhṛṃgārīca[tuḥ]{8} -
+9. ṣaṣṭimadheḥ(dhye)   -[re ?]hīgrāme{9} [iha ?]
+10. ....-vityāṃ 4 -devasarma{10}-
+11. purayāṃ(puryāṃ) grā[me]tra{11}....
+12. ..paṃcamuṣa(kha)pattane vramha(brāhma)ṇānāṃ se-
+13. ....ṇāṃ pramāṇami[ti] |
+14. -------{12}
+15. .......
+
+----------------------------------------------------
+{1} From the inked impression.
+{2} Expressed by symbol.
+{3} After this numeral there are some faint traces leading us to doubt whether the tithi was intended to be 30,
+	but on that tithi there was a Tuesday and not Thursday, as mentioned in the inscription.
+{4} The impression shows this akṣara preceded by another which appears to belong to another inscription,
+	incised on its left. In the next line also we have the same case.
+{5} The last akṣara in this line is indistinct and so are the last two akṣaras of the next line, which are all
+	represented here by equal number of dots.
+{6} The letter in the brackets looks like pa, but I take it as ma as shown by the name of the village. The
+	vowel u is followed by a horizontal stroke as also the same akṣara in 1.3, above. Read-taḥ.
+{7} It is not known if the mātrā of this akṣara is scored off in the original.
+{8} Part of this akṣara along with the sign of visarga, if cut all, has disappeared. From traces left, the
+	lost letters in this line may have been mahādvādaśakamaṃḍale. Also seee Ind. Ant., Vol.XVIII,p.344.
+{9} In my examination of the original, I read the first letter of the name as ṣa for kha, and thus the whole
+	name is kharehī, as also in the preceding inscription. The reading madhye is also uncertain, and more likely
+	pathake appears to have been engraved here.
+{10} Possibly what is intended is devadharmapuryāṃ. The third akṣara of this name is distorted.
+{11} The backeted akṣara has an unnecessary vertical stroke on either side.
+{12} This and the following line, which are the last two lines of the record, are indistinct.
+
+
+
+
+
+
+
+
+
+
+
+

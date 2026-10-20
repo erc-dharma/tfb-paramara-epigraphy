@@ -1,0 +1,90 @@
+PennGlobal: PMR31
+Period: VS 1152 bhādrapada śudi 11
+Location: Dēwās
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 4 verses
+Metres: Verse 1-2 and 4 Anuṣṭubh; v.3 Vasantatilakā
+Gist: Land donation to brāhmaṇas by the king Naravarman
+Published reference: Trivedi (1978), no. 31.
+
+
+Text{1}
+
+1 om{2} svasti | jayobhyudayaśca || jayati vyomakeśo{3}sau yaḥ sarggāya vi(bi)bhārtti tāṃ(tām) | aiṃdavīṃ śirasā lekhāṃ jaga-
+2 d vī(d bī)jāṃkurākṛtim ||1|| tanvantu vaḥ smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ | kalpānta samayoddāma taḍid valaya piṅga-
+3 lāḥ ||[2*] parama bhaṭṭāraka mahārājādhirāja parameśvara śrī siṃdhurāja deva pādānudhyāta parama bhaṭṭāraka ma-
+4 hārājādhirāja parameśvara śrī bhojadeva pādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara-
+5 śrī{4}udayādityadeva pādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrīnaravarmmadevaḥ ku-
+6 śalī || iṅgaṇīpadra sārddhasaptaśata bhoge bhagava{5}tpura prati jāgaraṇake śrī dharmmādhikaraṇe(ṇa) paṃḍita prabhāka—
+7 ra bhujyamāna bhū hala paṃcaka varjjaṃ mālāpurake grāme samupagatān samasta rājapu-
+8 ruṣān vrā(n brā)hmaṇottarān pratinivāsi paṭṭakila janapadādīṃś ca vo(bo)dhayatyastu vaḥ saṃviditaṃ(tam) || yathā cāmaṭikā{6} -
+9 grāmāvasthitair asmābhiḥ dvipaṃcāśadadhikaśataikādaśa saṃvatsare bhādrapaṃ(pa)da su(śu)di ekādasyāṃ(śyāṃ) mahārāja-
+10 śrī udayādityadeva sāmva(sāṃva)tsarike revānadī kuvilārā nadyoḥ{7} saṃgame snātvā carācaraguruṃ bhagava[ṃ]taṃ
+11 bhavānīpatiṃ śrīnīlakaṃṭhadevaṃ samabhyarccya saṃsārasyāsāratāṃ dṛṣṭvā tathā hi {8}vātābhra vibhramamidaṃ vasu-
+12 dhādhipatyam āpātamātra madhuro viṣayopabhogaḥ |{9} prāṇās tṛṇāgra jala viṃdu(bindu) samā narāṇāṃ dharmmaḥ sakhā
+13 paramaho paraloka yāne ||[3*] bhramat saṃsāra cakrāgra dhārā dhārāmimāṃ śriyaṃ(yam) [|*] prāpya ye na dadusteṣāṃ paścāttāpaḥ pa-
+14 raṃ phalam || [4* ] iti jagato vinasca(śva)raṃ {10}sca(sva)rūpamākalayyādṛ[ṣṭa]{11} phalamaṅgīkṛtya caṃdrārkkārṇṇava kṣiti sama kālaṃ yā-
+15 vat parayā bhaktyā dakṣiṇā pathāntaḥ pāti adriyalavidāsthāna vinirggata bhāradvāja [go]tra bhāradvāja āṃgirasa-
+16 vā(bā)rha[spatye]ti tri pravara āśvalāyana śākhādhyāyi vrā(brā)hmaṇa dhanapāla pautra {12}ma[hi]rasvāmi suta viśvarūpāya
+17 upari likhita mālāpuraka grāmāt ṣaṇṇavati parvva daṇḍa prāmāṇyenobhaya dvicatvāriṃśan māpyakena
+18 [bhū]nivarttana viṃśati prathā māpita bhū hala dvayan tathā asminneva samva(saṃva)tsare nityakalpita lekhye ...................... 
+
+--------------------------------------------------------------------
+{1} From the original plate
+{2} Expressed by a symbol
+{3} The palatal sibilant, wherever it occurs in this inscription, has its loop so curved as to appear as the mid-
+	stroke of the dental, and the disstinction between the two letters can be noted only in a close study.
+{4} Sandhi has not been performed here and also in 1.10 below, where the expression again occurs.
+{5} Here and in some other cases below, which have not been pointed out separately, the letter v(व्) is engraved 
+	as c(च्).
+{6} The first letter of this name is somewhat like v(व्) or bh(भ्) or t(त्); but I take it as ca(च). The reading is
+	doubtful. Near the confluence of the two rivers there was a village of the name of Camaradaha, sug-
+	gesting its identification with Cāmaṭikā.
+{7} Better read revākuvilārānadyoḥ.
+{8} This verse and the following one are put by way of a paranthesis and the sentence is continued with 
+	iti jagataḥ in 1.14.
+{9} As the vacant space shows, this daṇḍa was originally engraved but has disappeared in the process of
+	cutting the plate. The tra in mātra was originally engraved with three horizontal strokes and later on
+	one of them was rubbed off.
+{10} As stated above in n.6 this and the preceding v(व्) look like c(च्).
+{11} The slanting bar of the member of the conjunct consonant is not engraved and thus it looks like p(प्).
+{12} Sandhi is not performed in all the instances in this and the preceding lines, though compulsory; and the
+	 top stroke showing the mātrā of pau is so engraved as to appear as the sign of the long medial ī.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

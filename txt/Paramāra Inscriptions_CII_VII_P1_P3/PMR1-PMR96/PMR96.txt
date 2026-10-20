@@ -1,0 +1,46 @@
+PennGlobal: PMR96
+Period: VS 1174 āṣāḍha śudi 5
+Location: Jālōr
+Dynasty: Paramāra
+King: Vāsala
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 5 verses.
+Metres: Verse 1 and 3 Āryā; v.2 Śārdūlavikrīḍita; vv. 4-5 Anuṣṭubh
+Gist: Records that Mēlaradēvi, queen of King Vīsala  of the Paramāra family, 
+	  furnished the temple of Sindhurājēśvara with a golden cupola.
+Published reference: Trivedi (1978), no. 96.
+
+Text{1}
+
+1. oṃ{2} | jetuṃ visvā(śvā)mitraṃ vaśiṣṭhamuninātikopa pūrṇṇena |
+2. paramāraṇāya janita[ḥ] kuṃḍe tenaiva paramāra[ḥ] ||1||
+3. āsīd vākpatirāja nāma nṛpatiḥ śrīpāramārā[nvaye]{3}
+4. tatputrojani caṃdanā(no)vanipatiḥ{4} tannandano deva[rāṭ] |
+5. tatputrastvaparājita[ḥ] samabhavat prauḍha pratāpa[ḥ  sudhīḥ]{5}
+6. putrobhūd aparājitasya vijayī śrīvijjalo bhūpatiḥ{6} ||2||
+7. senānīr iva{7} śaṃbhoḥ pradyumna ivātha vā hare[r nnūnaṃ(nam)?] |
+8. dakṣo vāmvu(mbu)jasūte{8}r dhārāvarṣo narādhipatiḥ ||3||
+9. dhārāvarṣasya putroyaṃ jāto vīsalabhūpatiḥ |
+10. yena bhūmaṃḍalīkānāṃ dharmmamārggotra darśitaḥ ||4||
+11. rājñī melaradevyā tu patnī{9} vīsalabhūpateḥ |
+12. sauvarṇṇaṃ kalasaṃ mūrddhani siṃdhurājesva(śva)re kṛ{10}taṃ(tam) ||5||
+13. [saṃ]vat 1174 āṣāḍha su(śu)di 5 bhaume ||{11}
+
+--------------------------------------------------
+
+{1} From ink-impressions.
+{2} Expressed by a symbol.
+{3} pa is changed to pā for the sake of the metre.
+{4} The sandhi is not made here, as required by the rules.
+{5} Reu: svayaṃ(yam).
+{6} The visarga shows three dots here.
+{7} After the third letter in this line there is a vacant space for two letters. The figures of speech in this 
+	verse leave no doubts to conclude that Dhārāvarṣa was the son of Vijjala.
+{8} Dakṣa was born of one who had himself his birth in a lotus, i.e., Brahmā.
+{9} Probably some other letter was originally formed here. The words rājñī and patnī are to be changed 
+	to the third case, to be connected with kṛtaṃ in the next line.
+{10} The formation of the letter is rather peculiar.
+{11} Some traces below show that at least one more line was there, originally, probably giving the name of 
+	 the poet and the engraver. 
+

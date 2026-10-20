@@ -1,0 +1,225 @@
+PennGlobal: PMR62
+Period: VS 1099 
+Location: Vasantagaḍh, Rajasthan
+Dynasty: Paramāra
+King: Pūrṇapāla
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 35 verses.
+Metres: Verses 1, 22, 31 and 33 Anuṣṭhubh; vv. 2, 10 and 23 Śārdūlavikrīḍita; vv. 4, 7, 12, 18-21, 26-27, 28
+	    (irregular), 29-30 and 34 Indravajrā; v.15 Upendravajrā; vv.13-14 Upajāti; vv. 3, 5-6, 8 and 11 Indravajrā,
+	    Upendravajrā or Upajāti{2}; v.9 Drutavilambita; v.17 Āryā(irregular); v.24 Vaṃśastha; vv.25 and 32
+	    Sragdharā; v.35 Mālinī.
+	    Gist: Records that renovated the temple of the Sun God.
+Published reference: Trivedi (1978), no. 62.
+
+Text{1}
+
+1. ............{3} maheśvara[ṃ(m)] || prācetasaṃ tathā vāṇīṃ praśastiḥ sukṛtā mayā ||1 jyotirjyoti{4}vidāṃ sa vaḥ
+  svadhiyāṃ dhiṣṇyaṃ paraṃ varccasāṃ bhaktānāṃ dhanadaḥ smṛtaḥ kaluṣahā sa-
+2. -U--U- || ---U[ma]saṃvṛtaṃ matimatāṃ dātā ca satkarmmaṇāṃ(ṇām) || pāyādvo vasu siddha kinnara nutas trailokya dīpo
+  hariḥ ||2 vasiṣṭha kopā jjanitaḥ kumāraḥ pramāratāvāya ya-{5}
+3. -U-ˍU || ˍU-U--UU tosya bhūmyāṃ mahābalā yattra nṛpā babhūvuḥ ||3] asyanvaye {6}hyutpalarājanāmā āraṇyarājopi
+  tato babhūva || tasmādva(dba)bhūvādbhuta kṛṣṇarājo vikhyātakīrttiḥ kila vāsu-{7}
+4. -- ||4 ˍU-U--UU-U-ˍU; śrīmānyathorvvī[ṃ] dhṛtavānvarāhaḥ{8} || puttropi tasmān mahipālanāmā tasmādabhūddhadhuka{9}
+  eva bhūpaḥ ||5 asyāpi kīrttiḥ surarājaloke pragīyate vai surakiṃnarībhiḥ || vīṇāniviṣṭa{10} karajāṃgulī-
+5. ˍU, ˍU-U--U[ralaṃ]kṛtābhiḥ ||6 yenāhṛtā sau(śau)ryabalena lakṣmī[r] vikhyāpya nāmaṃ{11} parasainyamadhye || asyāpi
+  bhāryāmṛtadevināmnī{12} rūpeṇa sī(śī)lena śubhena yuktā ||7 utpaṃnamasyāsuvi{13} pūrṇṇapālaḥ pūrṇṇāmimāṃ pālaya-
+6. -U-- || ˍU-U- [ropi] vijitya śattrūṃ{14} śaśāsa bhūmaṃḍalamarbbudasya ||8 kanaka karṇṇika bhūṣita gaṃḍayā [sva]{15} kucadeśa niveśita-
+  vīṇayā || vibudha rāja kulemara kanyayā sadasi yasya yaśaḥ parigīyate ||9 hatvā yena{16} raṇe ripūnsubahuśaḥ,
+7. --U--U[ko] || vikrāṃtā mada[śā]lino varagajā naddhāḥ svake maṃdire || pūrṇṇāpāla{17}kulapradīpanṛpatau sau(śau)ryavrate
+  dhārmmike || atra śrī paramāra vaṃśa tilake rājyaṃ sthiraṃ śāsati ||10 asyānujā lāhiṇi nāma-{18}
+8. --,ˍU-[ya]thā tāmarasairvvihīnā || ūḍhāpi yā vigrahabhūbhujena{19} satyā yathā pūrvvamadhokṣajena ||11
+  asyānvayopi ||{20} || āsīdvi(ddvi)jātirvvidito dharaṇyāṃ khyātapratāpo ripucakramarddī || yotaḥ{21} svasau(śau)
+  ryārjjita bhūpa śabdaḥ kṣoṇīśvaraḥ 
+9. -U (nṛ)papradhānaḥ ||12 tadanvaye khyātamatir nṛpobhūt kula pradīpo bhavagupta nāmā || uddhṛtya veśmaṃ{22} vaṭavāsibhānorvvaṭeṣu
+  rājyaṃ kṛtavānsa vīraḥ ||13 asyānvaye saṃgamarājanāmā vaṃśaraṭhe{23} yo badarīṃ śaśāsa || [ta]smādabhūddurllabharāja-
+  bhūpaścacopi{24} tasmā-
+10. dvararājaputraḥ ||14 babhūva tasmād guṇināṃ pradhāno nṛpottamo vigraharāja nāmā || pradānasau(śau)ryādiguṇairudārairyaso(śo)
+   yayau yasya vijitya lokān{25} ||15 dviji[hva]ripuvāhano lalanakāntarāmānvitaḥ || kuloccaya kṛtonnatir vvidhṛta cāru lakṣmī-
+11. vapuḥ || svapauruṣa dhṛtāvanir bala niviṣṭa cakro mahān || babhūva nṛvarottamaḥ sa nararūpadhṛṅmādhavaḥ ||16 protphullasita kamala mukhīṃ
+   karatala sukumāra paṃkaja nibhā[ṅgīṃ] || śriyamiva kulajāṃ rājñīṃ lāhiṇimūḍha-
+12. vāṃsaḥ(vān saḥ){26} ||17 bhāryāṃ sa cāvāpya guṇaiḥ sametāṃ cittepsitāmvai(tāṃ vai)bubhuje ca bhogaṃ(gam) || sāpi
+   priyaṃ prāpya patintu reme yadvacchacīndreṇa samaṃ vareṇa ||18 asminmṛte bharttari daivayogād bhrāturgṛhaṃ sāpi gatā
+   viyuktā || āvāsitā vai nagare vaṭesmindaivātpra-
+13. hīṇe bahuśaḥ krameṇa ||19 nagarānvayopi{27} || taptaṃ tapaṃ(po) vāruṇināpi yattra nyagro(dhasaktā)śramamāpavasya{28} | sthānerkkabharggau
+   svamate(o){29} vasiṣṭho muktipradau sthāpitavānvariṣṭhaḥ ||20 tadvadvaṭākhyaṃ nagaraṃ vanesmin tvaṣṭuḥ prasādātkṛtavāṃ-{30}
+14. nvasiṣṭhaḥ || prakāravapropavanaistaḍāgaiḥ prāsādaveśmaiḥ{31} sughanaṃ sutuṃgaiḥ ||21 śrutimantrodamakṣobhyaṃ ṣaḍaṃgāvarttasaṃkulaṃ(lam) || vedārṇṇavaṃ
+   dvijāḥ samyagyattra tīrtvāpyagarvvitā[ḥ] ||22 lokairddharmmaparaiḥ sva(ka)karmmanirataiḥ sadbhiḥ sadā vāsitam ||
+15. vṛtya(ttya)rthaṃ ca samāgataiḥ{32} pratidiśaṃ nityaṃ vaṇigbhirvṭam || [pau]rālaiḥ paṇikā{33}jnairvvysanikaiḥ saṃkulam ||{34}
+   iṃdrasthānabhivāparaṃ vaṭapuraṃ kṣoṇītale saṃsthitam ||23 svarudgatā yattra saritsarasvatī svapānapaṃktīva{35} nṛṇāṃ 
+16. nimajjatām || supuṇya puṣpodaka phena vāhinī dvijāśramāṇāṃ jananī[va] dhiṣṭhitā{36} ||24 ye sarvvaṃ pālayaṃte nagara hita ratāḥ(tā) nītimaṃtaḥ
+   praśāṃtāḥ devānviprānyajante kanaka dhhana mahī vastra ratnādi dānaiḥ || khyātairyeṣāṃ ca nityaṃ trṛ(tri)bhuvana-
+17. valaye sadguṇaireva nītā{37} || tesminpaurāḥ samastāḥ sakala janahitā bhānave bhaktimaṃtaḥ ||25 sātrāgatā lāhiṇi nāma rājñī bhartturvvi-
+   yogādhinipīḍitāṃgī || asminpure viprajanaiḥ sametya tṛptā [ca te]ṣāṃ vacanātprabuddhā ||26 [bhā]-
+18. norgṛhaṃ daivavaśādvibhagnaṃ bāsiṣṭhapauraiḥ sukṛtaṃ yadāsīt || vināśi sarvvaṃ saha jīvitena jñātvā gṛhaṃ kāritamāśu bhānoḥ{38} ||27 
+   {39}suśliṣṭasaṃdhiṃ ruciraṃ supādaṃ śaileṣṭakaṃ ca sthirasiṃ(ha)karṇṇaṃ(rṇṇam) || yadvaddhimādriśśikharaiśca tadvatkṛtvā
+19. niketaṃ vaṭavāsibhānoḥ ||28 lokaprapaiṣā sukṛtā ca vāpī suśliṣṭasaṃdhī ghatitotpalā{40} ca|| sopānapaṃktyā
+   suśubhe(bhā) subaddhā nisre(śre)ṇibhūteva divaukasasya ||29 devaiḥ samastairriṣibhiśca{41} juṣṭā pāpāpahā vyāpya
+   jagatsthitā yā || jīrṇṇoṃ-
+20. dhṛ(ddhṛ)tā lāhiṇipuṇyahetoḥ sārasvatī saiṣajanasya vāpī ||30 niṣpādya sukṛtau kṛtya[au*]{42} artha dattvā
+   punaḥ punaḥ || vaināśikamidaṃ cānyajjñātvā lokasya ca(cā)rppitau ||31 yāvad gaurlloṃkadha[ā*]trī pravahati
+   maruto{43} yāvadarkontarikṣe || yāvadvīcyaḥ sa-
+21. mudre pavanavidhunitāḥ saṃtatāḥ praucchalanti || yāvadvayome{44} suśīghraṃ pravahati mihirasyandanasyaikacakraṃ || vāpyokau
+   tāvadāstāmuḍu{45}karasadṛśau śreyase kārakasya ||{46} [*32] kṛteyaṃ hariputreṇa mātṛśarmmadvijanmanā || śastirllokahitā-
+22. rthāya lāhinyāśca{47} hitaiṣiṇā ||33 āsīcca nāgātsthapatestu durggaḥ || durggārkkato deukasūtradhāraḥ || asyāpi sūnuḥ 
+   śivapālanāmā || yenotkṛteyaṃ{48} suśubhā praśastiḥ ||34{49} navanavatirihāsīdvikramādityakāle || jagati
+23. daśasatānāmagrato yattra pūrṇṇā [|*] prabhavati nabhamāse sthānake cittrabhānoḥ || mṛgaśirasi śaśaṃke kṛṣṇapakṣe navamyāṃ(myām)
+   ||35||{50}
+   
+-----------------------------------------------------------------------
+
+{1} From an impression.
+{2} We cannot be definite about the metres of these verses as the initial letters of their pādas are broken away.
+{3} The missing twelve akṣaras here obviously included the names of some deities about whom we cannot
+	be definite. The reading in J.A.S.B., Vol.X, p.664, is a mere guess, as also remarked by Kielhorn.
+	Here, as in almost all the verses below, not only the second but also the first and third pādas have two
+	daṇḍas in the end. In the transcript I have retained them simply to lesson the number of foot notes, etc.
+{4} The correct form is jyotirvidāṃ, which would not have suited the metre. The meaning of savadhiyāṃ is not 
+	clear.
+{5} That is, from whom the paramāra (Paramāra) family took its origin. The word pramāratā seems to have
+	been formed on the analogy of bandhutā, janatā, etc.', as Keilhorn observed. Moreover the last two
+	akṣaras in the line are alike and their reading is uncertain. The intended reading is perhaps pramāratāmāpa.
+{6} Note the use of hi here. The last letter of the pāda is not combined with the following for metrical
+	exigencies. Also note the separate sign for b(ब्) in this line.
+{7} J.A.S.B. has vāsudevaḥ, but Kielhorn suspects that the original has vāsudhāyāṃ (wrongly for vasudhāyāṃ). 
+{8} J.A.S.B. has tasyātmajo bhūvalayapratiṣṭhaḥ śrīnāthaghoṣī vṛtavānvarāṇyaḥ (for vareṇyaḥ). But for the form of tha,
+	see tathā in 1.1; and the last letter is more like a ha than ṇya. The first foot of this verse which is
+	completely lost is restored by D. R. Bhandarkar as babhūva tasmāddharaṇīvarāhaḥ. See Ind. Ant., Vol. XL, p.239.
+{9} Here the name might be read vaṃdhuka, but the Bhāruṇḍa inscription of the same king has dhaṃdhuka quite
+	clearly. The preceding word mahīpāla for the sake of metre; and the pa of bhūpaḥ, that
+	follows is engraved as ya.
+{10} The reading is clear but offends against the metre. Kielhorn observed that perhaps we should read
+	 vīṇāniviṣṭā where, as in the case of the first ā of pūrṇṇāpāla in 1.7, the final a would have been wrongly
+	 lengthened; but it is also possible that the composer may have put ṣṭaiḥ, not knowing that the word
+	 aṃguli is feminine. The preceding vai can be removed by reading nirjarakinnarībhiḥ which gives the same
+	 sense.
+{11} Read nāma, which, however, would not suit the metre. This wrong form is clear in the original, and
+	as required by the metre. J. A. S. B. has bhāraṃ.
+{12} J. A. S. B. has dhṛtadevi. The first of these letters has come out only as a dot. Devī is changed to devi for
+	 metrical exigencies.
+{13} The reading is certain, to be corrected to utpanna-. The J. A. S. B., instead of it, has tasmādamuṣyāṃ bhuvi. This
+	 pāda may also be restored as utpādayāmāsa sa pūrṇṇapālaṃ.
+{14} Read śatrūn. J. A. S. B. has rāṣṭraṃ. The gap at the beginning of the line may be filled in as ti sma bhūmiṃ
+	 dṛḍhaprahāropi-.
+{15} As also in J. A. S. B. Kielhorn read kakuca which, however, would give no meaning. For the preceding
+	 pāda, J. A. S. B. has karapade maṇibhūṣitavīṇayā.
+{16} The akṣaras na raṇe are engraved below the line.
+{17} The mātrā of the second akṣara is lengthened for the sake of metre. The name compounded with the
+	 following word is also defective. J. A. S. B. has pūrṇṇāḥ pālakulapradīpa iva yā.
+{18} The sandhi is violated here for metrical exigencies. The medial ī of ṇī in lāhiṇī is shortened for the
+	 same reason, as in 1.11 also, and again in 1.17. The gap in 1.8 may be filled in by reading -dheyāhaṃsī
+	 yathā (tāmarasādvihīnā).
+{19} For bhūbhujā for the sake of the metre.
+{20} Between the daṇḍas an ornamental pattern is engraved, but it is indistinct.
+{21} Kielhorn read yo yaḥ; and the J. A. S. B. has yo duḥsvaśauryyārjjitabhūyaśasyaḥ kāśīśvaraḥ.
+{22} As clear in the original (for veśma), and as required by the metre. The last two akṣaras in the beginn-
+	 ing of the line may have been khyāta or sarvva.
+{23} The reading is certain, J. A. S> B. has vallabharājabhūpaścaropi.
+{24} J. A. S. B. has vandyo narairyo, but the reading as given here is quite certain. The following vararāja suggests it to
+	 be aname but the construction would not allow us to take it as such.
+{25} The latter half of this verse involves a grammatical error, as yaśaḥ goes with yayau whereas vijitya with the
+	 king. In the following verse the bahuvrīhi compound requires lakṣmīkaṃ.
+{26} This is apparently intended for an Āryā verse, but it is quite incorrect. J. A. S. B. omits the whole of it.
+	 We may recast it as 
+	 		protphullāmbujavadanāṃ kisalayamālānukāriṇīmenāṃ |
+	 		śriyamiva kulajāṃ rājñī lāhiṇināmnīmudūḍhavāneṣaḥ ||
+{27} Instead of these words and of the first half of the following verse, J. A> S. B. has vasiṣṭharājopi atrāsīdato yaṃ
+	 vasiṣṭharājānvayopi (jātamātreṇa vāṛuṇināpi) atra nyagrodhasyāśramaḥ. The inscription has 4 or 5 letters after pi; they are all
+	 effaced.
+{28} The intended reading may be mādhavasya; but I am not sure about the meaning of the verse. Some legend
+	 may have been referred to here.
+{29} Kielhorn: read svanatau, or svamatau, i.e., respected by him.
+{30} The anusvāra is redundant; it is certain and not a fault of the stone.
+{31} Wrong for veśmabhiḥ, which would not have suited the metre.
+{32} The sa has been engraved below the line.
+{33} The reading is certain but it is incorrect, possibly, for gaṇikā, as suggested in J. A. S. B.
+{34} For the sake of the metre, m cannot be combined with the following vowel. Note that this verse, like
+	 some others, has the consonant m and not an anusvāra.
+{35} Wrong for sopāna paṃktiriva which would not have suited the metre. Svarudgatā = arising in the heaven.
+	 Probably the first word of this verse is intended for suhṛdgatā in the sense of 'hlepful as a friend', though
+	 it is a wrong construction.
+{36} Kielhorn restored it as niṣṭhitā, but I suspect that it may have been intended and the first letter dropped for
+	 the sake of the metre. Kielhorn also read jananena, as the stroke of the mātrā for ī is not brought below.
+	 But it is throughout common in this inscription, as we have remarked while dealing with its palaeographic-
+	 al pecularities. Cf. nītā in the following line.
+{37} The adjunct of this word is missing.
+{38} The word bhānorgṛhaṃ has been repeated in this verse when a pronoun could have been used.
+{39} This verse has a number of technical terms relating to architecture. Possibly śailāṣṭakaṃ is the correct from.
+{40} Read -sandhirghaṭitopalā(ghaṭitopala = a dressed stone).
+{41} Grammar requires stai ṛ-. Kielhorn has stairṛ. He also takes jagasthitā a compound word, whereas the first
+	 of these words may be taken as an object of the second.
+{42} Sandhi is not made between kṛtyau and artha for the sake of the metre. The reading of tya is doubtful.
+	 Both these words are in neuter gender, but they are put here in the masculine.
+{43} There is no doubt about the reading. Kielhorn read: [pa]ru(pura)to.
+{44} Wrong for vyomni for the metre. Yāvad vyomni syadena would give the same sense and also suit
+	 the metre.
+{45} Wrong for āsātām. The reading etau stheṣṭhau bhavetāṃ would remove the error.
+{46} After the punctuation marks, is engraved resembling conch shell.
+{47} The name of the queen is written here with (the dental) n.
+{48} Wrong for utkīrṇṇā
+{49} An ornamental pattern appears here.
+{50} The figures of a conch shell appears at the end. Delete the daṇḍas after the third foot.
+
+	   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

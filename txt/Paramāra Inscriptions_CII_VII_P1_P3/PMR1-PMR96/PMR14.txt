@@ -1,0 +1,45 @@
+PennGlobal: PMR14
+Period: VS 1091 
+Location: British Museum 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in a verse
+Metre: Śārdūlavikrīḍita
+Gist: Dedicatory verse incised on the pedestal of an image of Vāgdevī(Sarasvatī)
+Published reference: Trivedi (1978), no. 14. 
+
+Text{1}
+
+1. oṃ(om) || srau{2}(śrī)mad bhoja nareṃdra caṃdra nagarī vidyādharī -U{3} dhīḥ yo[sā ?] nāma U-[sasma*]{4} khalu sukhaṃ prasthāpyatāṃ
+2. yā[psa]rāḥ | vāgdevī[ṃ] prathama[ṃ]{5} vidhāya jananīṃ yasyārjjitānāṃ trayī - - - U phalādhikāṃ vara(ruciṃ ?) mūrttiṃ su[śu]bhāṃ ni-{6}
+3. rmmame || iti subhaṃ(śubham) || sūtradhārasahirasutamaṇathaleṇa(na){7} ghaṭitaṃ(tam) || vi. ni.{8} si(śi)vadevena likhitamiti ||
+4. saṃvat 1091 ||
+
+-----------------------------------------------------------
+
+{1} From a photograph. It also shows two letters in the corner just beside the proper right top, both of the 
+	same time as the inscription.
+{2} The subscript r of this akṣara has not come out on the photograph and it is possible that if at all
+	engraved, it was not deep enough.
+{3} Both these akṣaras are mutilated, but as there is space for one only, it appears that they may have been
+	crisped into each other. Conjecturally to be restored as saṃsu(संसु). Also, perhaps nareṃdranaṃdanakarī(नरेंन्द्रनंदनकरी) was intended.
+{4} Mutilated. Adopted from Dikshit's reading. Saukhyāyāmarasaṃsadaḥ(?).
+{5} This and the preceding sign of anusvāra, which have not come out on the photograph, are perhaps clear on
+	the original.
+{6} These three akṣaras have been restored from the traces left; and the reading is uncertain.
+{7} At both places in the name nasal is lingual and not dental as taken by Dikṣit.
+{8} The forst of the letters in this word is mutilated and the second is illegible. Perhaps what was intetded here 
+	is vijñānika, as shown by the traces. The reading of ni is not certain.
+
+
+
+
+
+
+
+
+
+
+

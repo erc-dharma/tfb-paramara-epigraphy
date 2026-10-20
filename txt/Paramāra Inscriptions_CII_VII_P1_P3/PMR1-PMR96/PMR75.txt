@@ -1,0 +1,58 @@
+PennGlobal: PMR75
+Period: VS 1274
+Location: Kāṃṭal
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in a verse.
+Metres: Verse 1 Anuṣṭubh
+Gist: Records some grant by the one Rāṇā Vaijā, son of  Vijesīrāha, 
+	  and by Laṣamaṇasīha, son of Ānā,  a Rāṭhauḍa of Hathiuṇḍi. 
+	  The object of the grant cannot be made out.
+Published reference: Trivedi (1978), no. 75.
+
+
+Text{1}
+
+1. saṃvat 1274 māgha-
+2. phālgū(lgu)nayo[r ma]dhye
+3. [so]ma grahaṇa parvve{2} śrīdho(dhū)
+4. marājasaṃtānajasadha-
+5. valadeca{3}sū(su)taśrīdhārāva-
+6. rṣa vijayarājye |{4} vijesīrā-
+7. hasū(su)tarāṇāvaijā hā-
+8. thiuṃdīvaṃsa(śa)rā{5} ṭhaḍaḍaā-
+9. nāsū(su)talaṣamaṇasīha{6}ka-
+10. maṇasobhākāsa-
+11. .....[ma]{7}-
+12. hārātre{8} māsamadhye di-
+13. na 2 ācārya{9}volhāsū(su)-
+14. ta[pra(pū?]thama 1 mama vaṃsaṣyae ṣī-
+15. ṇe{10} anyo rājā bhava(vi)sya(ṣya)ti |
+16. tasyāhaṃ karalagnopi{11}
+17. mama dataṃ(ttaṃ) na cāla . . {12}||1||
+18. [lālaujasutaka?]-
+19. [jā] . . . [suta]-
+20. [mahidhareṇa]{13}  [pūniga ?] ||
+
+--------------------------------------------
+
+{1} From an impression.
+{2} Read parvvaṇi. From māgha up to this word, the construction is as in the Anuṣṭubh metre.
+{3} Read yaśodhavaladeva--.
+{4} The daṇḍa is redundant.
+{5} This is a suffix meaning 'of'; or it may be the initial letter of rāṇā.
+{6} The Sanskrit equivalent of this name is Lakṣmaṇasiṃha. The expression that follows is unintelligible
+	to me.
+{7} All the letters in this line are visible only in their lower parts and hence they cannot be made out.
+{8} The first akṣara has the mātrā of ō above, and hence its reading as hā and taking the whole word as
+	mahārātrē to denote śivarātri, as taken by Halder, is not acceptable. There is also a redundant repha
+	on tre.
+{9} The repha appears to have been omitted. Or, it is lost in the original, as shown by a trace above.
+{10} Read kṣaye kṣīṇe.
+{11} What appears to be intended is pādalagnosmi.
+{12} Fill up the gap by reading yet, which has left traces. Perhaps dattiṃ (a gift) is intended here.
+{13} Read mahī--.
+
+

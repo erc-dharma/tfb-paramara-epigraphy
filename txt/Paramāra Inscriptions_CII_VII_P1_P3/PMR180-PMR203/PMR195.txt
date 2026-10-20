@@ -1,0 +1,34 @@
+PennGlobal: PMR195
+Period: VS 134X / ~1345
+Location: Ajaygaḍh
+King: Bhojavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Records that images of Surabhi, Śiva, Gaurī and some other deities 
+	were caused to be made (carved) by Dēvalladēvi, the daughter of the Tkakkura Devadhara and 
+	the wife of one Suhaḍadēva of the Vāstavya Kāyastha family
+Published reference: Trivedi (1989), no. 195.
+
+
+
+Text{1}
+
+1. ||{2} kāyasthavāstavyavaṃśe pṛ(pra)tolikānvitajayapuradurggādhipaṭhakkuraśrīvīdanaḥ{3} putraṭhakkuraśrīvāśe tatputrai(traḥ)
+   ṭhakkuraśrī aṣau sutasuhaḍadevasya [gehinī]{4} śrīdevadharasya putrī devalladevīnāmāsya pratimā[thi(stha)]ta{5}
+   saptamī suśabhī-śivā jīvantaputrikā-gaurī etāḥ pratimāḥ kāritāḥ || saṃ. 134--{6}samaye |
+   
+   ----------------------------------------------
+   
+{1} From impression which is Chief Epigraphist's A. R., No. B-194/69-70.
+{2} The daṇḍas may have been preceded by a symbol which is now lost.
+{3} Read either Vīdanasya or supply tasya after it. The names are all given without case endings, and there 
+	are some more grammatical errors throughout the record. They are not shown here and can easily be 
+	known.
+{4} The letters in the brackets are all mostly lost, leaving only parts of them. The reading is probable in view 
+	of the sign of mātrā visible on the first of the letters. The word has been restored from Chakravarti's
+	writing.
+{5} The reading is probable but not certain. I am unable to explain the use of the following word also.
+{6} The unit figure which appears to have been later on corrected, may possibly have been 1 or 5, the 
+	vertical stroke of which is clear.
+ 

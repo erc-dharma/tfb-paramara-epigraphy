@@ -1,0 +1,141 @@
+PennGlobal: PMR16
+Period: circa 1048 CE (amāvāsya of caitra) 
+Location: Kālvaṇ 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 8 verses
+Metres: vv.1-5 and 8 Anuṣṭubh, v.6 Sragdharā; v.7 Upajāti
+Gist: Donation by the Sāmanta, the illustrious Rāṇaka Amma
+Published reference: Trivedi (1978), no. 16. 
+
+Text{1}
+First Plate
+
+1. svasti | śrīmāṃ{2} dhārāyāṃ meru mahā girituṃga śṛṃgopame pravāṃrānvaye{3} aneka samara saṃghaṭṭa[sā]{4} -
+2. dhita śatrupakṣa vistṛta yasa(śo)dhavalita digaṃtarālaḥ{5} śrī sīyakadeva pādānudhyātaḥ sara[sva]-
+3. tī mukhatilaka bhūtaḥ kṛta kāvyamukta sāyaka ghūrmmā(rṇṇā)yita si(śi)raḥ kavijana śatta(tru) pakṣa-
+4. śrī{6} vākpatirājadeva pādānudhyātaḥ aneka mahā hava vijitāri jana prathita yasa(śo) nirmmalī-
+5. kṛta sakala dharādhara dharājaladhi sīmā śrī seṃ(siṃ )dhurājadeva pādānudhyātaḥ mahāva(ba)la pracaṃḍa ri-
+6. pupakṣa nirddārita karṇṇāṭa lāṭa gūrjjara cedyā{7}dhipa koṃkaṇesa(śa) prabhṛti ripu vargga nirddārita-
+7. janita trāsa yasa(śo) dhavalita bhuvanatrayaḥ śrī bhojadeva prasādāvāpta nagara se[llukārddha]{8}-
+8. sārddha sahaśra(sra) grāmāṇāṃ bhoktāraḥ{9} śrī yaso(śo)varmmaḥ(rmmā) | tasmin viṣaye muktā[pa]lyāṃ caturāsī(śī) -
+9. ti mānyaka paṭṭa āu{10}drahādi viṣaye sāmaṃto gaṃgakulatilakabhūtaḥ(ta) - śrī a[mma]rā-
+10. ṇakena |{11} sve(śve)tāṃva(ba)ra śrī ammadevācārya mukhākhyāta dharmmādharmmāgama vākya pravo(bo)dhita-
+11. cihe(tte)na muktvā jinadharmmamanye dharmmā iha paraloke{12} su(śu)bhaphaladā na iti viciṃ-
+
+Second Plate; First Side
+
+12. [tya] jātamanasā mahiṣa vu(bu)ddhikāyāṃ |{13} śrī kalakalesva(śva)re puṇya tī[rthe] cai-
+13. tramāsāmāvāsyā[yāṃ*] sūryyagrahaṇe{14} sāgara taraṃga caṃcala jīvaloka cchā-
+14. yā samā lakṣmīḥ{15} phenopamaṃ jīvitamavadhārya mātāpitrorātmanasya(śca ) puṇyayasa(śa)[ḥ?] -
+15. śrīvṛddhaye sopavītena pāṇinā puṇyottama tīrthe aṃbuṃ(bu) gṛhītvā supūrṇṇena ka-
+16. maṃḍalunā cāluvyā(kyā)nvaya prasūta dharmmapatnī śrī caccāī{16} rājñī kara gṛhīta[nikṣipta]-
+17. jalena pādau prakṣālya bhūmi[ri]yaṃ dattā muktāpalyā uttareṇa māhuḍalā grāmottara-
+18. disā(śā)yāṃ bhūmī(mi) nivarttanāni catvāriṃsā(śda)sya sīmā pūrvve nadī dakṣiṇe hathāvāḍa grā-
+19. masīmā kakaḍaḥ paścime garttā uttare parvvate(taḥ){17} evaṃ caturāghāṭa visu(śu)ddhā bhūmī(mi)[ri]yaṃ ta-
+20. thā kumārīstana ḍoṃgarikā ubhaya taṭe śrī kakkapairāja datta bhūniva[r]ttanāni [paṃ]ca-
+21. vīṃsa(viśat) tathā śrī vakaaigala prabhṛti nagareṇa{18} saṃgama nagara sīmā pārśve [ca]ḍaī -
+22. līvaṭe nivatta(rtta) nāni paṃcatṛṃ(triṃ)śa[t] puḥpa(ṣpa) vāṭikā bhūmi nivarttana dvayaṃ taila[ghā]-
+
+Second Plate; Second Side
+
+23. ṇaka dvayaṃ vaṇika(k) haṭṭāś ca{19}turdaśa drammā eva(vaṃ) śātra(cātra) caturddaśaṃ(śa) dadāti [|*] aṭṭāli-
+24. kāyāṃ voli[kāṃ ?]{20} pratipattrāṇi paṃcāsa(śa)[d]ityase(śe)ṣaṃ lupta jīrṇṇoddhāraṃ kṛtaṃ ācaṃdrā-
+25. rkka kālaṃ yā[vat] śvetapaṭa jinālae(ye){21} śrīmunisuvratadevāya niva(ve)ditā | pūjābhiṣe-
+26. ka naivedya caitra pavitraka grāsācchādaṃ(da)neṣu ri(ṛ)ṣīṇām upayogyā [|*] asmin viṣasa(ya) vāsī(si) -
+27. [de]silaka grāma[ṭa]ka gokulika cāu(cau)rika sau(śau)lkika daṃḍā(ḍa)vā(pā)si(śi)ka prātirājya -
+28. {22}ka mahattama kuṭuṃvi(bi)nonyāṃśca tannivāsino janapadādīn vo(bo)dhayatya[stu] vo
+29. viditaṃ mayā dattaṃ(ttam) | madvaṃśajair anyairvvāgāmi nṛpati bhogapatibhir iyam asmaddā-
+30. yonumaṃtavyaḥ pālayitavyaśca | yo vājñāna timira pa[ṭa]lāvṛta matir ācchiṃdya[ā]-
+31. dācchidyamānaḥ{23} saḥ paṃcabhir mmahāpātakair upapātakaiḥ saṃyukta[ḥ] syāditi | u-
+32. ktaṃ ca bhagavatā vyāsena | devadravyaṃ gurordravyaṃ dravyaṃ caiva jinesva(śva)re | tṛ(tri)vidhaṃ pata-
+33. naṃ dṛṣṭaṃ dānabhakṣaṇa laṃghane |1| ṣaṣṭirvva(ṣṭi va)rṣa sahaśrā(srā)ṇi svarge tiṣṭhā(ṣṭha) -
+
+Third Plate
+
+34. ti bhūmidaḥ | ācchettā cānumaṃtā ca tānyeva narake vaset |2|
+35. saṃ (śaṃ)khaṃ bhadrāsanaṃ ccha[traṃ] |{24} varāsvā(śvā) varavāhanā[ḥ]| bhūmidānasya cihnāni
+36. dṛsyaṃ(śya)nte tāni bhārata |3| sapta janmāṃtareṇa(ṇai)va yat puṇyaṃ pūrvva saṃcitaṃ(tam) | arddhāgu-
+37. lena sīmāyā haraṇena praṇasya(śya)ti | [4]| agniṣṭomaḥ(ma ) sahaśra(sra)śca |9 vājapeya śata(te) -
+38. ṣu ca | gavāṃ koṭi pradānena | bhūmi harttā na su(śu)dhyati |5| kiṃ sūryaḥ{25} tīvratāpo daha-
+39. ti śasi(śi) kalā[ḥ] pāvakoti jvalaṃte | no rūḍhaṃ bhūmi sasyaṃ | na vasati viṣaye || mā
+40. dhavaścālpavṛṣṭiḥ | kiṃ goṣu kṣīrama[lpaṃ] śuṣati sarisarā(ro) jīvalokena vṛddhiḥ
+41. yatrā[yaṃ] bhūmi harttā vasati parijane tasya cihnāni mā(tā)ni |6| yasmina(n) kule jāyati{26}
+42. bhūmi dātā | sa modate putrakalatradhānyaiḥ | susthaṃ prajānā vasate ca yatra saukhyaṃ śṛ(śri)yā
+43. [naṃ]dati bhūmipālā(laḥ) |7| va(ba)hubhir vvasudhā bhuktā rājābhi.{27} sagarādibhiḥ | yasya yasya ya-
+44. dā bhūmī(mis)tasya tasya tadā phala(lam) |8| likhitam idaṃ dvijānvayena [sā]ndhivigrahika śrī jogasva(geśva) -
+45. reṇeti |
+
+-----------------------------------------
+{1} From a set of estampages supplied by the Chief Epigraphist.
+{2} R.D. Banerji corrected this word to śrīmān, taking it to be an adjective of yaśovarmmaḥ(rmmā) in 1.8 below, while
+	N.P. Chakravarti remarks that we should expect śrīmatyāṃ, as this word goes with dhārāyāṃ (Epi. Ind., Vol.
+	XIX,p.71,n.1). I agree with Chakravarti as the adjective is just before the name of the place.
+{3} The correct form is paramārānvaye.
+{4} After ṭṭa, a letter which was originally engraved has totally disappeared, leaving some traces and a clear anusvāra
+	above. The context shows that probably saṃ was put here.
+{5} Banerji proposes to cancel the visarga here. But with the visarga this word can as well be taken to be an adjective
+    of the word yaśovarmmaḥ(rmmā) 1.8, below. See n.4 above. Va in dhavalita shows redundant additional stroke to
+    make it appear as vā.
+{6} This letter shows a combination of both the palatal and the dental sibilants. And the horizontal stroke of k
+	is also used as a part of the following pa.
+{7} Read cedyadhipa in the sense of 'the lord of the Chedis'.
+{8} The letters in the brackets are damaged and the reading is not certain.
+{9} Read bhoktā.
+{10} Read ūdrahādi. The second of these letters is damaged and possibly some other letter was engraved originally
+	 and later on corrected.
+{11} The daṇḍa here denotes a paranthesis, to connect the preceding word rāṇakena with dattā in 1.17 below. Sandhi
+	in śrīamma is not made, as also in same other instances below.
+{12} A word like ca or vā is required here.
+{13} The daṇḍa is redundant.
+{14} The mātrā is clear with some signs of rubbing around.
+{15} The sign of visarga appears to have been inserted subsequently.
+{16} R.D.B. : cacchāī.
+{17} Above the first three of these letters there are redundant chisel strokes. The word kakaḍa appears to have been
+	 put here in the sense of kaṅkaṭa.
+{18} The editor of the inscription translated this expression as'Vakāigala and others of the town'; but Barnett has 
+	 pointed out that nagara is a regular term in the south for 'commercial community'. See D.H.N.I., Vol.II, p.
+	 864, n.2. Also see p.72, n.1 of Ep. Ind., op.cit., where it is remarked that Yaśovarman was a feudatory of 
+	 Bhoja. In this respect, also see Ep. Ind., Vol.XVIII, p.320, n.1.
+{19} A sign for superscript r was originally carved on this letter and subsequently scored as redundant. The mātrā
+	 of the preceding ṭṭā is crescent-shaped.
+{20} The letters are damaged and the reading is uncertain.
+{21} Banerji read Śvetapada and identified it with the northern part of the Nāsik District. But the last akṣara of
+	 the name is definitely ṭa as taken here and as also read by D.R. Bhandarkar, to which our attention has been
+	 drawn by Prof. V. V. Mirashi in his C.I.I., Vol.IV, p.ixix, n.8, and p.385,n.4. Here the word means Śvetāmbara
+	 , which also appears in 1.10, above.
+{22} This akṣara is preceded by what looks like a snake. Dēśilaka used in this expression is perhaps in the sense
+	 of dēśika, a local officer, or in that of dēśi (also found as dēśi) with probably means the foreman of a guild, for
+	 which see C.I.I., Vol.IV,p.195,n.6. Grāmaṭaka is probably used for grāmakūṭa, meaning a nobleman (in
+	 the village). Gōkulika may have been the head of cowherds and Chaurika, one in charge of the grazing ground
+	 (from char). Śaulkika and daṇḍapāśika are officers in charge of customs and police, respectively, and prātirājyika,
+	 was, as the meaning of the word suggests, an officer of the neighbouring kingdom.
+{23} Better read ācchindamānaṃ vānumodeta.
+{24} The punctuation mark is redundant, as same others below.
+{25} Here the visarga is not changed to s, as required by the rule; and this stanza is full of some other errors, e.g.,
+	 the root jval is wrongly used in plural and in the Ātmanēpada; the past participle rūḍha is put to denote
+	 the present tense; suṣati is used in place of śuṣyati; and its use with the plural sarisaraḥ(for saritsarāṁsi) and
+	 chihnānīmāni for chihnānīmāni is again wrong. The whole verse may be rectified as follows:-
+	 kiṃ sūryastīvranāpo dahati, śaśikalāḥ pāvako vā pradīptaḥ bhūmau rohenna sasyaṃ na ca janavasatirmeghakāle'lpavṛṣṭi | 
+	 goṣu kṣīraṃ praśuṣyejjalamapi ca tathā kṛpavāpīnadīnāṃ yasmmin bhūmipraharttā nivasati viṣaye tatra daurgatyametat ||
+{26} Read jāyate, but it would not suit in the metre.
+{27} Read rājabhiḥ. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,132 @@
+PennGlobal: PMR85
+Period: VS 1137
+Location: Arthūṇā
+Dynasty: Paramāra
+King: Cāmuṇḍarājā
+Language: Sanskrit
+Script: Nagari
+Text: Metrically in 33 verses
+Metres: Verse 1 Śārdūlavikrīḍita; vv.2-6, 8-11, 13-18, 21, 25, 33, 24(?)Anuṣṭubh; vv.7, 19, 20 Vasantatilakā;
+	    v.12 Upajāti; vv.22-23 Rathoddhatā; v.32 Āryā or its variant. 
+Gist: To record the construction of a temple in honour of Viṣṇu.
+Published reference: Trivedi (1978), no. 85.
+
+Text{1} 
+
+1. oṃ namaḥ si(śi)vāya || cūḍāyāṃ kusumaśriyaṃ śravaṇayoḥ kuṃdāvataṃsasthitiṃ muktājala-
+2. kalāṃ ca kuṃtala taṭe hāsadyutiṃ{2} cādhare | kaṃṭhe hāraruciṃ yadujva(jjva)la{3}si(śi)raścaṃdraprabhālaṃkṛtiṃ [pā]rvva-
+3. tyā vidadhāti nūtanarate pāyātsa vaḥ saṃ(śaṃ)karaḥ ||1 asti prottuṃga sai(śai)leṃdraḥ prakhyātorvvu(rvbu)da saṃjñayā [|*] ratnamuktā-
+4. vibhramāḍhyo {4}yastanapratimo bhuvaḥ ||2 tapaḥ kṛtavatastatra vaśiṣṭhasya mahāmuneḥ | gādheyo dorma[do]drekāddhenumabhyājahā-
+5. ra vai ||3 athāpaharaṇāddhenorjvalatkopānalo muniḥ | vīraṃ śra(sra)ṣṭuṃ juhāvāgnau samaṃtrāmāhutiṃ kṣaṇāt ||4 tataḥ pracaṃḍakodaṃḍa-
+6. [yaṣṭi]racyutavikramaḥ{5} | nirggataḥ pruṣaḥ kaścinmūrttaḥ kopa ivāsya yaḥ ||5 parānmāraya putra tvaṃ lavdhā(bdhā)jña iti 
+  sanmune [ḥ*] | ji-
+7. [tvā vairi]va(ba)laṃ sī(śī)ghramāninye subhaṭaḥ sa gāṃ(gām) ||6 tasmādanukramavasā(śā)t paramāravaṃśaḥ pīyūṣapuṃja iva caṃdramasaḥ
+  pravṛttaḥ ||(|){6}
+8. [yuddheṣu cā]rjjuna[samo naya]nābhirāmaḥ{7} śrīmaṃḍanaḥ kṣititala prathito nareṃdraḥ ||7 muhūrttamapi yaṃ muktvā śri{8}yaṃ nānyatra saṃ-
+9. U ˍU [|] ˍUˍUˍUˍU U - - - lakṣmī vakṣa(kṣaḥ)sthale sthirā [||8] yenāpareṇa sūreṇa{9} vidārya ripu saṃta[ti*]m | padminīva nijāla-
+10. kṣa ˍUˍUˍUˍU U - U ˍU{10} ||9 śrīmaccāmuṃḍarājosya va(ba)bhūva pravaraḥ sutaḥ [|*] nistṛ(striṃ)śanakharākrāṃtavairivāraṇakeśarī ||10
+11. ˍUˍUˍUˍU U - - ˍU, U{11}[saṃ]mānāgrahaṃ tathā | dāridryamarthināṃ caiva yasmin satyavalokite ||11 khaḍgāṃvu(bu)dhārā sa(śa)mitāṃ-
+12. U - ˍU, U - U - - U U -{12} pravāhaḥ | pratāpa vidyu jjanita prakāśaḥ pasparddha sārddhaṃ navanīradairyaḥ ||12 āśī(sī)-
+13. ˍUˍU U - - ˍU, ˍUˍUˍUˍU U -{13} karaḥ | ālaṃ(liṃ)gitaḥ sadā lakṣmyā viṣṇur viṣṇurivāparaḥ ||13 prasannakaraṇagrāmaḥ
+14. ˍUˍUˍUˍU U - U ˍU [|] ˍUˍUˍUˍU{14}tyasaṃjñaśca putrastasyābhavatkṛtī ||14 śucirdakṣaḥ kxsamī mānī kalāsu kuśalaḥ sthi-
+15. ˍU [|*] ˍUˍUˍUˍU U - - ˍU, ˍUˍUˍU{15} kṣitimaṃḍanaṃ(nam) ||15 rohiṇīva śasāṃ(śāṃ)kasya gaṃgeva jaladheḥ priyā | va(ba)bhūva vīhiṇi-{16}
+16. stasya pūˍUˍUˍU U - U ˍU ||16{17} tayoḥ puṇyātmano[ḥ*] putrā va(ba)bhūvuḥ pravarāstrayaḥ | dharmmārttha kāmavat sevyā narāṇāṃ sva-
+17. U - U ˍU [17*] ˍUˍUˍUˍU U - -{18} sya rājyābhāra dhuraṃdharaḥ | āsadevavu(bu)dhasteṣāṃ jyeṣṭho bhrātābhavad guṇī ||18 śrīma-
+18. U - U U U - U U - U -ˍU, - - prasāravahikākaraṇe{19} niyuktaḥ | bhavyāsarāja iti tasya laghurvva(rbba)bhūva bhrātā
+19. U - U U U - U U - U - ˍU{20} [||19*] tasyānujaḥ sakala [śā]stra [vi]śuddha vu(bu)ddhiḥ prajñāpaṭuḥ prabhuhito vyavahāra{21}-
+20. -ˍU | - - U - U U U - U U - U - [sya ?] cakre kulaika tilakaḥ sadanaṃtapālaḥ ||20 śrīmaccāmuḍarājena
+21. ˍUˍUˍUˍU U - U ˍU [|*] ˍUˍUˍUˍU U - - ˍU{22} [śrī ?]rāseṇakaṃmaṃḍa[le] ||21 tena kāritamidaṃ harer gṛhaṃ bhrātṛ vatsala[ta]{23}-
+22. - U - U ˍU | - U - U U U - U - U ˍU, [bhū]yase ca yasa(śa)se nabhaḥ spṛsaṃ(śam) ||22 srastametadatha devamaṃdiraṃ, -
+23. U - U U U - U - U - | - U - U U U [saṃ ?] U - punaḥ kalpa koṭi kala[yā] [navī]kṛtaṃ(tam) ||23 tapaśvi(svi)dvijavaṃdi ˍU
+24. ˍUˍUˍUˍU U - U ˍU [|*] ˍUˍUˍUˍU U - - ˍU, ˍUˍUˍU{24} mahatā kṛtaṃ(tam) ||24 [subhagāpaśca]{25} tenaiva kāritaḥ kumu[dā]{26}-
+25. U ˍU [|*] --------------{27}; saṃsāra kleśa bhīru[tvā]t kalyāṇaṃ [di]vyamicchatā | deva U
+26. -------------- [U]hiṇyāṃ va(ba)bhūva --------------{28}
+27. -------------- rā(or sā ?)da -----jya U ravi{29}
+28. ------------la ------dū(?) --------karttāraḥ -----va{30}
+29. ------------jala -----masaṃsthaya -----gaṃ[pu?]ra ------[bho]ga
+30. --------------- U khadetata(tam?) ||30 sa .. janito
+31. ---gaṃ------ | śa(?)saṃjanakāde(or di?) suśravaṇāṃ (ṇām) ||31 salaṃkārāṃ supa-
+32.             riṇīṃ cakre bho U śāḥ. sakha ------ masti U māṃ(mām) ||32 yugalaṃ(lam){31} | ā-
+33. [sa*]devasya putreṇa sajjanāṃbhojabhānunā | likgitā a(?) . . . . . . . [rucirā*]kṣarā ||33 saptatriṃśatikai-
+34. [kādhike] [caṃdra ?]vatsarasahsre māghasitaikādaśyāṃ ------ maṃgalaṃ mahāśrīḥ{32} ||
+
+--------------------------------------------------------------
+{1} From the original stone and an ink impression. 
+{2} Some other letter was first engraved here.
+{3} This letter and the third following it, which were originally omitted, were subsequently written at the 
+	top, with a cross-mark to show their exact position. 
+{4} The visarga after ya is omitted here in accordance with the Vārttika on Pāṇini, VIII, 3, 36. 
+{5} The reading of the first two syllables in this line is conjectural and has been suggested in view of the 
+	following ra. Both the syllables are lost. 
+{6} Here is a kāka pada sign to show that the verse continues in the next line. 
+{7} The reading of the bracketed letters is only conjectural, so as to suit the metrical exigencies. 
+{8} The reading of this letter is doubtful. On the stone the letters are clear as tritayaṃ nānyasaṃgatā, but they give 
+	no meaning, and it is also prosodically faulty. 
+{9} Here is a pun on the word sūra, meaning the sun, and śūra, i.e., a heroic person. 
+{10} Here eight syllables are lost, of which the last appears to be rā. 
+{11} Nine syllables are lost here. 
+{12} Here eleven syllables are lost, the first of which have left some traces and the last one shows the 
+	 mātrā of a long ī. Perhaps the intended reading is nadī-, or sarit-.
+{13} Excepting the first two and the last two letters, the whole of the first half of this verse is lost. 
+{14} Eleven syllables are lost here. 
+{15} Almost the whole of the latter half of this verse is lost. 
+{16} The letters are clear in the impression but the meaning is unintelligible to me. It may be the name, or 
+	 we may read gehinī(?). 
+{17} The whole of the fourth foot and the number of this verse are lost. 
+{18} The fourth foot of verse 17 along with the numerical figure denoting it, and the first foot of the next 
+	 verse are lost here. 
+{19} Thirteen syllables of the beginning of this line and eleven of the first foot and two of the second foot 
+	 of verse 19 are lost here. The mātrā on ṇa appears to have been inserted subsequently. The verse is 
+	 intended to say that Bhavyāsarāja, the younger brother of Āsadēva, was appointed as a customs house officer. 
+	 For prasāra in this sense, see the śiśupāla vadha, II, 64, where Mallinātha quotes Vaijayantī:
+	 'prasārastṛṇakāṣṭhādeḥ praveśaḥ', vahikā karṇa is the office of the village or town accountant. See E. C. D., p.206.
+{20} The whole of the fourth foot along with the number of this verse is lost. 
+{21} A kāka pada sign appears here. The following two letters may have been dakṣaḥ.
+{22} The second and third feet of this verse are totally lost. The reading of the letter that follows is only 
+	 conjectural but the curve of the mātrā above is partly visible. 
+{23} Of this letter there are only traces, and it appears to have been followed by yā, at the beginning of the 
+	 next line. 
+{24} Almost the second and the third pādas of this verse are completely lost. 
+{25} The bracketed letters are restored from the traces left. 
+{26} The reading of this letter is conjectural. It may have been followed by kara in the next line. 
+{27} The rest of v. 25 is all lost and the following bracketed letters are restored from the traces left. 
+{28} About a dozen letters are visible in the form of traces but none completely. 
+{29} Almost the whole line has peeled off. 
+{30} Nothing more than given here is intelligible in this and the following line. 
+{31} This is a single word between two verses(32 and 33) and is probably intended to show a dual of them. 
+{32} Here the record ends with a floral design. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

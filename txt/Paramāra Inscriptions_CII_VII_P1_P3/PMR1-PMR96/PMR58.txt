@@ -1,0 +1,64 @@
+PennGlobal: PMR58
+Period: VS 1320 vaiśākha śudi 3
+Location: Vidiśā
+Dynasty: Paramāra
+King: Jayasiṃha
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Gift of a woman for the spiritual merit of her husband, 
+	  refers to the Bhāilasvāmideva temple  
+Published reference: Trivedi (1978), no. 58.
+
+
+
+Text{1}
+
+1. siddham{2} || saṃvat 1320 varṣe vaiśāṣa(kha)su(śu)di [3]{3} gurau adye[ha]
+2. [śrībhāi]{4}lsvāmidevapure śrījayasiṃhade[*va]rājye pubhā{5}-
+3. [ni]nnā(nā)yaka paṃ ṭha{6} madanasī(siṃ)-
+4. ha[de*]va śreya(yo)nimitta(ttaṃ) ku-
+5. ptakā[stha]devī sānu-
+6. matī{7} dvormelaṃ pra-
+7. dattaṃ(ttam |) yo na da{8}-
+8. dāti tasya mā-
+9. tā{9} gardabho ja-
+10. bhāti{10} ||
+
+---------------------------------------------------------------------------
+
+{1} From facsimile facing p.187 in Ep.Ind., Vol.XXXV.
+{2} Expressed by symbol, the formation of which is rather peculiar and not generally found in inscriptions.
+{3} Sircar remarked that the reading of this numeral may be 2 also, but then it would offend against the 
+	week-day (Thursday) mentioned just after it and which, according to him, is regular.
+{4} At the beginning of this line there is a trace of one akṣara which I am unable to make out. It appears
+	as su (?)
+{5} This akṣara appears also as ptā, and thus the reading is uncertain. Compare with it the formation of 
+	the first akṣara in 1.5. However, I follow Sircar in the reading of this name as also of two others
+	which occur in II.4-6.
+{6} That is, Paṇḍita-Ṭhakkura.
+{7} As Sircar has already suggested, read devyā sānumatyā. The reading of the first akṣara of the name, however,
+	appears to me to be doubtful, as it may also have been bhā.
+{8} What appears after this akṣara may not have been a redundant daṇḍa, as taken by Sircar, but a kāka-
+	pada sign, which is partly preserved.
+{9} Read mātaraṃ.
+{10} Read yabhati. The double daṇḍa that follows is joined at the top by a horizontal stroke. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

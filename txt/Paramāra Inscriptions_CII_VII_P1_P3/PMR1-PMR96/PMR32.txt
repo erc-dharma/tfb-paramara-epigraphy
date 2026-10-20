@@ -1,0 +1,49 @@
+PennGlobal: PMR32
+Period: VS 1157 
+Location: Bhojpūr
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Verse
+Gist: The installation of two images Tīrthaṅkaras
+Published reference: Trivedi (1978), no. 32.
+
+
+Text{1}
+
+
+1 sama(va)t{2} 1157 |{3} [śr]īnaravarmma svā(sā)mrājye vema{4} -
+2 kānvaya{5}nemicaṃ[dra ?] sa(su)taḥ sre(śre)ṣṭhī rāmā[khyo] nū-
+3 ṇi sutiyaḥ{6} [|*] tat putra cillaṇā[khye]na{7} jiva(na)-
+4 yugmaṃ{8} pratiṣṭhitaṃ(tam) ||
+
+---------------------------------------------------------------------
+{1} From the impression supplied by the Chief Epigraphist.
+{2} The horizontal bar of ma has a redundant chisel stroke, making the letter appear to be probably mva.
+	Sircar read it as saṁ[va]t.
+{3} This mark of punctuation is indicated by a visarga-like sign.--D.C.S.
+{4} The reading of this and the preceding letter is doubtful, as of some others too.
+{5} Sircar read: k-ānvaya(ye), followed by a daṇḍa; but it is not necessary if we take the daṇḍa to be super
+	fluous and read it as a compound word.
+{6} The intended reading may be munisupriyaḥ (D.C.S.)
+{7} A wrong chisel stroke has made this letter look like ta.
+{8} A faint trace below ya shows that the original has an u-mātrā, which has not come out in the impression.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

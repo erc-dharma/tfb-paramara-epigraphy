@@ -1,0 +1,26 @@
+PennGlobal: PMR74
+Period: VS 1271
+Location: Butrī
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Land grant by Dhārāvarṣa
+Published reference: Trivedi (1978), no. 74.
+
+
+Text{1}
+
+1. saṃvat 1271 varṣe āsoa(ja) su(śu)di 4 some
+2. mahāmaṃḍalesva(śva)raśrīdhārāvarṣadeve[na]
+3. śre.{2} [aṃ]padatta(ttāya){3} sāvaḍavṛddhabhūmi[r*] hala
+4. vaha 1 praśā(sā)da(de)na pradattā [||*]
+
+------------------------------------------------------------------------
+
+{1} From the facsimile between pp.50-51 of Ind. Ant., Vol. LVI.
+{2} This is probably a contraction of Esreṣṭhin.
+{3} The sign of anusvāra on the akṣara in the brackets has not fully come out and it also appears as śrī.
+    But the name of the donee in that case would be totally missing. My reading of this letter is absolutely
+    certain, in view of the same form that it shows twice in 1.1, above.

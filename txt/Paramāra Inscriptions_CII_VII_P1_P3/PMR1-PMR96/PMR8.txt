@@ -1,0 +1,128 @@
+PennGlobal: PMR8
+Period: VS 1067 jyeṣṭha śudi 9
+Location: Mōḍāsā 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Land Grant Issued by Vatsarāja under the Reign of Bhojadeva
+Published reference: Trivedi (1978), no. 8. 
+
+Text{1}
+First Plate
+
+1. siddham |{2} saṃvatsara śateṣu daśaśu(su) saptaṣapṭya(ṣṭya)dhikeṣu jyeṣṭha{3} śuklapa[kṣa] pratipa-
+2. dāyāṃ saṃvat 1067 jyeṣṭa(ṣṭha) [śu]{4}di ravāvadyeha samasta vṛ(bṛ)had rājāvalī-
+3. pūrvvaṃ(rvva) paramabhaṭṭāraka mahārājādhirāja paramesva(śva)ra sīyakadevapadanudhyata{5} pa-
+4. ramabhaṭṭāraka mahārājādhirāja{6} paramesva(śva)ra śrī vākpatira(rā)jadevapādānudhya(dhyā)ta paramabhaṭṭā-
+5. raka maha(hā)rāja(jā)dhirāja paramesva(śva)ra śrī siṃdhurājadevapa(pā)dānudhya(dhyā)ta paramabhaṭṭāraka ma-
+6. ha(hā)rāja(jā)dhirāja paramesva(śva)ra śrī bhojadevarājye śrī mohaḍavāśa(sa)kārddhāṣṭamamaṃḍale
+7. bhotkāra{7} mahārājaputra śrīvatsarājo(ja) ihaiva valloṭakīya cāturjātakīya [śru]tādhya-
+8. yana saṃpana(nna) pravara vā(brā)hmaṇadeddasya{8}  [śa]yanapāṭa grāme pradatta haladva-
+9. ya bhūmīsā(śā)sanaṃ prayachya(ccha)tyevaṃ yathā | [śa]yanapāṭa grāme kodravatila | mudga |
+10. vrīhi | kacchikādi{9} kṣetrabhūmī svacaturāghaṭṭanayaṃyatyā{10} tathā grāmamadhye gṛhakhala-
+11. dhānyasametā asya vrā(brā)hmaṇasya harṣapura vinirggatāya upānasya sagottrāya{11}
+12. gopāditya [śu(su)]tāya cāturjātakīya vī(vi)pradeddākasya{12} dharmā(rma) hetave sā(śā)sanācāreṇa{13} prada-
+13. ttā | bhūmīpāraśikā lakhyattā{14} | rājādhya[kṣa] vidita[āḥ] | va[llo]ṭakīyā vrā(brā)hmaṇā[ḥ] tātanāṭa{15} |
+14. tā(ta)thā pāhīya[ḥ] | vrā(brā)hmaṇa govarddhana[ḥ] | kelādityaḥ | daṃtisarma [śu(su)]ta | ṭhakura | rāṇaka[ḥ] pa[ṭṭa]-
+15. kila | samvāka | lallāka| goggakādibhi[ḥ] pariśakatvā{16} bhūmī darśitā{17} |
+
+Second Plate
+
+16. sā[kṣi]ṇoḥ(ṇo)  lī(li)khyaṃte || tatrā{18} || saṃkaśakānām adhipati | ṭhakurakeśavāditya[ḥ]
+17. tathā tāmpālīka[ḥ] | meharavallabharājaḥ | kapaṣḍi(ṣṭhi) sutaśresṭhi(ṣṭhi)jāu(tu?) ḍi[ḥ]
+18. kapaṣḍi(ṣṭhi) śu(su)tabhabha[ḥ] | tathā veiva[śu][ḥ]{19}  gu(gū)ḍhayati[ḥ] saṃgamo{20} kīlāśu(su)ta | ṭhaku-
+19. ra| caṃdrikādi samasta jana pratyakṣa[ṃ] śāsanaṃ samukīritaṃ(tam){21} || likhitaṃ
+20. cetata likhyakā{22}  a[mna]{23} kaśu(su)tacchaḍḍakena || iti || śrīca(va)ccha(tsa)rājasya |
+21. maṃgalaṃ mahāśrī[ḥ] || ||{24}
+
+
+----------------------------
+{1} From a set of photographs and the facsimile referred to above.
+{2} Expressed by a symbol. The curve following the symbol is the punctuation mark.
+{3} The subscript of this letter is curved as va(व).
+{4} The vertical of this letter is not carved here and also in some cases below.
+{5} Read pādānudhyāta. The first two lettters that follow this expression are damaged.
+{6} THis letter was originally omitted and later on engraved below the line where it is to be supplied.
+{7} As noted above, it appears to be an error for bhoktṛ(भोक्तृ).
+{8} D.C.S.: dorddasya(दोर्द्दस्य). But to me it appears that what he takes to be the superscript r(र्) is a part of the 
+	letter just above. Shastri also reads it as deddasya(देद्दस्य). MOreover, as indicated above, the sixth case is here
+	used for the fourth, according to the rule sambandhasāmānye ṣaṣṭhī (सम्बन्धसामान्ये षष्ठी) (?). Chāturjātaka=a high local officer. See
+	Ep.Ind., Vol.I.p.278.
+{9} D.C.S: kantikā(kaṇikā)(कन्तिका(कणिका)). But the subscript of the second of these letters is clearly ch(छ्). The word
+	kacchikā (कच्छिका) is a diminutive form of kacch (कच्छ) meaning 'margin or boundary region.' The word bhūmī(भूमी) is wrongly
+	used, here and below, with long medial ī. There is a redundant punctuation mark following each word here
+	and also in II. 16-19 below.
+{10} What appears to be intended is saṃyuktā(संयुक्ता).
+{11} Sircar remarks that upānasya(उपानस्य) is a mistake for oupamanyava(औपमन्यव).
+{12} Probably the fourth case ending is intended here.
+{13} D.C.S.:kāreṇa (क(का)रेण). But the fourth letter is clearly चा, with the verticals joined in the middle, as in the 
+	 case of dhā(धा). Shastri also read the letter as I do.
+{14} Read pārśvikā likhyante पार्श्विका लिख्यन्ते. These persons were all known to the royal preceptor. Shastri restored the first of
+	 these letters to parīkṣitā (परीक्षिता).
+{15} D.C.S. took two names here. tāta and nāṭa. Whereas Shastri only one name and read tātanāya. To me it 
+	 appears to be one name and the last akṣara in the line is so formed as to be read either ya or ṭa followed 
+	 by a punctuation mark. Similarly, the first letter in the following name may be read either pa, as the photo 
+	 shows, or as va, as in the facsimile.
+{16} Restore goggakādīnāṃ pārśvakatve (गोग्गकादीनां पार्श्वकत्वे). Shastri restored the second of these words to parīkṣya(परीक्ष्य). In these two lines each 
+	 name is unnecessarily separated by a daṇḍa.
+{17} All the three letters are damaged and probably can also be read as datritā(दत्रिता) for (दत्तेति).
+{18} D.C.S.: Better read yathā(यथा).
+{19} It is difficult to say whether the intended name is vaivasvata वैवस्वत. Sircar observed that the intended reading may 
+	 also be vaivasuta (वैवसुत). But the whole can also be read as tathā ca ivaśu[ḥ]. The following letter gu is equally doubtful 
+	 and it is not known if gṛhapati is intended.
+{20} Reading uncertain.
+{21} Read samutkīrṇaṃ
+{22} Read caitat lekhakena. It may be remarked here that the letter ca shows a pṛṣṭha mātrā on the photograph
+	 but not in the facsimile.
+{23} The reading of the syllable in the brackets is not certain.
+{24} There are two spiral symbols between the double daṇḍas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,106 @@
+PennGlobal: PMR34
+Period: VS 1167 māgha śudi 12
+Location: Kadambadraka
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 9 verses
+Metres: Verses 1-2, 4 and 5, Anuṣṭubh; vv.3 and 7 Vasantatilakā; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Records the grant of land to brahmins.
+Published reference: Trivedi (1978), no. 34.
+
+
+Text{1}
+First Plate
+
+1. oṃ{2} svasti || śrīja(rja)yobhyudayaśca || jayati [vyo]makeśosau yaḥ sarggāya vi(bi)bhartttri(rtti) tāṃ(tām) | aindavīṃ śirasā lekhāṃ jagadvī-
+  (dbī)jāṅkusa(rā)kṛtiṃ(tim) ||1||
+2. tanvantu vaḥ smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ | kalpāntasama[yo]dāta(ddāma)taḍidvalayapiṃgalāḥ ||2|| paramabhadvā(ṭṭā)rakamahārājā-
+3. dhirājaparameśvaraśrīsindhurājadevavā(pā)dānudhyātaparana(ma)bhaṭṭārakamahārājādhirājaparameśvaraśrībhojadevapādānudhyā-
+4. tava(pa)ramabhaṭṭārakamahārājādhirājaparameśvaraśrīu{3}dayādityadevapādānudhyātaparamabhaṭṭārakamahārājādhirājapa-
+5. rameśvaraśrīnaravarmmadevaḥ kuśalī || upe[n*]drapuramaṇḍale mandārakapratijāgaraṇake mahāmaṃḍalīkaśrīrājya(ja)devabhuyya(jya)-
+6. mānakadamva(mba)padrakagrāme samupagatāsna(nsa)mastarājapuruṣānvrā{4}(nbrā)hmaṇānta(ṇotta)rā[npra]tinivāsipaṭṭakilajanapadādī[ṃ]śca vo(bo) |5
+7. | dhayatyastu vaḥ saṃviditaṃ(tam) | yathā śrīmaddhārāvasthitairasmābhiḥ snātvā carācaraguruṃ bhagavantaṃ bhavānīpati samabhya[r*]rccya saṃsā-
+8. rasyāsāratā[ṃ] dṛṣṭvā | tathā hi | vātābhravibhramamidaṃ vasudhādhipatyamāpātamāttramadhuro viṣayopabhogaḥ | prāṇāstṛ |{5}
+9. ṇāgrajalavi(bi)ndusamā narāṇāṃ dharmmaḥ sakhā paramaho paralokayāne ||3|| bhramatsaṃsāracakrāgradhārādhārāmimāṃ śriyaṃ(yam) |
+10. prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ phalaṃ(lam ) ||4|| iti jagato vina[śva]raṃ svarūpamākalayyādṛṣṭaphalamaṃgīkṛtya candrārkkā
+11. rṇṇavakṣitisamakālaṃ yāvatparayā bha[ktyā] |5 śrīmadhyadeśāntaḥpātiśṛṃgapurasthānavinirggatakātyāyanagotrakātyāyana-
+12. kapilaviśva(śvā)mitretitripravaramādhyaṃdinaśākhādhyāyivrā(brā)hmaṇadvirve(ve)danārāyaṇapautradīkṣitadevasa(śa)rmmasutadviveda-āsā(śā)dharā{6}ya
+13. uparilikhitayā (grā)mātṣaṇṇatiparvvadaṃ(da)ṇḍaprāmāṇyeno{7}bhaya-dvicatvāriṃ[śa]mādhyakena bhūnivarttanaviṃśatipratyā{8} bhū-
+14. halavi[ṃ*]śatiḥ paramato mahāmaṇḍalīka[śrī]rājadevena catuḥpa[ṃ*]cāsa(śa)dadhikaśataikādaśasamva(saṃva)tsare kātti(rtti) kaśudipaṃcada-
+15. śyā[ṃ] svabhukto kasyaitanvāddhāpita(?) bhūhaladaśakati(bhi)rvvā{9} mahāmaṇḍalīkaśrī{10}rājadevavadhūśrīmahādevyā pū[r]vvakalpe ta(da){11}-
+16. tvān(ttaṃ ) bhuhalacatu{12}ṣṭayaṃ(yam) | tathā asmābhirekonaṣaṣṭ{13}yadhikaśati(tai)kādaśakasamva(saṃva)tsare pauṣa śudi-
+17. paṃcadaśyā[ṃ*] saṃjātabhūtarāpranaparvvaṇi kasyaitatvaṃ (?){14} bhūhalaṣaṭka[ṃ*(m)] | evaṃ yathāyathaṃ bhūhalavi[ṃ*]śa- |{15}
+
+Second Plate
+
+18. tiḥ sasīmātṛṇa[yū]tigocaraparyantā sahiraṇyabhāgaho(bho)gasoparikarasarvvādāyasametā
+19. sāvā(mātā)pitrorātmanaśca puṇyayaśobhiha(vṛ)ddhaye śāsanenodakapūrvvakatayā pradattā [|*] te(ta)nmatvā{16}tanni-
+20. vāsipaṭṭakilajanapadairyathādīyamānabhāgabhogakarahiraṇyādike(ka)mājñāśravaṇavidheyairbhu(rbhū)tvā sarvvamamuṣme(ṣmai) sampa-
+21. netavyaṃ(vyam) | sāmānyaṃ caitatpuṇyaphalaṃ vu(bu)ddhvā asmaḍaṃsa(dvaṃśa)jaira[nyai]rapi bhāvibhoktṛbhirasmatpa(pra)dattadhammā(rmmā)dāyoyaṃ(ya) -
+   manumantavyaḥ |
+22. pālanīyaśca | uktaṃ ca | va(ba)hubhi[rvva]sudhā bhuktā rājabhiḥ sagarādibhiḥ | yasya yasya yadā bhu(bhū)mistasya tasya tadā phala[ṃ(m)] |
+   |5|| yānīha
+23. dattāni{17} purā narendrairddānāni dharmmārthayaśaskarāṇi | nirmmālyavāntipratimāni tāni ko nāma sādhuḥ punarādadīta ||6|| asma-
+24. tkulakra{18}mamudāramudāharadbhiranyaiśca dānamidamabhyanumodanīyaṃ(yam) | lakṣyā(kṣmyā)staḍidvalayavudvu(budbu)dacaṃcalāyā dāna phalaṃ paraṣa(ya)śaḥ-
+25. paripālanaṃ ca ||7|| sarvvānetrahā(tānbhā)vinaḥ pārthivedrānnṛponṛpo(bhūyo bhūyo)yācate sa(rā)mabhadraḥ | śā(sā)mānyoya dharmmase[tu]-
+   nṛpāṇāṃ kāle kāle pā-
+26. lanīyo bhavadbhiḥ ||8|| iti kamaladalāṃvu(bu)vinda(bindu)lolāṃ śriyamanucitra(ntya) manuṣyajīvitaṃ ca ||(|)
+27. sakalamidamudāha(hṛ)ta(taṃ) sa vudhā(ca buddhvā) na hi purupaiḥ(ṣaiḥ) parakī[rtta]yo vilopyā[ḥ*] ||9|| iti || saṃvat 1167
+28. māghasu(śu)di 12 | dū°{19} || ṭhakku(kku)raśrīkeśavaḥ || maṃgalaṃ mahāśrīḥ || ca śrīḥ ||
+29. svahastoyaṃ mahārājaśrīnaravarmmadevasya ||
+
+---------------------------------------------------
+{1} From the impressions.
+{2} Denoted by a symbol.
+{3} Sandhi is not observed here, as we find in some other inscriptions using the name of this King. For
+	example. see below, No.40, 1.2.
+{4} This akṣara is engraved as vvā.
+{5} The daṇḍa, as also the one beginning the next line, is superfluous and appears to have been put to show
+	that the word is completed in the next line.
+{6} This letter is deformed by a superfluous stroke of the chisel, or appears to have been corrected later on.
+{7} Here Banerji read -na bheya, and Chakravarti, who revised the article, corrected it to meya; but our
+	reading is supported by the same expression found in Naravarman's grant of V.1152, above, No.31.
+	The vertical of the pṛṣṭha mātrā attatched to the first of these akṣaras shows only a faint trace. In
+	view of the new evidence supplied by the Dēwās grant, Chakravarti's translation of the passage as "twenty
+	nivartanas of land from the abovementioned village out of the forty two (nivartanas) measured by the
+	rod......" cannot be accepted, as the word viṁśati has to be taken with prasthā which cannot be dis-
+	tinctly read in this grant but is clear in the grant referred to above.
+{8} This akṣara is not only damaged but also followed by what appears to be a kāka pada sign, indicating
+	that something which is omitted here is supplied near about it; and the traces in the margin suggest its
+	probable existence there, though not distinct. And following the other inscription of Naravarman, the
+	reading appears to be pratyā(thā)māpita-.
+{9} Probably to be read as svabhuktau kalpitatatvāddāpitaṃ bhūhaladaśakaṃ tidvā(tathā), as suggested by Chakravarti.
+	He explained the expression as "Additional twenty plough measures of land (were also granted). Out of
+	these ten halas of land were caused to be given in his own bhukti by the Mahāmaṇḍalīka, the illustrious
+	Rājadeva......from (his own) settlement (?) and six halas of land (are now given) by us......"
+{10} The curve of the mātrā of this akṣara is not engraved.
+{11} Read pūrvvakalpitatvāt.
+{12} This akṣara is engraved as nu.
+{13} The slanting mid stroke distinguishing this akṣara is not to be seen in the impression.
+{14} This expression is unintelligible to me. Banerji read it as bh¯ʼtarapaṇa(bhūtarātri-) and Chakravarti suge-
+	 gested it to be corrected to nu(u)dagapra(ya)naparvvaṇi kasyi(lpi)tatva(tvā)t; but at the same time he observed
+	 that "according to Swamikannu Pillai's Ind. Ephemeris, the Udagayana Saṁkrānti took place on
+	 Wednesday, the 24th December, 1102, two days before the date given in the present grant. See Ep. Ind.,
+	 Vol. XX, p.106, n.6."
+{15} The sign of punctuation is redundant, or is put to show continuation.
+{16} What is intended is pradattā | tanmatvā, but the sign of punctuation is joined to the top stroke of the following
+	 letter and thus it appears as tē.
+{17} The first two akṣaras in this line are not well engraved.
+{18} The subscript is very faint in the impression as it was lightly engraved.
+{19} That is, dūtaka.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

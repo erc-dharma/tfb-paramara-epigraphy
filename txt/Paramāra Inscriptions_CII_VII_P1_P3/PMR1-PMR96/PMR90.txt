@@ -1,0 +1,169 @@
+PennGlobal: PMR90
+Period: VS 1166 vaiśākha śudi 3
+Location: Arthūṇā
+Dynasty: Paramāra
+King: Vijayarājā
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 39 verses.
+Metres: Verses 1, 13, 14 Mālinī; vv.2, 5, 6, 30 Śārdūlavikrīḍitā; v.25 Gīti;{2} vv.3, 26, 31-33 Āryā; 
+	    vv. 4, 11, 17 Vasantatilakā; v.7 Sragdharā; vv. 8, 20, 23-24, 27-29, 34-38 Anuṣṭubh; vv. 9-10
+	    Mandākrāntā; vv.12, 21 Upajāti;{3} vv.15, 16, 39 Śikhariṇī; v.18 Pṛthvī; v.19 Hariṇī
+Gist: A secterian record and states the the foundation of a Jain Temple and 
+	  the consecration of an image of Vṛṣabhanātha at Utthūṇaka in the province of Sthalī 
+	  by one Bhūṣaṇa during the reign of Vijayarāja.
+Published reference: Trivedi (1978), no. 90.
+
+Text{1}
+
+
+
+
+1. oṃ{4} namo vīta rāgāya || sa jayatu jinabhānur bhavyarājī janita vara vikāśo(so) datta loka prakāśaḥ | para samaya tamobhir na
+  sthitaṃ yat purastāt kṣaṇamapi capalāsadvādi khadyotakaiś ca ||1||{5}
+2. āsīcchrīparamāravaṃśa janitaḥ śrīmaṃḍalīkābhidhaḥ kanhasya dhvajinī pater nnidhanakṛcchrī siṃdhurājasya ca | jajñe kīrtti latā lavālaka
+  itaścāmuṃḍarājo nṛpo yovaṃti prabhu sādhanāni va(ba)huśo haṃti sma
+3. deśe sthalau(lyām){6} ||2|| śrīvijayarājanāmā{7} tasya suto jayati vitatayaśāḥ | subhago jitārivarggo
+  guṇa ratna payo nidhiḥ śūraḥ ||3|| deśe'sya pattanavaraṃ talapāṭakākhyaṃ paṇyāṅganājanajitā-
+4. marasuṃdarīkam | asti praśasta suramaṃdira vaijayantī [vi]stāra ruddha dinanātha kara pracāraṃ(ram) ||4|| tasmin nāgara vaṃśa śekhara maṇir niḥśeṣa-
+  śāstrāmvu(mbu)dhir jaineṃdrāgama vāsanārasa sudhā vidvāsthimajjā{8} bhavat |
+5. śrīmānaṃva(ba)ṭa saṃjñakaḥ kaliva(ba)hirbhūto bhiṣaggrāmaṇīr gārhasthyepi nikuṃcitākṣa pa(pra)saro{9} deśavratālaṃkṛtaḥ ||5|| yasyā-
+  vaśyaka karmma niṣṭhita mater niṣṭhā vanāṃtebha vannaṃtevāsi vadāhitāṃjali puṭā{10}-
+6. ścau[rāḥ] kṛtopāsanāḥ | yasyānanya samāna darśana guṇair anta[śca]matkāritā śuśrūṣāṃ vidadhe suteva satataṃ devī ca cakreśva[rī] ||6||
+  pāpākastasya sūnuḥ samajani janitāneka bhavya prapo(mo)daḥ prādurbhū-
+7. ta prabhūta pravimala dhiṣaṇaḥ pāradṛśvā śrutīnāṃ(nām) | sarvvāyurvveda vedī vihita sakala [rukkrāṃta] lokānukaṃpo |{11} ninnī(rṇṇī)tāśeṣa-
+  doṣaprakṛtirapagadastatpratīkārasāraḥ ||7|| tasya putrāstrayo bhūvanbhūri śā-
+8. stra viśāradāḥ | ālā{12}kaḥ sāhasākhyaśca lallukākhyaḥ paronujaḥ ||8|| yastatrādyaḥ sahaja viśada prajñayā bhāsamānaḥ svāṃtādarśa sphurita-
+  sakalaitihya tatvā[rtha] sāraḥ{13} | saṃvegādi sphuṭatara guṇa vya-
+9. kta sampa[rkka] bhāvaḥ taistair dana prabhṛtibhirapi [svo]payogīkṛtaśrīḥ ||9|| ādhā[ro] yaḥ svakula samiteḥ sādhuvarggasya cābhūddadhre
+  śīlaṃ sakala janatāhlādi rūpaṃ ca kāye | pātrī bhūtaḥ kṭayati [dhṛ]tīnāṃ ||{14}
+10. śrutānāṃ pri(śri)yāṃ ca sānaṃdānāṃ dhuramuda vahad bhogināṃ ca ||10|| yo ma[āthu]rānvaya nabha stala tigma[bhā]nor vyākhyāna raṃjita-
+   samasta sabhā janasya | śrī cchatrasena suguroś caraṇāraviṃda se-
+11. vāparobhavad ananyamanāḥ sadaiva ||11|| tasya praśastāmala śīlavatyāṃ helābhidhāyāṃ varadharmmapatnyāṃ(tnyām) | trayo va(ba)bhūvustanayā
+   nayāḍhyā vivekavaṃto bhuvi ratnabhūtāḥ ||12|| abhavadamala-
+12. vo(bo)dhaḥ pā(hu)kastatra pūrvvaḥ kṛta gurujana bhaktiḥ satku[śāgra]īya vu(bu)ddhiḥ{15} | jinavacasi yadīyapraśnajāle viśāle gaṇabhṛdapi
+   vimuhyetkaiva vārttāparasya ||13|| karaṇacaraṇarūpāneka-
+13. śāstra pravīṇaḥ parihṛta viṣayārtho dāna tīrtha pra[vṛtta]ḥ | śama niyamita citto jāta vairāgya bhāvaḥ kalikalilavi[mukto] pā(vā)sakī(vī)ya-
+   prabhāḍhyaḥ{16} ||14|| kaniṣṭhastasyābhūd bhuva[na] vidi[to] bhūṣaṇa iti śriyaḥ pātraṃ
+14. kāṃteḥ kulagṛhamupāyāśca vasatiḥ | sarasvatyāḥ krīḍāgiriramaluvu(bu)ddheratiranā(?){17} kṣamāvallyāḥ kaṃdaḥ pravitatakṛpāyāśca [ni]layaḥ
+   ||15|| smaraḥ saurūpye[ṇa] prava(ba)la [subha]gatvena śaśabhṛt kuveraḥ saṃpa-{18}
+15. tyā(ttyā) samadhika vivekena dhiṣaṇaḥ | mahonnatyā [meru]r jalanidhiragādhena manasā |{19} vidagdhatvenoccairya iha varavidyādhara iva [||16||]
+   jaineṃdrasā(śā)sana sarovara rājahaṃso maunīṃdra pāda kamala dvaya-
+16. caṃcarīkaḥ | niḥśeṣa[śā]stranivahodakanāthanakraḥ | sīmaṃtinīnayanakairaca(va)cārucaṃdraḥ ||17|| vidagdhajana vallabhaḥ sarasasāra[śrṃ]-
+   gāravān udāraś ca(ca)ritaś ca yaḥ subhaga saumya mūrttiḥ sudhīḥ | pra[sā]da-
+17. va(na)parānamadvaravilāśi(si)nīkuṃtalavyapa[ā*]stapadapaṃkajadvibha(ta)yareṇuratyunnataḥ ||18|| prathama dhava[la] prāye [cai]tye [ga]tepi
+   divaṃ punaḥ | kularathabharo yenaikenāpyasaṃbhramamuddhṛtaḥ | gurutaravipa-
+18. dgarttagrāvagra[hā]dudatāri ca sthiramatimahāsthāmnā nīto vibhūti gireḥ śiraḥ ||19|| dve bhā[rye] bhūṣaṇasya staḥ lakṣmīsī(śī?)-
+   līti viśrute | pativratatvasaṃyukte cāritraguṇabhūṣite ||20|[|*] sa sī(śī?)-
+19. likāyāmudapādi putrānsannāmayogyāngurudevabhaktaḥ | alokasādhāraṇaśāṃtimu[khyā]nsvavaṃdhu(bandhu)cittāvja(bja)vikā(sa)bhānūn ||21||
+   āyustaptamahīdhrasāranihitastokāmvu(mbu)vannasva(śva)raṃ{20}
+20. saṃcintya dvipakarṇṇacaṃcalatarāṃ lakṣmyāśca dṛṣṭvā sthitiṃ(tim) | jñātvā śāstrasuniścayātsthiratare nūnaṃ ya - - U{21} sī tenākāri
+   manoharaṃ jinagṛhaṃ bhūmeridaṃ bhūṣaṇaṃ(ṇam) ||22|| bhūṣaṇasya ka-
+21. niṣṭho(ṣṭhaḥ) śrīlallāka iti viśrutaḥ | devapūjāparo nityaṃ bhrāturādeśakṛtsa[dā] ||23|| [jyeṣṭho(ṣṭhaḥ)] pāhuka nāmā yaḥ 
+   srī(śrī)ukā{22}yāmajījanat | śubha lakṣaṇa saṃyuktaṃ putramamva(mba)ṭa saṃjñakaṃ(kam) ||24||
+22. varṣa sahasre yāte ṣaṭṣaṣṭyuttaraśatena saṃyukte | vikramabhānoḥ kāle sthali(lī)viṣayamavati {23}sati [vi]jayarāje ||25||
+   vikramasaṃvat 1166 vaiśākhasu(śu)di 3 some vṛṣabhanāthasya pratiṣṭhā ||cha||
+23. śrīvṛṣabhanāthanāmnaḥ prati[ṣṭhi]taṃ bhūṣaṇena viṃva(vimba)mida(dam) | utthūṇaka nagaresminniha jagatau(tyāṃ) vṛṣabhanāthasya ||23||
+   yugalam ||0|| tyryavṛttāt samārabhya vṛttā[nyo]tāni ṣoḍaśa | ādyavṛtte-
+24. na yuktāni kṛtavānkaṭuko vu(bu)dhaḥ ||27|| [bhā]jhallo vallavaṃse(śe)bhūttajjaḥ śrīsāvaḍo dvijaḥ | tatsūnorbhāṭu{24}kasyeyaṃ niḥśeṣāthāparā
+   kṛtiḥ ||28|| vālabhā{25}nvayakāyastharājapālasya
+25. sūnunā | saṃdhivigrahasaṃsthena llikhitā [vāmanena] vai ||29|| yāvad rāvaṇarāmayoḥ sucaritaṃ bhūmau janair ggīyate |{26} yāvadviṣṇupadī-jalaṃ
+   pravahati vyomnyasti yāvacchaśī | arha-
+26. dvaktravinirggataṃ śravaṇakaiḥ yāvat śrutaṃ paṭhyate tāvatkīrttiriyaṃ cirāya jayatātsaṃstūyamānāṃ(nā) janaiḥ ||30|| utkīrnnā(rṇṇā)
+   vijñānikusumākena{27} ||0|| maṃgalaṃ mahāśrīḥ ||{28}
+27. oṃ | lakṣmīnivāsanilayaṃ vilīnakila(kalu)ṣaṃ{29} nidhāya hṛdi vīraṃ(ram) | ātmānuśāṃśa(sa)namahaṃ va[kṣye] mokṣāya-
+   ruddhānāṃ(nām){30} ||1||{31} duḥkhādvi(dbi)bheṣi nitarāmabhivāṃcchasi sukhamatohamadhyātman | duḥkhāpahārisukha-
+28. karamanusā(śā)smi ta[vā]numa[ta]meva ||2|| yadyapi kadācidasminvipākamadhuraṃ tadātvakaṭu kiṃcit | [tvaṃ tasmānmā] bhaiṣīryathā-
+   turo bheṣajādugrāt ||3|| janā ghanāśca vācālāḥ sulabhāḥ [syu]rvṛthotthitāḥ | durla-
+29. bhā hyaṃtarārdrāste jagada[sra]jihīrṣavaḥ ||4|| parā[ya]ttātsukhād duḥkhaṃ svāyattaṃ kevalaṃ varaṃ(ram) | anyathā sukhinā[mā]naḥ kathamā[rttā]-
+   stapaśvi(svi)naḥ ||5|| upāyakoṭidūrasthe svatastata itonya[taḥ] | sarvvataḥ patanaprāye 
+30. kāye koyaṃ tavāgrahaḥ ||6|| avasyaṃ(śyaṃ) nasva(śva)rairebhirāyuḥ kāyādibhiryadi | sāsva(śāśva)taṃ padamāyāti sudhāyātamavaihi
+   te ||7|| gāṃtumucchā(cchvā)saniḥsvā(śvā)sairabhyasyatyeṣa saṃtataṃ(tam) | lokaḥ pṛ[tha]gito{32}vāṃcchatyātmā-
+31. [namaja*]rāmaraṃ(ram) ||8|| galatyāyuḥ prāyaḥ prakaṭitaghaṭīyaṃtraśa(sa)lilaṃ khaluḥ(laḥ) kāyopyāyuḥ gatimabhipatatyeṣa satataṃ(tam) |
+   kima[pya]nyairanyairdvayamayamidaṃ jīvitamiha sthito bhrāṃtyā nāvista(?)miva manuje sthāsnu maraṇaṃ{33}(ṇam) [ḥ*] ||9||
+   
+---------------------------------------------------------------------
+
+{1}	From impressions. The reading was also verified from personal examination of the record. 
+{2} Metre irregular, for which see n.8 on the next page. 
+{3} And not Upendravajrā, as taken by Halder. 
+{4} Expressed by a symbol which is preceded by what appears to be a symbol for siddham, followed by 
+	two daṇḍas. The mātrās and the anusvāra appearing above the line are ornamental. 
+{5} At the end of the line there is a symbol resembling the akṣara cha followed by two daṇḍas. 
+{6} The wrong form is used here, evidently for metrical exigency. 
+{7} The vertical stroke of the left limb of ma is faint in the impressions but it is clear in the facsimile accom-
+	panying Halder's article in Ep. Ind., Vol. XXI and also on the stone which I examined. 
+{8} Halder corrects it to jjo which is not necessary. 
+{9} The ninth akṣara of this foot is unnecessarily stressed by the following pra. but also see the Piṅgala
+	Sūtra prahre vā, according to which, it is not an offence. 
+{10} The strokes following this letter are redundant. 
+{11} The daṇḍa is redundant. 
+{12} The impression shows a dot above this letter; it may be a redundant stroke or a mātrā (?). It may 
+	 also have been ālokaḥ. 
+{13} The daṇḍa is redundant, as also some others below
+{14} What is at the end of the line is not a daṇḍa but only a flourish of the mātrā. This foot also involves 
+	 yati bhaṅga.
+{15} The adjective sat is redundant here. 
+{16} Probably here the poet intended to use prabhāvāḍhyaḥ, which would not suit the metre. 
+{17} There appear some scratching and over writing on this and the preceding two letters, making the reading 
+	 indistinct. Probably -ratiśayaḥ may have been intended. 
+{18} There are two redundant daṇḍas at the end of this line. 
+{19} There is a redundant stroke here. 
+{20} The sign of anusvāra, as also some others below, is represented by a hollow circle marked not over but 
+	 in continuation of the letter to which it belongs. 
+{21} These four akṣaras are totally mutilated and the space occupied by them shows that one more akṣara 
+	 may have originally been at first engraved and deleted later on. Probably what appears to have been 
+	 engraved is yaśaḥśreyasī. 
+{22} The reading of the first letter of the name is uncertain; it may be sīukā also, as read by Halder. 
+{23} Taking the second letter of this foot short, as engraved here, it would have 17 mātrās instead of 18, as 
+	 required. The name was sthalī and not sthali, which is used for the metre. 
+{24} This akṣara can also be read as du. 
+{25} This letter is mutilated and looks like mā but is restored here in view of the appears of the word in the 
+	 preceding record. 
+{26} The daṇḍa is redundant. Moreover, it is strange to note how Rāvaṇa's behaviour is called good here. 
+{27} Halder read the name as stamakaḥ, but to me what he took to be ta appears to be a mātrā. utkīrṇṇā is in 
+	 feminine as an adjective of kīrtti, meaning praśasti.
+{28} This is followed by a floral design and symbol resembling cha, between a double daṇḍa, as also the 
+	 first syllable in the next line. 
+{29} These three letters are much mutilated and are restored here from Halder's reading. Perhaps what is 
+	 intended is kalikaluṣaṃ. 
+{30} The reading of the last foot of the stanza is not free from doubt. Halder reads it as va(kṣye) jāyarudhyānāṃ(?), 
+	 and the editor of Ep. Ind. (p.40, n.) suggests that perhaps we have to read mokṣāya rodhyānā-. But what both of 
+	 them take to be mo is mutilated, and following it, kṣāya is clear. And the following letter, taken here 
+	 as ru may also be read as bha, but the next letter is not ktā to give the reading bhaktānāṃ. The reading 
+	 of the last letter too is equally doubtful; but compare the formation of the same word in 1.1 above. 
+{31} From here, the stanzas are numbered in the original as 1.2 and so on, and I have retained the same num-
+	 bers. But while showing the kind of metre above, they are taken as in continuation. 
+{32} Halder read prathamito and suggested its correction to prāthamiko. 
+{33} These three akṣaras are written on the left hand margin of II.25 to 22, with the sign of kāka pada before
+	 them, but the corresponding sign where they are to be supplied is not engraved. 
+	 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

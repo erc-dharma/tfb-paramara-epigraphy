@@ -1,0 +1,124 @@
+PennGlobal: PMR46
+Period: VS 1256 vaiśākha vadi 15
+Location: Bhopal
+Dynasty: Paramāra
+King: Udayavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 55 verses
+Metres: Verse 1-2 and 4-11 Anuṣṭubh; v.12 Indravajrā; vv.3 and Vasantatilakā; v.13 Śālinī; v.15 Puṣpitāgrā
+Gist: Donation of village to a dviveda Brahmana, the Purohita Maluhuśarman, of the Gargga gotra.
+Published reference: Trivedi (1978), no. 46.
+
+Text{1}
+
+First Plate
+
+1. om{2} || svasti jayobhyudayaśca || jayati vyomakeso(śo)sau yaḥ sarggāya vi(bi)bhartti tāṃ(tām){3} | aiṃdavī{4}
+2. si(śi)rasā lekhāṃ jagadvī(dbī)jāṃkurākṛtiṃ(tim) ||1|| tanvantu vaḥ smarārāteḥ kalyāṇamaniśaṃ{5} jaṭāḥ| ka-
+3. lpāntasamayoddāmataḍidvalayapiṃgalāḥ ||2|| paramabhaṭṭārakamahārājādhirājaparame-
+4. sva(śva)raśrīmadyaśovarmmadevapādānudhyātaparamabhaṭṭārakamahārājādhirājaparamesva(śva) -
+5. raśrīmajjayavarmmadevarājye vyatīte nijakarakṛtakaravālaprasādāvāptanijādhipa-
+6. tyasamastapraśastopetasamadhigatapaṃcamahāśavdā(bdā)la(ṃ*)kāravirājamānamahākumāraśrīmalla-
+7. kṣmīvarmmadevapādānudhyātasamastapraśastopetasamadhigatapaṃcamahāśavdā(bdā)laṃkāravirājamā-
+8. namahākumāraśrīhariścaṃdra{6}devasutaśrīmadudayavarmmadevo vijayodayī ||{7} viṃdhyamaṃḍale
+9. narmmada{8}purapratijāgaraṇakavoḍasirāsatkāṣṭacatvāriṃśanmadhye guṇaurā{9}grāmanivāsi-
+10. naḥ pratigrāmanivāsinaśca sa{10}mastarājapuruṣavi(vai)ṣayikapaṭṭakilajanapadādīnvrā(nbrā)hmaṇota(tta) -
+11. rānvo(nbo)dhayatyastu vaḥ saṃviditaṃ yathā ||{11} asmā[bhiḥ] śrīvikramakālātītaṣaṭpaṃcāsa(śa)dadhikadvāda-
+12. śasa(śa)tasaṃvatsarāntaḥprā(pā)ti aṃke 1256 vaiśākha su(śu)di-15 paurṇṇamāsyāṃ tithau visā(śā)khānakṣatre parighayo-
+13. ge ravidine mahāvaisā(śā)khyāṃ parvvaṇi guvāḍāghaṭṭe revāyāṃ snātvā sina(ta)pavitravāsasī paridhāya deva-
+14. ri(ṛ)ṣi{12} manuṣyānsaṃtarpya carācaraguruṃ bhagavantaṃ bhavānīpatiṃ samabhyarccya samitkusa(śa)tilānnāṣṭāhutibhirhira-
+15. ṇyaretasaṃ hutvā bhānavergha(rghya) vidhāya kapilāṃ triḥ pradakṣiṇīkṛtyopaspṛsya(śya) ca saṃsārasyāsāratāṃ dṛṣṭvā nalinī-
+16. dalagatajalalavataralataraṃ jau(yau) vanaṃ dhanaṃ jīvitaṃ cāvekṣya |{13} uktaṃ ca | vātābhravibhramamidaṃ vasudhādhipa-
+17. tyamāpātamātramadhuro viṣā(ṣa)yopabhogaḥ | prāṇāstṛṇāgrajalaviṃ(biṃ)dusamā narāṇāṃ dharmmaḥ sakhā parama-
+18. ho paralokayāne ||3|| bhramatsaṃsāracakrāgradhārā[dhārā*]mimāṃ śriyaṃ(yam) | prāpya ye na dadusteṣāṃ pascā(ścā)ttāpaḥ paraṃ pha-
+19. laṃ(lam) ||4|| {14}iti jagato vinasva(śva)raṃ rūpaṃ(pa)mākalaṣṭa(yya) mātāpitrorātmanaśca yasaḥ(śaḥ)pu-
+
+Second Plate
+
+20. ṇyaci(vi)vṛddhaye tilayavakuśodakapūrvva garggagotrāya garggasainyāṅgiraseti-
+21. triḥ(tri )pravarāya vājisaneyasākhine{15} agnihotṛyajñadharasutadvivedapurodhāsamālū(? lhū) -
+22. śarmmaṇe vrā(brā)hmaṇāya uparilikhitaguṇaurāgrāmo nidhinikṣepakalyāṇadhanasahitaḥ savṛkṣamālā-
+23. kulo(laś)catuṣkaṃkaṭavisu(śu)ddho vāpīku(kū)pataḍāgārāmanadīścota(sroto)vāḍa{16}vāṭikādyupayuktaḥ sarvvabhyantarasiddhyā
+24. saha yāvaccadradivākarasamudrasare(ri)daṣṭakulaparvvatāṣṭakulanāgāṣṭodigtajeccaupidra{17}siddhavidyādharādi-
+25. bhiḥ sahitā vasumatī tiṣṭa(ṣṭha)ti tāvacchāsa{18}nīkṛtya pradattaḥ | tadatra grāmanivāsipaṭṭakilādilokaista-
+26. thā karṣakaiśca yathotpadyamānabhāgabhogakarahiraṇyādikamājñāśravaṇavidha(dhe)yairbhūtvātragrāmīyaṃ sarvvama-
+27. smai pradātavyaṃ(vyam) | sāmānyaṃ caitatpuṇyaphalaṃ vudvā(buddhvā)smadvaṃśajairanyairapi bhāvibhoktṛbhirasmatppradattadharmmā(rmma)-
+   dāye(yo)-
+28. yamanumaṃtavyaḥ pālanīyaścā(śca |) yato(taḥ) | va(ba)hubhirvvasudhā bhuktā rājabhiḥ sagarādibhiḥ | yasya
+   yasya yadā bhū-
+29. mistasya tasya tadā phalam ||5|| bhūmiṃ yaḥ pratigṛhnā(haṇā)ti yastu bhūmi(miṃ) prayacha(ccha)ti |
+   ubhau tau puṇyakarmmāṇau niyatau(taṃ) sva-
+30. rgagāminau ||6|| śaṃkhaṃ bhadrāsanaṃ cchatraṃ varāsva(śvo) varavāhanaṃ(nam) | bhūmidānasya cihnāni
+   phalametatpura(raṃ)dara ||7|| harttā hā-
+31. rayitā bhūmi(miṃ) maṃdavudhi(buddhi)stamovṛtaḥ | sa va(ba)ddho vāruṇaiḥ pāse(śai)stiryagyoneḥ(niḥ) prajāyate ||8||
+   svadattā(ttāṃ) paradattāṃ ca yo{19} hareta vasuṃdha-
+32. rāṃ(rām) | ṣaṣṭivaṣa(rṣa)sahasrāṇā(ṇi) viṣṭā(ṣṭhā)yāṃ jāyate kṛmiḥ ||9|| suvaṇṇa(rṇṇa)mekaṃ
+   gāmekā(kāṃ) bhūmerapyekamaṃgula(lam) | haranvarakaśāptate{20} ya[ā]vadābha(bhū)-
+33. tasa(saṃ)plavaṃ(vam) ||10|| trīṇyāhuratidānāni gāvaḥ pṛthī(thvī) sarasvatī | āsaptama punaṃttye(tye)-
+   tā dohavāhanivedanaiḥ ||11|| yānīha dattā[ni purā nareṃ]-
+34. drairdānāni dharmmārthayasa(śa)skarāṇi | nirmmālyavāṃtipratimāni tāni ko nāma sādhuḥ pu-
+35. narādadīta ||12|| sarvvānetānbhāvinaḥ pārthiveṃdrānbhūyo bhūyo yā[ca]te rāmabhadraḥ | sāmā-
+36. nyoyaṃ dharmmaseturnṛpāṇāṃ kāle{21} kāle pālanīyo bhavadbhiḥ ||13|| madvaṃsa(śa)jāḥ parama-
+37. hīpativasa(vaṃśa)jā vā pāpānnivṛttamanaso{21} bhuvi bhāvibhūpāḥ | ye pālayāṃ(yaṃ)ti mama
+38. dharmmamahaṃ tu(nu ?) teṣāṃ pādāraviḍayugalaṃ7 si(śi)rasā nanā(mā)mi ||14|| ityārṣeyavacanakra-
+39. mamavagamya{22} kamaladalāmvuviṃ(mbubiṃ)dulolāṃ śriyamanucintya manuṣyajīvitaṃ ca | sa-
+40. kalamidamudāhṛtaṃ ca vudvā(buddhvā) na hi puruṣaiḥ parakīrttayo vilopyā iti(pyāḥ ||15||) iti ||
+   svahasto-
+41. yaṃ mahākumāraśrī{23} udayavarmmadevasya || dū{24} śrīmaṃḍalīkakṣemvarājaḥ | śrī[ḥ] || 
+
+---------------------------------------------------
+{1} From facsimiles accompanying Fleet's article in Ind. Ant., Vol. XVI.
+{2} Expressed by a symbol.
+{3} The correction as in the brackets and some others of this type have not been made by Fleet in his
+	transcript.
+{4} As stated above, almost all the lines have a single or double daṇḍa at the end; they are not noted
+	separately.
+{5} In place of this and the preceding letters, some other letters appear to have been engraved originally.
+{6} The parts of this letter appear to be disconnected.
+{7} This mark of punctuation is unnecessary, as also observed by Fleet.
+{8} The engraver first seems to have cut dā, and then erased the mātrā.
+{9} The last three letters in this name appear to have been corrected later.
+{10} This letter is so formed as to show a combination of the palatal and dental sibilants.
+{11} The daṇḍas are redundant.
+{12} Read devaṛṣi or devarṣi. Sandhi is optional here, according to the commentary in Pāṇinī VI, i, 128, as
+	 also noted by Fleet.
+{13} The punctuation marks are superfluous.
+{14} One of the circles forming this was omitted in the process of engraving.
+{15} Read vājasaneyaśākhine. It may also be noted that sometimes sandhi is not performed in the grant portion.
+{16} The word vāḍa is current in Mālvā, in the sense of product of water-side. The compound word thus
+	 means the product standing along the stream. Fleet corrected the word to vāḍa, which is a local word for 
+	 'fallow ground.'
+{17} Read -aṣṭadiggajendropeta. For the form of s(स्) at the beginning of this line, see n.10. on the last page.
+{18} The horizontal bar of this sibilant is omitted.
+{19} This and the preceding letter may together be read as cayo or cāyā, but the consonant of the first
+	 of them is definitely engraved as c(च्) and not v(व्).
+{20} Read harannarakamāpnoti.
+{21} This akṣara, which is just before the rectangle containing the figure of Garuḍa, is followed by a kāka-
+	 pada, to attract attention to what follows in the same line.
+{22} This prose portion is written before the verse which begins with iti, and the visarga of the last word
+	 of it is dropped in consideration of the following.
+{23} Sandhi is not observed here as in a number of similar examples, for instance, with śrīudayāditya in many
+	 inscriptions, above.
+{24} This is an abbreviation of dūtaka. maṃḍalīka is probably the same as Maṇḍloī of the modern times.
+	 
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

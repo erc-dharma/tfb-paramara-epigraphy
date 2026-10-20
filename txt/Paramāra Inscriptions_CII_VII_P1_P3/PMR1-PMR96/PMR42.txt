@@ -1,0 +1,89 @@
+PennGlobal: PMR42
+Period: VS 1216 caitra vadi 12
+Location: Vidiśā
+Dynasty: Paramāra
+King: Trailokyavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 15 verses
+Metres: Verse 1-2(lost partially or wholly), 5-6, 8, 13 and 15 Anuṣṭubh; vv.3 and 9 Vasantatilakā; v.7
+		Sragdharā; v.10 Mandākrāntā; vv.11 and 14 Śikhariṇī; v.12 Rathōddhatā.
+Gist: Object is construction of Viṣṇu temple and founding of garden.
+Published reference: Trivedi (1978), no. 42.
+
+
+
+Text{1}
+
+Metres{2}
+
+1. ----------- ||1||-------....... ye[nābhū]dbhūbhujā jātolaṃkaraṇa-
+2. nirmmale U - ||2|| pādānaja ------{3} [vā]ndurvvāraśociḥ śuciṃ yaṃ sarvve yugapad guṇā guṇanidhi prāpya pratiṣṭhāṃ yayuḥ
+  ||3|| mūlaṃ yaśoviṭapinaḥ phalamindi-
+3. rāyā mārggandivaḥ pravahaṇaṃ bhavasāgarasya | socīkaratkumudava(ba)ndhusava(ba)ndhukāntikāntamva(taṃ va)rāhavapuṣaḥ sadanaṃ mu[rāreḥ*] ||4||
+  ˍUˍUˍUˍUU--ˍU,ˍUˍU bhānuṃ [vi]śaṃ(śan) śasī(śī) | sṛ(śṛ)ṅgasiṃha{4bhayabhraṣṭasāraṅga iva lakṣyate ||5|| vividhāyudhavinyāsavasa
+ (śa)jātābhidhābhidāḥ | vi[śva]mūrtterimā mūrttīḥ{5} so-
+4. syāntaḥ pratyatiṣṭhipat ||6|| sosrākṣīdvetravatyāstaṭabhuvi viṭapairvva(bba)ndhuraṃ candravaṃ(baṃ)dhorastrā[bhyā] saikavesma(śma) drumakusumarajo
+  - U - - U - ˍU{6} | [u]dyāna[ṃ]phullavallīparisaravisarallolarolaṃva(ba)mālajhaṃkārodgārajātasphuṭavikaṭadhanuḥsphāraṭaṃkāraśaṃkam ||7||
+  puṣpavantīmapi latāmapi [śli]-
+5. ṣṭamadhuvratām | ta(tya)janti munayo yatra nīrāgamanasojjaṭāḥ{7} ||8|| unnidrakorakabharaskhalitai rajobhirāpiṃjarāsu taruṣa(kha)ṇḍatala-
+  sthalīṣu | viśrā[ta ?]ṇaṃ vvrajanagīta{8}manūdgiranti kīrā yadīyamuparīha yaśastarūṇām ||9|| vakṣaḥ sphāraṃ sphuritarucinā kaustubhe[ne]va
+  viṣṇoścaṃdreṇe[va]
+6. skhalitatamasā [vyoma]{9} sīmānabhijñam | yenāgādhaṃ sara iva [la]satpuṇḍarīkeṇa so(śo)bhāṃ lebhe viṣvagvitatayaśasā gotramunnidragotram
+  ||10|| adarpyo(?) vettyarthānparicarati mānyānakuṭilaḥ kṣamāvāsagrāmā{10} jayati guṇavānyo vitarati | U-----U talapati
+  --UUUˍU,U-----
+7. daparamapi nāsya vyavahitaṇ ||11|| kaustabhastava(ba)kitaṃ hareruraḥ śaṃkarasya vidhuvaṃ(baṃ)dhuraṃ śiraḥ | asti yāvadīha tāva[dastva]{11}daḥ
+  kaularūparavibhā U– sadaḥ ||12|| trailokyavarmmanṛpatiḥ sthitamuttarapaṭṭake | ˍUˍUˍUˍUU--ˍU,ˍUˍUˍUˍUU-U,ˍU||13||
+  .............prati .. la..
+8. bhāṇḍaṃ prativṛṣabhāra[ṃ] viso(śopakamekakañca dadau ||{12} alaṃkārasphārāṃ sphuritaśucivṛttād guṇavatīṃ prasa(śa)sti satkāntāmiva ka iha
+  kaṇṭhe na kurute | asau yasyāmāryadvijakulasi(śi)rogā UUU-,U-----UUUUU--UUUˍU ||14||ˍUˍUˍU |ˍU
+  na --ˍU, likhitā [sthā ?] nakīrttidā{13} | utkīrṇṇā vāsude[ve]-
+9. na sūtradhāreṇa dhīmatā ||15|| samva(saṃva)[t] 1216 caitra vadi 12 | siddheya(yam) | śivamastu maṅgalaṃ mahāśrīḥ ||
+
+----------------------------------------------------------------------------
+{1} From impressions.
+{2} All the letters from the beginning of the extant portion of the inscription now available.
+{3} All the letters from the beginning of the extant portion are either totally or partially lost and a line has
+	been used here to denote the complex break of the stone and the dots to show that the letters are partially
+	visible.
+{4} It is an architectural term denoting the figure of a lion carved on the upper part of a temple. The figure
+	used here is utprekṣā, implying that the dark spot in the moon disappears, as if, the hare existing in it
+	has slipped off because of the fright from the lion appearing (carved) on the temple. This is to indicate
+	poetically the height of the temple.
+{5} The dictionary meaning of Viśva mūrti is 'existing in all forms' or 'all-pervading', and it generally denotes
+	the Sun, e.g. in Bhavabbhuti's Mālatīmādhava, I, v.3. But this deity in human form is always shown as
+	holding lotus in both his hand, which cannot be applicable here for changing the āyudhas, as stated in the first
+	half of the verse, and therefore the word here signifies Viṣṇu. One of the forms of the Sun. For details see
+	B. Bhattacharya: Indian Images, Pt. I, p.19. In this sense the word is used also below, in No.149, v.1.
+	The verse means to say that the King installed images of Viṣṇu which were distinguished from each other
+	by the way in which the āyudhas were found distributed among their four hands. See T. A. Gopinath
+	Rao: Indian Iconography, Vol.I, Pt,I(1914)pp.227 ff.
+{6} The lacunae may be filled in by -rañcitāśāntarālaṃ.
+{7} The correct word is puṣpavatī as in puṣpavatīm api pavitrāṃ in the Kādambarī. This verse has the figure
+	virodhābhāsa by the double meanings of puṣpavatī and madhuvratā.
+{8} The reading is certain but it gives no meaning. If vidrāvaṇaṃ is intended, it gives the sense of 'a song
+	of his march for conquest which would put (his enemies) to flight'.
+{9} The first of the letters in the brackets is deformed and the second appears as ga in the impression.
+{10} The second akṣara in this pāda is not clear. Before sa there is a horizontal short stroke and it is not
+	 known if it is intended for n. The meaning is not clear.
+{11} Both these akṣaras, along with the last two in this verse, are damaged, and their restoration is conjectural.
+{12} The daṇḍas are adorned with top strokes and placed near the mātrā of dau.
+{13} Portions of this and the preceding verse are obliterated; they are all lost on the stone, only leaving the
+	 marks of their existence before. The reading of the letter in the brackets is not certain. The upper curves
+	 of the mātrās of Kīrtti do not appear to have been engraved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

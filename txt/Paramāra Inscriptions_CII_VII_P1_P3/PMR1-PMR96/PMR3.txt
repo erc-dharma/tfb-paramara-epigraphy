@@ -1,0 +1,78 @@
+PennGlobal: PMR3
+Period: VS 1026 āśvina vadi 15
+Location: Kairā
+Dynasty: Paramāra
+King: Sīyaka
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 5 verses
+Metres: Verse 1 Anuṣṭubh; v.2 Indravajrā; v.3 Vasantatilakā; v.4 Śālinī; v.5 Puṣpitāgrā
+Gist: Land grant from the time of Sīyaka
+Published reference: Trivedi (1978), no. 3.
+
+Text{1}
+
+1. sāmānyaṃ caitat puṇya phalaṃ vu(bu)ddhvāsmad vaṃśajair anyair api bhāvi bhoktṛbhir asmat pradatta dharmma dāyoya-
+2. ma[nu]ga(ma)ntavyappā(vyaḥ pā)lamī(nī)yaś a(ś ca) [|*] uktaṃ ca bhaga[va*]tā vyāsena [|*] va(ba)hubhir vvasudhā bhuktā rājabhiḥ
+  sagarādibhiḥ | yasya yasya
+3. yadā bhūmi[s t]sya tasya tadā phalaṃ(lam) |[|1||*] yānīha dattāni purā nare[n*]ddrair ddanāni dharmmārtha yaśaṣ ka(s ka)rāṇi [|*] nimmā(rmma ) -
+4. lyavā[ntaḥ]{2}pratimāni tāni ko nāma sādhuṣpu(dhuḥ pu)nar ādadīta ||[2||*] asmat kulakramam udāram udāharadbhir anyai-
+5. śca dāma(na)m idam abhyanumodanīyaṃ(yam) | lakṣmyāst{3}aḍit salila vudvu(budbu)da ca(caṃ)calāyāḥ{4} dāna(naṃ) phalaṃ parayaśa-
+6. ṣpa(ḥ pa)ripālanaṃ ca ||[3||*] sarvvān etān bhāvinaṣ pā(ḥ pā)rthi[ve]ndrādbhū(n bhū)yo bhūyo yāce(ca)te rāma bhadraḥ | sāmā[nyo]{5}-
+7. ya(yaṃ) dharmma{6} setur nṛpāṇāṃ |{7} kāle kāle pālanīyo bhavadbhiḥ ||[4||*] iti kamala dalāmvu(mbu){8} uvi(bi)ndu lolāṃ [śri]-
+8. yam anucintya manuṣya jīvita(taṃ) ca |{9} sakalamidam udāhṛta(taṃ) ca vu(bu)ddhvā na hi puruṣai{10}ṣpa(ṣaiḥ pa)ra kīrtta-
+9. yo vilopyāḥ |[|5||*] iti | saṃ 1026 āśvina vadi 15 [|*] svayam ājñā | dāpakaś cātra kanhapaikaḥ |
+10. śrīsīyakasya sva hastoyaṃ(yam) |
+
+--------------------------------
+
+{1} From facsimile facing p.178 in Epi. Ind., Vol.XIX, and also from the original
+{2} The visarga redundant
+{3} This akṣara looks like yta (य्त). (or, ytaḥ (य् तः))
+{4} The visarga is not dropped here
+{5} This letter has disappeared, leaving some traces
+{6} The horizontal bar of the superscript of this letter is not carved
+{7} This daṇḍa is superfluous
+{8} The superscript of this letter appears as n.
+{9} This daṇḍa is so close to the preceding letter as to look like a mātrā attached to it.
+{10} In this letter, the middle slanting bar is missing; on the other hand, it is seen in the following प(pa), making
+     it appears as ष(ṣa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

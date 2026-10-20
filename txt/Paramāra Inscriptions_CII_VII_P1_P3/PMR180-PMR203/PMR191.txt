@@ -1,0 +1,26 @@
+PennGlobal: PMR191
+Period: VS 1269 phālguna vadi
+Location: Ajaygaḍh
+King: Trailokyavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Discusses the victorious reign of King Trailōkyavarman. 
+	The object of the inscription cannot be made out.
+Published reference: Trivedi (1989), no. 191.
+
+Text{1}
+
+1. siddham{2} [|*] saṃvat 1269{3} phālguna vadi --{4} śanau rājaśrītrailokyava-
+2. rmmadevavijayarājye{5} .... .... ....
+
+--------------------------------------
+
+{1} From plate in Cunningham's A. S. I. R., Vol. XXI.
+{2} Expressed by a symbol.
+{3} The first of these figures is broken, but the reading is absolutely certain.
+{4} The figure for the day is obliterated.
+{5} The rest of the inscription is obliterated.
+
+
+अजयगढ़ Ajaygarh (Madhya Pradesh). Ajaygaḍh Stone Inscription of the time of Trailōkyavarman

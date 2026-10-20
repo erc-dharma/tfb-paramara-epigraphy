@@ -1,0 +1,74 @@
+PennGlobal: PMR87
+Period: VS 1159
+Location: Arthūṇā
+Dynasty: Paramāra
+King: Cāmuṇḍarājā
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 16 verses.
+Metres: Verses 1-2, 11-13, 15 Upajāti; v. 3 Āryā; vv.4-9, 14, 16 Anuṣṭubh; v.10 Mālinī
+Gist: To record the construction of a Jain Temple.
+Published reference: Trivedi (1978), no. 87.
+
+Text{1}
+
+1. siddhiḥ{2} || oṃ namo vīta rāgāya || yat pāda padmaṃ{3} bhajate{4} jitābho rekhācchalād vārija padma varggaḥ [|] sadāśivaṃ taṃ vṛṣabhe[ndra*]{5}-
+2. nāthaṃ stuve jaṭā maṃḍala maṃḍitāṃgam{6} ||1|| śrīmāthu[rīyojani]{7} jātarūpaḥ saṃpanna kāṃtyā jita jāta[rūpaḥ] | guṇāṃvu(bu)dhiryo gu-
+3. ṇināmadhe[yaḥ]{8} śrīsenanirvyājakanāmadheyaḥ ||2|| śrīsenacchatrasenau yadguruśuṣyau kramādi[vābhūtām]| -------{9}
+4. kṣamau śāṃtau taṃ prasa(śa)ma(?)nadhāriṇam{10} ||3|| caṃdrakarāvadātontaḥ suvarṇṇa varṇṇa dīdhitiḥ | sauvarṇṇikānvaye khyāto vivu(bu)-
+5. [dhaḥ]{11} sthalimaṃ(ḍale) ||4|| [cāhilla]statsutaḥ{12} sujñaḥ kalāsu kuśalobhavat | māṇikya marmma vijñātā dayālur ddharmma śīlavān
+    ||5||
+6. sā[ma?]ˍUˍU U - - ˍU, jiyikā(?)sya mahā U - | ramyā cāritrato gaurīpsitā saktaśivālayā{13} ||6|| sukulo ˍU U
+7. - - ˍU, ˍUˍUˍUˍU U - U ˍU [|*] ta[smād guha]{14} i[vo]tpatra(nna)ḥ lokatraya hitāvahaḥ ||7|| nisarggato dayāsteyasamyagdṛṣṭi U
+8. - U -{15} | ˍUˍUˍUˍU U - - ˍU , śakto dānarataḥ sadā ||8|| kaṭukā[sā(ṣā)]yuke dharmmye{16} asyā[bhūdaca]le [śubhe] |
+   samyagdṛṣṭī-
+9. U - - ˍU, ˍUˍUˍUˍU U - U vān{17} ||9|| atha nṛpatilakerimanvu(nbu)ddhicāṇakyatutye guruvivu(bu)dhavu(bu)dhānāmāśrayesadgu-{18}
+10. - - | U U U U U U - - - U - taṅgasiṃ[he*] sujayati paramāre rājñi cāmuṇḍarāje ||10|| yaśonvitaṃ padmapalāsa(śa)-
+11. [netraṃ*], ˍU - U - - U U - U - ˍU | ˍU - U - caṃcalamevametadāyuśca vittaṃ ca sukhaṃ ca tucchaṃ |||11|| strīṇāṃ kalā-
+    lāpamadhusmi[taṃ*]ˍU, U - U - - U U - U -
+12. [ca] | vakṣaḥ kucālaṃkṛti[se]vakāṃtā(?) vipākakiṃpākaphalopamānāḥ ||12|| itīha kīrttyuddhara[ṇāya*]
+13. - ˍU, ˍU - U - -{19}ddharaṇocitasya | prāsādamuttuṃgasalakṣaṇaṃ ca svarggasya sopānamiva prasannaṃ(nnam) ||13||----------
+14. ------ kāritarāṃ tena saṃprāptaṃ janmanaḥ phalaṃ(lam) ||14|| paṃcakulakaṃ(kam){20} | vaśā(?)nvaye nirmmalavedavṛtte
+    vikhyā[ta*] - -
+15. U nayo U - - | ˍU - praśāmta(nta)ḥ sa kavirvvidhātā vākyārthavettā paramārthato yaḥ ||15|| saṃvat 1159 |
+    sa meruḥ saṃ[sthi*]-
+16. [to] yāvatsavi[tā ca prakāśate |]{21} [tāvat] kīrttiriyaṃ śubhrā naṃdatādadhikādhikaṃ(kam) ||16|| ------{22}
+
+-------------------------------------------------------------------
+
+{1} From the original stone and inked impressions. Besides the one supplied by the Curator of the Rāj-
+	putānā Museum, Ajmer, I had another impression from the Curator of the Indore Museum, and being 
+	better, it was helpful to me in solving some points of doubt. 
+{2} Denoted by a symbol. 
+{3} The sign of anusvāra has been ornamentally treated. 
+{4} The first syllable of this word is rather crisped and the consonant of the third appears as s due to a re-
+	dundant stroke of the chisel in the beginning. 
+{5} Letters which are totally or partially lost at the beginning or end of a line but can easily be made out 
+	from the context are put in brackets marked with asterisks. 
+{6} The sign of anusvāra over ma of maṃḍita is so lightly engraved as to be seen only on the original. 
+{7} These four letters are supplied from the traces left. The akṣara just before the bracket may also have 
+	been dhu but should be taken as thu to show that he came from Mathurā, as we also find in No.90, v.11 
+	below. 
+{8} The reading is not certain and the meaning of the last word is also unknown. Probably adhīẹsaḥ is intended.
+	The name of the person is of course mentioned in the fourth foot of the verse. 
+{9} The metre of this verse is regulated by the number of syllabic instans (mātrās) and therefore the number of the 
+	akṣaras lost here cannot be definitely made out. Similarly, it is not possible to ascertain in certain cases 
+	of gaps as to how many of the akṣaras are lost at the end of a line and how many in the beginning of 
+	the next line. 
+{10} The first two syllables of the compound word appear also as supta. The reading here is uncertain. 
+{11} Some other akṣara appears to have been engraved at first and then corrected, by overwriting. The reading 
+	 is from the traces left. 
+{12} The reading of the bracketed letters is doubtful. 
+{13} The construction is grammatically incorrect. 
+{14} The reading of both these akṣaras is doubtful. The consonant of the first also appears as s and that 
+	 of the second as bh, but this would give no name. 
+{15} The gap may be filled in by samanvitaḥ.
+{16} This probably signifies Jainism in the present concern. 
+{17} The sign of visarga was at first engraved here and later on struck off by a cross mark above.
+{18} To restore as sadguṇābdhau. A trace as of the fore part of ṇa is visible at the end of the line. 
+{19} All these letters are partly lost and the reading may also have been -ddharaṇapraśasyaṃ(syam). The whole lacunae 
+	 be filled in by cakre jinasya duḥkhoddharaṇocitasya, or kṣamsya. 
+{20} More than half of v.14 is lost. Kulaka is a number of verses from 5 to 15 and the whole forming one 
+	sentence, to be taken here as one part of the inscription. 
+{21} Reading from the traces left. 
+{22} There are 15 letters in the end, all mutilated. They may be read as -[gnasthi]ḥ sajjanauddharaṇasu(sū)tra-dyeta |

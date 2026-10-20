@@ -1,0 +1,71 @@
+PennGlobal: PMR41
+Period: Undated
+Location: Bhopal
+Dynasty: Paramāra
+King: Lakṣmīvarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records that feudatory of Lakṣmīvarman, s/o Yaśovarman, brother  of Jayavamran, 
+	  gained victory over an enemy in battle.
+Published reference: Trivedi (1978), no. 41.
+
+
+Text{1}
+
+First Side
+ 
+1. om{2} svasti || śrīrjayo abhyudayaśca{3} || śrīparama[ā]-
+2. rānvaye samastaparikriyāvirājamāna ||{4}
+3. mahākumāraśrīla[smī(kṣmī)]varmmadevapra[khā ?]tā{5}
+4. [śrīadhi ?]droṇācāryānvaye mahārājapu-
+5. traśrīajayapāladeva[putra]mahārāya(ja)putra -
+
+Second Side
+
+6. śrīpīthanadevastatputramahārājaputraśrī-
+7. tejovarmmadevasa(s)tatkaniṣṭhabhrātṛ[vya]{6} -
+8. śrīvijayasiṃhena saṃhatya ca saṃdatya{7} ||
+9. rāṣṭrakūṭānvaye rājaputraśrīvaddige-
+10. na saha saṃjātayuddhesva(ṣva)rivijayaṃ(yaḥ) kra(kṛ) -
+
+Third Side
+
+11. tamiti(ta iti ||) kṛtiriyaṃ [rā]maputra[śrī]vija-
+12. yasiṃhasya || tadanvayaḥ rā{8} (?) || pālheka[rā]-
+13. vālheka rā | - ta - - - | - - - - - ||
+14. ka - dhalā vā - - - - maṃḍale{9} rālāgrāma-
+15. ḥ - kkāṃ pra[kṣi]pyata sa tena prāpta[ḥ*] ||{10}
+
+
+------------------------------------------------------
+
+{1} From impressions.
+{2} Expressed by a symbol.
+{3} The sign of the superscript on ja is faintly visible. The whole expression to be amended to -jayobhyu-.
+{4} The sign of punctuation is superfluous; and the word has to be amended to prakriyā, meaning 'the bearing
+	of royal insignia'.
+{5} The last but one letter in this line is not well engraved and also mutilated. It does not give any intelligible
+	sense. Possibly the whole word has to be read as prakhyātaḥ as suggested by Katare, or pra[sā]dāt.
+{6} This is as read by Katare. It is also possible that the whole word may have been bhrātṛja, as traces
+	indicate. The letter ta before kaniṣṭha is engraved as tka.
+{7} The punctuation mark is superfluous. Moreover, the intended sense is unintelligible to me. Katare reads
+	saṃva(ba)dhya in the sense of matrimonially connected, but the second letter is clearly da and not va, and
+	the use of ca between the two words to be connected presents a difficulty here if we agree with him.
+{8} This appears to be a contraction of rāṇaka.
+{9} The akṣaras giving the name of the maṇḍala are mutilated beyond recognition.
+{10} As stated above, the fragmentary state of the inscription does not enable us to have any sense out of the
+	 last four lines. It is also surprising that the poet's name is mentioned before this portion and not in the 
+	 end, as is usually the case.
+
+
+
+
+
+
+
+
+
+
+
+

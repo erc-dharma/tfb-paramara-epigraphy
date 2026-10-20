@@ -1,0 +1,113 @@
+PennGlobal: PMR49
+Period: VS 1275, full moon day of Bhādrapada
+Location: Sehore
+Dynasty: Paramāra
+King: Arjunavarman
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 24 verses
+Metres: Verses 1-19; 21-22 Anuṣṭubh; v.20 Vasantatilakā; v.23 Śālinī; v.24 Puṣpitāgrā
+Gist: Donation of a village
+Published reference: Trivedi (1978), no. 49.
+
+Text{1}
+
+om{2} | namaḥ puruṣārthacūḍāmaṇaye dharmāya |
+pratibimbanibhād bhūmeḥ kṛtvā sākṣāt pratigraham |
+jagadāhlādayan diśyād dvijendro maṅgalāni vaḥ ||1||
+jīyāt paraśurāmo'sau kṣatraiḥ kṣuṇṇaṃ raṇāhataiḥ |
+sandhyārkabimbamevorvīdāturyasyaiti{3} tāmratām ||2||
+yena mandodarībāṣpavāribhiḥ śamito mṛdhe |
+prāṇeśvarīviyogāgniḥ sa rāmaḥ śreyase'stu vaḥ ||3||
+bhīmenāpi dhṛtā mūrdhni yatpādāḥ sa yudhiṣṭhiraḥ |
+vaṃśādyenendunā jīyāt svatulya iba nirmitaḥ ||4||
+paramārakulottaṃsaḥ kaṃsajinmahimā nṛpaḥ |
+śrībhojadeva ityāsīn nā sīra{4}kāntabhūtalaḥ || 5||
+yadyaścandrakodyote digutsaṅgataraṅgite |
+dviṣannṛpayaśaḥpuñjapuṇḍarīkairnimīlitam ||6||
+tato'bhūdudayādityo nityotsāhaikakautukī |
+asādhāraṇavīraśrīraśrīheturvirodhinām ||7||
+mahākalahakalpānte yasyoddāmabhirāśugaiḥ ||
+kati nonmūlitāstuṅgā bhūbhṛtaḥ kaṭakolbaṇāḥ ||8||
+tasmāc chinnadviṣanmarmā naravarmā narādhipaḥ |
+dharmābhyuddharaṇe dhīmānabhūt sīmā mahībhujām ||9||
+pratipratiprabhātaṃ viprebhyo dattairgramapadaiḥ svayam |
+anekapadatāṃ ninye dharmo yenaikapādapi ||10||
+tasyā'jani yaśovarmā putraḥ kṣatriyaśekharaḥ |
+tasmādajayavarmā'bhūd jayaśrīviśrutaḥ sutaḥ ||11||
+tatsūnurvīramūrdhanyo dhanyotpattirajāyata |
+gurjarocchedanirbandhī vindhyavarmā mahābhujaḥ ||12||
+dhārayoddhṛtayā sārdhaṃ dadhāti sma tridhāratām |
+sāyugīnasya yasyā'sistrātuṃ lokatrayīmiva ||13||
+tasyā''muṣyāyaṇaḥ putraḥ sutrāmaśrīrathā'śiṣat |
+bhūpaḥ subhaṭavarmeti dharme tiṣṭhan mahītalam ||14||
+yasya jvalati digjetuḥ pratāpastapanadyuteḥ |
+dāvāgnicchadmanā'dyāpi garjan gurjarapattane ||15||
+devabhūyaṃ gate tasmin nandano'rjunabhūpatiḥ |
+doṣṇā dhatte'dhunā dhātrīvalayaṃ valayaṃ yathā ||16||
+bālalīlāhave yasya jayasiṃhe palāyite |
+dikpālahāsavyājena yaśo dikṣu vijṛmbhitam ||17||
+kāvyagāndharvasarvasvanidhinā yena sāmpratam |
+bhārāvatāraṇaṃ devyāścakre pustaka vīṇayoḥ ||18||
+yena trividhavīreṇa tridhā pallavitaṃ yaśaḥ |
+dhavalatvaṃ dadhustrīṇi jaganti kathamanyathā ||19||
+
+sa eṣa naranāyakaḥ sarvābhyudayī pagārāpratijāgaraṇake narmadottarakūle hathiṇāvaragrāme pūrvarājadattāvaśiṣṭāyāṃ bhūmau
+samastarājapuruṣān brāhmaṇottarān pratinivāsipaṭṭakilajanapadādīśca bodhayati |
+astu vaḥ saṃviditaṃ śrīmadamareśvaratīrthāvasthitairasmābhirdvisaptatyadhikadvādaśaśatasaṃvatsare bhādrapadapaurṇamāsyāṃ candroparāgaparvaṇi
+revākapilayoḥ saṅgame snātvā bhagavantaṃ bhavānīpatiṃmoṅkāraṃ lakṣmīpati cakrasvāminaṃ cā'bhyarcya saṃsārasyā'sāratāṃ
+dṛṣṭvā | tathāhi |
+
+vātābhravibhramamidaṃ vasudhādhipatyam
+āpātamātramadhuro viṣayopabhogaḥ |
+prāṇāstṛṇāgrajalabindumamā narāṇāṃ
+dharmaḥ sakhā paramaho paralokayāne ||20||
+iti sarva vimṛśyā'dṛṣṭaphalamaṅgīkṛtya muktāvasthūsthānavinirgatāya vājasaneyaśākhādhyāyine kāśyapagotrāya kāśyapāvatsāranai-
+dhruvetitripravarāyā''vasathikadelhaprapautrāya paṇḍitasomadevapautrāya paṇḍitajaitrasiṃhaputrāya purohitapaṇḍitaśrīgovindaśarmaṇe brāhmaṇāya
+bhūmiriyaṃ catuḥkaṅkaṭa{5}viśuddhā savṛkṣamālākulā sahiraṇyabhāgabhogā soparikaraghaṭṭādāyalavaṇādāyetyādisarvādāyasametā sanidhinikṣepā
+mātāpitrorātmanaśca puṇyaśobhivṛddhaye candrārkārṇavakṣitisamakālaṃ yāvat parayā bhaktyā śāsanenodakapūrvaṃ pradattā |
+tan matvā tannivāsipaṭṭakilajanapadairyathādīyamānabhāgabhogakarahiraṇyādikamājñāvidheyairbhūtvā sarvamamuṣmai dātavyam |
+sāmānyaṃ caitatpuṇyaphalaṃ budhvā'smadvaṃśajairanyairapi bhāvibhoktṛbhirasmatpradattadharmā(rma)dāyo'yamanumantavyaḥ pālanīyaśca |uktaṃ ca |
+
+bahubhirvasudhā bhuktā rājabhiḥ sagarādibhiḥ |
+yasya yasya yadā bhūmistasya tasya tadā phalama ||21||
+svadattāṃ paradattāṃ vā yo hareta vasundharāṃ |
+sa viṣṭhāyāṃ kṛmirbhūtvā pitṛbhiḥ saha majjati ||22||
+sarvānevaṃ bhāvino bhūmipālān
+bhūyo bhūyo yācate rāmacandraḥ |
+sāmānyo'yaṃ dharmaseturnarāṇāṃ
+kāle kāle pālanīyo bhavadbhiḥ ||23||
+iti kamaladalāmbubindulolāṃ
+śriyamanucintya manuṣyajīvitaṃ ca |
+sakalamidamudāhṛtaṃ ca budhvā
+
+na hi puruṣaiḥ parakīrtayo vilopyāḥ ||24|| iti | saṃvat 1272 bhādrapada sudi 15 budhe | cha | śrī
+mu 3 | racitamidaṃ mahāsāndhi० rājāsalakhaṇasammatena rājaguruṇā madanena |
+svahasto'yaṃ mahārājaśrīarjunavarmadevasya |
+utkīrṇa paṃ{6} vāpyadevena |
+
+---------------------------------------------------------------
+
+{1} As transcribed by Hall in J. Am. Or. Soc., Vol.VII, pp.25 ff. His transcript is not line by line.
+{2} Probably denoted by a symbol.
+{3} In the preceding grant the seventh syllable was read as yō.
+{4} Perhaps nāsīra is intended to be one word here. It means the front of an army. ALong with the fourth
+	part, it may be translated as one who has subdued the earth; and if this word is split up into two, it
+	means a man (nā) who overpowered the world as the Sun (sīra). In No.47 we have āsīmakrāntabhūtalaḥ.
+{5} Reas catuṣkaṅkaṭa,
+{6} i.e., Paṇḍita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+PennGlobal: PMR70
+Period: VS 1240 vaiśākha śudi 3
+Location: Ajhārī
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Refers to the victorious reigns of Dhārāvarṣa at Chandrāvatī. 
+	  During his reign, a arahaṭṭa ( machine well) was donated by the prince Pālhaṇadeva, 
+	  the younger brother of Dhārāvarṣa  and the crowned queen Sīgāradevi, 
+	  (who was), The daughter of the Chāamāna donated a lamp.
+Published reference: Trivedi (1978), no. 70.
+
+
+Text{1}
+
+1. oṃ || saṃ 1240{2} vaiśāṣa(kha)su(śu)di 3 some adye-
+2. ha candrāvalyāṃ(tyāṃ) śrīdhārā{3}varṣadevavijayajājye
+3. śrīpālhaṇadevakumāra paṭarāṇī śrīsīṃgāradevi{4}-
+4. --mahaṃ . [vāṃ]vaḍi{5} ājāharīgrāmavāstavya aicāu{6}śrī
+5. --arahaṭṭa rā . jagadeva mahaṃ . āsala talā . mo-
+6. --haṇa bhāṃbhīya māhila{7} sakala ābhāvyaṃ [kūri?]{8}
+7. --kāḥ bhuktīḥ || dīpayā(pā?)trābhāvyaṃ samei pulī-
+8. --kāvalī 	. . .		. . .	 . . .		. . .
+9. . . .   	cā 	 . . . . 	 gā 	 . . .
+10. --rīdha ju koī pujārai vārai vā ita{9}
+11. . . .	. . . 	. . .	. . .	. . .
+
+---------------------------------------------------
+
+{1} From an impression, which is not very distinct.
+{2} The unit figure is mutilated and it is acertained from Bhandarkar's reading the same.
+{3} A scratch above the letter makes it appear as rī.
+{4} Read śṛṅgāradevī-. In this and the rest of the lines, the names are all without case-suffixes.
+{5} Probably a local word, meaning a stepped well.
+{6} The reading is certain but the meaning is not known to me.
+{7} This appears to be a name, without the case suffix.
+{8} The reading is not certain as the letters are mutilated.
+{9} The line is totally lost and has been restored from the reading given in G. O. S., IV, mentioned above.
+

@@ -1,0 +1,73 @@
+PennGlobal: PMR10
+Period: VS 1076 bhādrapada śudi 15
+Location: Bhēṭmā 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verse 1-2 and 4-5 Anuṣṭubh; vv. 3 and 7 Vasantatilakā; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Grant of a village by Bhojadeva
+Published reference: Trivedi (1978), no. 10. 
+
+Text{1}
+First Plate
+
+1. siddham{2} | jayati vyomakeśosau yaḥ sarggāya vi(bi)bharti tāṃ(tām) | aiṃdavīṃ si(śi)rasā lekhāṃ jagad vī(d bī)jāṃkurākṛtim ||1||
+  tanvantu vaḥ
+2. smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ | kalpānta samayoddāma taḍid valaya piṃgalāḥ ||2|| parama bhaṭṭāraka mahā-
+3. rājādhirāja parameśvara śrī sīyakadevapādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara-
+4. śrī vā[kpa]tirājadevapādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī siṃdhurājadevapā-
+5. dānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī bhojadevaḥ kuśalī || nyāyapadra sapta-
+6. daśakāntaḥpāti nālataḍāge samupagatān samasta rājapuruṣān vrā(brā)hmaṇottarān pratinivāsi paṭṭakila janapadādīṃ-
+7. śca samādiśatyastu vaḥ saṃviditam || yathāsmābhiḥ snātvā carācara guruṃ bhagavantaṃ bhavānīpatiṃ samabhyarccya
+8. saṃsārasyāsāratāṃ dṛṣṭvā vātābhra vibhramam idaṃ vasudhādhipatyam āpātamātra madhuro viṣayopabhogaḥ |
+9. prāṇās tri(stṛ)ṇāgra jala viṃ(biṃ)du samā narāṇāṃ |{3} dharmmaḥ sakhā paramaho paraloka yāne ||3|| bhramat saṃsāra cakrāgra-
+10. dhārādhārāmimāṃ śriyaṃ(yam) | prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ phalam ||4|| iti jagato vinaśvaraṃ
+11. svarū{4}pamākalayyopari likhita grāmaḥ sva sīmā tṛṇa gocara yūti paryantaḥ sahiraṇya bhāga bhogaḥ
+12. soparikaraḥ sarvvādāya sametaśca ||{5}  viśāla grāma vinirggata pūrvva[jā]ya | sthāṇvīśvarādāgatāya |{6}
+13. sva hastoyaṃ śrī bhojadevasya |
+
+Second Plate
+
+14. kausi(śi)ka gotrāya | aghamarṣaṇa viśvāmitra kausi(śi)koti triḥ(tri) pravarāya | mādhyaṃdina śākhāya | bhaṭṭa-
+15. ṭhaṭṭhasika sutāya | paṃḍita delhāya | koṃkaṇa grahaṇa vijaya parvvaṇi mātrāpitror ātmaśca puṇya ya-
+16. śobhi vṛddhaye | adṛṣṭa phalam aṃ[gī]kṛtya caṃdrārkkārṇṇava kṣiti sama kālaṃ yāvat parayā bhaktyā śāśa(sa)nenodaka-
+17. pūrvva pratipādita iti || tanmatvā yathā dīyamāna bhāga bhoga kara hiraṇyādikam ājñā śravaṇa vidheyai-
+18. r bhūtvā sarvvamasmai samupanetavyaṃ{7}(vyam) | sāmānyaṃ caitat puṇya phalaṃ vudhvā(buddhvā) asmad vaśajair aṇyai(nyai)r api bhāvi bho-
+19. ktṛbhir asmat pradatta dharmā{8}dāyoyamanumantavyaḥ pālanīyaśca || uktaṃ ca || va(ba)hubhir vvasudhā bhuktā rājabhiḥ
+20. sagarādibhir ya(bhiḥ | ya)sya yasya yadā bhūmis tasya tasya tadā phalaṃ(lam) ||5|| yānīha dattāni purā nareṃdrair ddānāni
+21. dharmmārtha yasa(śa)s karāṇi | nirmmālyavānti pratimāni tāni ko nāma sādhuḥ punar ādadīta ||6|| asmat ku-
+22. la kramamudāramudāharadbhir aṇyai(nyai)śca dānamidam abhyanumodanīyam | lakṣmyās taḍiccha(t sa)lila budvu(budbu)da canca(ñca) -
+23. lāyāḥ{9} dānaṃ phalaṃ para yasaḥ(śaḥ) paripālanaṃ ca ||7|| sarvvānetān bhāvinaḥ pārthiveṃdrān bhūyo bhū-
+24. yo yācate rāmabhadraḥ | sāmānyoyaṃ dharmma setur nṛpāṇāṃ kāle kāle pālanīyo bhavadbhiḥ ||8||
+25. iti kamala dalāṃvu viṃ(bubiṃ)du lolāṃ śriyamanucintya manuṣya jīvitaṃ ca | śa(sa)kalamidam udāhṛ-
+26. taṃ ca vudhvā(buddhvā) na hi puruṣaiḥ para kīrttayo vilopyā[ḥ] ||9|| iti || samva(saṃva)t 1076 bhādrapada śudi 15 svaya-
+27. m ājñā || maṅgalaṃ mahāśrīḥ || sva hastoyaṃ śrī bhojadevasya ||
+
+----------------------------------
+{1} From the original plates.
+{2} Expressed by a symbol.
+{3} The punctuation mark is redundant.
+{4} The vowel mark appears below the letter as in the case of any other consonant and not in a line with it.
+{5} The punctuation marks are redundant, as some others below.
+{6} The sign manual below this line should not be taken to break the continuity of the writing.
+{7} The sign of anusvāra has disappeared, leaving only some traces.
+{8} See my note on the same word in the text of the Bāṅswāḍā grant, below, No.11. The word dharmmādāya is
+	current in Mālva even to this day. The prefix ā(आ) may here mean "with all surroundings."
+{9} Here, the visarga is not dropped, as required by the rules of sandhi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+

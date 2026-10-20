@@ -1,0 +1,28 @@
+PennGlobal: PMR193
+Period: VS 1344 
+Location: Ajaygaḍh
+King: BHojavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records that  Suhaḍadēva caused to be made (carved) the images of several gods.
+Published reference: Trivedi (1989), no. 193.
+
+
+Text{1}
+
+1 || auṃ namaḥ śrī kedārāya{2} || kāyasthavāstavyavaṃśe pratolībhiḥ saha jayapuradurggasya ṭhavakuraśrīvīdana{3}tatputra
+  śrīvāśe tasyātmajaṭhakkuraśrī aṣau sutasuhaḍadevenesya{4}mūrtti-śrīkedāra-{5}pārvvatīvṛṣabha-kṛṣṇā{6}- amvi(mbi)kāḥ
+  tārā-tripurā-kāmākṣā-durggādevī-harasiddhi-aindrī-cāmuṇḍā-kālikā-īśvara{7}-pārvvatīvṛṣabha etāḥ pratimā-
+  kāritāḥ || saṃvat 1344 samaye || śubhama[stu] ||
+  
+  --------------------------------------
+  
+{1} From the impression, which is No. B-192/69-70 of A. R. of Ind. Ep.
+{2} The sign of mātrā of the first akṣara of the name is detached from it. 
+{3} This and the names that follow are all without case endings, which can easily be supplied.
+{4} The consonants of this and the preceding letter are conjunct; but I am unable to make them out from 
+	the impression. The reading of both these letters is uncertain.
+{5} In the transcript, the names are separated by me with horizontal strokes for facility of reading.
+{6} The mātrā is denoted by a curve above.
+{7} A flourish above the first of these letters denoting the mātrā is to be seen. 

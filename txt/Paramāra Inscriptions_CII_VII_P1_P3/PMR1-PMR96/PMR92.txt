@@ -1,0 +1,64 @@
+PennGlobal: PMR92
+Period: VS 1117 māgha śudi 6
+Location: Bhinmāl
+Dynasty: Paramāra
+King: Kṛṣṇarāja
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 1 verse.
+Metre: Verse 1 (II. 1-3) Āryā
+Gist: Records the restoration of the temple of Jagat-svāmin at Śrīmāla and to furnish it with a golden cupola and a banner.
+Published reference: Trivedi (1978), no. 92.
+
+Text{1}
+
+1. oṃ namaḥ sūryāya | yasyodayāstasamaye sura-makuṭa-nispṛ-
+2. ṣṭa{2}-caraṇa-kamalo'pi | kuruteṃ'jaliṃ trinetraḥ sa jayati dhāmnā[ṃ*] nidhi[ḥ*]
+3. sūryaḥ || saṃvat 1117 māgha sudi{3} 6 ravau śrī-śrīmāle paramāra-vaṃśo-
+4. dbhavo mahārājādhirāja{4}-śrī-kṛṣṇarājaḥ śrī-dhuṃdhukasutaḥ{5} śrīmaddevarā-
+5. ja-pautraḥ tasmin kṣitīśe vijayini |{6} vartamāna-varṣa-vārika-{7}dharkuṭa-
+6. jāti-kiriṇādityo{8} jelasuto dedaharirmādhava-suto dhaṃdhanāko dha-
+7. raṇacaṇḍa-sutastathā thākhāṭa{9}-jāti-dharaṇādityaḥ sarvadeva-sutaḥ | amī-
+8. bhiścaturbhistathā vānyena dharakuṭajātyā{10} dhaṃdhakena jāla-sutena nija-ku-
+9. la-maṇḍanena deva-guru-vrāhmaṇa-suśrūṣā{11}-pareṇa ravi-caraṇa-yuga-dhyānā-
+10. viṣṭena saṃsārasyānityatāṃ [ni]rīkṣya rājāno rājaputrāṃśca vrāhmanān{12}[ma]-
+11. hājana-paurāṃśca tathā likānsaura-dharme pravarttāya dravyāṇi me . . . . . [ni]-
+12. tya-tejo- nidheḥ śrī-jagatsvāmi-devasya deva-bhavana-jīrṇoddhā . . . .{13}
+13. [kā]rāpitaṃ bhavanasyopari svarṇṇa-kalasaṃ vrāhmaṇena para[ma-dhā]-
+14. rmmikena jejākena nija-dravyeṇa kāritamiti || saṃ |
+15. jyeṣṭha sudi{14} 8 some rātrau ghaṭikā 3 pala 25 asminla-
+16. [g]ne sarva-karma niṣpādya kalasaṃ dhvajaṃ ca dayapitamiti{15} ||
+17. [ta]thā purātana-vṛttena paridevasyāsya{16} rājñā kṛṣṇarājena śrī-
+18. . . . . . [pu]rīya-maṇḍale grāmaṃ prati va. drā.{17} 20 sacaliyā-grāme kṣetramekaṃ
+19. . . . . . . . . trāyā rājabhogāttu droṇa . . . . . . . sati kā . . . . . . 
+20. . . . . . . || rāmasī pomarapi kā . . . . . prativa. drā. | . . . . . 
+21. . . . vijñāpya caṃdanena kārāpitamiti || tathā ālava{18}
+22. . . . . ya prada . . . . . . . . . likhitaṃ kada . . . . . . . 
+23. . . . . . . . . kāya . . . . . . . . . 
+
+----------------------------------------------------------------
+{1} From Jackson's transcript in Bomb. Gaz., Vol. I. Pt. 1, p.472.
+{2} Perhaps a mistake for nighṛṣṭa, which, besides giving the correct meaning, would also show one mātrā less 
+	in the second quarter of this verse and remove the metrical defect. Cf. surāsuraśiroratnanighṛṣṭacaraṇe'mbike 
+	in the Saptaśatī, Argalā stotra, v.15.
+{3} In his List of Inscrs. of N. India in Ep. Ind., Vol. XIX, apprx., p.22, No. 135, D. R. Bhandarkar reads 
+	the original as śudi. If Jackson's reading of the date is correct, it is possible that ratha saptamī, which is 
+	sacred to the Sun and which commenced on the same day, was intended. 
+{4} D. R. B. in ibid. reads jā(ja) in the original. 
+{5} D. R. B. reads dhaṃdhuka. 
+{6} The punctuation mark is redundant. 
+{7} This word means an officer, or the superintendent of the temple. See I. E. G., p. 364.
+{8} Probably kiraṇāditya is intended. 
+{9} The intended reading appears to be prāgvāṭa .
+{10} The same as dharkuṭa in 1.5, above.
+{11} To be restored to brāhmaṇaśuśrūṣā-.
+{12} Read rājñaḥ. vrā- Vr in 1.13 also to be corrected to Br.
+{13} The missing akṣaras may have been -ra-karma. 
+{14} Read śudi. Also read saṃvat at the end of the preceding line and delete the punctuation mark. The figures
+	 for the year in the preceding line may either not have been engraved or were lost, or Jackson may have 
+	 omitted them in his transcript.
+{15} Read dāpitamiti.
+{16} The sense of this word here is not clear to me. 
+{17} These two abbreviations probably stand for prativarṣaṃ drā(dra)mmaḥ.
+{18} In II. 19-23 there are breaks and it is not definitely known how many letters are lost at which place. What 
+	 may be presumed is that in this portion may have been given the names of the writer and the engraver.

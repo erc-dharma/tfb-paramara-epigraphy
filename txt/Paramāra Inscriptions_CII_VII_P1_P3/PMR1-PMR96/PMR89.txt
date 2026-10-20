@@ -1,0 +1,63 @@
+PennGlobal: PMR89
+Period: VS 1165 phālguna śudi 2
+Location: Arthūṇā
+Dynasty: Paramāra
+King: Vijayarājā
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 11 verses.
+Metres: Verse 1 Sragdharā; vv. 2, 6, 8-11 Anuṣṭubh; v.3 Śārdūlavikrīḍita; v. 4 Gīti;
+	    v.5 Indravajrā; v.7 Mālinī
+Gist: The record shows the consecration of an image of Hanumān on the pedestal.
+Published reference: Trivedi (1978), no. 89.
+
+Text{1}
+
+1. siddham{2} oṃ namo hanumate | vaidehīṃ draṣṭumicchurddaśavadanahṛtāṃ sāgaraṃ yastatāra |{3} vaiklavyaṃ saṃpraviṣṭe daśaratha tanuje sānuje sainyayukte |
+  āninye yo'drikūṭaṃ khagataharijitātīkṣṇa vā(bā)ṇa pravāhai{4}
+2. rudrāṇśo mārutir māmavatu sa hanumān dagdha laṃkaḥ sadaiva ||1|| [vairabhra]{5}ikanāmāsītsaṃma[tyāyāpake]{6}'kramāt | saṃ[dha?]ttā nṛtyaśāstrāṇāṃ
+  proktānāṃ bharatādibhiḥ ||2|| tasmātpāṭahiko{7} va(ba)bhūva pa-
+3. ṭudhīśchaccheti nāmnā guṇī |3 śrīmanmaṃḍanabhūbhujāriṣu ha[rāpū]reṇa{8} saṃpūritaḥ | devānāmadhipāgrataḥ suvimalaṃ saṃkīrttituṃ tadyathā vistāryā-
+  jaladhirjjagāma sa divaṃ muktvā'tra kāyaṃ svakam ||3|| ta-
+4. syātmajena{9} paṭunā śaśatata vitata ghana suṣira vādyānām | siṃhalanāmnā sudhiyā bhaktena vrā(brā)hmaṇa gurujana devānām ||4|| āryāgītiḥ{10} |
+  dagdhāri cakrasya viśālavā(bā)hoścāmuṃḍarā-
+5. sya javibhoḥ praśā(sā)dāt | saṃprāpya [dyumnaṃ su(śu)bhavā - vebhyo - - U]{11} vijño va(ba)hu yena dattaṃ(ttam) ||5|| dvikulakaṃ
+  (kam){12} || śailoyaṃ hanumāṃstena kārito nijadharmna(rmma)ṇā{13}| sadutthapanake cāsminnu(nrū ?)pa-{14} ||
+6. nitya pramoditaṃ(tam) ||6|| praṇata kumuda caṃdre kāminī lokaramye vihata ripu samāje tīkṣṇa śastra prahāraiḥ | avati vijayarāje pūrṇṇa-
+  somābhacakre |3 sthali viṣayamanūnaṃ bhūrilo-
+7. kaiḥ samṛddhiḥ ||7|| saṃvatsaraśate[tī]te sahasreṇa samanvite | rājño vikramasūryasya paṃcaṣaṣṭyā ca saṃyute ||8|| phālgunasya
+  dvitīyāyām (yāṃ) |3 śuklapakṣe gurau dine | [putreṇa varadāyī]ˍU{15}
+8. sthāpito hanumānayam ||9|| [pradeśe sakale]{16} kīrttir hanumato'r vvu(rbbu)dācale | aṣaṃ(khaṃ)ḍo hanumāṃstāvat sa jīyāduttarottaraṃ ||10||
+  likhiteyamanaṃtena kṛtā nārāyaṇena ca |
+9. kā{17}nānākena samutkīrṇṇā hanunā(mā)n ghaṭitastathā ||11|| vikramāṃkataḥ samva(va)t 1165 phālguna śudi 2 gurau dine
+  hanumān pratiṣṭhitaḥ || maṃgalaṃḥ{18} mahāśrīḥ || 
+  
+----------------------------------------------------------------------------------------------------
+{1} From the impressions. 
+{2} Expressed by a symbol. The syllable that follows it is denoted by the sign for the Nāgarī ū, with an 
+	anusvāra above. 
+{3} This daṇḍa is redundant. 
+{4} The language is rather obscure here, but the sense seems to be that the points of the arrows (of Bharata ?)
+	were made blunt and thus felt by Hanumān while flying in the sky, with the mountain peak in his
+	hands.
+{5} The reading of the first and the third letter of the name is not certain, and it appears to be a curious 
+	name.
+{6} Reading from traces left; but does not convey any sense. 
+{7} The reading is probable, and the second letter of the name may have been da. The meaning of this word 
+	is not clear. 
+{8} The reading of the letters in the brackets is uncertain.
+{9} Both these letters are damaged and cripsed into each other. 
+{10} This is the name of the metre. It is a rare instance to mention it along with the verse. Also, the fourth 
+	 foot of the verse is metrically irregular. The musical instruments mentioned here are stringed, solid and 
+	 perforated. 
+{11} The bracketed syllables are all mutilated and the reading is not certain. 
+{12} The word is used here to show that both these stanzas are to be taken together, for the sense. 
+{13} The correct form is dharmeṇa, which would not suit the metre. 
+{14} The reading of the third akṣara in this word is uncertain. A double daṇḍa is also put at the end of the 
+	 line. 
+{15} All the bracketed letters are mutilated and the reading is from the traces left. The last akṣara in the line 
+	 is lost. 
+{16} Reading from the traces left. 
+{17} Though indistinct, the stich in the preceding and the following line is complete, each having eight akṣaras; 
+	 and thus this akṣara appears to be redundant. Or, it may have been some symbol (?).
+{18} The sign of visarga is redundant.

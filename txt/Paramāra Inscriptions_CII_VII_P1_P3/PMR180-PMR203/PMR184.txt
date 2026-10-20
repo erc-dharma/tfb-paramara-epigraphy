@@ -1,0 +1,41 @@
+PennGlobal: PMR184
+Period: ~13th CE
+Location: Ujjain
+Language: Sanskrit
+Script: Nagari
+Text: Metrical
+Metres{2}: Lines 2, 5, 7, 8 and 10 Śārdūlavikrīḍita; 13 Śikhariṇī; 14 and 6 Śragdharā; 1,9 Indra-
+vajrā, Upendravajrā or Upajāti; and 11-12 Mālinī, Mandākrāntā or Śragdharā.  
+Gist: Appears to be a praśasti. 
+Object cannot be ascertained but appears to record the construction of a temple.
+Published reference: Trivedi (1989), no. 184.
+
+
+Text{1}
+
+
+
+1. ----------[rā]deko{3}--------------------tatrā.
+2. --vagāhaya sarayūṃ jitvāśramaṃ sainikaiḥ sāketopavanāvalīṣu karaṇā-
+3. --hiṃklamaṃ nīte kāṃtaiḥ saha malayaśaile yuvatibhiḥ | yadātaṃkāllaṃkā[vi !]-
+4. --ḥ śrutvāvṛttametadva(dva)lidamanakṛtaṃ kīrttitaṃ pūrvvavidbhiḥ paryante dvārakāyā--
+5. --vidā nūnaṃ yena himādrimumuddhni śithilīcakrailakāvagrahaḥ ||18||--
+6. --19 || tasminviśleṣaśuṣyatridivapurapunaḥ{4} prītisatrotsavā--
+7. --ājaśriyaḥ{5} saṃyati protkhāyotkiratoḍuvibhramabhṛto muṃ[ja]{6}--
+8. --ādarātayaḥ ||22|| vaidhavyaṃ vijayaśriyo raṇabhu[vi]--
+9. --pacaryamāṇaḥ | nirvāṇanārāyaṇa ityu[bhā]--
+10. --lakenāgā[trtri]śaṃkorddiśaṃ(śaṃ) ||26||--
+11. --[ra?]ṇamaśrṛ(sṛ)ṇitā hyavja(bja)pī[to ?]--
+12. --pālabhālasthalīti (?)--
+13. --ṇamālinī || --
+14. -- ..{7}--
+
+-------------------------------------------------
+{1} From the original and inked impression. 
+{2} None of the verses is complete and the metres here are as indicated by the cadence of the akṣaras
+	as preserved in each of the lines. 
+{3} Of these akṣaras the mātrās above are broken. 
+{4} The reading here is certain but it cannot be grammatically defended.
+{5} Apparantly, the letter ra is lost before the mātrā.
+{6} The bracketed letter is broken in its latter part but the restoration appears to be certain.
+{7} Only the upper parts of two akṣaras are visible, but they cannot be made out. 

@@ -1,0 +1,61 @@
+PennGlobal: PMR71
+Period: VS 1245 bhādrapada śudi 1
+Location: Muṅgthalā
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Inscription records an order of Dhārāvarshadēva 
+	  to grow an orchard in the village of Phīlini in the temple.
+Published reference: Trivedi (1978), no. 71.
+
+
+Text{1}
+
+1. Siddham{2} || saṃ[va]t 1245 bhādrapada sū(śu)di 1 vu(bu)dhe || adyeha caṃdrā-
+2. vatyāṃ māṃ[ḍa]la[i]kasuraśaṃbhuḥ{3} śrīdhārāvarṣadevaḥ [kṣetrapa]kṛ{4}-
+3. tyamakṣarāṇi{5} likhāpayati yathā | śrīvasiṣṭhāśrame phīli-
+4. ṇigrāme{6} maṭhe ca yaḥ kopi bhaṭṭha(ṭṭa)putro bhavati tena śrīvaśi- ||{7}
+5. ṣṭā(ṣṭhā)śrame phīliṇigrāmavāṭikāyāṃ vasaṃti[ṣu] mātarāya |{8}
+6. caṃpaka | phaṇasa | cārākara[mva]rā{9} pradatā(ttā) gāṃ(gām) aśoka | va(ba)kula |
+7. nāraṃgī | dhāṃdhala [|] priyā-śatapatrikā prabhṛti dṛkvā(vṛkṣā)ṇāṃ{10} vī(bī)jā- ||
+8. ni kṛṣṇagaṃḍukāni vṛkṣāṇāṃ jāta(ru ?)dhiñca{11}  prativa[rṣaṃ] vāvāpa- |
+9. nīyā(ni) varddha(ropī)yāni{12} ca | īdra(dṛ)śaṃ na ku[rvvaṃ]ti{13} tadā bhadva(ṭṭa ?){14} |
+10. putrāḥ [syā(śvā)]naṃ{15}(na)garddabhacāṃḍa[ā*]lavat rāṇakaiḥ nigrahaṇīyā[ḥ*] ||
+11. daṃḍanīyāśca || tasya mātā garddabhoyaṃ draṣṭavyaḥ ||{16}
+
+----------------------------------------------------
+
+{1} From impressions.
+{2} Expressed by a symbol.
+{3} To be restored to māṇḍalikeśvaraśambhuḥ.
+{4} The reading of the bracketed letters is doubtful. The first of these looks more like si and the third
+	like ya.
+{5} Probably -tye akṣarāṇi. The second of these letters is damaged. The sign of the mātrā of khā that follows
+	seems to have been engraved subsequently.
+{6} The mātrā of the first letter of the name is partly visible.
+{7} The punctuation marks are redundant.
+{8} The punctuation mark, here and in some lines below, is redundant, and the language used here is corrupt.
+	The akṣara in the brackets also appears as ṣva; it is damaged.
+{9} The reading of the first two akṣaras here is uncertain and they also appear as cāyaṃ; and that of the 
+	letter in the brackets is also equally uncertain. The punctuation marks in this and the following lines
+	too are superfluous. Phaṇasa, wrongly written for panasa, is a bread fruit tree or jack tree, for which
+	see I. E. G., p.402.
+{10} Of the trees mentioned here, the first is local, thriving in Rajasthan, the second is a kind of jasmine
+	 and the third is probably a lotus.
+{11} Probably to be restored to -gaṃḍa(dha?)kādi-. The meaning of these four akṣaras is not known to me and they
+	 seem to be restored to jātiṃ vṛddhiṃ ca. The bracketed letter that follows is damaged and may also be
+	 read as rṣe.
+{12} Corrupt. The preceding ni was at first engraved as mi and corrected subsequently.
+{13} The sign of repha is faintly visible on the stone.
+{14} I am not certain about the reading of the conjunct consonant of this akṣara which appears to have been
+	 subsequently corrected and has also the sign of the secondary ā attatched to it, probably intended for a 
+	 daṇḍa. Bhaḷḷa means a master, a Brāhmaṇa or a bard. In the Tilakamañjarī this word is used to 
+	 denote a messenger (p.112), i.e., a general type of servant, and following this, we may take the word to 
+	 denote a gardener. This word is mentioned in the Lekhapaddhati, (15, 20) apparently in the sense of a 
+	 soldier, and also in I. N. I., No. 361, to denote a royal officer (rāja-puruṣa).
+{15} The sign of anusvāra is lightly rubbed off on the stone so as to leave its mark. Also of gardabha-
+	 chaṇḍālanyāyena in the Lekhapaddhati, G. O. S., No. XXI, Glossary.
+{16} Below the inscription is the ass-motif.
+	 

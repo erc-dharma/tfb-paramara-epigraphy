@@ -1,0 +1,248 @@
+PennGlobal: PMR51
+Period: VS 1282 bhādrapada
+Location: Māndhātā
+Dynasty: Paramāra
+King: Devapāla
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 27 verses
+Metres: Verses 1-22 and 24-25 Anuṣṭubh; v.23 Vasantatilakā; v.26 Śālinī; v.27 Puṣpitāgrā
+Gist: Donation of a village.
+Published reference: Trivedi (1978), no. 51.
+
+Text{1}
+
+First Plate
+
+1. siddham{2} || oṃ namaḥ puruṣārthacūḍāmaṇaye dharmmāya || prativiṃva(biṃba)nibhād bhūmeḥ kṛtvā sākṣātpratigrahaṃ(ham) |
+   jagadāhlādayandiśyādvi(d dvi)jeṃ-
+2. dro maṃgalāni{3} vaḥ |1| jīyātparaśurāmosau kṣatraiḥ kṣuṇṇaṃ raṇāhataiḥ | saṃdhyārkkaviṃva(biṃba)meyo{4}rvvīdāturya[syai]ti{5}
+   tāmvratāṃ(mratām) |2|
+3. yena maṃdodarīvā(bā)ṣpavāribhiḥ sa(śa)mito mṛdhe | prāṇesva(śva)rīviyogāgniḥ  sa rāmaḥ śreyasestu vaḥ | 3 | bhīmenāpi
+   dhṛtā mūrddhni yatpādāḥ
+4. sa yudhiṣṭhiraḥ | vaṃ[śā]{6}dyeneṃdunā jīyātsu(sva)tulya{7} iva nirmitaḥ |4| paramārakulottaṃsaḥ kaṃsajinmahimā nṛpaḥ | śrībhojadeva ityā-
+5. sīnnāsīrakrāṃta bhūtalaḥ |5| yadyaśaścaṃdrikodyote digutsaṃgataraṃgite | dviṣannṛpayaśaḥ puṃjapuṃḍarīkaini(rni)mīlitaṃ(tam) |6| tatobhū-
+   asādhāraṇavīraśrīraśrīhetuvirodhināṃ (nām ) 131 mahākalahakalpāṃte yasyoddāmabhirāsu (śu) -
+6. dudayādityo nityotsāhaikakautukī | asādhāraṇavīraśrīraśrīheturvirodhināṃ(nām) |7| mahākalahakalpāṃte yasyoddāmabhirāsu(śu)-
+7. gaiḥ | kati nonmūlitāstuṃgā bhūbhṛtaḥ kaṭakolvaṇāḥ |8| tasmācchinnadviṣanmarmā naravarmā narādhipaḥ | dharmo(rmā)bhyuddharaṇe dhīmānabhūtsīmā
+8. mahībhujāṃ(jām) |9| pratiprabhātaṃ viprebhyo dattaigrā(rgra)mapadaiḥ svayaṃ(yam) | anekapadatāṃ ninye dharmmo yenaikapādapi |10{8}|
+  tatyā(syā)jani yaśovarmmā
+9. putraḥ kṣatriyaśekharaḥ | tasmādajayavarmābhūjjayaśrīviśrutaḥ śu(su)taḥ{9} |11| tatsūnurvīramūrddhanyo dhanyotpati(tti)rajāyata | gūrjaroccheda-
+10. nirvvaṃ(rbbaṃ)dhī viṃdhyavarmā mahābhujaḥ |12| dhārayoddhṛtayā sārddhaṃ dadhāti sma tridhāratāṃ(tām) | sāṃyugīnasya yasyāsistrātuṃ lokatrayīmiva |13|
+11. tasyāmuṣyāyaṇaḥ putraḥ{10} sutrāmaśrīrathāśiṣat | bhūpaḥ subhaṭavarmmeti dharmme tiṣṭhanmahītalaṃ(lam) |14| yasya jvalati digjetuḥ
+    pratāpastapanadyu-
+12. teḥ | dāvāgnicchadmanādyāpi garjjadgurjjarapattane |15| devabhūyaṃ gate tasminnaṃdanorjjunabhūpati(ti)ḥ | doṣṇā dhattedhunā dhātrīvalayaṃ valayaṃ
+13. yathā |16| vā(bā)lalīlāhave yasya jayasiṃhe palāyite | dikpālahāsavyājena yaśo dikṣu vijṛṃbhitaṃ(tam) |17| kāvyagāṃdharvvasarvasvanidhinā
+14. yena sāṃprataṃ(tam) | bhārāvataraṇaṃ devyāścakre pustakavīṇayoḥ |18| yena trividhavīreṇa tridhā pallavitaṃ yaśaḥ | dhavalatvaṃ
+    dadhustrīṇi ja-
+15. gaṃti kathamanyathā | 19 | adhārthināmapuṇyena puṇyena svarggasubhruvāṃ(vām) | so'dbhutatyāgaśīlaśca śṛṃgārī ca divaṃ gataḥ |20| ta-
+16. taḥ pramāracaṃdrasya hariścaṃdrasya naṃdanaḥ | rarakṣa mālavakṣoṇīṃ devapālaḥ pratāpavān |21| pavitrakarapadmaśya(sya) dānavārivijṛṃ -
+17. bhitaiḥ | na vidmo devapālasya devapālasya cāṃtaraṃ(ram) |22| sa eṣa naranāyakaḥ sarvvābhyudayī ||{11} mahuaḍapratijāgaraṇake satā-
+18. juṇāgrāme samastarājapuruṣānvrā(nbrā)hmaṇottarānpratinivāśi(si)paṭṭakilajanapadādīṃśca vo(bo)dhayatyastu vaḥ saṃvidi-
+19. taṃ yathā | śrī māhiṣmatīsthitairasma[ā*]bhiḥ(bhi)rdvyaśītyadhikadvādaśaśatasaṃvatsare bhādrapade māse paurṇṇamāsyāṃ so-
+
+Second Plate; First Side
+
+20. maparvvaṇi revāyāṃ snātvā śrīdaityasūdanasannidhau{12} bhagavantaṃ bhavānīpatiṃ samabhyarccya saṃsārasyāsāratāṃ dṛṣṭvā | tathā hi || vā-
+21. tābhravibhramamidaṃ vaśu(su)dhādhipatyamāpātamātramadhuro{13} viṣayopabhogaḥ | prāṇāstṛṇāgrajalaviṃ(biṃ)dusamā narāṇāṃ dha-
+22. rmmaḥ sakhā paramaho paralokayāne ||23|| iti sarvvaṃ vimṛśyādṛṣṭaphalamaṃgīkṛtya ||{14} āśramasthānavinirggatāya vājimādhyaṃdinaśā-
+23. khādhyāyine parāśa[ra*]gotrāya parāśa[ra]śaktṛ(kti)vaśiṣṭe(ṣṭhe)titripravarāya śrotri.{15} dāmodara pautrāya śrotri. vra(bra)hmaputrāya
+    śrotri. gaṃgādha-
+24. rasa(śa)rmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mahāvanasthānavinirggatāya pavitragotrāya gārggyagaurīvītāṃgiraseti tripravarāya āśva-
+25. lāyanaśākhādhyāyine dī.{16} gaṃgādharapautrāya āvaśa(sa)thikamahādityaputrāya śuklabhadresva(śva)rasa(śa)rmmaṇe vrā(brā)hmaṇāya vaṃṭakame-
+26. kaṃ 1 mahāvanasthānavinirggatāya pavitragotrāya gārggyagaurīvītāṃgirasetitripravarāya āśvalāyanaśākhādhyāyine dī. śiṃ(siṃ)ha-
+27. kaṃṭhapautrāya śu.{17} madhukaṃṭhaputrāya śu. caṃdrakaṃṭhasa(śa)rmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mahāvanasthā[na*]vinirggatāya audalyagotrāya{18} mā-
+28. dhyaṃdinaśākhādhyāyine dī. padmasvāmipautrāya dī. trilocanaputrāya dī. nārāyaṇasa(śa)rmmaṇe vrā(brā)hmaṇāya sārdhaṃ vaṃṭakamekaṃ 1 |{19} ma-
+29. hāvanasthānavinirggatāya kātyāyanagotrāya{20} śā(sā)mavedādhyāyine tṛ.{21} ramesva(śva)rapautrāya tṛ. jasodharaputrāya{22} tṛ. sū(śū)raśarmmaṇe
+    vrā(brā)hmaṇāya vaṃṭakame-
+30. kaṃ 1 ṭakārīsthānavinirggatāya2 bhāradvājagotrāya{23} bhāradvājāṃgirasavā(bā)rhaspatyetitripravarāya
+    kauthumaśākhādhyāyi-
+31. ne tṛ. ḍālaṇapautrāya tṛ. āśādharaputrāya tṛ. visvesva(śveśva)raśarmmaṇe brā(brā)hmaṇāya vaṃṭakamekaṃ 1 ṭakārīsthānavinirggatāya bhāradvā-
+32. jagotrāya bhāradvājāṃgirasavā(bā)rhasya(spa)tyetitripravarāya mādhyaṃdinaśākhādhyāyine dī. kelhaṇapautrāya dī. madhuputrāya dī. rā-
+33. masa(śa)rmmaṇe vrā(brā)hmaṇā[ya] vaṃṭakamekaṃ 1 tripurīsthānavinirggatāya bhāradvājagotrāya bhāradvājāṃgirasavā(bā)rhaspatyetitriprava-
+34. rāya paṃ |{24} haridharapautrāya paṃ | mahīdharaputrāya paṃ. bhṛguśarmmaṇe{25} vrā(brā)hmaṇāya sārddhaṃ vaṃṭakamekaṃ 1 1/2 || mutavathū{26}sthānavinirggatāya
+35. kāśyapagotrāya kāśyapa(pā)vatsāranaidhruvetitripravarāya āśvalāyanaśākhādhyāyine ca.{27} pṛthvīdharapautrāya ca. āsā(śā)dharapu-
+36. trāya agni.{28} nārāyaṇaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 akolāsthānavinirggatāya parāvaśu(su)gotrāya parāvaśu(su)kāṃkāya-
+37. nakaikaśeyatripravarāya ṭha. |{29} bharatapālapautrāya ṭha. | ḍāllaṇaputrāya rājagośalaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mathurāsthā-
+38. navinirggatāya āśvalāyanaśākhādhyāyine vaśiṣṭhagotrāya kāśyapāvatsāravāśiṣṭhetitripravarāya caturvvedajanārddanapautrā-
+
+Second Plate; Second Side
+
+39. ya caturvvedadharaṇīdharaputrāya mahārājapaṃḍitaśrīgoseśarmmaṇe vrā(brā)hmaṇāya vaṃṭakadvayaṃ 2 madhurāsthānavinirggatāya ā-
+40. śvalāyanaśākhādhyāyine bhārggavagotrāya bhārggavacyavanaāpnuvāna{30}arvvajāmadagnyetipaṃcapravarāya ca.- - - - pautrāya{31} ca.
+41. viṣṇuputrāya ca. rāmesva(śva)rasa(śa)rmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mathurāsthānavinirggatāya āśvalā[ya*]naśākhādhyāyine
+    kāśyapagotrā-
+42. ya kāśyapāavtsāranaidhruvetitripravarāya ca.samuddharaṇapautrāya ca. devadharaputrāya ca. gadādharasa(śa)rmmaṇe vrā(brā)hmaṇāya
+    vaṃṭakamekaṃ 1 ma-
+43. thurāsthāna vinirggatāya āśvalāyanaśākhādhyāyine bhārggavagotrāya bhārggavavaitahavyasāvetasetitripravarāya ca. pavitrapautrā-
+44. ya ca. dharaṇīdharaputrāya ca. garbhesva(śva)raśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mathurāsthānavinirggatāya āśvalāyanaśākhādhyāyi-
+45. ne kāśyapagotrāya kāśyapāvatsāranaidhruvetitripravarāya ca. samuddharapautrāya ca. devadharaputrāya ca. lohaṭaśarmmaṇe vrā(brā)hmaṇā-
+46. ya vaṃṭakamekaṃ 1 ḍiṃḍvānakasthānavinirggatāya śāṃkṣāyana{32}śākhādhyāyine gautamagotrāya gautamāṃgirasa avatthyeti{33} triprava-
+47. rāya ca. dharaṇīdharapautrāya ca. vra(bra)hmaputrāya ca. puruṣottamaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mutāvathūsthānavinirggatāya mādhyaṃ -
+48. dinaśākhādhyāyine kāśyapagotrāya kāśyapāvatsāranaidhruvetitripravarāya dvi.{34} goviṃdapautrāya dvi. vāsadharaputrāya dvi. gadā-
+49. dharaśarmmaṇe vrā(brā)hmaṇāya vaṃṭaka[ma*]rddhaṃ 1/2 mutāvathūsthānavinirggatāya mādhyaṃdinaśākhādhyāyine kāśyapagottrāya kāśyapāvatsāranaidhru-
+50. vetitripravarāya dī. gaṃgādharapautrāya{35} dī. keśavaputrāya udaīśarmmaṇe vrā(brā)hmaṇāya vaṃṭaka[ma*]rddhaṃ 1/2 mahāvanasthā[na*]vinirggatāya kau-
+51. thumaśākhādhyāyine gautamagotrāya gautamāṃgirasa[au]tatthyetitripravarāya paṃ. madanapālapautrāya paṃ. kānhaḍaputrāya paṃ. kuladharasa(śa)rmmaṇe
+52. vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 ṭakārīsthānavinirggatāya{36} | kauthumaśākhādhyāyine vatsagotrāya bhārggavacyavanaāpnuvāna{37} arvvajāmadagnye-
+53. tipaṃcapravarāya tri. janārddanapautrāya tri. naraśiṃ(siṃ)haputrāya āva.{38} abhinaṃdaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 madhyadeśavinirggatā-
+54. ya mādhyaṃdi[na*]śākhādhyāyine mudgalagotrāya āṃgiraśa(sa)bhara - -{39} samudgaletitripravarāya agni. cchītūpautrāya agni. dharaṇīdharaputrā-
+55. ya agni. anantaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 madhyadeśavinirggatāya mādhyaṃdinaśākhādhyāyine śāṃḍilyagotrāya śāṃḍilya aśi(si)ta-
+56. devaleti tripravarāya yājñi.{40} nāgadevapautrāya yājñi. kṛṣṇaputrāya agni. sthānesva(śva)raśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mathurāsthānavini-
+57. rggatāya āśvalāyanaśākhādhyāyine dhaumyagotrāya kāśyapāvatsāradhruvetitri{41}pravarāya ca. viṣṇupautrāya ca. sādhāraṇaputrā-
+58. ya ca. ūdha[ra]śammaṇe{42} vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 mathurāsthānavinirggatāya rāṇāyi(ya)nīśākhādhyāyine bhāradvājagotrāya āṃgi-
+59. rasalā(bā)rhaspatyabhāradvājetitripravarāya tṛ. mādhavapautrāya{43} tṛ.(tri. ?) somesva(śva)raputrāya tṛ. kuladharaśarmmaṇe vrā(brā)hmaṇāya
+    vaṃṭakamekaṃ 1
+   
+Third Plate
+
+60. mathurāsthānavinirggatāya rāṇāyanīśākhādhyāyine bhāradvājagotrāya āṃgirasavā(bā)rhaspatyabhāradvājetitripravarāya tṛ(tri).
+    ri(ṛ)ṣipautrāya tṛ(tri).
+61. mārkaṇḍaputrāya tṛ(tri). madhusūdanaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 sarasvatīsthānavinirggatāya kaṭhaśākhādhyāyine [hari]takutsa-
+62. gotrāya āṃgiriśa{44} aṃva(ba)rīṣayauvanāsve(śve)titripravarāya ca. vijayīpautrāya ca. ajayīputrāya ca. alliśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1
+63. madhyadeśavinirggatāya mādhyaṃdinaśākhādhyāyine kāśyapagottrāya kāśyapāvatsāranaidhruvetitripravarāya upā.{45} nārāyaṇapautrāya agni.{46}
+64. {47}jasadevaputrāya dī. lāhaḍaśarmmaṇe{48} vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 madhyadeśavinirggatāya mādhyaṃdinaśākhādhyāyine śāṃḍilyagottrāya a-
+65. śi(si) tadevalaśāṃḍilyetitripravarāya agni. kaṭukapautrāya dī. puruṣottamaputrāya āva. narasiṃhaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 ma-
+66. dhyadeśavinirggatāya mādhyaṃdinaśākhādhyāyine mārkaṃḍeyagotrāya bhārggavacyavanaāpnu(pna)vānaa(au)rvvajāmadagnyetipaṃcapravarāya agni. cchītūpau -
+67. trāya upā. dāmodaraputrāya āva. mārkaṃḍeyaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1 madhyadeśavinirggatāya mādhyaṃdinaśākhādhyāyine bhāradvājago-
+68. trāya āṃgiriśa{49}vā(bā)rhaspatyabhāradvājeti tripravarāya dvi. nārāyaṇapautrāya dvi. padmanābhaputrāya pāṭha.{50} vāyudevaśarmmaṇe vrā(brā)hmaṇāya vaṃṭaka-
+69. mekaṃ 1 mathurāsthānavinirggatāya āśvalāyanaśākhādhyāyine kautsagotrāya āṃgiraśa(sa)aṃva(ba)rīṣayauvanāsve(śve)titripravarāya ca. haripau -
+70. trāya ca. janārddanaputrāya ca. rājeśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamarddhaṃ [||] hastināpuravinirggatāya kauthumaśākhādhyāyine pārāsa(śa)ragotrā-
+71. ya pārāsa(śa)raśaktṛ{51}vaśiṣṭhetitripravarāya paṃca.{52} kanhaḍapautrāya paṃca. kumaraputrāya paṃḍi.{53} kusumapālaśarmmaṇe vrā(brā)hmaṇāya vaṃṭakamekaṃ 1[|*]
+72. samastopi grāmaścatuḥkaṃkaṭavisu(śu)ddhaḥ{54} savṛkṣamālākulaḥ sahiraṇyabhāgabhogaḥ soparikaraḥ sarvvādāyamametaḥ sanidhinikṣepaḥ ṣa-
+73. mhalāta[la]kasamanvito{55} mātāpitrorātmanaśca puṇyaja(ya)śobhivṛddhaye caṃdrārkkarṇṇavakṣitisamakālaṃ yāvatparaya[ā*] bhaktyāṃ(ktyā)
+    śāsā(sa)nenodakapūrvvaṃ pradattaḥ | tanma-
+74. tvā tannivāśi(si)paṭṭakilajanapadairyathādīyamānabhāgabhogakarahiraṇyādikaṃ devavrā(brā)hmaṇabhuktivarjjamājñāvidheyairbhūtvā sarvvamebhyo
+    vrā(brā)hmaṇebhyo dātavyaṃ(vyam) |
+75. sāmānyaṃ caitatpuṇyaphalaṃ vudhvā(buddhvā)'smadvaṃśajairanyairapi bhāvibhoktṛbhirasmatpradattadharmmādāyo{56}'yamanumantavyaḥ pālanīyaśca{57} ||
+    uktaṃ ca || va(ba)hubhirvaśu(su)dhā
+76. bhuktā rājabhiḥ sagarādibhiḥ | yasya yasya yadā bhūmistasya tasya tadā phalaṃ(lam) ||24|| svadattāṃ
+    paradattāṃ vā yo hareta vasuṃdharāṃ(rām) | sa viṣṭhāyāṃ kṛmirbhūtvā pitṛbhiḥ saha
+77. majjati ||25|| sarvvānevaṃ bhāvino bhūmipālānbhūyo bhūyo yācate rāmabhadraḥ  | sāmānyoyaṃ dharmmaseturnṛpāṇāṃ kāle
+    kāle pālanī-
+78. yo bhavadbhiḥ ||26|| iti kamaladalāmvuvi(mbubi)ndulolāṃ śriyamanuciṃtya manuṣyajīvitaṃ ca | sakalamidamudāhṛtaṃ
+    ca vudhvā(buddhvā) na hi pu-
+79. ruṣaiḥ parakīrttayo vilopyā iti{58} || saṃvat 1282 varṣe bhādra sudi{59} 15 gurau || dū.{60} śrī mu{61} 3|| 
+    racitamida(daṃ) mahāsāndhi-
+80. vigrahikapaṃḍitaśrīvi(bi)lhaṇasaṃmatena |{62} rājaguruṇā madanena | svahastoyaṃ mahārājaśrīdevapālasya || maṃgalaṃ mahāśrīḥ ||
+
+-------------------------------------------------------------------
+
+{1} From the original plates and impressions.
+{2} Expressed by a symbol.
+{3} Above ga and also above the pa that follows, a redundant anusvāra was originally engraved and sub-
+	sequently an attempt to scratch it off was made, but it is partially visible at both the places. The numbers
+	of the verses are throughout preceded and followed only by one vertical stroke, and I have retained the
+	same arrangement in the text.
+{4} The letter yō seems to have been engraved after scratching off another letter which was originally put
+	in its place.
+{5} The pṛṣṭha mātrā of the preceding akṣara is not fully engraved.
+{6} A redundant stroke shows that this akṣara is a combination of the palatal and the dental siblants.
+{7} Perhaps originally nu, later on corrected to tu.
+{8} The unit figure of the number of this verse shows an ornamental curve above and also below.
+{9} Possibly, some other akṣaras were first engraved here and later on scratched off to give place to these
+	three.
+{10} Originally ṣu, with the cursive stroke later on erased; but it is still visible.
+{11} This sign of punctuation, as also the one in the next line, is redundant. The word dānavāri in the pre-
+	 ceding verse has the double meaning, viz.(1) water used in making donations, and (2) the enemy of the
+	 dānavas. Dēvapāla=(i) the king with this name; and (ii) Indra.
+{12} This appears to refer to the image of Viṣṇu installed in an old temple in the vicinity of the well-known
+	 temple at Māndhātā.
+{13} The dhā in vasudhā was originally engraved as dhō and later on the mātrā above was scratched off.
+{14} The daṇḍas are superflous. In the following lines the rules of sandhi are not often observed, which have
+	 not been pointed out every time.
+{15} This is, śrotriya, here and below. It may also be noticed that these abbreviations are sometimes accom-
+	 panied by the sign for zero and sometimes by a daṇḍa, as here. I have reproduced these sugns as in the 
+	 original.
+{16} That is, dīkṣita, here and below.
+{17} That is śukla, here and below.
+{18} Here is parvvaras are omitted.
+{19} The numerical figure denoting the share is sometimes followed by a daṇḍa, as here, while often not so,
+	 I have retained the original arrangement, as also said above.
+{20} The seven akṣaras showing the gotra were originally omitted and are engraved above the line. Here
+	 again the parvaras are omitted.
+{21} For triveda, or trivedin, here and below.
+{22} It is Prakrit or local form of Yaśodhara.
+{23} In place of the penultimate letter some other akṣara appers to have been wrongly engraved, or there
+	 may have been some chisel strokes. The second letter of the gotra was originally engraved as va and later
+	 on corrected.
+{24} For paṇḍita, here and below. The daṇḍa is redundant.
+{25} The śākhās are omitted here.
+{26} Below in II.47 and 49, this word is spelt as Mutāvathū, obviously a corrupt form of Muktāvasthu.
+{27} For caturveda or vedin, here and below.
+{28} For agnihotrin, here and below.
+{29} For For ṭhakkura, here and below.
+{30} Read āpnavāna. The last letter is wrongly marked halanta. Also read aurva.
+{31} The name, which consisted of four akṣaras as to be known from the four top-strokes, is omitted here.
+{32} Read sāṃkhyāyana, or more correctly, śāṃkhyāyana.
+{33} Read autathyeti. The second and the third letters of the gotra that follows appear to be overwritten.
+{34} For dviveda, or dvivedin, here and below.
+{35} Originally, the first akṣara of the name was engraved as gāṃ and subsequently the mātrā was erased.
+{36} A redundant stroke appears on na.
+{37} See n. on the same words above.
+{38} Read āvasthika, here and below.
+{39} Here, an open space with two top strokes is left. Read dvāja.
+{40} That is, yājñika, here and below.
+{41} Here the first letter of the pravara is omitted and the third is written above the line.
+{42} The bracketed akṣara was first engraved as pa, and later on corrected.
+{43} The second akṣara of the name was at first omitted and later on written above the line.
+{44} Read āṃgirasā-
+{45} That is, upādhyāya, here and below.
+{46} Read agnihotrin, here and below.
+{47} The Prakrit or local form of Yaśōdēva.
+{48} Originally, the first letter of the name was engraved as lō.
+{49} See the n. on the word above.
+{50} That is, pāṭhaka.
+{51} Read śakti.
+{52} That is, pañcakalpin, here and below, equivalent to modern pañcōlī. I hesitate to take it as an
+	 abbreviation of pañcakula, for as Kielhorn has rightly remarked, most of the other epithets refer to
+	 religious occupations.
+{53} Obviously this stands for paṇḍita.
+{54} Read catiṣkaṃkaṭa-. As often remarked by us, the word kaṅkaṭa stands for kaṅkaḍa, which is current
+	 even today in Mālwā to denote the boundary line between two villages or fields.
+{55} Some vacant space is left between the second and the third letters in the line and the bracketed akṣara
+	 appears to have been overwritten. As Kielhorn has also remarked, this phrase is unintelligible to me.
+	 Should we read samastatalakaiḥ sahitaṃ, as in No.6, 1.8, above?
+{56} As often remarked above, this word is more often used in Mālwā, even today, in the sense of dharma-
+	 dāya, and it is very often found used in the grants of the Paramāras, for example, in Nos. 9-11, above.
+{57} This akṣara has a redundant anusvāra above.
+{58} Read vilopyāḥ |27| iti.
+{59} Read śudi.
+{60} Read dūtakaḥ, that is, royal messenger.
+{61} The significance of this mark is not known to me. It may be a letter, denoting the name of the messenger.
+	 Or it may be an abbreviation of mukh ādeśaḥ (the order of the King).
+{62} The punctuation mark is redundant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

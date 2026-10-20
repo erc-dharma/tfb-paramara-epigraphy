@@ -1,0 +1,49 @@
+PennGlobal: PMR80
+Period: VS 1026 āśvina vadi 15
+Location: Kālājarā
+Dynasty: Paramāra
+King: Ālhaṇadēva
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records the donation  of some land in favour of a temple.
+Published reference: Trivedi (1978), no. 80.
+
+
+Text{1}
+
+1. saṃ.{2} 13(2)00 varaṣe jeṭha sudi{3} 10 some adyeha caṃ-
+2. drāvatyāṃ mahārājādhirāja śrīālhaṇa-{4}
+3. siṃhadeva kalyāṇavijayarāje{5} tanni-
+4. yukta mudrāyāṃ{6}mahaṃ śrīṣetāprabhṛtipaṃ{7}-
+5. cakulaṃ{8} śāsanamabhilikhyate yathā
+6. mahaṃ śrīṣetākena{9} ------- nānakalāgara-
+7. grāme - - - - - - śrīpārśvanātha
+8. devasya lo .............{10}
+9. ---------- rahitā .........
+10. evaṃ(vam) || ācaṃdrārkkaṃ - - - -{11} yasya
+11. yasya yadā bhūmī tasya{12} tasya tadā phalaṃ(lam) ||
+12. sākhi{13} rāula . vrā{14} aliṇava vrā dauva
+13. vrā java - sohaṇa - - - - vaṇadesaṇā-
+14. ................kalhā... ||
+
+-----------------------------------------------------
+
+{1} From Jinavijaya's transcript in his Prācīna Jaina Lekha Saṅgraha, Pt. II, pp. 260-61, No. 426.
+{2} That is, saṃvat. The correction in the hundred figure of the year as done here does not appear to be
+	necessary.
+{3} Read varṣe jyeṣṭha śudi.
+{4} Sandhi between Śrī and the following vowel is not performed here for the sake of clarity, as in Śrī-
+	Udayāditya, as often noted by us.
+{5} Read -rājye. 
+{6} An expression like vyāpāre or adhikāre is omitted here.
+{7} This akṣara does not stand here for paṃḍita. In the name of the person ṣ appears to have been used 
+	for kh, and in the next line the suffix ka is used for the case ending.
+{8} Read paṃcakule or kulena. 
+{9} Read either ahaṃ ṣe(khe)tākaḥ or mayā ṣe(khe)tākena.
+{10} The purpose of the gift and the dimensions of the land appear to have been mentioned here.
+{11} A word like pālanīyaṃ and the first half of the customary benedictory verse appear to have lost here.
+{12} Read bhūmistasya.
+{13} This is the local word for sākṣī.
+{14} This akṣara appears to be the abbreviation of brāhmaṇa.
+

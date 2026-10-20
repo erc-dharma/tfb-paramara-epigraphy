@@ -1,0 +1,49 @@
+PennGlobal: PMR43
+Period: Undated
+Location: Gyārspur, in Bāsōdā parganā
+Dynasty: Paramāra
+King: Trailokyavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Consecration of the image of Cāmuṇḍasvāmideva and records the grant of the village 
+	  to provide worship of the deity, by mahākumāra Trailokyavarman.
+Published reference: Trivedi (1978), no. 43.
+
+
+Text{1}
+
+1. siddham{2} | svasti || śrī[r*]jayobhyudayaśca || adyeha śrīha[r*][ṣa]purasthitena samastarājā[va]{3} ....
+2. tasamastaprakriyāvirājamānamahakumāraśrītrailokyavarmmadevena ....{4}
+3. navamyāṃ śrīcāmuṇḍasvāmidevakāritapratiṣṭhāyāṃ{5} pūjānimitte ....
+4. [aṣṭāṃ]sa{6}(śa)sahitaṃ devavrā(brā)hmaṇabhuktivarja{7} | grāmoyaṃ śrīcāmuṇḍasvāmi[ne].....{8}
+
+-------------------------------------------------------
+{1} From the original stone and inked impression supplied by Dr. Katare.
+{2} Expressed by a symbol.
+{3} Originally dhi, later on changed to va, Restore the last portion as -līsahi-.
+{4} The year and the month are lost here.
+{5} The language here is faulty though the sense is clear (K.G.K.).
+{6} K.G.K. read bhogyāya, but the first akṣara which begins with a curve is a(misformed), and in view of
+	this the second akṣarahas to be read as ṣṭāṃsa(śa), meaning the eighth part (of the revenue?). The
+	reading of these akṣaras is due to Dr. Katare.
+{7} The anusvāra is clear on the stone but being lightly engraved it could not come in the impression.
+{8} Perhaps the lost portion has to be restored by a word like pradattaḥ, sampradattaḥ, or upahṛtaḥ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

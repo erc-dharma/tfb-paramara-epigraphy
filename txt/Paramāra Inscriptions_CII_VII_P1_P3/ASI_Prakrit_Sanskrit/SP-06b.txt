@@ -1,0 +1,13 @@
+Inscription: SP-06b
+Period:	circa 13th century CE
+Location: Fixed near the right pilaster, besides the mihrab
+Language:	Prakrit
+Script:	Nagari
+
+Text:
+
+..nn..||3||tāḍako.taka.yālevalayānemuktāla.vaśāgonavatmaratnavalāsaka. pū..........
+
+Gist: Fragmentary and defaced. Seems to be a part of a bogger slab, which probably 
+	contained some literary work (continuation of inscription no.SP-06a). Mentions verse
+	number 3. Palaeographically datable to 13th century CE.

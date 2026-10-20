@@ -1,0 +1,45 @@
+PennGlobal: PMR69
+Period: VS 1237
+Location: Nāṇā
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Inscription likely marks a plot of land 
+	  that belonged to the Brāhmaṇas at the place. 
+	  Likely that the stone was brought from that place, 
+	  rather than having belonged to the temple.
+Published reference: Trivedi (1978), no. 69.
+
+
+Text{1}
+
+1. savat 123[7]
+2. svasti | [dā]{2}vaḍāmaha[ā]-
+3. pramāra kula tila-
+4. ka rājapū(pu)tra [sāi]{3}-
+5. ṇasāhaṇī{4}-rāja
+6. sī[ṃ](siṃ)hasāha[ṇī?]
+7. vāgaḍama(jhu)ku(kṛ)ta{5}-
+8. vrehma(brāhma)ṇabhūmī(miḥ) ma-
+9. tavyaṃ{6} ||
+
+-----------------------------------
+
+{1} From impressions.
+{2} This akṣara appears also as dī, but the curve at the top is not clearly marked.
+{3} The reading of the consonant of the first akṣara is not certain; it also appears somewhat like j; and the 
+	second akṣara may also have been ḍa or da, or even ha without the curve on the left of the lower part
+	thereof.
+{4} The significance of this akṣara cannot be ascertained. If the word is a corrupt form of sādhanika in the
+	sense of a military officer, for which see above No. 60, text 1087 and n. on it in the edition of the inscrip-
+	tion, the letters sāiṇa would be left without any meaning. Should it be read as sājaṇa?
+{5} The text is corrupt here and full of local words. Majhu is probably a corruption of madhye, i. e. in the 
+	midst of; and vāgaḍa means a line of demarcation, quite distinct from the word Vāgaḍa which denoted the 
+	region of Bāṅswāḍā in those times. Both these words are still prevalent in this sense in Rājasthān; and
+	the practice current even to day in that region is to mark the separate plots of land by a fallow land on
+	which small stone figures of a cow are set. The land for the Brāhmaṇas in this particular instance may
+	have been marked by such devices from that to be used by the people of some other castes. cf. C. I. I.,
+	Vol. IV, No.31,1.56.
+{6} Read mantavyā.

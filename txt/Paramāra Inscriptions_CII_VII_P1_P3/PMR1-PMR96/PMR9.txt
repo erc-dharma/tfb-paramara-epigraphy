@@ -1,0 +1,83 @@
+PennGlobal: PMR9
+Period: VS 1074 āśvina śudi 5
+Location: Mahauḍī 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verses 1-2, 4-5 Anuṣṭubh; vv.3 and 7 Vasantatilakā; v.6 Indravajrā; v.Śālinī; v.9 Puṣpitāgrā
+Gist: Donation by Bhojadeva
+Published reference: Trivedi (1978), no. 9. 
+
+Text{1}
+First Plate
+
+1. siddham{2} | jayati vyomakeśobhau yaḥ sarggāya vi(bi)bhartti tāṃ(tām) | aindavīṃ śirasā lekhāṃ jagadvī(d bī)jāṃkurākṛtim ||1||
+  tanvantu vaḥ
+2. smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ | kalpānta samayoddāma taḍid valaya piṅgalāḥ ||2|| parama bhaṭṭāraka mahārā-
+3. jādhirāja parameśvara śrī sīyakadevapādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī-
+4. vākpatirājadevapādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī siṃdhurājadevapādā-
+5. nudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī bhojadevaḥ kuśalī | bhūmi gṛha paścima dvipaṃcā-
+6. śatkāntaḥ pātidugāryī{3} grāme samupāgatān samasta rājapuruṣān vrā(nbrā)hmaṇottarān pratinivāsi paṭṭakila ja-
+7. napadādīṃśca samādiśatyastu vaḥ saṃviditaṃ yathā | śrīmaddhārāvasthitair asmābhiś catu[ḥ]saptatyadhikā(ka)daśaśa-
+8. tasamva(saṃva)tsare śrāvaṇa sudi paurṇṇamāsyāṃ gurau saṃjāta soma grahaṇa parvvaṇi snātvā carācara gurum bhagavanta-
+9. m bhavānīpatyaṃ(tiṃ) samabhyarccya saṃsārasyāsāratāṃ jñātvā tathā hi | vātābhra vibhramamidaṃ vasudhādhipatyam āpā-
+10. ta matra madhuro viṣayopa bhogaḥ[ḥ |] prāṇās tṛṇāgra jala viṃ(biṃ)du samā narāṇāṃ dharmmaḥ sakhā paramaho paralo -
+11. ka yāne ||3|| bhramat saṃsāra cakrāgradhārādhārāmimāṃ śriyaṃ(yam |) prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ phalamiti |(lam ||4|| iti )
+12. jagato vinasva(śva)ra svarūpamākalayyoparilikhita grāmaś catuḥ sīmā{4} gocara yūti paryantaḥ sahira -
+13. ṇya bhāga bhogaḥ soparikaraḥ sarvvādāya sametaḥ śrīgauḍadeśāntaḥ pātiśravaṇabhadrasthāna vinirgga-
+14. ta vātsya gottra paṃca pravara vājasa{5}neya śākhādhyāyine bhaṭṭagokarṇṇa pautra bhaṭṭaśrīpati suta paṃḍita-
+15. [ma]ārkkaṇḍaśarmmaṇāya(ṇe) mātāpitror ātmanaśca puṇya yaśobhivṛddhaye adṛṣṭaphalam aṅgīkṛtya caṃdrārkkārṇṇa-
+
+Second Plate
+
+16. [va]kṣiti sama kālaṃ yāvat parayā bhaktyā śāsanenodaka pūrvvakaṃ pratipādita iti matvā tannivāsi pa-
+17. [ṭṭa]kila janapadādibhir yathā dīyamānabhāgabhogakara hiraṇyādikamājñāśravaṇavidheyaibhū(rbhū)tvā sa-
+18. rvvamasmai samupanetavyaṃ(vyam) | sāmānyaṃ caitat puṇya phalaṃ vu(bu)dhvāsmad vaṃśajair anyair api bhāvi bhibho(r bho)ktṛbhir a-
+19. smat pradatta dharmmādāyoyamanumaṃtavyā(vyaḥ) pālanīyaśca | uktaṃ ca | va(ba)hubhir vvasudhā bhuktā rājabhiḥ sagarādi-
+20. bhirya(bhiḥ | ya)sya yasya yadā bhūmis tasya tasya tadā phalam ||5|| yānīha dattāni purā nareṃdrair ddānāni dharmmārtha-
+21. ya[śa]s karāṇi | nirmmālya vānta pratimāni tāni ko nāma sādhu[ḥ] punarādadīta ||6|| asmat kula kramamudā-
+22. ramudāharadbhir anyaiśca dānamidam abhyanumodanīyaṃ(yam |) lakṣmī(kṣmyā)s taḍid va[la]-
+23. ya vudvu(budbu)da caṃcalāyā dānaṃ phalaṃ parayaśaḥ paripālanaṃ ca ||7|| sarvvānetān bhāvi-
+24. naḥ pārthiveṃdrān bhūyo bhūyo yācate rāmabhadraḥ | sāmānyoyaṃ dharmmasetu -
+25. r nnṛpāṇāṃ kāle kāle pālanīyo bhavadbhiḥ ||8|| iti kamala dalāmvu(mbu) viṃ(biṃ)du lo-
+26. lāṃ śriyamanuciṃtya manuṣya jīvitaṃ ca | sakalam idam udāhṛtaṃ ca vudhvā(buddhvā) na
+27. hi puruṣaiḥ parakīrttayo vilopyā iti (pyāḥ || 9 || iti) || cha || cha || cha ||
+28. samva(saṃva)t 1074 a(ā)śvina sudi 5 | svayamājñā | maṅgalaṃ mahāśrīḥ |
+29. sva hastoyaṃ mahārāja śrī bhojadevasya || dāpakotra śrī jāsaṭa[ḥ] ||
+
+
+--------------------------------
+{1} From a set of rubbings.
+{2} Denoted by a symbol.
+{3} The existence of the superscript r(र) is doubtful.
+{4} Reading catussīmā (चतुस्सीमा) here, Dr. Sircar also noted the use of double dental sibilant in the orthographical
+	portion of the record. The second of these letters is no doubt damaged (has not clearly come out in the
+	rubbing?).
+{5} This akṣara is so formed as to appear to be a combination of the palatal and dental sibilants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

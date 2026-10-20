@@ -1,0 +1,87 @@
+PennGlobal: PMR11
+Period: VS 1076 māgha śudi 5
+Location: Bhāṅswāḍā 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verses 1-2, 4-5, Anuṣṭubh; vv.3,7 Vasantatilakā; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Donation of land by Bhojadeva
+Published reference: Trivedi (1978), no. 11. 
+
+Text{1}
+First Plate; Second Side
+
+1. siddham{2} || jayati vyomakeśau(śo)sau yaḥ sarggāya vi(bi)bhartti tāṃ(tām) || aiṃdavī śirasā lekhāṃ ja-
+2. gad vī(d bī)jāṃkurākṛtiṃ(tim) ||1|| tanvaṃtu vaḥ smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ ||(|) ka-
+3. lpāṃta samayoddāma taḍid valaya piṃgalāḥ ||2|| parama bhaṭṭāraka mahārā-
+4. jādhirāja parameśvara śrī [sī]yakadevapādānudhyāta parama bhaṭṭāraka ma-
+5. hārājādhirāja parameśvara śrī vākpatirājadevapādānudhyāta parama bha-
+6. ṭṭāraka mahārājādhirāja parameśvara śrī siṃdhurājadevapādānudhyāta-
+7. parama bhaṭṭāraka mahārājādhirāja parameśvara śrī bhojadevaḥ kuśalī ||
+8. sthalī maṃḍale vyāghrado{3}rabhogāṃtaḥpāti vaṭapadrake śa(sa)mupagatān samasta rājapu-
+9. ruṣān vrā(brā)hmaṇottarān prati nivāsi janapadādīṃśca samādiśatyastu vaḥ saṃviditaṃ(tam) ||
+10. yathā'smābhiḥ koṃkaṇa vijaya parvvaṇi śnā(snā)tvā carācara guruṃ bhagavantaṃ bhavānīpatiṃ
+11. samabhyarccya saṃ[s]ārasyā[s]{4}āratāṃ dṛṣṭvā |{5} vātābhra vibhramam idaṃ vasudhādhipatyam āpāta mā-
+12. tra madhuro viṣayopabhogaḥ | prāṇās tṛṇāgra jala vi(bi)du samā narāṇāṃ |{5} dharmmaḥ sakhā
+13. paramaho paraloka yāne ||3|| bhramat saṃsāra cakrāgra dhārādhārāmimāṃ śriyaṃ(yam) | prāpya ye na
+14. dadusteṣāṃ paścāttāpaḥ paraṃ phalaṃ(lam) ||4|| iti jagato vinaśvaraṃ svarūpam ākalayyopari{6} -
+15. sva hastoyaṃ śrī bhojadevasya ||
+
+Second Plate; First Side 
+
+16. likhita grāmāta(d) bhū nivarttana śataikaṃ{7} ni 100 sva sīmā tṛṇa gocara yūti paryataṃ hiraṇyā- |{8}
+17. dāya sametaṃ sabhāga bhogaṃ soparikaraṃ sarvvādāya sametaṃ vrā(brā)hmaṇa bhāilāya vāmana-
+18. sutāya vaśi(si)ṣṭha sagotrāya vājimādhyaṃdina śākhāyaika pravarāya cchiṃcchāsthāna vinirggata pūrvva-
+19. jāya mātāpitror ātmanaśca puṇya yaso(śo)bhivṛddhaye adṛṣṭa phalam aṃgīkṛtya caṃdrākkā(rkkā)rṇṇa -
+20. va kṣiti sama kālaṃ yāvat parayā bhaktyā śāśa(sa)nenodaka pūrvvaṃ pratipāditam iti matvā ta-
+21. nnivāsi janapadair yathā dīyamāna bhāga bhogakara hiraṇyādikam ājñā śravaṇa vidheyai-
+22. r bhūtvā sarvvamasmai samupanetavyam iti || sāmānyaṃ caitat puṇya phalaṃ vudhvā(buddhvā)'smad vaṃśajair anyai-
+23. r api bhāvi bhoktṛbhir asmat pradatta dharmmādāyo{9}yam anumaṃtavyaḥ pālanīyaś ca || uktaṃ ca | va(ba)-
+24. hubhir vvasudhā bhuktā rājabhiḥ sagarādibhiḥ | yasya yasya yadā bhūmis tasya tasya tadā phalaṃ(lam) ||5||
+25. yānīha dattāni purā nareṃdrair dānāni dharmmārtha yaśas karāṇi | nirmmālyavāṃti pratimāni
+26. tāni ko nāma sādhuḥ punarādadīta ||6|| asmat kula kramam udāramudāharadbhir anyaiśca dānami-
+27. damabhyanumodanīyaṃ(yam) | lakṣmyās taḍit salila vudvu(vudbu)da caṃcalāyā dānaṃ phalaṃ para yaśaḥ paripāla-
+28. naṃ ca ||7|| sarvvānetā[n bhā]vinaḥ pārthiveṃdrān bhūyo bhūyo yācate rāmabhadraḥ ||(|)
+29. sāmānyoyaṃ dharmma setur nṛpāṇāṃ kāle kāle pālanīyo bhavadbhiḥ ||8|| iti kama-
+30. la dalāṃvu(bu) viṃ(biṃ)du lolāṃ śriyamanucintya{10} manuṣya jīvitaṃ ca | sakalm idam{11}udā
+31. hṛtaṃ ca vudhvā(buddhvā) na hi puruṣaiḥ para kīrttayo vilopyā[ḥ] ||9|| iti saṃvat 1076 māgha śudi 5 |
+32. svayam ājñā | maṃgalaṃ mahāśrīḥ || sva hastoyaṃ śrī bhojadevasya ||
+
+------------------------------
+{1} From inked impression and photographs
+{2} Denoted by a symbol
+{3} As remarked by Hultzsch, this letter may also be read as dau. But I do not agree with him in reading
+	the first akṣara as Ghā. The akṣara is damaged but the initial curve of y is clear in the photograph;
+	and it also appears that the engraver first cut a part of gh and without scratching it, corrected it to v.
+	Thus I take the reading as Vyāghradōra, which is also justified by the modern name of the place, as seen
+	above. I am conviced about my reading of the name from the original also. The name also appears in
+	No.84,1.49
+{4} This and the preceding bracketed letter is each so formed as to show the combination of the palatal and
+	the dental sibilants.
+{5} The daṇḍa is redundant
+{6} This line is continued on the next plate.
+{7} Nivartana is a measure of length, being equal to 400 sq. rods (yards) according to the Līlāvatī(I,6), or
+	900 sq. yards, according to Kauṭilya (II,20), and it is not known which of the two is intended here.
+{8} The daṇḍa, which has faintly come out in the photograph but is clear in the impression, is redundant.
+{9} Hultzch corrected this word to dharmmadāya but we find the word also in some other records of the house;
+	and it may also be observed here that the word dharmmā- is more common in Mālvā even to this day.
+{10} This letter is not properly formed and the upper curve of the mātrā of the preceding letter is not engraved.
+{11} Originally yu(यु), corrected to mu(मु), later on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

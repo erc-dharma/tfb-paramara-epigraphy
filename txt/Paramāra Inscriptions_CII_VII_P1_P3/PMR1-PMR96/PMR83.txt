@@ -1,0 +1,215 @@
+PennGlobal: PMR83
+Period: VS 1116
+Location: Pānāheḍā
+Dynasty: Paramāra
+King: Maṇḍalīka 
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 61 verses
+Metres: Verses 1, 2(?), 52 Āryā; vv. 3-6, 8, 11, 13-15, 23, 26, 29, 31, 32, 39, 60 Śārdūlavikrīḍita; v. 7, 16
+	    Vasantatilakā; vv. 9, 10, 12, 17, 18, 22, 35 Sragdharā; vv. 19, 20, 24, 25, 27, 28, 
+	    30, 34, 36, 37, 44-51, 53-59, 61 Anuṣṭubh; v.21 Mālinī; v.35
+	    Śālinī; v.38 Upajātī; vv.40-43 Toṭaka
+Gist: Records the construction of a Śiva temple and the endowments made to it by king Maṇḍalīka.
+Published reference: Trivedi (1978), no. 83.
+
+Text{1}
+
+1. siddham{2} | oṃ namaḥ śivāya || dhṛta gagana siṃdhu paṭṭaḥ śaila sutā śāla bhaṃjikā subhagaḥ | jayati jagatra(ttra)ya maṃḍapa mūla staṃbho{3}
+  mahādevaḥ ||1|| jayati śivo yanmūrdhni ............. | .............. [||2||
+  - - - U U -[śa-] 
+2. śāṃka kalyā sadyaḥ prapadyāmṛtaṃ vāmaḥ prāpya surāṃ jagāma garala grāsādaghoraḥ sukhaṃ(kham) | īśānena samudra maṃthana vithau netrīkṛtaḥ pannago
+  - - - U U - U - U U U - - - U - - U ˍU ||3|| - - - U U - U - U U U - - - U - - U -
+3. tairddhūmairmmāṃsalitāḥ punaśca dalitāścūḍeṃdulekhāṃśubhiḥ | bhūyaḥ sphārabhujaṃgabhogaśa(ga)ralaśvāsormmibhiḥ saṃbhṛtāḥ śaṃbhoḥ paṃtu kaṭhorakaṃṭha-
+  U U - - - U - - U -{4} ||4|| - - - U U - U - U U U - - - U  - - U -, - - - U U - U - U U U -
+4. rddhatte kuṭuṃvaṃ(baṃ) hariḥ | mainākārvvu(rbbu)dayoḥ svasustava gṛhe ko nātha me varttate{5} mithyāhaṃ bhavataḥ priyetyagasutākṣipto haraḥ
+  pātu vaḥ ||5[||*] atrāstyarvvu(rbbu)da - U - U U U - - - U - - U -, - - - U U - U - U U U - - - U - - U
+  - [|*] - - - U U - U - U [vi*]-
+5. tate homakriyāprakrame kuṃḍāgneḥ paramāra ityabhidhayā divyaḥ pumānutthitaḥ ||6|| āsīdakuṃṭhabhujadarppakaṭhoravairikaṃṭhāsthinirddalanaṃda-
+  turakhaḍga[dhāraḥ ||*] - - U - U U U - U U - U - -, - - U - U U U - U U - U - - ||7||
+  - - - U U - U - U U
+6. maye saṃjñāpanārthaṃ muhuścaṃḍoḍḍāmararāvaruddhakakubhi drāktāḍite duṃdubhau | celuḥ pīlughaṭāturaṃgamacamūsaṃghaṭṭadarppotkaṭāḥ sāmantāḥ
+  kaṭakāgra{6} - U U U - - - U - - U ˍU [||8||*] - - - - U - - U U U U U U - - U - - U
+  netrairvvetāiḥ snātukāmai-
+7. ranadhigatatalāstasya yuddhasthalīṣu | dorddaṃḍoccaṃḍakhaḍgāhatakaraṭikhaṭākhorakaṃkālakūlāḥ sadyaḥ kīlālanadyaḥ sphuṭitanaraśiraḥpaṅka - - U - -{7}
+  ||9|| - - - - U - - U U U U U U - - U - - U - - [udya]ddviṭkaṃṭhapīṭhasphuṭavigalada[sṛksi]- 
+8. ktasaṃgrāmaraṃgaḥ | rājā śrīmu.jadevaḥ samajani kṛtīnāṃ vāṃ(bāṃ)dhavo yasya kṝttiḥ kuṃje kuṃje girīṇāṃ prakaṭitapulakaṃ gȳate kinnarībhiḥ{8}
+  [||10||*] - - - U U - U - U U U - - - U - - U -, - - - U [ma]kātareṇa manasā vāṃ(caṃ)catphaṇāmaṃḍalaḥ |
+9. lebhe[']naṃtarameva sausthyamatulaṃ tucchābhavadyanmahī tvaṃgatuṃ(ttuṃ)gattu(tu)raṃganiṣṭhurakhurakṣododgataiḥ pāṃsubhiḥ ||11|| suṃḍā(śuṇḍā)rā
+  ḍākinīnāṃ [ha?] U U U U U - - U - - U - -, - - - - U - - [śā]takaraṭighaṭāḥ satvaraṃ jitvareṇa | ye[nā]-
+10. dīyanta{9} mūrddhni sphuradasisalilaṃ pātayitvārisainye gṛddha(dhra)strīṇāṃ raraṃdhra(dhuḥ) śru(sru)tava(ba)halavasāsīdhavo yoddha(ddhṛ)kaṃṭhāḥ ||12
+   || raṃbhāvā(bā)(hu?)U - U - U U U - - - U - - U -, - - - U U - parākramanidhiḥ śrīsiṃdhurājo nṛpaḥ |
+   bheje yasya
+11. visarppikuṃjaraghaṭāsaṃghaṭṭahe[lā]namaddhātrīmaṃḍalabhāradhāraṇapariklesaṃ(śaṃ) bhujaṃgeśvaraḥ ||13|| kaḥ sthātuṃ kṣamate parākramani - - -
+   U - - U -, - - - U U - U - U U U [te] proddāmagarvvaṃ vacaḥ | te dṛpyaṃtu ka[thaṃ na]{10} nāma ripa-
+12. baḥ sau(śau)ryapratisparddhayā dadhre yairmmukha eva yasya yasa(śa)sā vitrāsitaḥ kālimā ||14|| jātā vāgasamaṃjasā bhayava-
+   [śā]dutsṛ[jya] - - U -, - - - U U - U - U U U - [ya*]dvā gṛhe yādṛsaṃ(śam) | su(śru)tvā yadbhujadaṃḍapīḍitadhanu-
+13. ṣṭaṃkāramārā[d dru]taṃ gāḍhāpārṣṇirupānahaḥ paramabhūdai(de)kaiva vidveṣiṇāṃ(ṇām) ||15 || tasmādajāyata saroruhapattranetro
+   vidyāni[dhiḥ*] U U U - U U - U - ˍU | - - U - U U U{11} caṃḍakṛpāṇadaṃḍavyāpārakausa(śa)lavidagdhabhujo nareṃ-
+14. draḥ ||16[||*] sarppatyuddāmadarppotkaṭakaraṭighaṭāmedure yasya sainye medinyāmakṣamāyāmasahabharadhurāṃ dhartumuddhartukāmaḥ | - - - - U - -
+   U U U U U U - - U - - U - - [ma]rmmo marmmavyathābhiḥ samajani nibhṛvaḥ(taḥ) prāṇaśeṣastu
+15. [śe]ṣaḥ ||17|| yasminnurvvīṃ vijetuṃ pracalati va(ba)lavattuṃgamātaṃgasainyakṣobhakṣīṇapravāhāḥ pramathitanalinīmaṃḍapoḍḍīnahaṃsāḥ |
+   - - - - U - - U U U U U U - - U - - ka - - vairistrīvā(bā)[ṣpa]purairmmaruṣu samabhava(vaṃ)stepi kūpāḥ
+16. [śva]lehyāḥ ||18|| darśayannātmano rūpaṃ vidyāspu(sphu)ritavibhramaiḥ | yatpratāpoṃvu(bu)do bhūtvā kāna(ma)varṣī prajāsvabhūt{12}
+   ||19|| muktā si(śi)rasi śatrūṇāṃ khaḍga ˍUˍU U - U U | ˍUˍUˍUˍU U - - ˍU, ˍUˍUˍUˍU U - riyaṃ(yam)
+   ||20|| tama[nu]vinatabhūbhṛccakracūḍārccitāṃhriḥ{13} pratapa-
+17. ti jaya[siṃ]haḥ pārthivo māva(la)vānāṃ(nām) | caṭulaturagasenāpāṃśubhiryaḥ prayāṇe kaluṣayati caturṇṇāmarṇṇavānāṃ payāṃsi ||21||
+   yadvā(dbā)huḥ sau(śau)ryavego U U U U U U - - U - - U - -, - - - - U - - [a*]marayuvatibhiḥ kīryate puṣpavṛṣṭyā |
+   helākṛṣṭāsidaṃḍāhatasu-{14}
+18. bhaṭaghaṭākaṃ(skaṃ)dhakaṃḍā(ṭhā)sthikhaṃḍapraścyotadraktadhārāplutasamaradharāpṛṣṭhanṛtyatkavaṃ(baṃ)dhaḥ ||22|| tāḥ kaṃḍūlakapolakelikaṣaṇatruṭya-
+   tkaṭhora[drumā ?] - - - U U - U - U U U - - - U - - UˍU | [ya]ddorddaṇḍavilāsaḍaṃva(ba)raraṇaccaṃḍāsidhārājale
+   drāgma(ṅ ma)jjaṃti vi-
+19. pakṣavāraṇaghaṭāḥ saṃgrāmasīmāspṛśaḥ ||23[||*] yasyājau yamajihvābhaṃ khaḍgamālokya vidviṣaḥ | aprāptepyāyuṣaḥ kā[le] ˍUˍU{15}
+   nmuṃcati jīvi[tam*] ||24|| ˍUˍUˍUˍU U - - U, ˍUˍUˍUˍU U - U ˍU | [sa*]rve pṛthvībhṛtaścitraṃ bhuṣṭimadhye nivesi
+   (śi)tāḥ ||25||{16}
+20. atrāśī(sī)tparamāravaṃ[śa]vitatau lavdhā(bdhā)nva[yaḥ] pārthivo nāmnā śrīdhaniko dhanessa(śva)ra{17} iva tyāgaikakalpadrumaḥ | - - -
+   U U - U - U U U - - - U - - U -, - - - U U - U - U U U - ninye svakīyaṃ vapuḥ |||26|| śrīmahākāladevasya
+   nikaṭe himapāṃḍu-
+21. raṃ(ram) | śrīdhaneśvara ityuccaiḥ kṝttanaṃ yasya rājate ||27|| caccanāmābhave{18}(va)tva(tta)smād bhrātṛsūnurmahānṛpaḥ | raṇe ˍUˍUˍU
+   ˍU U - - ˍU, ˍUˍUˍUˍU U - U ˍU ||28|| - - - U U - U - U U U - - - U - - khyayā vikhyātaḥ karavālaghāta-
+   dalitadviṭkubhikuṃbhasthalaḥ | yaḥ śrī-
+22. [kho]ṭvi(ṭṭi)kdevadattasamaraḥ śrīsīyakārthe kṛtī revāyāḥ khaligha[ṭṭa]nāmani taṭe yudhvā(ddhvā) pratasthe divaṃ(vam) ||29|| ˍUˍUˍUˍU U
+   - - ˍU, ˍUˍUˍUˍU U - U ˍU | ˍUˍUˍUˍU U - - ˍU, ˍUˍUˍUˍU U vāsitāṃ(tām) ||30|| ātaḥ{19} kīrtti-
+   taraṃgiṇīsa(cu)la(lu)kitatrailokkyasīmāṃtarastyā[gī]
+23. satyaparākramanidhiḥ{20} śrīsatyarājobhavat | yaḥ śrībhojanareṃdradattavibhavaḥ sārddhaṃ raṇe gūrjjaraiḥ kṛtvā [saṃ] U U - U - U U U - - - 
+   U - - U ˍU ||31|| - - - U U - U - U U U - - bhāgyabhagīrathībhettpraḥ(ttuḥ) kīrttiṣu cāhamānamahatāṃ vaṃśodbhavā
+   labhyate | rā-
+24. jaśrīḥ sahajeva ye[na] sahajaśrīmanmatiḥ svāminā yasyāḥ syādupamānamādipuruṣa(ṣā)pīta(sta)nī devakī ||32|| tasyā - U U
+   - U - U U U - - - U - - U -, khyātaḥ śrīliṃva(ba)rājaḥ prakaṭasubhaṭatāsṛṣṭiṣu vra(bra)hmakalpaḥ | svalpaśrī-
+25. rbhūridātā nayavinayamahāpaṃḍitastadvariṣṭhaḥ svi(sva)rggaṃ prāptaśchalitvā ka[li]yugamadhipadveṣiṇo nirddalitvā ||33|| bhogatyāgau gṛhī[tvā]
+   ˍU, ˍUˍUˍUˍU U - U ˍU : | śrīmaṃḍalika ityasya laghurbhrātābhave(va)nnṛpaḥ ||34|| sū(śū)rastyāgī narmmaśilo vi-
+26. paścit kaḍarppābhaḥ kāminīcittacauraḥ | sāmaṃtānāṃ mūrddhani dattāṃhri{21}reko rājatyurvvīmaṃḍale maṃḍalīkaḥ ||34(35)|| api ca ||
+   bhoja ˍUˍU U - - ˍU, ˍUˍUˍUˍU U - U ˍU | ˍUˍUˍUˍU U - - ˍU, ˍUˍUˍUˍU - U U ˍU ||35(36)||
+   yenādāya raṇe kanhaṃ daṃḍādhīsaṃ(śaṃ) mahāva(ba)laṃ(lam) | arppitaṃ jayasiṃhāya sā[śvaṃ]
+27. gajasamanvivaṃ(tam) ||36(37)|| jayatyasau śrīparamāravaṃśo yatra prabhuḥ śrījayasiṃhadevaḥ | jātaḥ prasā(śā)khāsu ca yasya
+   tuṃgasāmaṃtapūjya U U - U - ˍU ||37(38)|| - - - U U - U - U U U - - - U - - U ˍU, bhaktyākāryata maṃdiraṃ
+   smararipostatpāṃśulākheṭake | yasyottu(ttuṃ)gaśiraḥ-
+28. pradeśanihitairdīpotsave dīpakairddattaṃ kajjalamaṃjayaṃti nayanānyādāya siddhastriyaḥ ||38(39)|| tṛṇamuṣṭimupāhṛtavānapi yaḥ i. U - U
+   U - U U - U U - | U U - U U - U U - U U -, bhuvi sopyavatīrya bhavennṛpatiḥ ||39(40)||
+   śaradārumṛdālayamīśakṛte 
+29. kurutelpadha[no] dinamekamapi | divi varṣasahasramupāsya si(śi)vaṃ punaratra mahīpanataḥ prabhavet ||40(41)|| vṛ(bṛ)hadāma{22}-
+   U - U U - U U -, U U - U U - U U - U U ˍU [|*] U U kāmayatepi maheṃdrapadaṃ suranāthapami sthalayedacirāt
+   ||41(42)||
+30. yadi pakva[mṛ]deṣṭikayā tarubhirvvarasāraśa(śi)lāghaṭitairghaṭayet | nikhilāmarase(śe)kharaghaṭṭanayā nivise(śe)ddivi ghṛṣṭapadāṃvu-
+   (bu)ruhaḥ || 42(43)|| ˍUˍUˍUˍU U - - ˍU, ˍUˍUˍUˍU viṣāṇajaṃ(jam) | prāsādamatha māṇeyaṃ śiva
+   eva karoti yaḥ ||43(44)[||*]{23}
+31. rājñā srī(śrī)jayasiṃhena{24} asmai devāya bhaktitaḥ | vṛṣabhaṃ prati bhogārtha mārgge viṃso(śo)pake dattaḥ ||44(45)||
+   pāṃsulākheṭake sthāne kacchoka ˍU U - U ˍU | ˍU ˍU ˍU ˍU dvitīyastu dattaḥ śaṃbhoḥ svabhaktinā (?) ||45(46)||
+   vaṃdanākhye(')raghaṭṭe ca bhūmai(me)-
+32. rbhāgadvayaṃ tathāṃ | dattaṃ śrīmaṃḍalīkena svaśreyāya{25}(yase) mahesa(śa)taḥ ||46(47)[||*] pṛṣṭhe nagnataḍāgasya varuṇesva(śva)ryāstathaiva
+   ca{26} | vāṭikā subhagā dattā ˍUˍUˍUˍU - U - ˍU ||47(48)|| ˍUˍU evāditaḥ kṛtvā yāvaccaṃdradivākarau | bhūmirddattā
+   sakedārā vudhvā(budddhvā)
+33. sāṃsārikaṃ phalaṃ(lam) ||48(49)|| naṭṭāpāṭakagrāme bhūranyā deulapāṭake | bhogyapure ca pānāchyāmaparā
+   maṃḍaladrahe{27} ||49(50)|| evameteṣu grā[meṣu*] ˍUˍUˍUˍU U [la*]kṣitā | bhūmiḥ śrīmaṃḍalīkena dattā śrīmaṃḍaleśvare
+   ||50(51)|| etacca pu-
+34. raṃ lalanānūpurajhaṃkāramukharitābhogaṃ(gam) bhoganimittaṃ śaṃbhorddattaṃ śrīmāṃḍalīkena ||51(52) [||*] puretra satkadravyasya bhūraghaṭṭādi-
+   kasya ca | ma U ˍU U U - - U ˍUˍUˍU - śaḥ prakalpitaḥ ||52(53)|| tapaśvī(svī) vra(bra)hmacāri(rī)rya(yaḥ)
+   [śu]cirdāṃtā(to) jiteṃdri-
+35. yaḥ | tenātra tatriḥ(vṛttiḥ){28} karttavyā vārikaiḥ saha sarvvadā ||54||-cha|| bharato dhuṃdhumāraśca kārttavīryo śivirva(rba)liḥ |
+   hariscaṃdra(ścandra)stu{29} māṃdhātā nalo veṇurnṛpāda[yaḥ] ||55|| ˍUˍUˍUˍU U - - ˍU, ˍU jātaḥ(tā) varapūritāḥ | tepyāyuṣi
+   parikṣīṇe ga[tāḥ] kṛtāṃ(kārttāṃ)tikaṃ{30} pura(ram) ||56||
+36. matvai[ta*]dasthiraṃ sarvvaṃ rājyamāyurdhanaṃ nṛpaiḥ | na lopyaṃ si(śi)vasaṃvaṃ(baṃ)dhi vastu stokaṃ(kama)pi yadbhavet{31} ||57|| yataḥ
+   | bhavasnānājyamajñānādyatsthitaṃ karajoda[re] | ˍUˍUˍUˍU U - - ˍU, ˍUˍUˍUˍU haridvipaḥ ||58|| vise(śe)ṣataḥ |
+   asmadvaṃse(śe)tha ˍU - ˍU viṣaye bho-
+37. katā[ca] yo bhavet{32} | tasyāsmābhiḥ kṛtābhyarthā si(śi)vadattaṃ na cālayet ||59|| asti pratyavanīsa(śa)cakramukuṭaspṛṣṭāṃ-
+   hripīṭhaśriyaḥ |{33} śrīkodaṃḍacatu[rbhu] - U U U - - - U - - U ˍU | [te*]noyaṃ sphuṭavarṇṇapākapaṭimaprauḍheḥ padāṃḍa[va(ba)raiḥ]
+   saṃsṛ[ṣṭā]{34} suma-
+38. [naḥ]pravo(bo)dhajananī śaṃbhoḥ praśastirgṛhe ||60|| yāvaccāṃdrī kalā śaṃbhordyotatejūṭamaṃḍape | kīrttiḥ śrīmaṃḍalīkasya tāvada-
+   stvakṣayā bhuvi ||60(61)|| saṃvat vi[kra]ma- 1116 . . . [vā]labhyakāyasthaśrīdharasutā{35}sarājeneyamutkīritā(rṇṇā ?)
+   [su(śu)ddhā] || 
+   
+-----------------------------------------------------------------------------------------
+
+{1} From impressions.
+{2} Expressed by a symbol.
+{3} The consonant is engraved as h(ह्) as also in some other places below.
+{4} The gap may be filled in by -kaṇṭhaluṭhitā jūṭā jaṭānāṃ śivāḥ, or kaṭhorakaṇṭharucayo lokasmayotpādakāḥ (or tāpatrayotsārakāḥ).
+{5} The second letter of this word is damaged, and also shows that some other letter was originally engraved
+	here.
+{6} The last letter in this word, as in some others where the stone is exactly broken, is followed by a part of
+	another letter which cannot be distinctly made out. It appears to be va but may also be ca. or dha.
+{7} The missing letters may be conjecturally aupplied here as -purāḥ prasasrūḥ. The name vākpatirāja appears to
+	have been lost in v.7.
+{8} The second akṣara of this word is engraved as nva.
+{9} The mātrā of the first akṣara in this line shows an additional vertical, ending in a fine tail, by way of an
+	ornamentation.
+{10} Some other letters were originally engraved in place of both the bracketed letters.
+{11} The name of Bhoja appears to have been lost here. Perhaps to read śrībhojadeva iti, which also suits
+	 the metre.
+{12} The figures of speech in this verse is Rūpaka, showing the co-existence of valour and learning. The trū
+	 in śatrūṇāṃ that follows, is formed in a peculiar way.
+{13} Read ghriḥ.
+{14} A combination of the palatal and dental sibilants.
+{15} Here, the intended reading appears to be kāle kṣaṇānmuṃcaṃti.
+{16} After the number of the stanza is a floral design followed by the symbol resembling the subscript chh
+	 or th appearing twice, each of these engraved between double daṇḍas, showing the end of the first
+	 part i.e., the praśasti of the inscriptions.
+{17} The vertical showing the mātrā of mnā that precedes was inserted later on, and the third letter of the name
+	 is damaged.
+{18} The sign of the mātrā of this letter appears as struck off on the original.
+{19} The reading of the first and the ninth letter of this verse is uncertain; can the first letter be bhrā? The
+	 meaning of the first word is uncertain.
+{20} Two akṣaras after satya are omitted here as the metre shows. Halder proposed to read satyaparākramo [guṇa*]
+	 nidhiḥ; but ma has no mātrā; and satyaparākramaḥ would not be a happy expression. Thus what appears to be
+	 intended is satyaparaḥ parākramanidhiḥ. The word bhettuḥ, below, was at first engraned as -tuḥ and later on corrected.
+{21} Read ghri, as in n., above. In rvvī that follows, the sign of superscript r(र्) is mixed with the curve of
+	 the mātrā.
+{22} This akṣara is followed by what looks like dṛ, and the following portion of the line is broken. Possibly
+	 the intended reading is āmadṛṣad in the sense of undressed stone.
+{23} A floral design apears here also. The reading viṣā is not certain.
+{24} Sandhi is not made here for metrical exigencies. The last but one letter in this verse is long whereas
+	 it is required to be short.
+{25} This incorrect form is used for the sake of metre.
+{26} This foot contains one akṣara more than required by the metre. Read varṇṇeśvaryās but the name
+	 appears to be varuṇeśvarī. See n. in the edition of the record.
+{27} This and the following verse contain metrical errors. The one in the first foot can be removed by
+	 reading śrī in its beginning; the second syllable is required to be long instead of short as it appears here;
+	 and the sixth letter in the following verse unnecessarily stresses the previous one.
+{28} Probably vastiḥ is intended. All the three akṣaras, viz. t (त्), n(न्),and v(व्) are here formed almost alike. The 
+	 word vārika, which is not to be found in dictionaries, probably means a 'beggar'. It may probably be con-
+	 nected with Vārakin, which means an ascetic living on leaves, or with a person of the Vārakarī sampradāya(?).
+{29} Better read ca in place of tu.
+{30} The reading of the letters from the third to the sixth is proposed here in view of the sense. The first
+	 of these letters looks like kṛ, which is also preceded bya daṇḍa, possibly the vertical of medial i, and the 
+	 following two akṣaras are unrecognisable. Again, the gap in the first foot of this verse may be filled in 
+	 by reading asminnurvvītale naike ye.
+{31} This foot is again metrically defective. The reading stokaṃ ca yadbhavet is suitable but it does not give the 
+	 exact sense. The meaning of the following hemistich is not clear to me. 
+{32} This foot is agin metrically defective and the whole may be read as asmadvaṃśe'thavānyasminbhūmibhoktā ca yo 
+	 bhavet. In the next foot abhyarthā is used in the sense of abhyarthanā.
+{33} This punctuation mark is redundant.
+{34} The reading of the bracketed letter is doubtful. Probably what is intended is saṃśḷiṣṭā, in the sense of 
+	 'composed'.
+{35} Due to a redundant stroke, this akṣara appears as tya.
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,92 @@
+PennGlobal: PMR91
+Period: VS 1059 māgha śudi 15
+Location: Rōpī
+Dynasty: Paramāra
+King: Devarāja
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 1 verse.
+Metres: V.1 (in II. 21-23) Anuṣṭubh
+Gist: Records a donation by Dēvarāja of a field situated to the south of the city-will of Śrīmāla (modern Bhinmāl)
+Published reference: Trivedi (1978), no. 91.
+
+Text{1}
+
+First Plate
+
+1. siddham{2} || oṃ(oṃ) namaḥ śivāya || saṃvat 1[0]59 mā-
+2. gha śudi 15 asyāṃ saṃvatsara māsa pakṣa di-
+3. vasa pūrvvāyāṃ śrī2{3}mālāvasthita mahārājā-
+4. dhirāja śrīdevarājaḥ svabhujyamāna viṣaye
+5. dharmmadāyena kṣetraśāsana(naṃ) prayacchati || yadihai-
+6. va śrī2{3}mālīyakoṭṭā ddakṣiṇa digbhāge kṣetraṃ
+7. yasyāghāṭanāni pūrvvato govinda vrā(brā)hmaṇa-
+8. satkā bhūsīmā | dakṣiṇato vāmanadurllabhasu-
+9. tasatkā bhūsīmā | paścimato mahāsāmanta śrī-
+10. pūrṇacaṇḍasatka [grā]meṇa saha bhūsīmā | 
+11. uttarataḥ śrīdhara vrā(brā)hmaṇa kṣe[tre*]ṇa bhūsīmā |
+
+Second Plate 
+
+12. evametaccaturāgha(ghā)ṭanābhyaṃtarakṣetraṃ(tram) |{4}
+13. asmābhiḥ somagrahaṇe snātvā trilokīguruṃ śaṃkara-
+14. mabhyarccya mātāpitrorātmanaśca puṇyayaśobhivṛddhaya(ye)
+15. śāsaneto(no)dakapūrvvam ācaṃdrārkka kālīnatayā prati-
+16. pāditaṃ(tam) | [ā]urakācāryāya |{5} caṇḍaśivācāryaputrā-
+17. ya . . . . . . . .{6} śrīsiddheśvaradevasthānādhīśāya
+18. pradattaṃ na kenāpi paripaṃthanīyaṃ (yam) ||{7} asmadvaṃśajairanyai-
+19. śca bhāvibhoktṛbhiḥ | atra sākṣī śrīdevarājagururmmatvā-
+20. kaḥ{8} | atra sākṣī śrīpūrṇacaṇḍaḥ | likhitaṃ sūryaravi-
+21. ṇā nyāsasutena | yo yaḥ pṛthivyāṃ rājā hi mamā-
+22. torddhvaṃ{9} bhaviṣyati | tasyāhaṃ karalagnastu śāsanaṃ sā(mā)
+23. vyatikramai(me)t ||1|| svahasta[ḥ*] śrīdevarājasya | 
+
+-------------------------------------------------
+{1} From transcript in Ep. Ind., Vol. XXII, pp.197 f.
+{2} Expressed by a symbol (B. N. S.).
+{3} Figure 2 is used to denote the repetition of śrī. (B. N. S.).
+{4} The daṇḍa is unnecessary (B. N. S.).
+{5} As n.6 on the preceding page. 
+{6} Here Shastri observes that the reading seems to be kṣame māthuke but the sense is not clear. While publishing
+	the article in the Ep. Ind., op. cit., the editor observes that the reading appears to be kṣamamāthuke, and 
+	may mean 'at kṣamamāthuka' where the temple of Mahādeva Siddheśvara seems to have been situated. But 
+	I am unable to trace out the place in the maps at my disposal. 
+{7} Delete the punctuation mark. 
+{8} D. R. Bhandarkar read mātṛkaḥ, see I. N. I. No. 103.
+{9} Incorrect, to suit the metre. The correct expression would be madūrdhva prabhaviṣyati, which would also be suitable
+	metrically. In the preceding pāda the use of hi is unnecessary and this word can be deleted by reading 
+	bhūsvāmī or bhujāniḥ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

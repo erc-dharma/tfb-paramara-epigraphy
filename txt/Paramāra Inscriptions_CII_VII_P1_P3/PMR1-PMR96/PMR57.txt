@@ -1,0 +1,137 @@
+PennGlobal: PMR57
+Period: VS 1317 
+Location: Māndhātā
+Dynasty: Paramāra
+King: Jayavarman 
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 31 verses
+Metres: Verses 1-21, 23, 25-27 and 30 Anuṣṭhubh; v.22 Śārdūlavikrīḍita; v.24 Vasantatilakā
+		v.28 Śālinī v.29Puṣpitāgrā; v.31 Indravajrā
+Gist: Grant of land to three brāhmaṇas  
+Published reference: Trivedi (1978), no. 57.
+
+
+Text{1}
+
+First Plate
+
+1. siddhaṃ{2} || oṃ namaḥ puruṣārthacūḍāmaṇaye dharmmāya | prativimba(bimba)nibhād bhūmeḥ kṛtvā
+  sākṣātpratigrahaṃ | jagadā-
+2. hlādayandiśyādvi(d dbi)jeṃdro maṃgalāni vaḥ ||1{3} jīyātparaśurāmosau kṣatraiḥ{4} kṣuṇṇaṃ raṇāhataiḥ |
+  saṃdhyārkkavimva(bimba)me-
+3. yorvvī dāturyasyaiti tāmratāṃ ||2 yena maṃdodarīvā(bā)ṣpavāribhiḥ śamito mṛdhe | prāṇeśvarīviyogāgniḥ sa
+4. rāmaḥ śreyase'stu vaḥ || bhīmenāpi dhṛtā mūrddhani yatpādāḥ sa yudhiṣṭhiraḥ | vaṃśādyeneṃdunā jīyātsvatuly i-
+5. va nirmmitaḥ ||4 paramārakulottaṃsaḥ kaṃsajinmahimā nṛpaḥ | śrībhojadeva ityāsīnnāsīrakrāntabhūtalaḥ 
+6. ||5 yadyaśaścandrikodyote digutsaṃgataraṃgite{5} | dviṣannṛpayaśaḥpuṃjapuṃḍarīkairnimīlitaṃ ||6 tato'bhūdu-
+7. dayādityo nityotsāhaikakautukī | asādhāraṇavīraśrīraśrīheturvvirodhinām ||7 mahākalahakalpā-
+8. nte yasyoddāmabhirāśugaiḥ | kati nonmūlitāstuṃgā bhūbhṛtaḥ kaṭakolvaṇāḥ ||8 tasmācchinnadviṣanmarmmā narava-
+9. rmmā narādhipaḥ | dharmmābhyuddharaṇe dhīmānabhūtsīmā mahībhujām ||9 pratiprabhātaṃ viprebhyo dattairgrāmapadaiḥ svaya-
+10. m | anekapadatāṃ ninye dharmmo yenaikapādapi |10 tasyājani yaśovarmmā putraḥ kṣatriyaśekharaḥ | tasmādajayava
+11. rmmābhūjjayaśrīviśrutaḥ sutaḥ ||11 tatsūnurvvīramūrddhanyo dhanyotpattirajāyata | gūrjjarocchedanirvvaṃ(rbbaṃ)dhī{6}
+   viṃdhyavarmmā mahā-
+12. bhujaḥ ||12 dhārayoddhṛtayā sārdhaṃ dadhāti sma tridhāratām | sāṃyugīnasya yasyāsistrātuṃ{7} lokatrayīmiva | tasyā-
+13. muṣyāyaṇaḥ putraḥ sutrāmaśrīrathāśiṣat | bhūpaḥ subhaṭavarmmeti dharmme tiṣṭhanmahītalam ||14 yasya jvalati da(di)gje-
+14. tuḥ pratāpastapanadyuteḥ | dāvāgnicchadmā(dma)nādyāpi{8} garjjadgurjjarapattane ||15 devabhūyaṃ gate tasminnaṃdanorjunabhūpatiḥ
+15. | doṣṇā dhatte'dhunā dhātrī{9}valayaṃ valayaṃ [ya]thā{10} ||16 vā(bā)lalīlāhave [ya]sya jayasiṃhe palāyite | dikpālahā-
+16. savyājena yaśo dikṣu vijṛmbhitam ||17 kāvyagāṃdharvvasarvvasvanidhinā yena sāṃprataṃ(tam) |
+   bhārāvataraṇaṃ devyāścakre
+17. pustakavīṇayoḥ ||18 yena trividhavīreṇa tridhā pallavitaṃ yaśaḥ | dhavalatvaṃ {11}dadhustrīṇi jagaṃti kathamanyathā ||
+18. 19 athārthināmapuṇyena puṇyena svarggasubhruvāṃ | so'dbhutatyāgaśīlaśca śṛṃgārī ca divaṃ gataḥ
+19. ||20 tataḥ pramāracaṃḍrasya hariścaṃḍrasya naṃdanaḥ | praśāsti mālavakṣoṇīṃ devapālaḥ pratāpavā-
+
+Second Plate: First Side
+
+20. n ||21 tasminnaiṃdrapadaṃ mudā śritavati śrīdevapāle nṛpe tatsūnurdviṣadaṃtako nijaguṇairlokā-
+21. nsadā raṃjayan |{12} dhīmānjaitugideva eṣa nṛpatiḥ śrīmālavākhaṃḍalaḥ śāsti kṣoṇimimāmudāraca-
+22. ritaiḥ svairvā(bā)lanārāyaṇaḥ ||22 bhuktvārādhya sukhaṃ tasminprāpte tridaśamaṃdiraṃ | śāsti tasyānujaḥ kṣoṇīṃ jaya-
+23. varmmā janādhipaḥ ||23 sa eṣa naranāyakaḥ sarvvābhyudayī ||{13} mahuaḍapathake vaḍaudagrāme{14} samastarājapuruṣānvrā(nbrā)-
+24. hmaṇottarānpratinivāsipaṭṭakilajanapadādīṃśca vo(bo)dhayatyastu vaḥ saṃviditaṃ yathā || śrīmanmaṃḍapadurgrā(rgga)sthitair{15}-
+25. smābhiḥ saptadaśādhikatrayodaśasa(śa)tasaṃvatsare saṃsārasyāsāratāṃ dṛṣṭvā ||{16} tathā hi || vātābhravibhramamidaṃ
+   vasu-
+26. dhādhipatyamāpātamātramadhuro viṣayopabhogaḥ | prāṇāstṛṇāgrajalaviṃ(biṃ)dusamā narāṇāṃ dharmmaḥ{17} sakhā paramaho
+27. para[lo]kayāne{18} [||24*] iti sarvvaṃ vimṛśya dāpanādṛṣṭaphalamaṃgīkṛtya | pratī. śrīgāṃgadevapārśvāt vaḍaudagrāmoyaṃ 
+28. tribhyo vrā(brā)hmaṇebhyo dāpitaḥ | tena ca pratī. śrīgāṃgadevena saṃvat{19} 1317 āgrahāyaṇaśuklatṛtī[yā]yāṃ{20} tithau
+29. ravivāsare pūrvvāṣāḍhānakṣatre śūlanāmni yoge śrīmadamareśvarakṣetre revāyā dakṣiṇekūle revākapilā-
+30. saṃgame snātvā bhagavaṃtaṃ carācaraguruṃ śrīmadamareśvaraṃ paṃcopacāraiḥ samabhyarcya{21} || jīvitaṃ vidyuccaṃcalaṃ jñātvā
+31. navagāmvasthānavinirgatāya bhārgavasagotrāya bhārgava(cya)vanaāpnavānaa(au)rvajāmadagnyetipaṃcapravarāya mādhyaṃ{22}-
+32. dinaśākhādhyāyine dvi.{23} vedaṣau(pau)trāya pā. hariśarmmapautrāya agni. mādhavaśarmmaṇe vrā(brā)hmaṇāya padāni catvāri
+33. 4| ṭakāristhānavinirgatāya gautamasagotrāya gautamāṃgirasaautathyetitripravarāya{24} āśvalāyanaśākhādhyā-
+34. yine dvi. lāṣūpautrāya dvi. līmadevaputrāya ca.{25} janārjjanaśarmmaṇe vrā(brā)hmaṇāya padamekam 1| ghaṭāuṣaristhā-
+35. navinirgatāya bhāradvājasagotrāya āṃgirasavā(bā)rhaspatyabhāradvājetitripravarāya mādhyaṃdinaśākhādhyāyine
+36. dī.{26} kekūpautrāya dī. divākaraputrāya dvi. dhāmadevaśarmmaṇe vrā(brā)hmaṇāya padamekaṃ 1| evamebhyastribhyo{27}
+37. vrā(brā)hmaṇebhyaḥ ṣa[ḍbhi]rvvaṃṭakairvaḍaudagrāmoyaṃ samastopi catuḥ(tuṣ)kaṃkaṭaviśuddhaḥ savṛkṣamālākulaḥ sahiraṇyabhā-
+38. gabhogaḥ soparikaraḥ sarvvādāyasametaḥ{28} sanidhinikṣepo mātāpi[tro]rātmanaśca puṇyayaśobhivṛddhaye
+39. caṃdrārkkārṇṇavakṣitisamakālaṃ yāvatya(tpa)rayā devavrā(brā)hmaṇabhuktivarjaṃ śāsanenodakapū-
+
+Second Plate: Second Side
+
+40. rvvaṃ pradattaḥ | tanmatvā tannivāsipaṭṭakilajanapadairya[thā]dīyamānabhāgabhogakarahiraṇyādikamājñāvidhe-
+41. yairbhūtvā sarvvametebhyaḥ samupanetavyaṃ(vyam) | sāmānyaṃ caitaddharmmaphalaṃ vu(bu)ddhvāsmaddhaṃ(dvaṃ)śajairanyairapi bhāvibhoktṛbhira-
+42. smatpradāpitadharmmādāyoyamanumantavyaḥ pālanīyaśca | uktaṃ ca | va(ba)hubhirvvasudhā bhuktā rājabhiḥ sagarādi-
+43. bhiḥ | yasya yasya yadā bhūmistasya tasya tadā phalam ||25 svadattāṃ paradattāṃ vā yo hareta
+    vasuṃdharām |
+44. |{29} viṣṭhāyāṃ sa kṛmirbhūtvā pi[tṛ]bhiḥ{30} saha majjati ||26 ṣaṣṭiṃ varṣasahastrā(srā)ṇi svarge tiṣṭhati bhūmidaḥ |
+45. ācchetā cānumantā ca tānyeva narake vaset ||27 sarvvānevaṃ bhāvino bhūmipālānbhūyo bhū-
+46. yo yācate rāmabhadraḥ | sāmānyo'yaṃ dharmmaseturnṛpāṇāṃ kāle kāle pālanīyo 
+47. bhavadbhiḥ ||28 iti kamaladalāmvuviṃ(mbubiṃ)dulolāṃ śriyamanuciṃtya manuṣyajīvitaṃ ca | saka-
+48. lamidamudāhṛtaṃ ca vudhvā(buddhvā) na hi puruṣaiḥ{31} parakīrttayo vilopyā iti || ||{32} saṃvat
+49. 1317 jyeṣṭha śudi 11 gurāvadyeha śrīmaṃḍapadurge mahārājādhirājaśrījayavarmma-
+50. devaniyuktena saṃdhivirga(gra)hika paṃ.{33} śrīmālādharasammatena | paṃḍiteṃdragavīśasya sūnunā viduṣā sphuṭam |
+51. harṣadevābhidhenedaṃ likhitaṃ rājaśāsanaṃ(nam) ||30 yo vettyapāraṃ smṛtiśāstrasāraṃ gosekanāmnā{34} vu(bu)dhapuṃgava-
+52. sya | śiṣyaḥ sudhīḥ śāvdi(bdi)ka āmadevo bhūpasya lekhyaṃ samaśodhi tena ||31 utkīrṇṇamidaṃ
+    rūpakārakānhaḍena{35}| 
+53. dūto mahāpradhānarājaśrīajayadevaḥ{36} |
+
+---------------------------------------------------------
+{1} From the original plates and impressions.
+{2} Expressed by a symbol.
+{3} The numbers of the stanzas are only preceeded by two daṇḍas each and not followed. In the transcript
+	I have retained the same arrangement to avoid insertions so often.
+{4} Originally a daṇḍa, later on changed to visarga.
+{5} After the third akṣara of this word, either the sign of visarga or a daṇḍa was first inserted and later
+	on erased as redundant. Similarly, a daṇḍa which was redundant was scored off after the third akṣara
+	in this line.
+{6} In place of the first two akṣaras in this hemistich and the preceding one, some other letters were originally
+	engraved and later on scratched off.
+{7} Some other akṣara appears to have been originally engraved in place of this one, which was later on 
+	corrected.
+{8} Originally dmā(द्मा), with the mātrā so lightly scored off as to be seen only on the plate.
+{9} The mātrā of short i was at first engraved before this letter and later on erased so as to leave the mark.
+{10} This akṣara is damaged and appears as overwritten.
+{11} This letter is so formed as to resemble va.
+{12} Following this daṇḍa, there is a vacant space with some traces showing that two akṣaras were at first
+	 engraved here and subsequently erased.
+{13} The daṇḍas are superfluous.
+{14} A mātrā of short i was originally attached to the first letter of this name and later on scored off.
+{15} Note the use of śrī before the name of a place.
+{16} These daṇḍas are intended to introduce the following verse as a paranthesis. The letters saṃsāra appers to
+	 be written after scoring off some others which were originally put here.
+{17} By mistake, a daṇḍa was at first put after this word and later on erased so as to leave the mark.
+{18} The bracketed akṣara was at first engraved as mo(मो).
+{19} Originally the second letter was engraved with the mātrā of ā which was later on erased. Read saṃvat.
+{20} The akṣara in the brackets is misformed.
+{21} The daṇḍas are redundant. For the five requisite articles of worship in the contemporary age, cf.T.M.,p.40
+	 where we read snapana mālyānulepana and alaṃkāra. Also see Ep. Ind., Vol.IX, p.119, n.11; and p.327.
+{22} Both these akṣaras show some redundant strokes in their formation.
+{23} For the abbreviations in this line and below, read respectively, dviveda or -din, pāṭhaka and agnihotrin.
+{24} The vowel u is here formed as au.
+{25} Read caturveda, or -din, here and below. The third akṣara of the name that follows appears more pro-
+	 bably to be rdda.
+{26} Read dīkṣita.
+{27} A redundant visarga was at first engraved after bhya and then erased, as known from the marks.
+{28} There is a redundant anusvāra above rvvā. The sign was lightly scratched off subsequently.
+{29} One of the daṇḍas is redundant.
+{30} In place of the bracketed akṣara, originally rvvā was cut and later on corrected.
+{31} Originally, a daṇḍa, later on corrected to visarga.
+{32} There is a floral design between the double daṇḍas. This stanza is No.29.
+{33} Read paṃḍita.
+{34} As Kielhorn has already remarked, he may have been the same as Gōsē, mentioned as one of the donees in
+     No. 51, 1.39; but in the same grant the name Rājagośālā also appears in 1.37.
+{35} A person with a somewhat similar name (kānhāka) was the engraver of the Māndhātā grant of Jayasiṃha
+	 Jayavarman. of V.S. 1331; and Dr. D.C. Sircar indentifies them both. But we have no definite evidence
+	 to do so.
+{36} As in many other cases noted above, sandhi is not observed here.
+
+
+

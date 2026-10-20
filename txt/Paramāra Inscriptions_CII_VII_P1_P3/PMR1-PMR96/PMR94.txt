@@ -1,0 +1,114 @@
+PennGlobal: PMR94
+Period: VS 1218 āśvina śudi 1
+Location: Kirāḍū
+Dynasty: Paramāra
+King: Someśvara
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 27 verses.
+Metres: Verses 1 and 3-27 Anuṣṭubh; v.2 Vasantatilakā 
+Gist: Inscription is praśasti, a laudatory account of the Paramāras
+Published reference: Trivedi (1978), no. 94.
+
+Text{1}
+
+1. [oṃ | namaḥ]{2} sarvajñāya || [na]monaṃtāya sūkṣmāya jñānagamyāya ve[dhase] || viśvarūpāya śuddhāya devadevāya śaṃbha[ve ||1]
+2. devasya tasya caritāni jayaṃti śaṃbhoḥ sasva(śaśva)tkapāla[vidhubha]smavibhūṣaṇasya | ga[rvvaḥ] sa kopi hṛdi yasya pa-
+3. daṃ karoti gaurī nitaṃ ca ciravalkala[va]rṣaharśā(rṣā)t{3} ||2 vasiṣṭha . . . . . [bhūṣite]rvvuda(rbbuṃda)bhūdhare | surabhyāḥ
+4. paramārāṇāṃ vaṃśostyanalakuṃḍataḥ ||3 tatrānekamahī . . . . . . . . . [|] siṃdhurājo mahārājaḥ
+5. [sa]mabhūnma[ru]maṃḍale ||4 nirarggalamiladvairivaṃ[śa] . . . . . . [|] . . . . . . . . pratāpojva(jjva)ladūsa-
+6. laḥ ||5 śaṃbhuvadbhūribhūmīśābhyarccanī[yo bha] . . .[|] . . . . . . . . . . . . . . [vya]suḥ{4} ||6 raṇe
+7. khaḍgaraṇatkāra[o] rāvaṇolvaṇavaiḥ[riṇāṃ(ṇām)] | va . . . . . . . [||7] siṃdhurājadharā-
+8. dhāradharaṇīdharadhā[ma]vān || śrī . . . . . . . . . . . . . . . . . . . . {5}[||8] . . . jobhavattasmāt
+9. surarājo [ha]rājñayā | devarājeśvara . . . . . . . . . . [||9] . . . . . . . . pahāya mahīmi-
+10. māṃ(mām) | manye kalpadrumaḥ prāyādadṛśyata [kṣa]{6} . . . [||10] . . . . . . . . . . . . . . dāraṇāt | śrīma-
+11. ddurllabharājopi rājeṃdro raṃ[jito] . . [||11] . . . . . . . . taiḥ | yena durvvāra-
+12. vīryeṇa bhūṣitaṃ ma[ru]maṃḍalaṃ(lam) ||12 . āṃ karīva bhū . . . . . . . . . . [|] . . . . . [ṣṇa]rājo mahā-
+13. śavda(bda)vibhūṣitaḥ ||13 tatsutaḥ soccharājākhyaḥ . . . . . . . . [|] . . . . . . tasya [mahākalpa]{7}-
+14. drumobhavat ||14 tatsādudayarājākhyo mahārāja . . . . [|] . . . . . . . . maṃḍalīkapadādhi-
+15. kaḥ ||15 ācoḍagauḍakarṇṇāṭamālavottarapaścimā[n] | . . . . . . . . . . . . . . . ṣṇajaṃ(jam) ||16
+16. āsiṃdhurājabhūpālātpi[tṛ]putrakramātpunaḥ | tasmādudayarā . . . . . . . . [¯ḥ] ||17 u[ttī]rṇṇa-
+17. mapi yo rājyamuddadhre bhujavīryataḥ | jayasiṃhamahīpālāt [sa]pta{8} . . . . . . ||18 . . . toṣṭanavate [va]rṣe 
+18. vikramabhūpateḥ{9} | prasādājjayasiṃhasya siddharājasya bhūbhujaḥ ||[19] . . . . . rājena siṃdhurājapuro-
+19. dbhavaṃ(vam) | bhūyo nirvyājasau(śau)ryeṇa{10} rājyametatsamu[ddhṛtaṃ(tam) ||20] punardvādaśasaṃkhyevde(bde) paṃcādhikaśate[ṣva]laṃ(lam) | ku-
+20. mārapālabhūpālāt supratiṣṭhamidaṃ kṛtaṃ(tam) || [21 ki]rāṭakūpamātmīyaṃ [citrakūṭa]{11} samanvitaṃ(tam) | nijena kṣatra-
+21. dharmmeṇa pālayāmāsa yaściraṃ(ram) ||22 aṣṭādaśā[dhike] cāsmin śatadvādaśake'śvine | pratipadgu[ru]saṃyo-
+22. ge sārddha[yā]me gate [dināt] ||23 daṃḍaṃ saptadaśaśatānyaśvānāṃ{12} nṛpajajjakāt | saha paṃcanakhā-
+23. śveta{13}mayūrādibhiraṣṭabhiḥ ||24 taṇukoṭṭaṃ navasaro durggau someśvarograhīt | uccāṃ [U] varahā{14}-
+24. māḍhyāṃ cakre [cai]vātmasādasau ||25 va(ba)huśaḥ [seva]{15}kīkṛtya caulukyajagatīpateḥ | punaḥ saṃsthāpayā-
+25. māsa teṣu deśeṣu jajjakaṃ(kam) ||26 praśastimakarodetāṃ narasiṃho nṛpājñayā | lekhakotra ya[śo]-
+26. devaḥ sūtradhāro tu jasodharaḥ{16} ||27 [vikrama] saṃvat 1218 a(ā)śvina śudi 1 gurau || maṃgalaṃ [mahāśrīḥ ||]
+
+------------------------------------------
+
+{1} From impressions.
+{2} A portion of the slab has peeled off and the bracketed letters which are now missing are supplied from 
+	Acharya's reading. 
+{3} The eleventh and the thirteenth of the akṣaras of the fourth foot of this verse are damaged; and whereas 
+	Acharya read the last word as harśā(rṣā)t, Nahar read it as darśāt, but the sense of the latter half of 
+	this verse is not intelligible to me. The second letter of the latter half of this verse is equally damaged. 
+{4} The bracketed letter has left only traces and hence the reading is not certain. 
+{5} The name of Bharaṇīvarāha, found in the Vasantagaḍh inscription, appears to have been lost here in 
+	v.7 or 8. The first hemistich of this verse mentions a king and compares him with Dharaṇīdhara, i.e.,
+	Varāha; "and just as the latter supported the dharā (Earth) immersed in Sindhurāja (the ocean), so
+	the king also supported the dharā (kingdom) of Sindhurāja", the originator of the family. See Ind. Ant.,
+	Vol. XL, p.239.
+{6} This akṣara is as read by Acharya, but the metre would not require a conjunct consonant here. In 
+	the impressions it has totally disappeared and the preceding letter is also partly visible. 
+{7} Only traces of the bracketed letters are visible and they are supplied from Acharya's reading. 
+{8} The two akṣaras with the number of the verse are restored from Acharya's reading. The following 
+	three akṣaras navate are damaged. 
+{9} The mātrā of this akṣara is engraved as if mingled with the vertical of the preceding one. 
+{10}  Originally, ye engraved, later on changed to rye.
+{11} The akṣaras in rectangular brackets are damaged, leaving only traces. Similarly, the first akṣara of 
+	 the preceding name is equally damaged; it is read as ki both by Acharya and Nahar. But it may have 
+	 been vi, view of the last letter of the name being ṭa, which is very clear in the impressions. 
+{12} Rhythm requires the fourth letter in this verse to be long. 
+{13} The second akṣara in the line is corrupt and may be read as ta(त),na(न) or even va. In view of this, the 
+	 reading appears to be either śveta or ścena, to be restored to ścaitat. But even with this, I am unable
+	 to make out any sense out of the latter half of this verse. Should we restore the expression to -khaiḥ śveta-, 
+	 or nakhāśveta-?
+{14} The bracketed letter which is left here may have been ga, as could be known from the reverse side of 
+	 the impression, but it is not certain. The whole appears to be a name. The last letter too of this line
+	 is damaged. 
+{15} The reading of the bracketed letters is not certain, as they are damaged. THey were so read both by 
+	 Acharya and Nahar; but grammatically the construction does not appear to be correct. 
+{16} Drop tu for metrical exigencies. The correct form of the name is yaśodhara. The impression shows that
+	 the letters up to this name in the line are now lost or damaged. They have been adopted here from 
+	 Jinavijaya's transcript.
+
+	
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

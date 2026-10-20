@@ -1,0 +1,84 @@
+PennGlobal: PMR25
+Period: Undated
+Location: Ujjain  
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 9 verses.
+Gist: Appears to record renovation of the mahākāla temple. 
+	  Includes alphabetical/grammatical chart, and stanzas of praśasti.
+Published reference: Trivedi (1978), no. 25. 
+
+
+Text{1}
+
+1. --{2}hā (he ?)ndrasadṛkṣaśaktiraśanāramyaṃ{3} viyadvedikaṃ jyotirlliṅga-
+2. manādi siddhanivi(bi)ḍadhyānaprasūnārccitam | nāsāgrārppitacakṣuṣaḥ{4}
+3. katipaye paśyanti yadyoginastadbhūyādaṇimādidivyaphala-
+4. daṃ rūpaṃ satāṃ śāmbhavam{5} ||79|| nityaṃ vyāpakamekamu[jjva]lacalaṃ jyotiḥ sphuradratnava-
+5. dyogonmīlitamīlitekṣaṇapuṭāḥ pasya(śya)nti pātaṃjalāḥ | sāṃdraivyo(rvyo)makadamva(mba)nīpa{6} -
+6. kusumairabhyarccitaṃ cintitaṃ tadbhūyādapunarha(rbha)vāya paramaṃ rūpaṃ satāṃ śāmbhavam ||80|| [nāmbhaḥ]{7}
+7. kledayati prakampayati na vra(bra)hmāṇḍaharttā marunnāgniḥ pluṣyati nāvṛṇoti [ca nabhaḥ]
+8. kṣoṇī na cākrāmati | yogābhyāsavasā(śā)dvimuktaviṣayāsaṅgānyadantarvvinillīnā{8} -
+9. nta[ḥ]karaṇāṃ(ṇaṃ) hṛdi sphuratu tajjyotiḥ satāṃ śāmbhavam ||81|| vairāgyātiśayādvitīya{9} -
+10. satatābhyāsaprasūtirgururvṛttīnāṃ manaso nirodha udito yogaḥ sa yogīśva-
+11. raiḥ | yasmiṃ(smin) saṃśna(sna)piterccite paricite dhyāte nate saṃstute spṛṣṭe dṛṣṭa upārjjitestu
+12. purajitsa vra(bra)hmabhūyāya vaḥ | ||82|| krīḍākuṇḍalitorageśvaratanūkā[rā*]dhirūḍho-
+13. mva(mba)rānusvāraṃ kalayannakārarucirākāraḥ kṛpārdraḥ prabhuḥ | viṣṇorviśvatanoravantinaga-
+14. rīhṛtpuṇḍarīke vasannoṃkārākṣaramūrttirasyatu{10} mahākālontakālaṃ satām ||83|| bhujya -
+15. nte bhuvanāni sapta vasudhā sāmbhonidhirddīyate kalpāntepi na naśyate na kupitānmṛtyo-
+16. rapi trasyate | dhyāyadbhiryadapāstakarmmanigaḍairdhātrāpi na prārthyate tadvaḥ svāntamalaṃkaro{11} --
+17. tu caraṇāmbhojadvayaṃ sā(śā)mbhavam ||84||
+18. a ā i ī u ū ṛ ṝ ḷ ḹ e ai o au 140 : 2 x)(2
+19. ka kha ga gha ṅa 5 ca cha ja jha ña 5 ṭa ṭha ḍa ḍha ṇa 5 ta tha da dha na 5 pa pha ba bha ma 5 ya{12} ra la va 4 [śa]{13} ṣa sa ha 51
+20. ā ī ū ṛ ḹ | aiuṇa(ṇ) [ṝ]ḷka(k) 10 e o ṅa(ṅ) aiauca(c) hayavaraṭ laṇa(ṇ) ña-
+21. maṅa[ṇa*]nam jhabhaña(ñ) ghaḍhadha[ṣ] jabagaḍadaśa(ś) 20|34 khaphachaṭhathacaṭatava(v)
+22. kapaya(y) śaṣasara(r) 13 hala(l) 33|47||
+23. udayādityadevasya varṇṇanāgakṛpāṇikā |
+24. kavīnāṃ ca nṛpāṇāṃ ca veṣo vakṣasi ropitaḥ ||85||{14}
+25. e[ke]{15}yamudayādityanaravarmmamahībhujoḥ |
+26. [mahe]śasvāmi[norvvarṇṇasthityai siddhāsiputrikā ] ||86||
+27. [udayā]dityanāmāṅkavarṇṇanāgakṛpāṇikā |
+28. [padyamuktā]maṇiśreṇī sṛṣṭā sukavivaṃ(baṃ)dhunā ||87||
+
+
+
+-------------------------------------------
+{1} From the original stone and impressions.
+{2} The first two letters lost here may conjecturally be restored as yanmā.
+{3} The anusvāra is ornamentally treated, marked as a lotus with petals.
+{4} The sign of visarga is visible on the stone, but has not come out in the impressions.
+{5} These three akṣaras, which have been conjecturally restored by Sastri, are distinct on the original.
+{6} These two letters are lost and the restoration is only conjectural.
+{7} In this and the next line the last letters which are in the brackets are thin and in parts, and the restoration
+	is certain.
+{8} Read rllīnā. A kāka pada sign at the end of the line shows that the word is continued in the next line.
+{9} On some of the letters in this line there are signs of abrasions and not of anusvāra as actually taken by
+	Sastri. For example, he read an anusvāra on the second akṣara. Here also the line has a kāka pada
+	sign in the end it is marked so close to the preceding akṣara as to appear as a mātrā of ā.
+{10} For the idea expressed in the third pāda of this verse, compare the well known saying Viṣṇośc hṛdaye
+	 śivaḥ. The consonant t before the third letter and the sign of anusvāra on the ninth are engraved faintly
+	 and they were consequently not read by Sastri. They are distinct on the stone.
+{11} Here also is the sign of kāka pada in the end.
+{12} This and the following letters are on the right side where the same line is continued.
+{13} Owing to a redundant stroke of the chisel, this akṣara appears as sa. It may also be noted that the sub
+	 total is not given after ha.
+{14} The number of verses which are not marked here have been taken by us in continuation of those of the 
+	 preceding verses.
+{15} This akṣara with some others in the lines that follow, are altogether lost and they have been restored
+	 from those appearing in the inscription at Dhār which is the counterpart of the present one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

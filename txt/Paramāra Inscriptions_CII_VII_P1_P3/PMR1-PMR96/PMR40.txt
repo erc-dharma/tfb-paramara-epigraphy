@@ -1,0 +1,88 @@
+PennGlobal: PMR40
+Period: VS 1191 kārttika śudi 8
+Location: Ujjain
+Dynasty: Paramāra
+King: Lakṣmīvarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 6 verses.
+Metres: Verses 1-2 and 4-5 Anuṣṭubh; v.3 Vasantatilakā; v.6(incomplete) Śālinī.
+Gist: Confirms or redonates land given by Yaśovarman.
+Published reference: Trivedi (1978), no. 40.
+
+Text{1}
+
+1. [oṃ{2} svasti] || śrīrjayobhyudayaśca || jayati vyomakeśosau yaḥ sarggāya vi(bi)bhartti tāṃ(tām) | aindavī si(śi)rasā lekhāṃ
+  jagadvī(dbī)jāṃkurākṛtiṃ(tim) ||1|| [tanva-
+2. ntu] vaḥ smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ | kalpāntasamayoddāmataḍidvalayapiṅgalāḥ ||2|| paramabhaṭṭārakamahārājādhirājaparameśvaraśrī[u]dayā- {3}
+3. dityadevapādānudhyātaparama[bhaṭṭā]rakamahārājādhirājaparameśvaraśrīnaravarmmadevapādānudhyātaparamabhaṭṭārakama[ha]ārājādhirājaparameśva[ra]-
+4. [śrī]yaśovarmmadevapādānudhyātasamasta{4}praśastopetasamadhigatapaṃcamahāśavdā(bdā)laṃkāravirājamānamahāka[u]māraśrīlakṣmīvarmmadevaḥ ||{5} śrī-
+5. mahādvādaśakamaṇḍale śrīrājaśaya[na]{6}bhoge suvā{7}saṇīsamva(mba)ddhavaḍaudagrāma |{8} ta[tha]ā suvarṇaprā[sa]{9}ādikāsamva(mba)ddhauthavaṇakagrāmayoḥ
+  sama-
+6. [sta]viṣayikapaṭṭakilajanapadādīnvrā(nbrā)hmaṇottarānvo(nbo)dhayatyastu vaḥ saṃviditaṃ |{10} ya[tha]ā śrīmaddhārāyāṃ mahārājādhirājaparameśvaraśrī-
+7. yaśo{11}varmmadevena śrīvikramakālātītasamva(saṃva){12}tsaraikanavatyadhikaśataikādaśeṣu kārttika śudi aṣṭamyāṃ saṃjātamahārājaśrī[nara]-
+8. varmmadevasāmva(sāṃva)tsarike tīrthāmbhobhiḥ snātvā devaṛṣimanuṣyapitṝṃstarpayitvā bhagavantaṃ [bha]vānīpatiṃ samabhyarccya sa(śa)mīku[śa] -
+  tilā[nna]ā-
+9. [jyā]{12}hutibhirhiraṇyaretasaṃ hutvā bhānave ardhya vidhāya kapilāṃ triḥ pradakṣiṇīkṛtya saṃsārasyāsāratāṃ dṛṣṭvā nalinīdalagata -
+10. jalalavataralataraṃ jīvitaṃ dhanaṃ cāvekṣya| uktaṃ ca| {13}vātābhravibhramamidaṃ vasudhādhipatyamāpātamātramadhuro viṣayopabhogaḥ | prā-
+11. [ṇāstṛṇāgra]jalavi(bi)ndusamā narāṇāṃ dharmmaḥ sakhā parama[ho] paralokayāne ||3|| evamākalayya adrila[vi]ddhāvari{14}[stha]ānavi-
+   [nirgga]tabha(bhā)ra-
+12. [dvājagotrāya] bha(bhā)radvājaāṅgirasavā(bā)rhaspatyatriḥpravarāya{15} āśvalāyanaśākhine dākṣiṇā[tyāya]{16} karṇṇāṭavrā(brā)hmaṇadviveda-
+   [ṭha]kkura-
+13. śrī[ma]hirasvāmipautraśrīviśvarūpasutāvasthika{17} śrīdhanapālāya uparilikhitavaḍauda[grāma]uthavaṇakagrāmau{18} savṛ-
+14. kṣamālākulau nidhinikṣepasahitau vāpīkūpataḍāgānvitau catuṣkaṃkaṭaviśuddhau caṃdrārkka yāvadudakapūrvvakatayā śā-
+15. sanena pradattau | samva(saṃva)tsaraśatadvādaśakeṣu śrāvaṇa śudi paṃcadaśyāṃ somagrahaṇaparvvaṇi śrīmatpitṛśreya[o]rtha[ṃ] [pu]narevā-
+16. smābhiḥ etau grāmau udakapūrvvakatyā śāsanena pradattau | tadanayorgrama[yo]rnivāsisamastapaṭṭakilādilokaistathā ka-
+17. rṣakai[śca] ya[tho]tpadyamānakarahiraṇyabhāgabhogādikamājñāśravaṇavi[dheyairbhū]tvā sarvvamamuṣmai samupanetavyam | sāmā-
+18. [nyaṃ cai]tatpuṇyaphalaṃ vu(bu)[ddhvā] asmadvaṃśajairanyairapi bhāvibhūpatibhiḥ dharmmādāyoya[manu*]mantavyaḥ pālanīyaśceti | yato va(ba)hubhi-
+   rvvasudhā bhuktā
+19. rājabhiḥ sagarādibhiḥ | yasya yasya yadā bhūmistasya tasya tadā phalam ||4|| svadattāṃ paradattāmvā{19} yo hareta vasuṃdharām | ṣaṣṭivarṣa[sa]-
+20. hasrāṇi viṣṭā(ṣṭhā)yāṃ jāyate kṛmiḥ ||5|| sarvvānetānbhāvinaḥ pārthivendrā[n*] bhūyo bhūyo yācate rāmabhad[raḥ] | sāmānyoyaṃ
+   dharmmase-
+
+--------------------------------------------------
+{1} From a photograph.
+{2} Expressed by a symbol.
+{3} Sandhi is not performed here.
+{4} The horizontal middle bar of s(स्) in sta is not clearly visible.
+{5} This sign of punctuation is superfluous. Moreover, here, and in some cases below which are not pointed
+	out separately, the rules of sandhi have not been observed.
+{6} Colebrook read rājaśāsana; and the correction is due to Kielhorn
+{7} Kielhorn read the second letter of the name as rā, putting in brackets. But the photograph with me
+	clearly shows that the consonant is v(व्) and not r(र्).
+{8} The daṇḍa is superfluous and the insertion of tathā with the dual in grāmayoḥ is grammatically wrong.
+{9} The reading of the consonant put in brackets is doubtful, as observed by Kielhorn also.
+{10} The daṇḍa is superfluous.
+{11} The first two letters of the name are completely blurred in the photograph.
+{12} This and the preceding seven letters have not clearly come out in the photograph, and on the plate too
+	 they appear to be so indistinct that Kielhorn had to observe that "Coolbrooke read these very indistinct
+	 consonants as dy; and similarly, Mr. Wilkinson, in the Journ. Bengal. As. Soc., Vol. VII,p.737, 1.15, has
+	 samit kuśa til ānn ādy āhutibhir. Mr. Fleet, ante, Vol.XVI, p.254, 1.14 read til ānnāṣṭāhutibhir." The
+	 initial protion of the following four lines too is equally blurred but it can all be made out from the
+	 context.
+{13} As we find in some other grants of the house, this verse is put by way of a parenthesis, and the sentence is
+	 continued with evamākalayya in 1.11.
+{14} Colebrooke has adrelavaddhāvarī, and Kielhorn read it a[dra]le[vi?]ddhāvarī. But the second akṣara has a faint curve
+	 above to show that it may be dri; and the mātrā of the fourth letter is equally faint. But it is short
+	 (and not long, as Kielhorn took it).
+{15} Kielhorn suggested that the last letter, ya, should be read as yā, observing sandhi with the following ā.
+	 But it is not necessary as the sandhi is not compulsory here, according to the observation vākye'tha sā vivakṣaa-
+	 mapekṣate. On the other hand, the fourth letter, i.e. ja, combined with the following ā, is to be read as jā,
+	 and the sign of visarga after tri has to be dropped.
+{16} Kielhorn read here dakṣiṇā[yāta?]. But a faint trace of the medial ā after the consonant d(द्) and the traces of
+	 the last two syllables are there to confirm my reading.
+{17} Read avasathika, as suggested by COlebrooke and adopted by Kielhorn.
+{18} Read grāmothavaṇakagrāmau or better, vaḍaudothavaṇakagrāmau.
+{19} Read paradattāṃ vā.
+
+
+
+
+
+
+
+
+
+
+
+

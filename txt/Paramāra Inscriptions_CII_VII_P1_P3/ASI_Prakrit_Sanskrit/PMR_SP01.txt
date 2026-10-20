@@ -1,0 +1,383 @@
+Inscription No.: PMR_SP01
+Period: circa 13th century CE
+Location: Southern Colonnade (Recovered from the wall of the mihrab in 1903-04)
+Dynasty: Paramāra
+King: Arjunavarman
+Language: Sanskrit and Prakrit
+Script: Nagari
+Gist: Records the eulogy of the Paramāra Kings and contains the first two acts of a 
+	drama entitled Pārijātamañjarī-nāṭikā or Vijayaśrī, composed by Madana, the
+	preceptor (rājaguru) of the King Arjunavarman. 
+Published reference: Annual Report on Indian Epigraphy, No.B.112 of 1950-51.
+	Epigraphia Indica Vol.VIII, pp.96 ff.
+
+Text:
+
+1. oṃ̐ || oṃsarasvatyainamaḥ || atrakathaṃcidalikhiteśratilehyaṃlikhyateśilāyugale | bhojasyaivaguṇorjitamarjunamūrtyā'va
+	tīṇaṇaṃsya ||1|| tattādṛkbhumanomanoharatanurvāmāṃgaśṛgāriṇīmuṣṭisvīkaraṇīyamadhyamadhurāvaṣṭammbhanamākṛtiḥ |
+	ākaṇarṇāntanaṭatkaṭākṣaviśikhavyāpāradhanyājayatyanyācāpalatevacaṃdrasuhṛdo
+2. devasyakāntāratiḥ ||2|| apicāvalgādvāṇajayakṣamovijayateniḥ śeṣagotrāṇakṛtkṛṣṇāḥ kṛṣṇaivārjuno'rjunaiva
+	śrībhojadevonṛpaḥ | visphūrjadviṣameṣuvedhavidhurāṃrādhāṃvidhattesmayastūrṇṇaṃpūrṇṇamanorathaściramabhūdgaṃgeyabhaṃgotsave ||
+	3||nāṃdyaṃtesūtradhāraḥ | ārye | itastāvat | praviśyanaṭī|āṇaveduajjo| sūtra | priye | ā-
+3. diṣṭo'smitatrabhavatyāpariṣadā(|)yathā'dyatvayā'sminnevacaitraparvvaṇi[catu]raśīticatuḥpathasurasadanapradhānedhā
+	rāpurīyuvatiśṛṃgāramuktāsrajojagajjaḍatāṃdhakāraśātanaśaraccaṃdrikāyāḥ sāradādevyāḥ sadmanisakaladigaṃtaro-
+	pāgatānekatraividyasahṛdayakalākovidarasikasukavisaṃkulegauḍānvayagaṃgāpulinarā-
+4. [jahaṃ]sasya[gaṃgādha]rāyaṇe[rmadanasyarā]jagurorūkṛtirābhinavāsamastasāmājikamadhuvratānaṃdamakaraṃdaprapāpāri
+	jātamaṃjarītyaparākhyāvijayaśrīrnāmanāṭikānāṭayitavyā|tadāvirbhāvyatāṃraṃgamaṃgalalasaṃpadāṃsaṃpradāyaḥ | naṭī[|*]
+	saharṣaṃ | jaṃajjoāṇavedi|kiṃcamaevisuṇidaṃ (|) jaghāmalayānilamaṃdamaṃdaṃdolaṇamahamahaṃta-
+5. māyaṃdamaulamayaraṃda[piṃḍi]da[parāyapuṃjapi]jarijjaṃtamaṃjarīkavalaparapparoppaṇakelipajjāulakalayaṃṭhamuhuṇama
+	hurakalayalahelāvahṛtthidavihatthamāṇaṃmiṇīmāṇaṃpi(|)parimaṃlataraṃgacaṃgacaṃpayacasamayamahu[tha]kka[th]kkidakūccaraṇa
+	cāraṇajhaṇakkāramuhalaṃpi|jaṃtakuṃjarakarasīyarāsāraseyasarasaviasaṃ-
+6. [ta]vivihaviḍavakuḍaṃgavaddhaṃdhayāraṃpi(|)dhārāgirilīlojjāṇaṃparihariyakoduhallapaṃphullaloyaṇobhārahībhava
+	ṇahuttaṃsahaasattiparāvaḍidojjevalootti|tākadhehikerisṃitthakadhāsaṃvihrāṇayaṃ|sūtra|ākāśo|kimācakṣatebhavaṃ
+	taḥ | sthānesumanasāṃstrītvaṃmṛhīnāmatisuṃdaraṃ | yāścaitraṃkāṃtamāsādyavibhratismitamā-
+7. dhurīṃ [4||*] tadbhoḥ sādhūktaṃ|naṭīṃpratica|ārye [|*] śrutaṃtvayā|sumanasāṃstrītvamiti|naṭī|adhaiṃ|sūtra|priye
+	(|*)śrṛṇutarhi|trividhavīracūḍāmaṇeḥsārvabhaumaśrībhojadevānvayamūrdhanyasyarājñaḥ śrīmadarjunavarmadevasyagūrjarapati
+	nājayasiṃhenasahaparvaparvatopatyakāparisareṣuhiraṇyakasipukadanakupitavaikuṃṭhakaṃṭhīravakaṃṭha-
+8. nādacakitadigvāraṇīdramuktaviśvaṃbharānipatanohelasaptāṇaṇaṃvalaharisaṃpheṭalyatumulakolāhalaḥ kalahovabhūva||
+	naṭī|ajja[|*]jahiṃcauraṃgavalajualadhūlīkaḍappehiṃkavalidamprimaccaṃmaṃḍalesayaṃvarakoduhallahallupphalamilaṃtasu
+	rasuṃdarīsuhṛyaṃda-caṃdāyaveṇaniyaparavihāosaṃjādīsuṇīyadi||
+9. sūtra| ārye[|*]evamevaitat|naṭī|tado2[|*]sūtra|tataścapratibalepalāyamānejayasiṃdhuraskaṃdhādhirūḍhasyadhanuṣmatī
+	dhārāpatesvatkālopasaṃhṛtanārācadurdinasyapuraṃdarapurahārakavāṭavikaṭevakṣasilokottaraparimalāmīdavāmita-
+	digaṃtarāvisverahaṃdārakahaṃdakusumahaṣṭimadhyādekāpārijātamaṃjarīpapāta ||
+10. naṭīḥ|sakrautuka|tado2[|*]sūtra|tataścaandhondhaṃgalahastanopanatayordvaṃddhenavakṣojayoḥ karṇṇellaṃghanajāṃghikenanaya
+	nadvaṃddhenahevākinī| vaktraṃviśvavilocanotpralavanīcaṃdrodayaṃvibhratīsābhūhālyajigīṣuyauvanasurāmādyattanuḥ kā
+	minī|| [5||*] tadaivacākāśavākprādurāsīt | manojñāṃnirviśannetāṃkalyā-
+11. ṇīṃvijayaśriyaṃ | sadṛśobhojadevenadhārādhipabhaviṣyasi ||[6||*] naṭī | ajja [|*] tākiṃdivvamāṇusīe-
+	sākadhā | sūtra | priye | nakhalvevaṃ | kiṃtu | yācaulukyamahīmaheṃdraduhitādevījayaśrīḥsvayaṃbhaṃgemṛtyu-
+	mavāpyavāpyasalilairaṃtaḥ purasyormmilaiḥ | vaptuḥ śokatamālavālavipinaṃ cakrenadīmātṛkaṃ (|) seyaṃsvardrubha-
+	maṃjarīki-(|)
+12. salayesaṃkramyajātāṃganā ||[7||*] naṭī| sakaruṇāścarye | tado2 | sūtra | tataśca(|) devenajayakuṃjaraku¯mbhasthalādākṛvyata
+	syāḥ kucasthaledṛṣṭiṃsaṃcāritavatāmahājanalajjayāsākusumaśrī[:*] kaṃcukinaḥ kusumākaranāmadheyasyodyānādhikā
+	riṇaḥ samarpitā | tenacānīyadhārāgirigarbhamarakatamaṃḍapevasaṃtalīlāṃsvagṛhi-
+13. ṇīṃyogakṣemakāriṇīṃdatvāsthāpitā | nepathye | itaitodevaḥ | sūtra | tacāvalokitakena | priye [|*]paśya | nārāyaṇemā
+	tyaśucauniveśyasaurājyabhāraṃsvayamārurohādevovasaṃtotsavakautukenanavīnaratnojvalarmyaśrṛṃgaṃ ||[8||*] ahorāma
+	ṇīyakaṃ paramāramūrddhanyasya | hayānanataraṃgitatrividhavīracūḍāmaṇi-
+14. pragītarasaraṃjitāṃratimavekṣyamoṭṭāyite | yadīyavirudaṃsmaraḥ parapuraṃdhrivandhuṃjagausaeṣanṛpasuṃdarījayatijaitracitro
+	tsavā ||[9||*] savismayaṃ | aṃtaḥ puravanitāścadviradaghaṭāścāśugūrjareṃdrasya | śrṛṃkhalitāyadanīkaiḥ saeṣasubhaṭakṣitīṃdrasu
+	taḥ || [10||*] naṭī | pāseuṇaaṃteuriyāviyakāviesā | sūtra | samuccayenayā
+15. sṛṣṭākalānāṃparameṣṭhinā | kuṃtaleṃdrasutāseyaṃrājñaḥ sarvakalāpriyā ||[11||*] tadanayāsahitomānayatumadhūtsavaṃdevaḥ |
+	āvāmapyanaṃtarakaraṇīyāyasajjībhavāva[ḥ|*] iti niḥkrāṃtāvāsuṇaṃ || tataḥ praviśatividūṣakeṇasahavasaṃtaveṣarama
+	ṇīyorājā (|) sākhyāsaharājñīcārājñī | sahakāramaṃjarīdarśayitvā (|) salīlasmitaṃ | ajjau-
+16. tta[|*]nohaliyaṃgeṇahaeḍhaṃ | koilasaravāhulleṇamaṇaharāpaḍhamamaṃjarīesā | tuhaecchavammihumaeviṇiuttāgāya
+	ṇīijahā || [12||*] rājā | saharṣādaraṃ (|) hastadvayenagṛhītvā | devī | tvayopanīyamānīyaṃsahakārāṃkuromayā | āttaḥ
+	puṣpāyudhasyeṣurājñāsvīkāralāṃchanaṃ || [13||*] apikusumenavaphalikāvyapadeśaḥ peśalāṃgiyuktaste | 
+17. |phalamevakusumamapimeprasannayāyatvayādattaṃ |[14||*] vidūṣkaḥ | sākūtaṃ | ahoaccariyaṃ [|*] bhāyadheeṇavayassassaku
+	sumamaṃjarīphalattaṇeṇahatthecaḍidā | rājā | sotkaṃṭhamātmagataṃ | yāmanmathasmajayinobhinavāstradevīmūrtāḥ papātahṛda
+	yemamayuddhabhūmau | nhaṃgyāmanoharatanuvijayaśriyaṃtāṃprāṇeśvarīmayamudāharatevaya-
+18. syaḥ ||[15||*]kiṃca | yāśāradīśaśikalebakalevaraṃmesaṃgrāṃmaḍāmarasamullasitapratāpaṃ | lāvaṇyakāṃtisudhayāsrapa
+	yāṃcakārasāmehṛdirīsahidosūrovituhucchaveṇakīlato | vālāyavasiṃdūraṃdiyaṃgaṇāṇaṃsuhekhivai ||[17||*]jaṃsī
+	maṃtāhiṃtīhiyaṃtaegujjariṃdara-
+19. mṇīṇaṃ | mannesiṃdūreṇaṃteṇacciyaramaituhaloo ||[18||*] vāṇīhiṃ ahanārīvisamasareṇāviniyariūraio | ajju
+	ṇavammataeuṇaavacciyaviraiāriuṇī ||[19||*]|| vidū || kalakalamākaṇṇarya (|)nepathya[ā*]valokitena |
+	vayassa [|*] peccha2 paharisakīlidaṃnāyarajaṇassa | rājā | sahakāramaṃjarīṃvidūṣakasyārpa-(|)
+20. yitvā(|) sakautukaṃpaśyan | sakhe [|*] kimucyate | rājñīṃpratica | devi [|*] pa[śya]2 [|*] siṃdūraṃkvacidaṭṭahāsaninadairuddaṃḍa
+	muḍḍīyatekastūrīnikaraḥ kvacitkvacidapiśrīkhaṃḍareṇūtkaraḥ | kāsmīradravaśīkarairdṛtimukhonmuktairativyākulaḥ pauraiḥ
+	svairamanekadhāyamadhunārabdhomadhorutsavaḥ || [20||*] apica | pauṣpairābharaṇairmanojñatanavaḥ
+21.  svairaṃdadhatyodhunāsaiṃdūrīmaruṇīkkatālakalatāṃlekhāṃlalāṭite | nṛtyaṃtyomadavihalaṃlayavisaṃvādeṣupaurāṃganāḥ krīḍā
+	maurajikasvakāṃtavadanānyālokayaṃtismitāḥ || [21||*] rājño [|*] karṇṇaṃdatvā (|) sollāsaṃ | ajjautta | edaṃpiā
+	yaraṇṇehi (|) samayasuhāvayaṃhiṃdīlayaṃ | rājā | priye [|*] kimucyate | aṃsandhāsagrahakṛtapadaṃtā- (|)
+22. ḍitaṃmaṃdrabhūmauṣaḍgaṃtanvanṛḍabharahitaṃdhaivatenāpihīnaṃ | hiṃdīlakhyaḥ sukhayatidadhanmadhyamaṃtāradeśekaṃpaṃvibhratki
+	mapi ruciraṃ ṣaḍgaṃkepaṃcameca ||[22||*] vidū | vayassa[|*] jāṇidaṃmaevi | esosohiṃdolao (|) jahiṃhiṃdolayacau
+	tthīeitthīukīlaṃti | rājā | smitamabhinīya (|) sopāhāsaṃ | nūnamabhijñobhavānāma- (|)
+23. rāgeṣu | vidū | sadarpaṃ | kadhaṃgeyaṃnajāṇāmi | jadāmevaṃbhaṇīvahuviyaḍa(daṃ)tasuṃdaraṃsuhaṃpasāriyamaṃgalāiṃgāehitadāhaṃ
+	gorigeyagahillohariṇīvvapāṇedāumicchāmi || iti vidūṣakaṃ vihāyasarvehasaṃti | rājā | smitvā [|*] sakhe | etā
+	vatāgītesamyagabhijño bhavān | kanaka lekhā aṃcalapihitāṃsiṃdūramuṣṭiṃrājñī-
+24. hasterpayati | rājnnīgṛhītvāsmitamabhinīyaca (|) rājñomastakasuḍūlayituṃmuṣṭimutkṣipati | rājā | śironamayansa
+	mmitaṃ | siṃdūroḍūlanāyaiṣamūrddhānamrīkṛtomayā | eṣaevapraṇāmaścatanniṣeḍhāyadarśitaḥ ||[23||*] rājñī (|) salīla
+	smitaṃ (|) sakhyāḥ siṃdūramarpayati | kanakalekhāvidūṣakauparasparaṃsiṃdūroddhūlanaṃnāṭayataḥ || vidū ||
+25. kastūrīkṣodamarpayan | vayassa [|*] tumaṃpideviṃbharehi | [rā]jñī (|) viśrṛṃkhalacaraṇāraviṃdamapasarati | rājā | devitvanmu
+	khamullasatparimalaṃsmerā[ra]viṃdabhramādbhṛṃgāṇāmupaseduṣāṃpratimayāsnigdheṃdranīlatviṣāṃ | saṃjātemṛganābhipatrama
+	karīśṛṃgāralīlāyitecetohārikarotikaḥ punaridaṃkastūrikāpaṃkilaṃ || [24||*] upasṛtya (|) lalā
+26. [ṭa*]svedamutpuṃsayan | alaṃ saṃbhrameṇa[|*] apanīyatāṃśramaḥ | idānīṃhi | saṃbhogotkalikāmilatsahacarīśrṛṃgāvamarśadra
+	vatkastūrīmṛgamīlitekṣaṇājharattīṣāśrumiśroṅgamaḥ | gītaikāṃtaniṣassakiṃnnaravadhūkaṃdaepakeliklamasvedacchedaci
+	kṣaṇīvicaratiśrīkhaṃḍaśailānilaḥ | [25||*] vidū | vayassa | jaditumaṃedāedāsīdhūāeka-
+27. [ṇā*][ya]lehāe saha mama pāṇiggahaṇaṃkarāvesi (|) tadā ahaṃpitumaṃvanāyariyanārīsahidīvasaṃttasavaṃmāṇemi | rā
+	jā (|) rājñīcassayete | kanaka | sanāsāsaṃkocaṃvicikitsate | rājñī [|*] smṛtimabhinīya | ajjautta [|*] pāṇiggahaṇa
+	vaṇeṇasaṃbharāvidamhi | maemāhavīladāesahayārassapāṇiggahokāridavvo [|*] tumhevitahiṃ (|)
+28. [ṇi*] maṃtidāciṭṭhadha | tādāṇiuvasaṃbhārasaṃpādaṇakajjeṇaujjāṇaṃgamissaṃ | rājā | yadabhirucitaṃdevyai | itisakhyā
+	saharājñīniḥkrāṃtā | rājā | sakhe | kvasānavaphalikāpārijātamaṃjarī | nana[|*] vismṛtaṃ [|*] sahakāramaṃjarī | vidū | sa
+	mmitaṃ [|*] vayassa | ṇakhiedaṃviṃbharaṇaṃ | saṃbharaṇaṃjevaedaṃ | iti sahakāramaṃjarīṃ samarpayaṃti | rā-
+29. [jā*] | gṛhītvā (|) sakaruṇamātmagataṃ | parimlānāmimāṃdṛṣṭānūtanāṃ cūtamaṃjarīṃ | smarāmi virahaklāṃtāmaṃtaḥ prāṇī
+	śvarīṃnavāṃ ||[29||*] ititādātmyamabhinīyaśūnyasavalokate | vidū | vayassa | mannepāriāyamaṃjarīsaṇāhaṃpidesunnaṃ
+	hiyayaṃ | rājā | sakhe [|*] kimucyate | rāgaṃsāṃdhyamivāhvahatyaviralaṃśūnyatvamāseduṣipronmīlannavaviprayo-(|)
+30. [ga*][ta]masivyomnīvasāmehṛdi | vālācāṃdramasīkalevavasatistotavyanavyodayāpaṃceṣorjayinaḥ pratāpamasamaṃsā
+	kṣādvidhattepica | [27||*] nepathye | suhṛyāriṇībhīdumajjhannasaṃjhādevassa | tisiyāṇakāṇaṇesuṃtuhariu[ra]maṇīṇa
+	viṃvaṇaṇiheṇaṃvayaṇāiṃhāramuttāsusalilakajjeṇavavisaṃti | [28||*] vidū | vayassa [|*]
+	deveṇāhavanijjidāṇa
+31. sahasāvaṃdīkadaṃteuraṃdiṃteṇaṃsamidāvioyavithaṇājāṇaṃvasaṃtuggame | edeteṇimaūṇapāyajuvalaṃdaṃḍappaṇāmeṇadepa
+	tticchattabhareṇabhūmivaiṇīvajjaṃtivāsālayaṃ |[29||*] tākiṃidhaṭṭhideṇa | ehi [|*] dhārāgirilīlojjāṇaṃjevaga
+	cchāmī | rājā | sapratyāśaṃsotkaṃṭhaṃca | yadabhirucitaṃvayasyāyetiniḥkrāṃtau | vasaṃtotsavonāma
+32. prathamoṅkaḥ |||| śrī[ḥ*] || praviśyakusumākaraḥ | devyāsamastakalayāmalayānilenacūtātimuktakalatāmithunotsave
+	na | vārāṃganāmasṛṇamaṃgalagītaraṃgairddhārāgiriḥ kamapisammadamātanoti ||[30||*] adyaivaca | mattānāṃmalayānilai
+	rviṭapināṃyūnāṃsmitaśrīmatāṃsaṃvandhocitanarmaṇāmivavalādākṛṣṭakeśāṃśukān | bhūrabhaṃgenavivṛ-
+33. [tya]pallavakarānromāṃcitānkorakairaspaṃtyākulapāṇikaṃkaṇa.jhaṇatkāreṇavārāṃganāḥ ||[31||*] kevalaṃvatsāpā
+	rijātamaṃjarīrājadarśanotkalikāparaṃparābhiruttāmyaṃtīmarmaṇivyathayati | sāhi || sāyaṃkokaviyogadarśanadalanma
+	emekṣaṇāpakṣiṇaḥ kiṃnoḍaḍīyamilaṃtyamīdūratamitiklāṃtāsuhuḥ pṛcchati || sītārāmakathāsukaṃpitakucāsvā-
+34. [se]naśūnyodgamaṃhuṃkāraṃdadatīkarotikaruṇāvismāritārthāṃsakhīṃ || [32||*] kiṃvahunā | tanvītāpātirekeṇadhatteya
+	smādvihastūtāṃ | pravālahastai[ruṃ]dhantitasyeṃdorātapaṃlatāḥ ||[33||*] nepathyāvalokitakena | kathaṃpriyāmevasaṃtalī
+	lā | sapraṇayādaraṃ | priye [|*] ayamahamitaitībhavatī | nirvarṇya | nūnamiyamidānīṃ | ṛjuślathabhujenādhohastenākāśala
+35. [khi]nī | natānanāmaṃdagatistacciṃtāmevagāhate ||[34||*] tataḥ praviśati yathā nirdiṣṭāvasaṃtalīlā | kusumākaraḥ | u
+	pasṛtya | priye [|*] kathamāstevatsāpārijātamaṃjarī | vasaṃta | uttuṃgethaṇamaṃḍalasyasihareoṭṭhappavālappahāpuṃjukuṃjara
+	gāmiṇīvahadisāciṃtānamaṃtāṇaṇā | aṃtonīhariūṇasāsalaharīsattheṇapajjūsuaṃdūrārohanihāli-
+36. [a*][ppi]yayamaṃrattaṃvacittaṃniyaṃ ||[35||*] kusumā | sakaruṇaciṃtāvātsaloaṃ | priye [|*] tatkimarthamāgatāsitāme
+	kākinīṃvālāṃvihāya | vasaṃta | rāyāgamaṇapauttiṃuvalaṃbhiduṃ | kusumā | priye[|*] sādhūktaṃ | kathitaṃ hi me rājño narmasuhṛ
+	dāavidagdhena yavvādyamādhavī sahakāra vivāhāraṃbha darśanāpadeśenadevodhārāgirilīlodyānamāgatyayuddhāṃtaraśuddhāṃ
+	takṣa-
+37. [ṇa*]sahacāriṇīṃ prāṇeśvarīmavaśyamekāṃtesa.˛bhāvayiṣyatīti | vasaṃta | āśvasiti | kusumā | priye | evaṃcakathitaṃ | de
+	vaḥ parijanasyoktīrajñātārthopiciṃtayā | abhyupaitikathāṃtāyaśūnyaṃkaṃpitamastakaḥ ||[36||*] kiṃtu | nosaṃbhāvaya
+	tiprasādavibhavairbhṛtyāṃścakorābhijānullāsaṃnidadhātinokuvalayenovāhinībhartari | rājāsarvakalā-
+38. [śri]topidivasaprāyeviyogepriyāṃtāmevacaṇadāmabhīpsatinavāmāpāṃḍimānaṃgataḥ ||[37||*] tadamunāsaṃvidhāna
+	kenatvayāsaviśeṣāmāśvāsyaparitoṣaṇīyāvatsāpārijātamaṃjarī | yataḥ virahenūnamekasya duḥkhena labhate sukhaṃ | su
+	khenacetaroduḥkhaṃ premṇo hi kuṭilā gatiḥ || [38||*] vasaṃta | jaṃāṇavedipiayamo | kusumā | ahamapietatkā-
+39. ryānurūpasvābhiprāyajñāpanāyavidagdhadvitīyasyarājñaḥ sakāśamevagacchāmītiniḥkrāṃtau | viṣkaṃbhakaḥ || tataḥ pravi
+	śatirājāvidūṣakaśca | rājā | samaṃtādudyānamālīkya | sakhe | tasyāevamukhenanirmalanijajyotsnabhirāppyādhitāḥ
+	śaṃkemītaravomanījñamasṛṇacchāyābhinaḥ | saurabhyaṃkusumotkareṇadadhatastasyaivasaṃ-
+40. [skā]rajaṃjhaṃpālaṃpaṭaāhṛyaṃtimadhuliṭsaṃtānamuccaistarāṃ |[39||*] vidū | vayassa [|*] jattamaṇumāṇaṃte | jadovaṇasmaī
+	ṇaṃcaṃdorāyā | rājā (|) dakṣiṇākṣispaṃdanasūcayitvā (|) sapratyāśamutkaṃṭhate | nepathye (|) maṃgaladhvaniḥ | [rā]jā | āka
+	rṇṇitakena | sakhe | madhyādudgatyatāraṃspṛśadalaghukucākaṃpakṛṣṭenayāsāṃśvāsenaivārūṭhaṃvrajatiyatividāṃsaptakaṃrakti-
+41. [me]va | tābhigrāmyopigītadhvanirayamadhunāmādhavīmaṃgalārthaṃ vāra strībhiḥ prayukto gamayati gamakairnāgara tvaṃ manojñaiḥ | 
+	|[40||*] tadehi [|*] devīṃpratyupasarpāva[ḥ |*] iti prikrāmataḥ | vidū | vayassa | jadhāesasamakālukkaṃṭhidakelidīhi
+	ākalahaṃsakūidakaraṃvidoasamaṃjabhamaṃjīrakalayalojadhāyathoumhāyamāṇakappūraparimalummīsidokilaṃ-
+42. [ta]kusumāmo opaccāsannīhavaditadhā(thaṇasa)haṃpaḍhamiyāmilaṃtīhiṃviyaḍaniyaṃvīrubharaparikkhalaṃtacalaṇāraviṃ
+	dāhiṃdāhiṇānilaṃdīliravasaṃtamālāmaṇaharāhiṃthorathaṇamaṃḍaluvvahaṇāparisma(sasa)sidamaṃdapaccāyamāṇatammī
+	larasāhiṃvāravilāsiṇīhiṃsevvijaṃtodevo | rājā | nirvaṇṇarya | sakhe [|*] kimucyate | vārāṃganāmukha- (|)
+43. [jyo]tsnālaṃghanotkaṃdharadyutiḥ | devodugdhārṇṇavelakṣmīrullasaṃtīvalakṣyate ||[41||*] tataḥ praviśati yathā nirdiṣṭa
+	rājño | vidū | vayassa[|*] idovipeccha[|*] jadhāesakusumāyaromamasammuhaṃsannaṃkareditadhāa[saṃsayaṃ]pāriāyamaṃja
+	riṃvasaṃtalīlāesahadūdhajjevasaṃcāraissadi | rājā | nirvaṇṇarya													(|)
+	kiṃcidāśvasyaca | klāṃtīvirahadāvenatāmevaprati-
+44. [dhā]vati | aṃtaḥ karaṇapakṣīmelāvaṇyāmṛtavāhinīṃ |[42||*] tataḥ praviśati viṭapāṃtatitā pārijātamaṃjarī vasaṃta
+	līlā ca | rājñī upasṛtya (|) rājānamavalokyasmitena saṃbhāvayati | vidū [|*] sasaṃbhramaṃ | ahoariṭṭhamariṭṭhaṃ | cūocaṃpaya
+	kusumehiṃcaṃpaopāḍalāpasūṇehiṃ | vaulosirīsaupphehiṃviyasiohaṃta accariyaṃ ||[43||*] rājā | sammitaṃ | dhiṅmū
+	rkha [|*] nedamariṣṭaṃkiṃtudevyāyamasmāka-
+45. [mā]cāryakeṇacitraprayogonāma vṛkṣāyurveda bhedaḥ pradarśitaḥ | kanakalekhā | vihasya[|*] bhaṭṭā[|*] ṇakhuesoviyakkhaṇa
+	ttaṇeṇaviyaḍḍhokiṃtaviseseṇadaḍḍhātti | iti sarvvehasaṃti | nāyikā | rājānaṃsaspṛhamavalokya (|) apavāritakena [|*]
+	ajje[|*] annapāyave anna kusumehiṃviyasāviduṃ atthimekoduhallaṃ | vasaṃta | vacche [|*] esojjevarāyātuha uvajjhāo
+	havissadi | nāyikā ||
+46. [u]ṣṇaṃniścasya (|) savitarkamātmagataṃ | katto amhāṇaṃtārisābhāyadheyā | rājñī | ajja utta | edaṃtaṃmāhavīsahayārami
+	huṇaṃ | [rā]jā | devi [|*] sādhudarśitaṃ | pūrvāmukhālaṃkṛtayormādhavī sahakārayoḥ | kāpi vaivāhikī lakṣmīriyamāhlāda
+	tetarāṃ |[44||*] kiṃca | dhanyoyaṃ sahakārasuṃdarayuvācaitrānilāṃdolanairudyuktaḥ pariripsatepriyatamāṃ vāmāṃga viśraṃbhi
+	ṇīṃ | eṣāpparddhasuvāsinīnavalatā
+47. [na]mrībhavaṃtībhṛśaṃnirvadhenaparāṅmukhīnasahatevaiyātyavārtāmapi |[45||*] vasaṃta | nāyikāṃprati | avvo [|*] evaṃje
+	vastumhārisīosuhāoduregāḍhukkaṃṭhirīopiyasayāseparaṃmuhī ohavaṃti | nāyikā | kiṃcidvihasya (|) sāsūyamiva | 
+	ajje [|*] taṃ annaṃjevakiṃpijaṃpatnīciṭṭhasi | ahaṃ uṇa eti gaṃjeva bhaṇāmi jaṃ anna pāyave anna kusume hiṃ viyasā viduṃ a
+	tthimekoṭuhallaṃ | vasaṃta | svagataṃ | devī
+48. [jā]vauttarāmuhaṭṭhidāmāhavīsahayāramihuṇaṃ aṇurāyabhiṃbhalābhakṣuṇopacchimāsuhaṭṭhidassadaṃmayaṃtīciṭṭhadi (|) tā
+	suhuttaṃ pārijāyamaṃjariṃ pāyaḍaṃkaremi (|) jadhādevī ekahiṃpi āharaṇe paḍi viṃvidaṃpecchadiṇaṃrāyā | iti viṭapa palla
+	vānapasārya nāyikāṃ prakaṭī karoti | rājā | rājñītāḍaṃke prativiṃvitāṃ nāyikāmavalokya (|) saharṣāvahitthamātmaga
+	taṃ | ayejitaṃ manorathaiḥ | 
+49. [ya]diyaṃvaladhūlighorāṃdhakāraduḥsaṃcarasamarasaṃketa navābhisārikā meprāṇeśvarī prathama prāṇeśvarītāḍaṃkadarpaṇeloca
+	nagocaraṃgatā | savitarkātbhutaṃca | nūnamiyaṃasmānpaścimenaviṭapāṃtare vasaṃta līlayā kenacidullekhalaṃpākenavacasā
+	narmamarmaṇispṛṣṭāsasmitamasūyate | sadyaḥ sāvvasadhūsareṇavikasahailakṣyalakṣmīspṛśākarṇṇāṃ tālasadṛṣṭinādharapuṭo
+	dbhismi-
+50. [ta]śrīmatā | [śla]kṣṇerṣyābhinayabhrukaṃsamabhṛkuṭīsaubhāgyaśṛṃgāriṇātanvīyaṃ vadaneṃdunā mama dṛśīrdatte sudhācarvaṇāṃ ||
+	[46||*] sakaruṇānurāgaṃca | prativiṃvamiṣādeṣā[sva]yaṃdautyamupāgatā | atyaṃtadurvalairaṃgairvrūtenviraha durdaśāṃ ||[47||
+	*] iti komalāṃguligraheṇakarṇṇaṃ dhṛtvā sā vilāsamavalokayati | rājño (|) saromāṃcayavanatamukhī sparśa sukhānubhavaṃ
+	nāṭayati | vasaṃta | tāḍaṃkenāyi-
+51. [kā]prativiṃvaṃnirvarṇṇya rājñeśceṣṭayā cittopalakṣitakena (|) apavāryasākūtaṃ | vacche [|*] peccha devīetāḍaṃkassarāma
+	ṇijjayaṃ (|) jaṃrāyāsāvahitthamekkadiṭṭhīepecchaṃtociṭṭhadi | nāyikāṃrājñī tāḍaṃkesvaprativiṃvaṃrājānaṃcanirvarṇya (|)
+	vitarkapratyāśamātmagataṃ | ammahe [|*] kiṃesorāyāmepaḍiviṃvaṃpecchadi (|) ādudevīetāḍaṃkaṃjeva | tādāvaamayakā
+	laūḍāṇaaṃta-
+52. [rā]ledolāidamhi | iti ciṃtāṃ nāṭayati | vasaṃta | nāyikāścittamupalakṣya | vacche [|*] mā annahā annehi | devī e
+	tāḍaṃkekamsāharaṇāhidevayaṃvatumaṃ | saṃkāṇurāyanihuopecchaipaḍiviṃviyaṃrāyā ||[48||*] jadū uṇanapattiyasitā
+	khaṇaddhaṃtumaṃpallavaṃtaridaṃkaremi (|) jadhāpaḍiviṃvasusmaṃtāḍaṃkaṃpecchatassakerisīdiṭṭhībhattuṇībhodittijāṇāsi | i
+	tināyikāṃpunaḥ pallavāṃta-
+53. [ri]tāṃkaroti | rājā (|) sakhe dāvahitthaṃ śūnya dṛṣṭirālokate | vasaṃta | vacche [|*] peccha2 | tāḍaṃketuhapaḍimaṃ aṇiyaṃtī
+	jhattibhattuṇodiṭṭhī | vimbhariyanihāṇaṭṭhāṇavvasunnapajjāulājāyā [||49||*] rājā (|) sāvegaṃpṛṣṭhatovalokate | sā
+	hlādamātmagataṃ | yenāyodhanadarśanotsavajuṣāṃ vaimānikīnāṃsukhānyavjānīva niśākareṇa gagane nītānivicchāya
+	tāṃ | bhūyodṛṣṭa-
+54. [si*][daṃ] tadevasutanoḥ smeraṃkimapyānanaṃ vicchedātapaloḍhalocanasudhānipyaṃdicaṃdrātapaṃ ||[50||*] nāyikā
+	(|) sasādhvasaṃrājānamapāṃgenāvalokya (|) lajjayāpasatrtumicchaṃtoparikrāmati | vasaṃta | tāṃruṇahi | rājā | nirvasrya
+	sampṛhamātmagataṃ | ucchāsistanayodrvayaṃ tadapi yatsīmāvivādolvaṇaṃlīlokṣekhigataṃtadamyanupa(saṃ)śroṇiśriyā
+	maṃtharaṃ | dīrghadṛgyugalaṃtada-
+55. [pya*][nu]gataṃlāsyenakiṃcidbhuvoretasyāstanumadhyamaṃvijayate saubhāgyavījaṃvayaḥ ||[51||*] sakhīvidūṣakauvi
+	ditarājanāyikāhattātauparasparaṃsākūtamavalokayataḥ | rājāsmṛtimabhinīya (|) sātaṃkaṃ (|) punastathaivatāḍaṃkamava
+	lokayati | savimarśapakṣapātamaha(ha) | ājñātadoṣātāḍaṃkaṃsaddṛṣṭāliṃgitaṃpriyā | dhatteniścalamā(dyā)piprītyāma
+	danuvṛttaye |[52||*] rājño (|) da-
+56.[kṣi]ṇākṣisapraṃditakena (|) adhṛtimabhinīyasodvegamunmukhīsakhīmukhamīkṣate | tacceṣṭāṃparikalayya (|) māsūyavitarka
+	mātmagataṃ | athi [|*] kudouṇasehṛdāsāe ajjaviyaṭṭasaṃsuhīsaviyārādiṭṭhī | savimarśamātmagataṃ | paḍihāi ajja u
+	ttosa[vbhā]vasiṇehasuṃdarasahāvo | amuhaṃpivakahaipuṇodāhciṇanayaṇaṃphuraṃtaṃme ||[53||*] kanakārājñīṃsavi-
+	(|)
+57. [la]kṣyasmitamīkṣate | rājñī | autsukyamabhinīya (|) sākūtaṃ | [sa]hi[|*]kiṃtaehasidiṃ | kanaka | savilakṣyaṃ joṣamā
+	ste | rājā | vidūṣakaṃprati apavāritakena | sakhe | nūnamanayādāsīputryādānasaṃmānapūrvvaṃciranivāritayāppadyasarvaṃpra
+	bhaṃgenata-
+58. [rja]yaṃtīkanakalekha[āṃva]āhodhṛtvāsāvahelaṃparikramyaniḥkrāmati | nāyikā | sarveṣāṃceṣṭāḥ parikalayyavadainya
+	mātmagataṃ (|) rājānaṃprati | caṃdassavatuhamehaṃtarammikhaṇadaṃsaṇeṇajāsasiyā | sīyāmisācaorivvapuṇavitai aṃta
+	rijjaṃte ||[54||*] prakāśaṃ | ajje [|*] nūṇaṃdeviṃpasādidu.˛gamissadirāyā | tāehi [|*] gacchamhā [|*] iti niḥkrāṃte | rā
+	jā | sapratyāśaṃpṛṣṭhatovalokya | 
+59. [nā*]yikāmadṛṣṭvāvidūṣakaṃpratisavailakṣyaṃ [|*] sakhe [|*] dṛṣṭaṃ tvayāyanmamāpatitaṃ | apisarvakalādevīyadarthebhūtparā
+	ṅmukhī | māpijātādṛśordūre vijayaśrīḥ priyāmama ||[55||*] tatkimatrakartavyaṃ | vidū | va[ya]ssa [|*] sāridassabhuṃji
+	dassayaekkaṃjevaṇāmaṃ | tho ovaḍūvā ava[rā]ho avarāho jjeva | tāsaṃbhāvehi mahābhaiṇiṃ pāriāyamaṃjariṃ | rājā | so
+	tkaṃṭhaṃ | sakhe [|*] evaṃkaromi | ha-
+60. [ti]parikrāmataḥ | vidū | vayassa [|*] peccha [|*] edaṃtaṃravirahaturaṃgamakaṃtisacchāyaṃmaragayamaṃḍavaṃ | rājā | dakṣiṇa bhuja
+	spaṃdanaṃ sūcayitvā (|) sapratyāśaṃ | sakhe [|*] sādhudarśitaṃ | etaścetīharatipurataḥ pārvatīkāṃta kaṃṭhacchāyākāṃtaṃmarakata
+	śilāmaṃḍapaṃslakṣṇoḥ | yenoddhāṃtairdyutikisalayairnihnutānāmalīnāṃ mālātmānaṃkhaluvihaṇutemaṃjunāguṃjite
+	na ||[56||*] iti parikrāmataḥ ||
+61. [rā]jā | tasyāloladṛśaḥ stanau sahṛdayau samyakpramāṇīhatāvuddhartuṃ nija doṣa mapratihatāvākrāṃta kakṣāṃtarau || saṃradhvau
+	navapacabhaṃgiracanāraṃmeṇavādasthale[mā]dhyasthyepiyayorvalitrayamadhastasthautanuprātibhaṃ [||57||*] itiparikra
+	myopasṛtyanāyikāṃpaśyansaharṣāsraṃdhṛtiniśvāsaṃvimucya | upadhāyavayasyā[ṅkaṃmlānata]khyotpalāṃkurā | viyoga
+	yoganidrāyāmiyamāste
+62. [pri*][yā]mamā ||[58||*] tadbhavatu [|*] nirvarssayāmi tāvat | tataḥ praviśati yathā nirdiṣṭhā nāyikā sakhe ca | rājā
+	[|*] svāgataṃ | ahaha | mukhajyotsnāṃkurairasyāḥ pītetamasimāṃsale | iṃdranīlāṃśa[va]ḥ śeṣāḥ parabhāgaṃdadhatyamī ||[59||*]
+	sakaruṇaca[ma]tkāraṃ | marakatamayamedinyāṃbhā[ti]
+	prativiṃvitākṛśāṃgīyaṃ | aṃtarjalaśayanīyaṃtāpenaniṣevamāṇeva || [60||*] vasaṃta | sakaruṇamākāśe || cha (|)
+63. (vā)valaāivamayarahajayasisanhamajjhāe | taṃciyahaṃtakuṇaṃtoṇijjīvaṃhohisikahaṃva ||[61||*] nāyikā | va[saṃ
+	]talīlāṃvāṣpārdramavalokya (|) sagadga[daṃ] | ajje | tasmiṃsahāva[su]haesavvakalāsaṃgayammidiṭṭhevi | djippemiosa
+	hoviyasodūraṃdullahorāyā |[62||*] rājā (|) kusumānyavacitya (|) cchannaṃcchannamupasṛtyaternāyikāmekaikenaprahara
+	ti | nāyikā | sa- (|)
+64. ...vigaṃ (|) rājānamavalokya | haddhī | esaṇiddaopaccakkhojjevakusumāuhomaṃsandabhāiṇiṃpaharedi | tāparittāyadu2
+	ajjā [|*] itivasaṃtalīlāmāliṃgitumicchaṃtīmūrcchati | rājā [|*] sahasopa[sṛ]tyā | hāpriyepārijātamaṃjari
+	[|*] dehimeprativacanaṃ [|*] itisakaruṇaṃnāyikāhṛdayasparśanāṭayati | vasaṃta | rājānamavalikya (|) nāyikāṃvījayaṃ
+	tosāśvāsaṃ
+65. [sakaru*][ṇāṃ]ca | vacche [|*] samassasa2 [|*] ṇākhuesokusumāuho [|*] tuhahiyayavallahokhubhaṭṭāeso | nāyikā
+	(|)saṃjñāṃlabhate | rājā | sāśvāsaṃnirvarṇya | yatsadyaḥ puṭabhedasālasalasatpakṣmāṃcalecākṣuṣīsotkaṃpastanayāprasīdatighṛ
+	tiśvāsaśriyāyanmukhaṃ | yaccāyaṃpulakaḥ purāparicitasparśopalaṃbhāttanauteneyaṃsutanurvabhūvavidhurejīvārgalāmehṛdi ||
+	[63||*] nāyikā (|) rājā-
+66. [namupa*]labhya (|) sasādhvasamutthāyātmānaṃparyavasthāpayati | bhṛtitiḥ śvāsamutsṛjya (| )vasaṃtalīlāṃpratyapavā[ri]
+	takena | ajje [|*] aivallaheviparavvasejaṇekerisovāraṃvāramaṇuvaṃdhanivvaṃdho | tāehi [|*] gacchanha | iti rājānaṃsa
+	lajjābhimānasapāṃgenāvalokyaparāṅmukhī parikramatumicchati | rājā | sotsukyaṃ (|) vāhaudhṛtvānāyikāṃnirva
+	rṇṇayansvagataṃ | utthānaṃka-
+67. [thamapya*] jāyatagatistaṃbhastumāmīhatevailakṣyādvadaneṃdunaivavalitaṃdṛṣṭistusādrāmayi | aṃgānyevaparāńmukhānipu
+	lakomatyakṣapātīpunarmānaprāthamakalpikīmṛgadṛśaśceṣṭaivacitrīyate ||[64||*] apica || talpeṃdīvaramudrābhiraṃki
+	tānimṛgīdṛśaḥ | surabhisvedaviṃdūnimadayaṃtyaṃgakānimāṃ ||[65||*] saspṛhātirekaṃ | utthānaṃjaghanenavinnitamabhūda
+	syāḥ ka-
+68. [ka*]ronīvīrakṣaṇasauvidallapadavīṃvāmaḥ prakāmaṃgataḥ | nīraṃgīsicayāṃcalaṃkucataṭevadhgativāmetarastanvaṃgyāstra
+	payāvaguṃṭhitamidaṃlīlāyitaṃjṛṃbhate ||[66||*] prakāśaṃ | ayiśaśimukhimānaṃmuṃcadṛṣṭiprasādairupajanayasubhikṣaṃsmera
+	nīlotpalānāṃ | apibhavatubhavatyāḥ komalālāpabhaṃgyājhagitigalitagarvvovallakīnāṃninādaḥ || [67||*]
+	itipra- (|)
+69. [ṇamati] | nāyikā (|) hastābhyāṃ rājānaṃ kirīṭena prerayaṃtīsasmitamapasarati | vidū | mākanhavikovi iha devīepari
+	aṇīsaṃcaredi | tā āsāsehi kaṃṭhaggaheṇa turiyaṃ jeva mahābhāyaṃvi ayasiriṃ | rājā [|*] āliṃgya (|) muhūrtamivānaṃdamu
+	drāṃnāṭayitvā (|) svagataṃ śīghramaṃtarmukhairbhūtvāvilīnaṃnavanītavat | karaṇaiḥ sparśalābhānmesukhādvaitemanaḥ sthitaṃ | 
+	[68||*]
+70. [a]pica | unmīlatpulakāṃkurastanataṭasvedāṃvujaṃvālitaśrīkhaṃḍaprabhaviṣṇusaurabhaguṇagrāhīhaṭhāliṃgane | ānaṃdāśru
+	taraṃgasaṃgamacamatkāraśriyāśītalo vicchedajvaramāvayorddhṛtibhavaḥ śvāsānilaḥ pītavān ||[69||*] tataḥ praviśa
+	titāḍaṃka hastā kanaka lekhā || kanaka | saciṃtāsaṃbhramaṃ | maemahārāyasra . . . . . . . . . . 
+71. [la*]ddhāṇauṇaitthittiajjajāvabhaṭṭiṇīvippaladdhā | ajjauṇadevīesayaṃjevaullihiyasavvaṃuvaladdhaṃ | ahaṃṇi
+	mittamettaṃjādamhi | avvīsāmiṇioassaavassaṃkaraṇijjadā [|*] jeṇajjevadeviṃvaṃciduṃavbhatthidātaṃjevamahārā
+	yaṃdevīenioeṇaulluṃṭhissaṃpurovalokya | edaṃtaṃmaragayamaṃḍavaṃ | (i) ......
+72. rājānāmavalokyasvagataṃ | ammehe [|*] kattoāsāsobhaṭṭiṇīe (|) jīevallaho asaṃgaṇāṇavaraṃgasiṇehavāurāṇi
+	vaḍidahiayahariṇīevaṃhiṃḍadi | upasṛtya (|) velakṣāṃnāṭayaṃtīprakāśaṃ | jayadu 2 bhaṭṭā | sarve śaṃkaṃte | rājā | nāyikāṃpṛṣṭha
+	taḥ kṛtvā (|) kanakalekhāhastetāḍaṃkama[va]lo[kya] (|) svagataṃ | a(ye) ..........
+73. tyādevyādoṣādvaṭṭanenanipuṇamulluṃṭhitāḥ smaḥ | prakāśaṃ | bhadre | adyakhalvakāraṇakupitāpidevīprasādanīyetitvāme
+	vapratipālayatāmasmākamatradinamatikrāṃtaṃ | tvatsāhāyakasāpekṣyaṃhyetatkāryaṃ | kanaka | sanasammitaṃ | bhaṭṭā [|*] jāe
+	sāamhāṇaṃgudīyābhaṭṭiṇītaepaṭṭhiṃdiṃteṇarosāvidāciṭṭhadi (|) .........
+74. [rā*]jā | smitvā | kanakalekhe [|*] ubhayamapyetatkāryaṃ tvayyevāyatate | tatkiṃpraṣṭavyaṃ bhavatyā | kanaka | tāḍaṃkamarpayati | 
+	rājā | gṛhītvāsvagataṃ | kaṇarṇālaṃkaraṇaṃ devyā viṃvasthānaṃjayaśriyaḥ | saṃpratpubhayathāpyeṣatāḍaṃkaḥ pratibhātime ||
+	[70||*] prakāśaṃ | kiṃpunaḥ kāraṇaṃtāḍaṃkapreṣaṇe | kanaka | edakāraṇaṃ | esatāḍaṃkoajjaga[ru].........
+75. [vaṃ]kassāharaṇaṃdevīedhāridaṃ | ajjakhuvasaṃtalīlāviaḍṭagoṭṭhīmahumattasavaṇajuala[sma]ahiṇava[so]hagga[suṃ]
+	deramaṇaharakusumamaṃjarīrasammi[theṇṇa]chaccaraṇaca[ri]dassabhattu.õdhārāgiripamadujjāṇejevasavvodiṇoadikkaṃ
+	to | rayaṇīuṇamaeviṇākadhaṃgamissadittivira[ha] ..........
+76. [pe*]sido | vasaṃtalīlāvidagdhau (|) sabhayamanyonyaṃpaśyataḥ | rājā | svagataṃ | ayevakroktiparipāṭīpāṭavajñāpanaṃ | ya
+	divā (|) devīṃ sarvakalāmadhikṛtyastokametat | kiṃtu [|*] devī prasādanīyetyenāṃmuṃcāmikātarāṃvirahe | svahṛdayamayī
+	smijātovavvaṃtusukomalaṃhṛdayāt ||[71||*] nepathye | [a] ..........
+77. .ṇiprācīkokilamecakenatamasāmālinyamālaṃvate | yāprātaḥ pariraṃbhanirbharaka[raṃ]doṣāpalāpakṣamaṃlabdhvārāgiṇa
+	mevavakṣyatimukhaṃsmeraṃprasādaśriyā ||[72||*] apica | visphūrjatkaradīpikāṃkuramarudgaṃdhāvadhūtaṃjagaddhrāṇaprāṇama
+	patkamaṃvidadhataḥ karpūrabhaṃgānilaiḥ | siṃhadvārini[vā] ..........
+78. .[ta]vaṃdipāṭhatumilaṃtāmyaṃtiśṛṃgāriṇaḥ ||[73||*] kiṃca | nāsīracaṃdrātapadīpikābhiḥ pūrvāṃcalenāṃtaritonumeyaḥ |
+	apīṃduruttāmyatirājabhāvādbhūmaṃḍalākhaṃḍalasevituṃtvāṃ [||74||*] nāyikā | vasaṃtalīlāṃpratisakaruṇaṃ | taevide
+	vīebhaeṇamaṃdabhāiṇīpāriāyamaṃjarīpariharidavvā | adojje[va] ..........
+79. .[ja*]ṇekerisovā[raṃ]vāramaṇuvaṃdhaṇivvaṃdhī | vasaṃtalīlānāyikāṃ[sā]sramāliṃgati | rājā | apavāritakenanāyi
+	kāṃcivukespṛṣṭā | priye [|*] alamanyathāsaṃbhāvanayā | muhūtamāsthānamadhiṣṭhāyapratinivṛttaevāsmi | vasaṃtalīlāṃpra
+	ti | ārye | bhavatyāspaddhṛḍhayaṃgatayālālanoyeyaṃtāvada [sma] . . . .. .
+80. .[vi]dūṣakakanakalekhābhyāṃsahaparikrāmati | sakaruṇaṃ pṛṣṭhatovalokya (|) svagataṃ | āḥ priye pārijātamaṃjari | udbhi
+	dyamānacaṃdrāṃśudaṃṣṭrākarāleniśācarīmukhemucyamānāsi | nāyikā | sāsraṃ | mahābhā [|*] ittigaṃdiṭṭhīsimaemaṃdabhā
+	iṇīe | rājā | savyathamātmagataṃ | kimapimasṛ ..........
+81. .hṛdayaśīlāyāṃviśvaśṛṃgāraśilpī | tavaṛjuguṇasūtranyāsarekhāṃkitāyāṃlikhativiśikhaṭaṃkaiḥ puṣpaketuḥ praśastiṃ | 
+	|[75||*] iti niḥkrāṃtaḥ | nāyikā | sānutāpamudgīvikāvalokitakena | kadhaṃloyaṇapahaṃadikkaṃtoparavvasojaṇo | 
+	svagataṃ | tadāṇijaṃdevī ekāridavvaṃtamahaṃmayaṃjeva [karaissaṃmaṃ]da[bhādgaṇī |]
+82. [i]tisodvegamudbhrāṃtahṛdayāparikrāmati | vasaṃta | sautsukyaṃ | nūṇamedāekiṃpiamaṃgalamajjhavasidaṃ | tāsavvadhādhāra
+	issaṃ || iti niḥkrāṃtāḥ sarvve [|*] tāḍaṃka darpaṇo nāma dvitīyoṅkaḥ || śrī || || rūpakāraprakāṃḍasya sīhākasyāṃgajanma
+	nā | praśastiriyamutkīrṇṇārāmadevenaśilpinā || [76||*] ||
+	
+
+
+	
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

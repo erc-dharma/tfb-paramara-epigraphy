@@ -1,0 +1,75 @@
+PennGlobal: PMR36
+Period: Undated
+Location: Vidiśā
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text:  Prose and Metrical in 2 verses
+Metres: Verses 1 Vasantatilakā; v.2 Anuṣṭubh
+Gist: The object of inscription is to express devotion for Charchikā, who was the favourite goddess of Narvarmandeva.
+Published reference: Trivedi (1978), no. 36.
+
+
+
+
+Text{1}
+
+1. siddham{2} || strī(śrī)ca[rcci]kā{3} sma-
+2. raṇamāttra[kṛta]pra-
+3. sādāt [saṃprā]pyati(te) -
+4. kali[yugepi]{4} dharā-
+5. dhipatyaṃ(tyam) | [ā]rādhi-
+6. tā vidhiyutā kusumai-
+7. vi(rvi)citraiḥ strā(sā) khecara-
+8. tvarasasiddhipadasya
+9. labdhiḥ(bdhiḥ){5} ||1|| iti mahā-
+10. rājādhirājapara{6}-
+11. mesva(śva)rastrī(śrī)naravarmma{7}de-
+12. vasya nirvvāṇanārā-
+13. yaṇasya paranārī-
+14. sahodarasya{8} || cacci(rcci ? ) -
+15. kākhyā samākhyātā de-
+16. vī sarvvajanapriyā | ya-
+17. syāḥ prasādamātre(ttre ?)ṇa
+18. lebhe saṃsārayogya-
+19. tāṃ(tām) ||1||(||2||) kṛtiriyaṃ ṭha-
+20. kkurasūpaṭasutaṭha-
+21. kura |{9} ṇījāsasru(su) taṭha-
+22. kkurastrī(śrī)mādhavasya ||
+23. paranārīsahodara-
+24. sya | dvijasya | mā-
+25. thuravaṃśajasya ||
+26. maṃgalaṃ(lam |) mahāsrīḥ(śrīḥ)||
+
+---------------------------------------------------
+{1} From impressions.
+{2} Expressed by a symbol.
+{3} The second letter of the name is mutilated and I am not certain whether it is superscribed by ra,
+	whereas in 1.14 below, the reading is clearly carccikā.
+{4} The fourth letter in this line is totally lost, leaving only faint traces thereof and the third and the fifth
+	syllables are mutilated. The consonant of the third letter is definitly y(य्). Thus it is difficult to be 
+	certain about the reading of these three letters.
+{5} The word labdhi, acquisition, needs the construction of the sentence in the passive voice.
+{6} By mistake, two horizontal strokes instead of one are attached to the vertical of this letter.
+{7} This akṣara, which was omitted while engraving, is later on written above, at the close of the preceding
+	line, with an arrow-mark to draw attention to it.
+{8} Cf. parakulāṃganāputra used for the Rāṣṭrakūṭa King Kṛṣṇa III in Ep. Ind., Vol. XIX, pp.289-90.
+{9} The punctuation mark is so close to the preceding letter as to appear as a mātrā attached to it. It is also
+	redundant, as some others in the lines that follow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

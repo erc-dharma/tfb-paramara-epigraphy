@@ -1,0 +1,60 @@
+PennGlobal: PMR55
+Period: VS 1289 mārgga vadi 3
+Location: Atrū
+Dynasty: Paramāra
+King: Jayasiṃha
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Land donation  
+Published reference: Trivedi (1978), no. 55.
+
+Text{1}
+
+1. mahārājādhirājaśrījayasiṃ-
+2. gha(ha)devena paṃvīṭhapratipatau(ttau){2} mahā-
+3. kavicakravarttiṭhakuraśrīnārāya-
+4. ṇa{3} mhaisaḍāgrāmaṃ sā(śā)sane pradatta{4} | jo{5} lo-
+5. payati{6} tasya mātā{7} gardabho codati |
+6. saṃ. 13[14]{8} var[ṣe]{9} -||
+
+-------------------------------------------------------------
+
+{1} From the impressions, Government Epigraphist No. C-2808 of 1968-69. Just above the first line two symbols
+	or letters are engraved in the middle but I am unable to explain them.
+{2} For the explanation of this expression, see above.
+{3} Read nārāyaṇāya.
+{4} Read -grāmaḥ . . . pradattaḥ. The akṣara grā is written above the line.
+{5} Used for yō.
+{6} The verb should be in the future tense.
+{7} Read this word in the accusative.
+{8} In his list of Inscriptions of N.India, D.R.Bhandarkar remarked that the century figure seems to be
+	omitted. The impressions before me show that this figure was at first engraved as 4 and later on changed
+	to 3. The last two figures have now disappeared and have been adopted from Bhandarkar's reading.
+{9} Bhandarkar, in I.N.I., No.554, read this word as vaṣai(varṣe), but out of the two strokes above the 
+	second of these akṣaras, the first is clearly for the mātrā and the second seems to have been intended fro
+	the rēpha. Following them, there are traces as of a letter which has now disappeared.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

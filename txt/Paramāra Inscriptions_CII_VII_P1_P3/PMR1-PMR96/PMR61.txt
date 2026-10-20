@@ -1,0 +1,71 @@
+PennGlobal: PMR61
+Period: VS 1099 Jyeṣṭha śudi 30
+Location: Varmān, Rajasthan
+Dynasty: Paramāra
+King: Pūrṇapāla
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records the restoration of the temple of the Sun God.
+Published reference: Trivedi (1978), no. 61.
+
+Text{1}
+
+1. siddham{2} || saṃva[t] 1099 ye(jye)ṣṭha su(śu)di 30 vu(bu)dhati{3}-
+2. ne mahārāyyaṃ(ja)śrīpuna(pūrṇṇa)pāla-{4} [śrī]dhaṃdhu-
+3. a(ka)sutaḥ parihā[ri] - -{5}nvaye śrīṇo(no ?)-
+4. cakena śrīsārama sute{6}na śrīvra(bra)hmā-
+5. ṇasvāmidevasya{7} devagṛhaṃ jīrṇṇodhā(ddhā)-
+6. raṃ  kṛtaḥmitiḥ{8}  ||  sūtradhāra sa[rū]kasu-{9}          
+7. tena dhāṃnena kṛtaḥmiti{10} ||           ||
+
+---------------------------------------------
+
+{1} From personal information of the original and impressions, as stated above.
+{2} Denoted by a symbol.
+{3} What appears above dha is not a mātrā but only a fault of the stone.
+{4} On the impressions this akṣara appears as sya, but on the original stone I found this akṣara scored off
+	by a horizontal stroke and a sign of visarga inserted subsequently, after the preceding letter.
+{5} These two letters appear as abraded and the first of them may doubtfully be read as hā or jā, and the
+	second as ta. The reading of the first akṣara in the expression is also doubtful.
+{6} The sign of mātrā attached to this akṣara is slightly above, touching almost the lower extremity of the 
+	letter just above it.
+{7} The first akṣara in this line was probably engraved as ṇḍa, with its subscript lost later on, as known
+	from the traces left. The expression Brahmāṇḍa svāmin denotes the Sun, for which, cf. Jagat svāmin in
+	No.92, 1.12. The name Svāmideva was also read by me in an inscription on another pillar in the
+	same shrine in my visit to it in 1972. The record consists of 16 lines, 62.5 cms. high by 13 cms. broad,
+	and is dated Caitra śudi Rathasaptamī, (V.), mentioning the donation by one śobhaya to the diety. It 
+	is unedited.
+{8} Read devagṛhasya jīrṇṇoddhāraḥ kṛta iti.
+{9} The reading of the bracketed akṣara is doubtful
+{10} Read kṛta iti. Between the daṇḍas is an ornamental design resembling an arrow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

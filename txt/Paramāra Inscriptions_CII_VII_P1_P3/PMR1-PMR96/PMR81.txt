@@ -1,0 +1,48 @@
+PennGlobal: PMR81
+Period: VS 1321
+Location: Bhūla
+Dynasty: Paramāras of Candrāvati
+King: Name does not  figure
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Land grant from the time of Sīyaka
+Published reference: Trivedi (1978), no. 81 .
+
+
+Text{1}
+
+1. siddham{2} || saṃvat 1321 varṣe pauṣa va{3} 3 so-
+2. me{4}'dyeha śrīcaṃdrāvatyāṃ{5}mahaṃ śrī[rā]{6jaḍa-
+3. pratipattau pratī.{7} śrīlākhaṇapāla u.{8} pra-
+4. tī śrīgopasenamā[tṛ]{9}salakhaṇa[de]vi(vī)-
+5. śriyā(yai) śī(śrī)roheṭaka [sthā]nīya vrā(brā)hmaṇānāṃ{10}
+6. [maṃḍāvaḍā(dā)]{11} grāmasīmāmadyā{12} tuthatra{13} kṛtā
+7. pi{14} kāso  calati [natravālanāyaṭāṃ]{15} taghāṃ(thā?)
+8. kalpakoṭisahā(ha)[srā]ṇi [sva]rgge tiṣṭhati
+9. bhūmida[ḥ*|] āccha(cche)ttā nā(cā)numaṃttā(tā) ca tānyeva nara-
+10. kaṃ vrajet{16} ||
+
+------------------------------------------------------------
+
+{1} From an impression.
+{2} Denoted by a variant of the symbol.
+{3} That is, vadi.
+{4} The sign of the pṛṣṭha mātrā appears to have peeled off.
+{5} The sign of anusvāra is redundant and who is referred to by what follows is not clear.
+{6} The sign of the mātrā has a horizontal stroke in its middle, denoting either that the sign itself is
+	scored off or this letter has to be read as sa, or it may be only a scratch.
+{7} That is, pratihāra.
+{8} Neither the reading of this letter is certain nor is its denotation known.
+{9} This akṣara is misformed and also damaged.
+{10} The mātrā above the first akṣara of the name of the village is damaged and has faintly come out in the
+	 impression.
+{11} These four letters forming the name appear as if tampered subsequently and the reading is from the 
+	 traces left. 
+{12} Read dhyā(dhye). The vertical of the mātrā is followed by another vertical stroke and both these are joined by
+	 a slanting stroke.
+{13} Read tathātra.
+{14} Read api.
+{15} The meaning of these five letters is not known to me. THe expression appears to be in the local language
+	 and perhaps expresses a curse.
+{16} Generaly we find vaset in this verse used elsewhere.

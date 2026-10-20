@@ -1,0 +1,39 @@
+PennGlobal: PMR20
+Period: VS 1137 vaisākha sudi 7
+Location: Dhār  
+Dynasty: Paramāra
+King: Udayāditya
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 1 verse
+Gist: To record the hoisting of the flag on the temple
+Published reference: Trivedi (1978), no. 20. 
+
+Text{1}
+
+1. saṃ{2} 1138 | [ja]saharaḥ{3} [a]{4}gnichi-
+2. tā{5} prana(ṇa)[ma]tiḥ{6} lāravarg{7} |
+
+--------------------------------------------
+{1} From facsimile accompanying Lele's article and from personal examination.
+{2} The tail of the fore-part of this akṣara is missing. Lele read the akṣara without the anusvāra which is clear
+	above.
+{3} Lele suggested the bracketed letter to be read as da, and took the whole word as dasahara, i.e., dasaharā, giving
+	the day. But agreeing with Garde's suggestion, I take it as given here and thus showing the name
+	of the consecrator, which is otherwise missing.
+{4} This akṣara was taken as bha by Lele who corrected it to a. But to me it appears to be a misformed a.
+{5} Read agnisthitāṃ, or rather agnimadhyasthitāṃ, which is the description of Pārvati performing penance for obtaining
+	Śiva as her husband. cf. Kumāra-Saṃbhava, Canto V.
+{6} Drop the sign of visarga.
+{7} Read -varggaḥ. The va is misformed and the repha is shown by a vertical small stroke above.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+PennGlobal: PMR188
+Period: VS 1314 phālguṇa vadi 0 (amāvāsyāṃ)
+Location: Chītrī
+Language: Sanskrit with local dialect
+Script: Nagari
+Text: Prose  
+Gist: Records the restoration of the temple where it was found. 
+	It is stated to have been originally constructed by Sanatkumāra, 
+	who belonged to the Paramāra clan, and was restored by the Rāūta Jāla.
+Published reference: Trivedi (1989), no. 188.
+
+
+Text{1}
+
+1. siddham{2} | saṃ. 1314 varṣe{3} phālguṇa vadi ൦ dhu(bu)dha-
+2. dine śrīsātalesva(śva)rasatkaprāsāda[ḥ]{4} rā-.{5}
+3. jālena uddhṛtaḥ || paramāravaṃ[sa(śa)]saṃ-
+4. gha--{6}rāṇa(?)nsaṃtakumāreṇa kī[ya ?] si(śi)-
+5. vasadmoso(sau ?){7} jāla i{8} udhariyo |
+6. vū(bū)ḍāpaṭacītalīyagrāmaḥ ||
+
+------------------------------------------------
+{1} From impressions.
+{2} Expressed by a symbol. 
+{3} After the first two figures of the year, there appears to be a scratch resembling the symbol for 4. There 
+	is also a scratch appearing as the sign of mātrā on the following ṇa, or the sign of mātrā on this 
+	letter, which was first engraved and later on erased (?).
+{4} The sign of visarga has disappeared, leaving traces. The letter that precedes this sign is deformed,
+	also appearing as va or dha. 
+{5} That is Rāūta.
+{6} The reading of the first akṣara in this line is not certain; the second is indistinct, and the third one
+	has a vertical stroke on either side, appearing as the sign of either a pṛṣṭha mātrā, or of ā. Thus 
+	the reading of the first four letters in this line is uncertain. 
+{7} This akṣara, which may have been intended to be ōṃ, as it appears also, is redundant.
+{8} This akṣara also appears to have attached to it a mātrā, which was probably subsequently erased, but 
+	the sign is still there.
+  
+  
+ 

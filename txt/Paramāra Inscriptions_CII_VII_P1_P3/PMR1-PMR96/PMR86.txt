@@ -1,0 +1,65 @@
+PennGlobal: PMR86
+Period: VS 1159
+Location: Arthūṇa
+Dynasty: Paramāra
+King: Cāmuṇḍarājā
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 13 verses. 
+Metres: Verse 1 Drutavilambita; vv.2 and 8-6 Śārdūlavikrīḍitā; v.3 Mālinī; 
+		vv. 4-7 and 10-13 Anuṣṭubh.
+Gist: To record the construction of a temple.
+Published reference: Trivedi (1978), no. 86.
+
+Text{1}
+
+1. siddham{2}|| vivu(bu)dha vṛṃda si(śi)raḥ praṇataḥ sadā |{3} sakalavo(bo)dhayutopi kalāparaḥ | vṛṣabhanāthamunirmumi(ni)cittago diśatu
+  kā[ma]ma[kāmu]-
+2. katāmatiḥ ||1 sūriḥ śrīhariṣeṇa nāma vidito lāṭānvaye jñānavān |{3} yasya jñāna jalaṃ punāti sujanaṃ pūtapra - - U -{4} |
+3. saṃjāto jayakīrttir iṃdu sadṛśaḥ saṃtāpanut prāṇināṃ |{3} ta[smā]t prādurabhūd guṇī guṇavatāṃ śrīkīrtti nā[mā sutaḥ] ||2
+4. samajani su(śu)cicittāvanvaye nāgarāṇāṃ jina pati jana saṃghe{5} jhalla[nā]mā variṣṭhaḥ | [sa]mabhavadiha ta[smā] - U - - U - -
+5. nṛpati sujana mānyo dānasī(śī)lo dayāvān ||3 sahajaḥ sahā(ha)jānaṃdaḥ{6} kallukāyāmabhūttataḥ | para - U U - - ˍU, ˍUˍUˍU
+6.  ˍU{7} hitaḥ kramān(t) ||4 āsvādita mukhāṃbhojas taruṇī locanālibhiḥ | rājā cāmuṃḍarājāhvaḥ ˍUˍUˍUˍU U - U ˍU{8} ||5 rā-
+7. jyaṃ sā(śā)sati tatrāsāvakārṣīrjji(jji)namaṃ[di]rāṃ(ram |) | saṃsārāsāratāṃ jñā[tvā] ˍUˍUˍUˍU U - U -{9} ||6 ˍUˍUˍUˍU U -
+8. - - konaṣaṣṭhi(ṣṭi)sa(śa)tādhike{10} | acīka[ra]didaṃ [śubhraṃ ?] sahajaḥ [śrī]jina[ālayaṃ] ||7] ----------
+9. ------{11} [mānyo?]{12} rājagṛhe yathā su(śu)citayā kṣāṃtyā ya[tī]nāṃ hṛ[di] | - - - U U - U - U U U  - - -
+10. U - bhikṣubhi[ḥ ||8] saṃbhogaiḥ pramadājaneṣu subhagaḥ [sū]ktyā ca vidvajjanai[ḥ saṃmānyaḥ ?] U U - U - U U U - - - U
+11. [gā ?]tro jayet ||9 a U [jo]{13} yasya jhallākaḥ samyagdṛṣṭir vratānvitaḥ | bhaktaḥ kalā ------- davedāna{14} --- ||10
+12. yasyāmajījanatputraṃ pa[pyā ?]kaṃ guṇaśālitaṃ(nam) | sahajākasya sā bhāryyā rāmasīteva sadguṇā ||[11*] nāmnā jāmvu(mba)-
+   [vatī ?]{15} - ˍU U ˍU 
+13. -[ghū]rṇṇitekṣaṇā | sudakṣā ca manojñā ca cāritrakṛtya bhūṣaṇā{16} ||12[bhuvi]
+14. U [mī ?] vidvān prasa(śa)stimakarodimāma(m) ||13 saṃvana(t) 1[1] - -{17}
+
+-----------------------------------------
+{1} From an impression. 
+{2} Denoted by a symbol. 
+{3} The daṇḍa is redundant. 
+{4} The traces following pra appears to be as of tiṣṭhā and all the missing akṣaras here may have been -pratiṣṭhānvitaṃ.
+{5} The pṛṣṭha mātrā is detached from this and appears as a daṇḍa. The next letter looks more 
+	like Jha. But it may also have been bha. 
+{6} This and the preceding sign of visarga were inserted subsequently. It cannot be known whether the mark 
+	above is that of anusvāra or a fault of the stone. Following this letter, hā was originally incised and 
+	the mātrā appears to have been later on cancelled by an arrowhead below it. 
+{7} The lacunae may be filled in by -kāryaparo mānyo nitya sa-, of which the first five letters are in traces. But
+	this would not explain the use of kramāt. 
+{8} The verticals of the first letter of the name are joined by a horizontal stroke as those of dhā, and the sign 
+	of anusvāra on the second is faintly visible. The missing akṣaras may have mentioned something about 
+	the king. 
+{9} Some of these akṣaras are partly visible, but nothing can be made out of them. 
+{10} The portion mentioning the first two figures of the date is lost but these two figures can be restored as 
+	 11 with the help of those appearing in the end. Thus, the year is 1159. 
+{11} Of the whole quarter which is lost here, it cannot be said how many akṣaras were in this and in the 
+	 preceding line, which also shows 4 or 5 akṣaras struck off by horizontal lines. 
+{12} The mātrā of the first letter in the brackets appears to have been first wrongly incised and later on struck 
+	 off by two horizontal strokes -one on the vertical and the other on the curve above; and the lowest ex-
+	 termity of the vertical stroke ending ya is curved to the right instead of to the left. See the same letter 
+	 in 1.5 above. 
+{13} This akṣara is more like jo(जो) than to(तो); and unfortunately, the second akṣara of a word showing the 
+	 relationship is lost. The reading may have been anujo (?).
+{14} The reading is certain except that the pṛṣṭha mātrā taken here as of vē may have been that of ā attached 
+	 to the preceding letter. This broken part, however, does not give any sense. 
+{15} The akṣaras in the brackets are conjecturally restored. The following five akṣaras that are lost are 
+	 apparently meant to describe the lady. 
+{16} This expression is metrically faulty; read kṛtyacāritra-.
+{17} The rest of the inscription is all broken. 
+	 

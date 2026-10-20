@@ -1,0 +1,38 @@
+PennGlobal: PMR194
+Period: VS 1366 śrāvaṇa śudi 10
+Location: Pannā
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Inscription record falls into two parts, Part A and B. 
+	It records the installation of a group of images by Suhaḍadēva, 
+	the son of Ashau and the grandson of Vāśē, born in the Vāstavya Kāyastha family
+Published reference: Trivedi (1989), no. 194.
+
+
+Text{1}
+
+Part A
+
+1. śrīḥ[|*] paṃ.{2} | suhaḍadevasya patnī devalladevībhire[-]-{3}
+2. ......{4}pratimāḥ...{5}
+3. ..........rudradevena sva....
+
+Part B
+
+1. siddham{6} [|*] siddhiḥ || saṃ.1366 śrāvaṇa su(śu)di 10 gurau kāsya(śya)pānvayakāyasthavāsthavāstavyavaṃśe kā-
+2. laṃjarajayapurayo [ḥ] pratolikānvita....{7} ṭhakuraśrīvāse(śe)pautreṇa ṭhakuraaṣauputreṇa paṃ[ca]-
+3. rudradeve[sa(śa)?]sya ........{8} samastapratimāḥ{9} kāritāḥ || 
+
+----------------------------------------------------------------
+
+{1} From an impression which is No. C-1996-97 of A. R., Ind. Ep., 1963-64.
+{2} The reading of this akṣara is absolutely certain. Whether the vertical after it is a part of a letter is 
+	not known. 
+{3} The letter lost here is to be restored as tā; Read devyā and the preceding word as patnyā.
+{4} Six syllables are lost here. They should be taken as showing the names of some deities.
+{5} The lost letters may have been kāritāḥ followed by a punctuation mark. 
+{6} Denoted by a symbol. 
+{7} Four akṣaras are indistinct here.
+{8} Five akṣaras are lost here, leaving only traces.
+{9} Better read the first of these words separately, both in the nominative plural.

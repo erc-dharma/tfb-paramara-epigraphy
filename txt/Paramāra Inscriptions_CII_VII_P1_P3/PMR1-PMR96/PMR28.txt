@@ -1,0 +1,66 @@
+PennGlobal: PMR28
+Period: Śaka 1034 vaisākha śudi 10
+Location: Ḍōṅgrāon Stone Inscription of the Time of Jagaddeva  
+Dynasty: Paramāra
+King: Jagaddeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 9 verses.
+Metres: Verses 1-8, 10-11 and 13-14 Anuṣṭubh; v.9 Śārdūlavikrīḍita; v.12 Śālinī
+Gist: To record the donation of a village.
+Published reference: Trivedi (1978), no. 28. 
+
+
+Text{1}
+
+1. [oṃ{2}] namaḥ śivāya | kurvvanvaḥ pātu jagatāṃ prabhava sthiti saṃhri(hṛ)tīḥ | tisraḥ UˍUU--ˍU{3} viśvaṃ yatra [su]varttakaḥ |1| astyarvvu[rbbu]da
+  iti khyātaḥ pratīcyāṃ diśi parvvataḥ | mekhalādyanta saṃcāri kūrmarāja divākaraḥ |2| kāmadhenu [hṛtavate]{4}
+2. viśvāmitrāya kupyataḥ | vasiṣṭātatra homāgnau paramāro vyajāyata{5} |3| tad vanse(d vaṃśe) kṣatra caritaiḥ puṣpha(ṣpa)vantānvayādhike | babhūva bhoja -   
+  devākhyo rājā rāma samo guṇaiḥ |4| tato riputrayaskande magnāṃ mālava[medinīṃ] | u-
+3. ddharann udayādityas tasya bhrātā vyavarddhata |5| yasyācchayā diśaḥ kīrttyā bhuvanāni parairguhāḥ | [kāṣṭhāḥ] parā va(ba)lādeva, kāvyair vyāpyanta
+  cārthitaḥ |6| tasya satsvapi putreṣu sva sammata sutaiṣiṇaḥ | harārādhanato jajñe jagaddevo ma[hī]-
+4. patiḥ |7| divaṃ prayāte pitari svayaṃ prāptām api śriyaṃ | parivitti{6} bhayāttya[ktvā] yoggrajāya nyavedayat |8| putrāṇām prathamo'si rājya-
+  viṣaya svāmī bhujo dakṣiṇaḥ sarvāsveva haristu jaṅgama [i] -
+5. yat sīmā yajo mūrttimān | ātmaiveti ca saprasāda mudito yaḥ kuntala kṣmābhṛtā tādrūpyandadhadeva dakṣiṇa diśālaṅkāratāṃ puṣyati |9| arthi pratyarthino
+  yasmin vā(n bā)ṇaiḥ svarṇaiśca varṣati | dainya sainya[nidhiṃ] muktvā --1{7}
+6. [ṅki]tam upāsate |10| na sa deśo na sa grāmo na sa loko na sā sabhā | na tannaktaṃdivaṃ yatra jagaddevo na gīyate |11| ācandrākka
+  śāsanī kṛtya tena kṣmā pālena śrī jagaddeva nāmnā | pu[ṇyāgā]raṃ{8} ḍoṅgarama nāmā grāmo dattaḥ śrīni[vā]sa dvi-
+7. jāya |12| taddatta ḍoṅgaragrāme śrīnidhe[ḥ] śreyasāṃ nidheḥ | vidyāvṛtta nivāsena śrīnivāsena [sū]nuna |13| pituḥ puṇyodayāyaiḥtat kāritaṃ śiva-
+  mandiram | ākalpaṃ kalpatāṃ bhūmer bhūṣaṇāya niratyayaṃ |14| atra devāya grāme[smi]n yaśca [śrīnivāsa prahi-?]
+8. [vyāghātaṃ]{9} kṛtvātikṣipya{10} -- yo harttumicchati sa mahāpātakair lipyate4 | śaka saṃvat 1034 nandana saṃvatsare caitryāṃ śāsanaṃ likhitam iti |
+  lekhako viśvasvā[mī] | 1034 tathāṃko 15 |
+  
+-------------------------------------------
+{1} From an inked impression.
+{2} Expressed by a symbol which is partly visible.
+{3} As shown by the traces left, the first two of the lost akṣaras may have been sthitiḥ.
+{4} All these four akṣaras are lost and the reading is as suggested by Dr. V.V. Mirashi.
+{5} The vertical stroke of this akṣara, as also in some instances below, is curved at its lowest extremity so
+	as to give the following daṇḍa.
+{6} i.e., marrying before an elder brother marries. See Manusmṛti, III, p.171, enjoining that one who does
+	so is to go to hell.
+{7} Read te'śaṃ, as suggested by Mirashi.
+{8} Mirashi read puṇyā[dhāraṃ] and corrected it to -dhāro (see op.cit., p.184, n.2), but the consonant of the
+	third of these akṣaras is clearly g with a vertical stroke ending in a triangle; cf.its form also in grāma-
+	that follows.
+{9} As n.7 on the preceding page.
+{10} On akṣara is illegible here. The editor of Ep.Ind. remarks that "the text from atra devāya to hatturmicchati
+	 seems also to be in verse." The reading of the first eight akṣaras of 108 is uncertain.
+{11} For the five great sins, see Manusmṛti, XI, 54.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

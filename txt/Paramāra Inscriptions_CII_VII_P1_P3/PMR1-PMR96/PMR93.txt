@@ -1,0 +1,33 @@
+PennGlobal: PMR93
+Period: VS 1123 jyeṣṭha vadi 12
+Location: Bhinmāl
+Dynasty: Paramāra
+King: Kṛṣṇarāja
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: records the gift of a number of drammas made by some persons 
+	  in favour of the deity installed in the temple in where it is found.
+Published reference: Trivedi (1978), no. 93.
+
+Text{1} 
+
+1. oṃ saṃvat 1123 jyeṣṭha vadi 12 śanau || adyeha śrīśrīmāle mahārājādhirājaśrīkṛṣṇarā-
+2. jarājye devaśrīcaṇḍīśamahādevadharmādhikāraceṭaka-paramapāśupatācāryaśrījāvasye . . . . .{2} | sauva-
+3. rṇikajasaṇāśā | śreṣṭhicaṃdanā{3} kiraṇādityā sīharā varttamānavarṣavārikā jogacandra . . . . . 
+4. gugā navāi . . . . loke ca eka . . matibhutvā{4} . . . . . śrīmālīyavrā(brā)-
+5. hmaṇavāhaṭena . . . . . śrīcaṃḍīśa . . . . . drammāḥ . . . . .{5}
+6. -13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {6} ||
+
+------------------------------------------------------------
+
+{1} From reading in the Bomb. Gaz., I, i.p.473.
+{2} The number of letters broken in each case is not known. The name may have been a corruption of 
+	Jābāli. 
+{3} This and the following names are without case endings; and it appears that each of them was separated 
+	by a daṇḍa which was mistakenly taken as the mātrā of ā.
+{4} Read -matirbh¯ẗvā, which too cannot be defended by grammar.
+{5} A word like pradattāḥ is probably used here.
+{6} All these lines are badly damaged and only a few letters are legible here and there, as remarked by 
+	Jackson. 
+

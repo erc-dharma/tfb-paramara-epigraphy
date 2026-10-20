@@ -1,0 +1,62 @@
+PennGlobal: PMR39
+Period: VS c.1197 -1201
+Location: Ujjain
+Dynasty: Paramāra
+King: Jayavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 4 verses
+Metres: Vv. 1-2 and 4 Anuṣṭubh; v.3 Vasantatilakā.
+Gist: Land donation announcement by Jayavarman.
+Published reference: Trivedi (1978), no. 39.
+
+Text{1}
+
+1. om{2} svasti | śrīrjjayo'bhyudayaśca || jayati vyo{3}makeśo'sau yaḥ sarggāya{4} vi(bi)bhartti tā 
+2. m | aiṃdavīṃ śirasā lekhāṃ jagadvī(dbī)jāṃkurākṛtim{5} ||1|| tanvaṃtu vaḥ smarārāteḥ kalyā-
+3. ṇamaniśaṃ jaṭāḥ | kalpāntasamayoddāmataḍidvalayapiṃgalāḥ ||2|| śrīvarddhamāna-
+4. purasamāvāsātpa{6}ramabhaṭṭārakamahārājādhirājaparameśvaraśrī{7}udayādityade-
+5. vapādānudhyātaparamabhaṭṭārakamahārājādhirājaparameśvaraśrīnaravarmmadevapādānu-
+6. dhyātaparamabhaṭṭārakamahārājādhirājaparameśvaraśrīyaśovarmmadevapādānudhyātapara-
+7. mabhaṭṭārakamahārājādhirājaparameśvaraśrījayavarmmadevo vijayodayī{8} ||
+8. vaṭakheṭakaṭtruṃ(triṃ)śatsaṃva(ba)ddhamāyamoḍakagrāme samastarājapuruṣānvrā(brā)hmaṇottarānpra-
+9. tinivāsipaṭṭakilajanapadādīṃśca vo(bo)dhayatyastu vaḥ saṃviditaṃ yathā |{9} caṃdrapurīsamāvā -
+10. sitairasmābhiḥ snātvā carācaraguruṃ bhagavaṃtaṃ bhavānīpatiṃ samabhyarccya saṃ{10}sārasyāsāratāṃ
+11. dṛṣṭvā{11}| tathā hi | vātābhravibhramamidaṃ vasudhādhipatyamāpātamātramadhuro viṣayopabhoga-
+12. ḥ | prāṇā[stṛ]ṇāgrajalavi(biṃ)dusamā narāṇāṃ dharmmaḥ sakhā paramaho paralokayāne ||3||
+13. bhramatsaṃsāracakrāgradhārādhārāmimāṃ śriyaṃ(yam) | prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ pha-
+14. lam ||4|| iti jagato vinasva(śva)raṃ svarūpamākalayyādṛṣṭaphalamaṃgīkṛ[tyā]caṃdrā-
+15. rkkā'rṇavakṣitisamakālaṃ yāvatparayā bhaktyā rājavra(bra)hmapuryā dakṣiṇadeśā-
+16. ntaḥpāti{12} -adri[yala]viddhā{13}varīsthānavinirggatāya bhāradvāja ||{14} ......
+
+----------------------------------
+
+{1} From photograph
+{2} Expressed by symbol which is damaged.
+{3} A redundant curve of the mātrā of i also appears on this letter.
+{4} A redundant e-mātrā appears to have been curved on sa.
+{5} The horizontal stroke of this letter, as of some others below, is not engraved.
+{6} This akṣara appears as tra or tu. The word samāvāsāta is to be connected with vo(bo)dhayati in 1.9.
+{7} The sandhi, which is necessary here, is not observed.
+{8} Kielhorn takes these signs of punctuation to be redundant, but what precedes the daṇḍas may also be
+	taken to be a complete sentence.
+{9} The daṇḍa is redundant.
+{10} The sign of anusvāra has faintly come out.
+{11} What follows this word is a parenthesis and the sentence is continued in 1.14, jagato . . .
+{12} As in n.11 on the preceding page.
+{13} THis akṣara may also be read as dā, as Kielhorn takes it.
+{14} The punctuation makes are redundant. The rest of the inscription is on the second plate which is lost.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

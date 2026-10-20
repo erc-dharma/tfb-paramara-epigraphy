@@ -1,0 +1,80 @@
+PennGlobal: PMR37
+Period: Undated
+Location: Vidiśā
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 23 verses
+Metres: Anuṣṭhubh
+Gist: Inscription contains a eulogy (stuti) of the Sun.
+Published reference: Trivedi (1978), no. 37.
+
+Text{1}
+
+1. .......||1||.......||2||.......[gṛhṇāti]{2}
+2. ...t |....myete....[tṛṣṇāhīno lilekha te] ||3||.....nūnaṃ tejasvinonyasya na tva[-] nāmāpi mṛpyasi ||4||
+  culukācāntasaptāvdhi(bdhi)ragastyonyepi tādṛśāḥ |
+3. [svakīya]{3}rāgavyājena bharttu bhikṣāṃ nu yācate ||5|| rāhustvadrociṣe druhyanna hatastenujanmanā | śiro lūtvāpi duṣṭerau yā[ta]{4}nā-
+  kauśalaṃ hi tat ||6|| tejastavārddramārddreṣu krūraṃ krūreṣu jṛṃbhate | bhaktābhiprāyanighnasya caṃdra-
+4. [vahnyorive]kṣate ||7|| phaṇāmaṇiṣu śeṣasya muktāmaṇiṣu toyadheḥ | tārāmaṇiṣu ca vyomnastava rocirvvirocate ||8|| tava
+  saṃkrāntameṇāṃke cakravāle payomuci | jyotirjotsneti saṃdhyeti suradhanveti gīyate ||9||
+5. [bhāle vi(bi)nduḥ pa]de{5} lākṣā madarāgaḥ{6} kapolayoḥ | payodharataṭe tercciḥ pratīcyāḥ kuṃkumadravaḥ ||10|| svarbhānustvāṃ na gṛhṇāti
+  krīḍālolaḥ kalāvati | antarddhatse tvamavji(bji)nyāḥ premṇo [ha]i ku[ṭilā] gatiḥ ||11||na tathonnidramavjā(bjā)sya -{7}
+6. [manugṛhṇā]si padminī(nīm) | nūnaṃ vikatthanorthena [śa]vde(bde) na tvaṃ vikarttanaḥ ||12|| dyāmāligāvji(bji)nī{8} cumva(mba) śrayā-
+  pācī vrajottarāṃ(rām) | raja prācyāṃ pratīcyāmvā(cyāṃ vā) dinaśrīstvānna muca[ti] ||13|| prātarhi rahasā yatvaṃ(ttvaṃ) dinalakṣmyā
+7. [svayaṃ vṛtaḥ | ?] [ro]camānaṃ punaḥ sā tvāmalāmantenugacchati{9} ||14|| pūrvvamutthīyate prātaḥ paścātsaṃviśyate niśi | aho sugṛhiṇī-
+  vṛttamuṣasā tenugṛhyate ||15|| namastamai prabhātāya ga[cchate dyāṃ sthirāya te |].....
+8. ...d[i]vaṃ tvamupagūhasi ||[16|| kapolabhi[ttau ?] svacchāyāṃ svacchāyāṃ tvaṃ vilokayan | di[vo]de[vyāścinta]yā[tta]doṣāveśaṃ
+  viśaṃkase{10} ||17|| karasparśepi te nātha dyaurnnimīlitatārakā{11} | yāsau sarvvāgasaṃ[krānte] na vidmaḥ kiṃ kariṣyati ||18||
+9. [pratīcyā] caṃdratāṭaṃkaḥ{12} prācyā sāṃdhyāṃśukaṃ divaḥ | hiyathnoḍuhāraśca pūrṇṇapātraṃ tavāgame ||19|| prācyāmudgacchato yātuḥ pratīcī
+  śliṣyato divaṃ(vam) | svadate nātha va(ba)hvīpu pratipattiḥ priyāsu te ||20||
+10. [nṛṇāṃ pāpā ?]ni gṛhṇāsi puṇyāni ca mahātmanāṃ(nām) | na tathā sitatejāṃsi viyatobhyudgate tvayi ||21|| tamo bhettu yathā
+   vā(bā)hyaṃ tathāntaramapīśiṣe | tavodaye yathā rātristathā nidrāpi naśyati ||22|| na nauti tvāṃ [dvā]-
+11. [daśātma] guṇasaṃpannunūṣayā | inosyarkkosi sūryosi paryāptetyeva te stutiḥ{13} ||23|| kṛtiriyaṃ mahākavicakravarttipaṃḍitaśrīchittapasya ||
+   {14}lekhaka ....
+12. {15}...[maṃ]galaṃ [ma]hāśrīḥ || kāriteyaṃ daṃḍanāyakaśrīcandreṇa ||cha{16}||
+
+-------------------------------------------------
+
+{1} From the impression and the original stone.
+{2} Expecting these three, all the akṣaras in this line, which contained two and a quarter verses, are lost.
+	Some are visible in the form of traces.
+{3} As here, at the beginning of each line also, the missing akṣaras are supplied by context, of course con-
+	jecturally, and are put in brackets.
+{4} The akṣara in brackets is damaged; but it is more like ta than ca.
+{5} This akṣara, as it can be read on the stone, is de and not ṭe, as taken by Sircar.
+{6} The sign of visarga was inserted subsequently.
+{7} The medial ā attached to this letter was subsequently scored off as unnecessary.
+{8} The anusvāra appears on the left side of the curve.
+{9} What appear like anusvāra signs on this and the preceding three letters are only scratches on the stone.
+{10} The latter half of this verse probably means to say that when the goddedd of the sky is full of anxiety
+	 (because of the thought of separation from you at the time of the evening) you take the blame on your
+	 own self (svayamāttaḥ doṣasya āveśaḥ yena).
+{11} The word kara here means 'hand' and 'ray'; and the word tārakāḥ means both 'the stars' and 'the
+	 pupils of eyes'. The figures of speech is śleṣa.
+{12} It appears that first ḍaṃ was engraved and subsequently it was corrected to ṭaṃ.
+{13} A floral design is engraved here between double daṇḍas. It is to show that the eulogy ends here.
+{14} Similarly, another floral design appears here between double daṇḍas.
+{15} Unfortunately, the name of the person who wrote the composition on the stone before it was engraved,
+	 is lost. It appears to have ended with the second or third letter of 1.12.
+{16} This letter is usually found at the end of some inscriptions, denoting the end or auspiciousness. See Ep.
+	 Ind., Vol. XXX, p.218, n. 1. The double daṇḍas on either of its sides show that the record is complete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

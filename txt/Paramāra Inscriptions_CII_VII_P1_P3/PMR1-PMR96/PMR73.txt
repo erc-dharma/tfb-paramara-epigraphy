@@ -1,0 +1,48 @@
+PennGlobal: PMR73
+Period: VS 1255
+Location: Jhālōḍī
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 9 verses
+Metres: Verse 1 Vasantatilakā; vv. 2-5 Āryā; vv.6-7 Śārdūlavikrīḍita; vv.8-9 Anuṣṭubh
+Gist: Records restoration of the maṇḍapa of a temple by  Sṛṅgāradēvī, the chief queen of Dhārāvarṣa. 
+Published reference: Trivedi (1978), no. 73.
+
+
+Text{1}
+
+1. oṃ{2} || śrī varddhamāna vibhuradbhuta śāradeṃdur doṣānuṣaṃma(ga) vimukhaḥ subhagaḥ śubhābhiḥ | āḍhyaṃ bhaviṣṇuramalābhirasau kalābhiḥ saṃtāpamarttayatu
+   kaumudasā(mā)tanotu ||1 śrīmati dhārāvarṣe vikramatarṣe pramāra kula harṣe | aṣṭādaśaśata deśottaṃse caṃdrāvatīharṣe ||2 śrīmat kelha-
+2. ṇa maṃḍala pati tanayāyāṃ nayaika śālinyāṃ(nyām) | tat paṭṭa praṇayinyāṃ śṛṃgārapadopapada devyāṃ(vyām) ||3 etad grāma prābhava vaibhava bhṛti tat pradatta sācivye |
+   sakala kalā kuśale gṛhamedhini nāga[ṭe]{3} sacive ||4 [dviḥ]smaraśaradinakaramitavarṣe śuciśasyasaṃpadutkarṣe | [duṃ]dubhināmani{4} dhāmani
+3. viṭapa pallavita dharmya dhiyāṃ(yām) ||5 etat ṣaṭka catuṣkikā viracita śrī [maṃ]ḍapoddhārataḥ puṇyaṃ paṇya[magaṇya]mākalayati śrīvīragoṣṭhī janaḥ |
+   manye kiṃ tu(nu?) catuṣkikā dvayamidaṃ dattā(ttvā ?)bhimukhyasthiti stheyas tat kalimoha bhūpayugalīṃ jitvātapatra dvayīṃ(yīm){5} ||6 iṃduḥ kuṃda sitaiḥ-
+   karaiḥ pulakayatyākā-
+4. [śalakṣmīṃ mu]hu{6}r yāvad bhānurasau tanoti paritopyāśāḥ prakāso(śo)jva(jjva)lāḥ | tāvaddhārmika dharmakarma{7} rabhasa prāravdha(bdha) kalyāṇika sto-
+   trādy ucchava gīta vādyavidhibhiḥ jīvettrikaṃ sarvataḥ ||7 rājñā śṛṃgāradevyātra vāṭikābhūmiradbhutā | dattā śrīvīra pūjārthaṃ śāsva(śva)taḥ [śreyasaḥ]{8}
+   śriye ||8 sākṣi(ko) [dā]{9}-
+5. ṇikaḥ (sā)kṣātprekṣā(kṣo?) dākṣyavṛ(bṛ)haspatiḥ | atrābhūnniraḍo varmmā sautradhāre[ṣu] karmmasu ||9||cha|| pūjya paramārādhyatama śrītilaka-
+   prabhasūriṇāṃ kṛtiriyaṃ(yam) ||cha||saṃvat 1255 āsoya(ja) sudi 7 vu(bu)dhavāre sakalagoṣṭhikalokaḥ trikoddhāraṃ svaśreyase kārita
+   vāniti || cha ||
+  
+------------------------------------------------------------------------------------
+
+{1} From impressions.
+{2} Expressed by a symbol which is partly visible.
+{3} This akṣara is partly lost and the reading of Muni Jinavijaya is adopted here.
+{4} From an examination of the original, the akṣara in brackets appears more like uṃ and the reading of the 
+	first two akṣaras in the next line is also doubtful, as the consonant of the first of them is damaged
+	and the second looks like a conjunct. The verse offends against the metre Āryā since it has only fourteen
+	and not fifteen mātrās, as required. 
+{5} catuṣka means a 'hall resting on four pillars or a quadrangular cour-yard'; and ṣaṭka is used here
+	to denote six figures of Tīrthaṅkaras. The intended sense appears to be that the goṣṭhikas(members
+	of the assembly) constructed a maṇḍapa for the six figures, and besides these, two (or two of the same?)
+	were constructed by one whose name is not mentioned here but who is stated to have conquered kali 
+	and moha thereby 
+{6} This with the preceding akṣara is indistinct and the reading is conjectural as from traces left.
+{7} It cannot be ascertained whether the consonant m is doubled in all the three cases, as some others also.
+{8} The reading of the bracketed akṣaras is only from the traces left and it may also have been svayaśaḥ, or 
+	śreyse, which suits the sense. 
+{9} This akṣara has now totally disappeared and the reading is from that of the Muni, referred to above.

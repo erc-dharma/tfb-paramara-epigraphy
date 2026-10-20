@@ -1,0 +1,84 @@
+PennGlobal: PMR1
+Period: VS 1005 māgha vadi 30
+Location: Harsōla
+Dynasty: Paramāra
+King: Sīyaka
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 7 verses
+Meters: Verse 1 śārdūlavikrīḍita; vv.2, 7 Indravajrā vv. 3, 4, 6 Anushṭubh (Ślōka); v. 5 Vasantatilakā.
+Gist: Grant issued on the bank of Māhī by Sīyaka; gift of a village Kumbhāroṭaka in the Mōhaḍavāsaka viṣaya to Lallōpādhyāya, son of Govardhana.
+Published reference: Trivedi (1978), no. 1. 
+
+Text{1} Grant A
+
+First Plate
+
+1. siddham{2} | vidyuccakrakaḍārakesarasaṭābhiṃnāṃvu(bhinnāmbu)daśreṇayaḥ śoṇaṃ nettahutāśaḍaṃva(ba)rabhṛtaḥ siṃghā(hā)-
+2. kṛteḥ śārṅgiṇaḥ | visphūrjjadgalagarjjitarjjitakakunmātaṃgadarpodayāḥ saṃraṃbhāssukhayaṃtu vaḥ kharana-
+3. khakṣuṃna(kṣuṇṇa)dviṣadvakṣasaḥ ||1|| paramabhaṭṭārakamahārājādhirājaparameśvaraśrīmadamoghavavarṣadevapādā-
+4. nudhyātaparamabhaṭṭārakamahārājādhirājaparameśvaraśrīmadakālavarṣadevapṛthvīvallabha śrīvalla-
+5. bhanarendrapādānāṃ(nām) | tasminkule kalmaṣamoṣadakṣe |{3} jātaḥ pratāpāgnihutāripakṣaḥ | va(ba)ppaiya(pa){4}-
+6. rājeti nṛpaḥ prasiddhastasmātsutobhūdanu vairisiṃghaḥ(haḥ) ||2|| dṛptārivanitāvaktracaṃdravimva(bimba)kalaṃ-
+7. katā |{5} no dhautā yasya kīrtyāpi harahāsāvadātayā ||3|| durvvāraripubhūpālaraṇaraṃgaikanā-
+8. yakaḥ | nṛpaḥ śrīsīyakastasmātkulakalpadrumobhavat ||4|| sa evaṃvidhaḥ praṇatasakalasāmaṃta-
+9. śiromaṇimarīciraṃjitacaraṇayugalaḥ śrīkheṭakamaṃḍalādhipatipratipattiprativa(ba)ddhavukti(?){6}-
+10. satūryāravasaṃttrastānekaripusamūhaḥ anekaśaṃkhadhvaniva(ba)dhiritapaṃcavarṇṇapatākārājīvirā-
+11. jitavi[śā]lavakṣa[ḥ*]sthalāvalamvi(mbi)takumudavā(bā)ndhavaḥ atuladānasaṃpādanaikakalpadrumaḥ{7} mahāmaṃḍa-
+12. likacūḍāmaṇimahārājādhirājapatiśrīsīyakaḥ svabhujyamānamohaḍavāsakaviṣayasaṃva(ba)ddhakuṃ-
+13. bhāroṭakagrāmaḥ{8} | samastarājapuruṣānprativāsijanapadāṃśca vo(bo)dhayatyastu vaḥ{9}saṃviditaṃ yathā yogarāja-|
+14. syopari yā{10}ttrāsamayasaṃsiddhakāryā{11}naṃtaravyāghuṭitai{12}rmahīnadītaṭanivāsibhirasmābhiścaṃdrā-
+15. rkkayogaparvvaṇi śivanāthaṃ samabhyarcyāva[dhā]rya || vātābhravibhramamidaṃ vasudhādhipatyamāpāta-
+16. māttramadhuro viṣayopabhogaḥ | prāṇāsttri(stṛ)ṇāgrajalaviṃ(biṃ)dusamā narāṇāṃ{13} | dharmmaḥ sakhā paramaho
+
+Second Plate 
+
+17. paralokayāne ||5|| iti jagadanityaṃ sakalamavadhāryoparilikhito grāmaḥ svasīmātṛṇagocarapa[ryaṃ]-
+18. ta[ḥ] so{14}para(ri)karaḥ sarvvādāyasamo(mu)petaḥ śrīmadānaṃdapurīyanāgarāya vyārṣeyāya gopālisa-
+19. gottrāya govarddhanasūnave lallopādhyāyāya mātāpittrorātmanaśca puṇṇyayaso(śo)bhivṛddhaye{15} adṛṣṭapha-
+20. lamaṃgīkṛtyācaṃdrārkkārṇavakṣitisamakālaṃ parayā bhaktyā śāsanena udakapūrvvakaṃ pratipādita i-
+21. ti || taṃni(tanni)vāsijanapadairyathādīmānabhāgabhogakarahiraṇyādisarvvamājñāśravaṇavidheyairbhūtvā
+22. tatputtrapauttrādibhyaḥ samupanetavyaṃ(vyam) | iti vu(bu)ddhvā asmadvaṃsa(śa)jairanyairapi bhāvibhoktṛbhiḥ matpradattadha-
+23. rmmadāyoyaṃ{16}manumaṃtavyaḥ pālanīyaśca | uktaṃ ca | va(ba)hubhirvvasudhā bhuktā rājabhissagarādibhiḥ | yasya
+24. yasya yadā bhūmistasya tasya tadā phalaṃ(lam) ||6|| yānīha dattāni purā narendrairddānāni dharmmārthayaśaskarāṇi [|*] ni-
+25. rmmālyavāntapratimāni tāni ko nāma sādhuḥ punarādadīta ||7|| saṃvat 1005 māgha vadi 30 vu(bu)dhe |dāpa-
+26. kottra ṭhakkuraḥ śrīviṣṇuḥ | rājājñayā likhitaṃ kāyasthaguṇaṃ{17}dhareṇa || svahastoyaṃ śrīsīyaka-
+27. sya ||[cha ]||
+
+
+{1}	From inked impressions supplied by the Chief Epigraphist.
+{2} Expressed by a symbol, taken for oṃ by Dikshit and Diskalkar and for svasti by the Editor of Ep. Ind. 
+{3} This daṇa is superfluous.
+{4} Note that there is no distinction between the formation of pa and ya. The sign of visarga after the preceding
+	 kṣa was subsequently inserted.
+{5} It is possible that the daṇḍa engraved here is almost mixed with the pṛṣṭha mātrā of the following syllable.
+{6} Probably the word intended here is bhukti, the whole phrase meaning "whose region is connected(contermin-
+	 ous) with that of (the acquisition of) the lord of the khēṭaka maṇḍala".
+{7} There is a redundant sign of anusvāra above dru.
+{8} This phrase is grammatically unconnected with the preceding or following word, as rightly observed by the 
+	   editors of the record. 
+{9} Supply saṃviditaṃ after vaḥ.
+{10} It seems that some other letter was originally engraved here and later on altered.
+[{11} The superscript sign is damaged by a redundant chisel stroke.
+{12} A redundant superscript r appears here in the form of traces. Read -naṃtaraṃ.
+{13} The daṇḍa is superfluous.
+{14} This letter and the preceding visarga are engraved as almost mixed.
+{15} Sandhi is not observed here and also in some cases below.
+{16} The anusvāra is redundant.
+{17} The anusvāra appears to be superfluous. Possibly the name as it appears here may have been locally so
+	   pronounced.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+PennGlobal: PMR183
+Period: VS 1243 pauṣa śudi 5
+Location: Hoshangabad
+Language: Sanskrit
+Script: Nagari
+King: Mahākumāra Hariśchandra
+Text: Prose 
+Gist: To record the death of a Hero
+Published reference: Trivedi (1989), no. 183.
+
+
+Text{1}
+
+1. saṃvat 12[4]3{2} paukha(ṣa) śu-
+2. di 5 gurau mahāku-
+3. māraśrīhariścaṃdra-
+4. devarājye vijayasīṃ(siṃ)ha-{3}
+5. devasutavīmba sīṃ(miṃ)ha-
+6. ha------tālādevaiḥ{4}
+7. yu[dhī]tya(yudhvā) devai............{5}
+
+------------------------------------------------
+{1} From the original stone.
+{2} The unit figure is mutilated but its reading is certain. As for the decimal figure, the curve at its 
+	lowest extremity is damaged and partly disappeared, making it appear also as 5. But my close and 
+	minute examination shows it to be 4, as taken here, which is also consistent with the period assigned
+	to Hariśchandra, mentioned in the inscription.
+{3} The reading of both the names is uncertain.
+{4} Some three akṣaras are lost at the beginning of this line, and in the next one, the letters are partly
+	imbedded below.
+{5} The inscription appears to be incomplete and it is not known as to how many lines are below the surface.  

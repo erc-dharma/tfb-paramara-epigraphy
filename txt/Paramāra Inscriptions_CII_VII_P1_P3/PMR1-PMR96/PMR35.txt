@@ -1,0 +1,64 @@
+PennGlobal: PMR35
+Period: VS 1191 vaiśāgha śudi 2
+Location: Shērgaḍh
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text:  Metrical in 5 verses
+Metres: Verses 1-3 Śārdūlavikrīḍita; vv.4-5 Anuṣṭubh
+Gist: Records the installation of three images of Tirthanṇkaras.
+Published reference: Trivedi (1978), no. 35.
+
+
+
+
+Text{1}
+
+1. - - - U U - U[ṇe śrita] U - māhillabhāryāntimā (?),- - - U U - U[ś]sya ti[la]ke sūryāśrame pa[tta]ne | śrīpālo guṇapālakaś ca
+   vi[pu-
+2. le] [khaṇḍillavā]{2} le kule sūya(ryā)caṃdramasāvivāṃva(ba)ratale prāptau kramān mālave ||1|| śrīpālādiha devapālā tna(tana)yo dāne[na]
+   ci[ntā]maṇiḥ śā-
+3. [nteḥ]{3} śrīguṇapāla ṭhaku(kku)ra sutād rūpeṇa kāmopamāt [|*] pūnī martha jane [lhu]ka prabhṛva(ta)yaḥ putrāgra(śca)yegrā nava{4}te(taiḥ ) sarvair api
+   kośavarddhanata-
+4. le ratna trayaḥ(yaṃ){5} kārita(tam) ||2|| varṣai rudraśate(tai)rgataiḥ su(śu)bhatamairekā{6} navatyādhikair vaiśākha(khe) dhavale dvitīya divase devān pratiṣṭhā-
+5. pitān | vandante natadevapālatanayā mālhū[ka]sādhānvādayaḥ pūnī [śā]ntisutāś ca nemibharatāḥ{7} śrīśāntisa[tkuṃ]{8}thvarān |
+6. |3|| dādisūtradharotpannaḥ(nna)sīlāśrīsūtradhāriṇā [|*] śāntikuṃbhū(thva)ranāma(mā)no jayannu(ntu) ghaṭitā jināḥ ||4|| devapālasu-
+7. telhūkaḥ goṣṭhivīsalalalluka(kā)ḥ [|*] māukaḥ haricaṃdrādiḥ [gāgā]sva[su]putra allakaḥ{9} ||5|| saṃvatu(t) 1191 vaisā(śā)ṣa(kha)
+   śudi 2 [maṃ]{10} -
+8. galadine pratiṣṭhā karāpitā{11} |ḥ||
+
+----------------------------------------------
+
+{1} From facsimile facing p.84 in Ep. Ind., Vol. XXXI.
+{2} These four akṣaras are altogether lost in the facsimile and have been adopted from Sircar's reading of
+	them.
+{3} This akṣara is lost but the preceding sā shows that it was as taken here, as also adopted by Dr. Sircar.
+{4} What would metrically be more appropriate is putrā navāgrāśca ye.
+{5} This refers to the three images which were constructed and installed there.
+{6} The vowel of this akṣara is made long for the metre. It is not known if it may be a mistake for kō(?),
+	reading ekonanavat-; and if so, we have to take the last two figures of the year as 89. But nothing can
+	be definitely said in this respect.
+{7} Sircar read this letter remarked by Sircar, the intended reading is nemibharatādayaḥ.
+{8} Sircar read this letter as ku and corrected it to kuṃ. But a faint sign as of the anusvāra is visible on the plate.
+{9} The latter half of this verse is metrically defective. The violation of the rules of sandhi, i.e. of not  chang
+	ing kaḥ to to kō in two places in this verse, may also be noted.
+{10} This letter again is lost and has been restored from the reading of Dr. Sircar. Also see the note in the
+	 corresponding portion in the edition above.
+{11} Read Kāritā.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,141 @@
+PennGlobal: PMR185A
+Period: Lost
+Location: Dhār
+King: Vindhyavarman/ Subhaṭavarman
+Language: Sanskrit
+Script: Nagari
+Text: Metrical
+Metres: All in Anuṣṭhubh 
+Gist: Records the donation of two gardens by the same king, 
+	ie Subhaṭavarman to Bilhana, who was his sāndhivigrahiha, 
+	ie Minister for peace and war.
+Published reference: Trivedi (1989), no. 185A.
+
+
+Text{1}
+
+1. puṃsākāramaikyaṃgataṃka--------------patanamāmyarkkabimbe -- --{3}
+2. sūktiḥ prathayati na caturvvargyamarkkaprasādāt{4}lakṣmīṃ vakṣasi -- --4tāmatraiva samānayeti  vimukhī nābhisvathaṃbhūspṛśā
+   yenaikahṛdā-
+3. yaṃ mameti vihitā puṣṭā sa māṃ rakṣatu || [3||*]{5}utphullāṃbuja-- -- --nanu vetsi kiṃ na viditaṃ māleti te 
+   jalpatastaddāmeti sahāsayā kama-
+4. layā śliṣṭo hariḥ pātu vaḥ ||[4||*]{6} dharmadhvaṃsakarāma -- ˘˘˘-- -- -- ˘-- -- ˘
+   ˘ˍ; -- matsyeṃdratalādaśeṣajaladhivyāpivyudastāmbhasi | jāyaṃte bhraja nāma vāridhipadavyomaindutāṃ bhāskaraḥ 
+   vabdajotiragāccaturmukhamadaḥ pā-
+5. yādapāyātsa māṃ(mām) ||[5||*] majjatsādrimahītarohṛdikṛtaḥ{7} śrīmadvarāhākṛtervāraṃ kukṣinilīnasarvabhuvanasyādhaḥ
+   padānyasyataḥ | saptāmbhodhitalāvarodhikakaṭhākāreti pṛṣṭhai vahan jajñe yo nanu yādasāṃ bhramavaśāt sorttiṃ hatā-
+6. nmecyutaḥ [||6||*] kṛīḍāmātrakameva majjati mahīcakre varāhākṛte{8} sadbhāvaṃ kṛtaketuvibhramakṛtā yasyo˘te
+   daṃṣṭrayā{9} apyaikyaṃ gatamarṇavāmvanasahaṃ (?) yadromakūpā bhavet (?); -- -- -- ˘˘-- ˘--
+   ˘˘˘-- -- -- sa vā (vo ?)rttiṃ dyatāt ||[7||*] kalpāntābhra-
+7. nakhaḥ śikhābhinayanaḥ prakṣiptatārotsavaḥ prahlādāvanayaḥ ˘-- dbhutamayaḥ śrīmadvarāhākṛtiḥ [|*] prahvīṃdrodruta-
+   kaṃdharasya vilasadvidyudsajihvojva(jjva)laddevaḥ krudha(?)nakha ˘-- ˘˘˘jidvakṣā hattā(tā)nme
+   bhayaḥ{10} [||8||*]bhaktornaḥ(niṣ)phalatānatāvaṭu(?)-
+8. citā svarbhūmirājyaḥ śriyaḥ; -- -- -- ˘karālanīlajaladaproddāmasaṃghau gha{11}-
+9. naḥ sarvāśāgaganāvarodhanasa -- -- -- ˘-- ; -- -- -- ˘˘-- ˘-- ˘˘˘
+   -- -- -- ˘-- -- -- ˘-- -- ˘-- [||9||*] -- -- -- ˘manorama{12}vana ˘
+   -- -- -- ˘-- sya(śyā)male gumjāgucchakakarṇapurarū-
+10. cire gōpīdṛśaṃ dohṛde [|*] barhāpīḍitaśekhare ˘˘˘-- -- -- ˘-- -- ˘--; kāliṃdī-
+    vanagocare viharati śyāmābhrako -- -- ˍ˘[||10||*] -- dyaḥ{13} prīṇana -- -- ˘-- ˘˘
+    ˘-- satyānṛmagnātmani{14} -- -- -- ˘˘-- ˘˘˘-- -- -- ˘
+    -- -- ˘-- [|*] -- -- -- ˘˘--˘
+11. dutsukamilaggopījanaprāvṛte śrīkṛṣṇe ˘˘-- ˘--˘vahime -- -- ˘-- -- ˘ˍ˘
+    [||11||*] -- -- -- ˘˘petya durvvahagiriprāyastanīrbhimiṣā; -- -- 
+12. hasya vṛttotparābhirurasā śrīgopa -- -- ˘ˍ˘[|*]{15} -- -- -- ˘˘--˘--˘˘
+    ˘-- -- -- ˘-- -- ˘ˍ˘; -- -- -- ˘˘-- ˘--˘˘˘--
+    sadṛśaktosi naḥ [||12||*] ekānte parorabhya kāpi muditā gopībhiriththaṃ(tthaṃ) sphuradraumāṃcena nirasta-
+    śaiśavamiṣaṃ -- -- ˘-- -- ˘ˍ˘[|*] -- -- -- ˘˘--˘--˘˘˘
+    -- -- -- ˘-- -- ˘--; -- -- --- ˘˘--˘--˘˘˘-- --
+    --˘--
+13. pātu vaḥ ||[13||*] āpādāntavilambinīma ˘˘-- -- -- ˘nā[bhi]hṛdaṃ{16} -- -- -- ˘˘
+    kāliyaṃ sayamunaṃ sakhyaḥ kva yāsyā mayā[|*] atyugrepi mukhīkṛ[ta{17}] kamapi yo -- dadhatyā hasan 
+    gopyā gopajanārdanaḥ sa haratāṃ mehayaṃ{18} mu(su)khaṃ yacchatu ||[14||*]kṣīrāvdhe ˘˘- ˘
+14. bṛtabhṛtātsaivarṇakumbhānimānvinyāsāḥ purataḥ payodharamivo(?) bṛndāvane kiṃ sthitāḥ ||(|) saravyo
+    tharmatama˘hṛdayaṃ gopālacaureṇa me{19} apyevaṃ paritarjjitopi vihasan kṛṣṇaḥ śivāyāstu vaḥ ||[15||*]
+    yo rakṣaikarase mukheṣu viṣayaptāpyeṣvanā - ˘ˍ ˘ -  -  - ˘ 
+15. rimāhanā(?) paricite kṛṣṇe kathaṃ ramyale [|*] saravyo'yaṃ mriyate haṭhāttadadhino sodyānikaṃ somunā
+    gopīnāmupakarṇayanniti samudvāṇī śriye mestu saḥ ||[16||*] śrīśaḥ śrīrvadekarhannlayinī tasyāḥ 
+    prabhāṃ śaistate spṛṣṭāye viharanti karma ˘˘- - - ˘{20}
+16. paikhyātmanaḥ(?)[|*] - - - ˘˘- tvadekacaraṇadhyānaiḥ purātmā kṛtaḥ pātraṃ puṇyamukhaśriyāṃ{21}
+    nirayatoṣyeṣāṃ bhayaṃ kīdṛśaṃ(śam)[||17||*] viracitamiha viṣṇordāma vākyaprasūnaiścaraṇasatatapūjā-
+    vākkṛtābilhaṇena | niravadhi kavisārthaiḥ koṭiśaiḥ 
+17. - ˘- -; ˘˘˘˘˘˘- - - ˘- - ˘- - ˘- ˍ˘|[||18||*]
+    viṃdhyavarmanṛpateḥ prasādabhūḥ sāṃdhivigrahikabilhaṇaḥ kavi ||(|) bhautikaṃ vapuprekṣya bhaṃguraṃ nirmame'marabhayaṃ bhuvā-
+    ṅmayaṃ(yam) ||[19||*] vindhyavarmatanayena rājatā mānitaḥ sa bhūbhujā ˘- ˘ ˍ˘[|*] - ˘
+    - ˘˘˘ - ˘ - ˘ - vāṭikādvayamakāri [sundaram] [||20||*]{22}
+    
+    
+-------------------------------------------------------
+
+{1} From Lele's transcript in A. B. O. I., Vol. XI, pp. 49 ff. It may be noted here that his transcript 
+	does not represent the original accurately and he has made several changes, e. g., that v to b, as is
+	obvious.
+{2} For the sake of convenience, the verse existing on the extant portion has been taken here as 1. Its
+	metre is not certain; and the portion commencing the second line appears to be a part of either
+	Mandākrāntā or Śragdharā.
+{3} I am not certain about the metre in this line, which is fragmentary.
+{4} Insert a daṇḍa here.
+{5} Here the number marking the stanza is put, of course presuming that two stanzas are fragmentary on 
+	the preceding portion which is now not available. 
+{6} This verse has lost 14 letters of the first quarter, the whole of the second quarter, and three letters of 
+	the third.
+{7} Read -rhṛdikṛtaśrī-.
+{8} Read a visarga after this akṣara.
+{9} Here this akṣara has to be taken separately in the padacheda.
+{10} Read bhayaṃ.
+{11} Lele has taken this line separate but it appears to be connected with the preceding one and in con-
+	 tinuation of it.
+{12} This akṣara should be prosodically long. Should we read mō with the case ending? 
+{13} We should read here either sadyaḥ, or adya, dropping the visarga.
+{14} It is incorrect as it should be -nṛta-, but it cannot be known whether it is a mistake in the original
+	 or in the transcript.
+{15} This verse is separate from the preceding one and is only conjectural from Lele's transcript. It is not
+	 possible to know if some more akṣaras are lost here. 
+{16} One long letter is missing after da.
+{17} Prosodically, the bracketed letter should be long. 
+{18} Read me'ghaṃ.
+{19} Sandhi is violated here. 
+{20} As the stone is broken on both the vertical sides, it is not possible to ascertain as to how many of 
+	 these letters are lost at the end of this line and how many at the beginning of the next line. This
+	 is not to be noted in case of the other breaks also. 
+{21} Read sakhaśriyāṃ.
+{22} Probably the date was given in the end. The break in this verse may perhaps indicate that the gift
+	 was made by the king Subhaṭavarman, whose name was possibly shown, for metrical exigencies, by 
+	 the letters Suvarmaṇā just at the end of the first hemistich of the stanza. This is also justi-
+	 fied by taking vindhyavarmatanayena as one compound word, taken as two by Lele, which cannot be construed
+	 properly.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 

@@ -1,0 +1,95 @@
+PennGlobal: PMR15
+Period: VS 1103, mārga
+Location: Tilakwāḍā 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 21 verses
+Metres: Verse 1 VAsantatilakā; v.2 Indravajrā; vv.3-14, 16-21 Anuṣṭubh; v.15 Śālinī
+Gist: Grant by Yaśorāja
+Published reference: Trivedi (1978), no. 15. 
+
+Text{1}
+First Plate (extant ); First Side
+
+1. prāpuḥ sakhitvana(ma)calaṃ ripavo duraṃtāḥ ||1|| tasmādva(dba)bhūva bhuvi viśrutakīrttipuṃja[ḥ]
+2. śrībhojadeva iti śakra(tru)janasya daṃḍī{2} | dagdhāḥ pratāpa[si(śi)]khinā ripuvakṣasāṃ{3} -
+3. si niḥkaṃ(niṣkaṃ)ṭakaṃ kila cakāra cireṇa rājyaṃ(jyam) ||2|| tatpādakamaladhyātā ka(kā)nyakuvja(bja) -
+4. viniśru(niḥsṛ)taḥ | vaṃśe śravaṇabhadrāṇāṃ sūrādityo4 na[ro]ttamaḥ ||3|| sāhavāhanasaṃgrā[ma]-
+5. (me) a{5}nyeṣāmapi bhūbhujāṃ(jām) | hatvā yodhāṃ(dhān) sthirāṃ lakṣmīṃ bhojadeve cakāra yaḥ ||4|| evaṃ
+6. ku[rvva]na(nna)sau kṣīṇasūrāṇāṃ{6} dhu[ri]varttinā | sūrādityeti yannāma yathā[?] tasya hi so(śo) -
+7. bhate ||5|| tatputra[ḥ] śrījasorāja[ḥ] saṃgamakheṭamaṃḍale{7} | bhuṃjanvṛttiṃ sadā dharmmī dharmmāya[ā]-
+8. titarāṃ va(ba)bhau ||6|| ākāryāmātyaputrāṃśca{8} pradhānāṃ(nān) desa(śa)vāsinaḥ | anumatiṃ prārtha-
+9. yāmāsa viditaṃ vo pa[rā]kramaṃ{9} ||7|| sammatastai[ḥ] svadharmmeṇa gatvā śrīnarmmadātaṭe |
+10. vasa(tsa)rai{10}rvvikramādityaiḥ śatairekādaśaistathā ||8|| vyuttarairmmārgamāsesmi-
+11. n some somasya parvaṇi | snātvā gururanujñātaḥ{11} kṛtvā devacca(vārcca)nādikān ||9||
+12. maṇāyā[ḥ] saṃgame ramye maṇesva(śva)rasi(śi)vāla[ye] | dakṣiṇamūrttisi(śi)vena{7} mārgge -
+
+First Plate; Second Side
+
+13. ṇodakapūrvvakaṃ(kam) ||10|| śrīghaṃṭeśvaradevāya grāmaṃ viluha(jaṃ ?) dadau | ghaṃṭā-
+14. palyāṃ tathā grāme śataṃ bhūmeḥ suso(śo)bhanaṃ(nam) ||11|| caturāghāṭanopetaṃ dā-
+15. nametada(dda)dau sthiraṃ(ram) | upakā[ra]āya sarvveṣāmakṣayāya vibhūtaye ||12|| u-
+16. dakagrāhakaḥ tatra{12} mahāvratadharo muni[ḥ] | dinakaro nāma yaḥ sākṣā7 -
+17. tkapālīva saṃ(śaṃ)karaḥ{7} ||13|| etada(dda)ttaṃ mayā dāna(naṃ) pālanīyaṃ narottamaiḥ |
+18. si(śi)vasya dharmmamicchadbhiḥ kalyāṇamiha janmani ||14|| sāmānyoyaṃ
+19. dharmmasetuḥ nṛpāṇā(ṇāṃ){13} kāle kāle pālanīyo bhavadbhiḥ | sarvvā -
+20. netānbhāvina[ḥ] pārthiveṃdrān |{14} bhūyo bhūyo yācate rāmabhadraḥ ||15||
+21. va(ba)hubhirvvasudhā bhuktā rājānaiḥ{15} sagarādibhiḥ | yasya yasya
+22. yadā bhūmistasya tasya tadā phalaṃ(lam) ||16|| (ṣa)ṣṭiḥ{16} varṣasahaśrā(srā)ṇi
+
+Second Plate
+
+23. svargge tiṣṭhati bhūmidaḥ | ācchetā(ttā) cānumaṃtā ca tānyeva narake vaseta(t) ||17||
+24. svarṇṇameka(kaṃ) gavāmekāṃ bhūmerapyekama(maṃ)gula(lam) | harannarakamāyāti
+25. yāvadā[bhū]tasaṃplavaṃ(vam) ||18|| vidhyāṭavīṣvatoyāsu su(śu)ṣkakoṭaravāsi-
+26. naḥ | kṛṣṇasarppā[bhi]{17}jāyaṃte [bhū]miharttā narāśca ye ||19|| vālabhyānvaya-
+27. saṃbhūtakāyastha{18} aiyalātmajaḥ | sā(śā)sanaṃ sohiko{19} nāma rājā[bhya]rtha-
+28. [na]yākarot ||20|| ūnātiriktamajñānāllikhitaṃ sā(śā)sanetra yat | pramāṇa-
+29. meva karttavyaṃ saṃtaḥ sarvvasahāyataḥ{20} ||21|| maṃgalaṃ(lam ) | mahāśrīḥ ||
+
+---------------------------------------------
+
+{1} From photographs and impressions. The plates are numbered here as they were found.
+{2} It is an epithet of Yama, and here it means inflicting torture on his enemies.
+{3} Read vakṣāṃsi, but it would not suit the metre. The first word of this quarter may better be restored to dagdhvā.
+{4} Kudalkar: surāditya; but the medial vowel attached to the first akṣara of this name is long, as to be used
+	in some other instances in this inscription, e.g. in 1.6, below.
+{5} This vowel ought to have been dropped, as required by the rules of sandhi, but it would not suit the metre.
+{6} What is probably intended is kṣīṇaśūrāṇāṃ, in the sense of 'one who destroyed his enemies'; and accordingly,
+	the name of the hero appears to be śūrāditya, i.e., shining like the Sun amongst the brave.
+{7} This pāsa offends against the metre.
+{8} Probably amātyaṃ or amātyān and (svīyān) putrān is intended and not 'sons of (his) ministers', as Kudalkar
+	translates on p.324. ca is misplaced.
+{9} Read vidito vaḥ prākramaḥ.
+{10} This letter, if amended to vai, would remove the difficulty of the wrong use of the plural number here.
+{11} Restore to gurubhiranujñātaḥ, but this would offend against the metre.
+{12} Read-grāhakastatra.
+{13} Read dharmmaseturnṛpāṇāṃ.
+{14} Thus punctuation mark is redundant.
+{15} Read rājabhiḥ
+{16} Read ṣaṣṭirvarṣa or ṣaṣṭiṃ varṣa or ṣaṣṭivarṣa
+{17} Read kṛṣṇasarpā abhijāyante. Sandhi is wrongly observed here for metrical exigencies. Also read bhūmiharttāraḥ in
+	the last pāda.
+{18} This letter should be long. The word vālabhya appears to be connected with valabhī. It may also be 
+	interesting to note that the sign for bh used here varies from that of the same letter in the name of the composer
+	in the following line. For the two forms of this letter, see my remarks above in the palaeographical section of
+	this article.
+{19} To be restored to śobhik(?)
+{20} The last quarter of this verse is merely pāda-pūrti. The construction too is wrong. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

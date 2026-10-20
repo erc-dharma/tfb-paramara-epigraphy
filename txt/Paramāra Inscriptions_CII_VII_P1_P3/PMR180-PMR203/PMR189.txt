@@ -1,0 +1,33 @@
+PennGlobal: PMR189
+Period: VS 1356 jyeṣṭha vadi 5
+Location: Varmān
+King: Vikramasimha
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: The object is not clear, but it appears to record some donations made to the temple or 
+	some repairs made to it by Latatadēva, the wife of Chīcharī or Chāchiga.
+Published reference: Trivedi (1989), no. 189.
+
+
+Text{1}
+
+1. svasti{2} [|*] saṃvat 1356 varṣe yeṣṭa(jyeṣṭha) vadi 5 so-
+2. me vra(bra)hmāṇamahāsthāne mahārā-
+3. jakulaśrīvikramasī(siṃ)hakalyā-
+4. ṇavijayarāje(jye) padyā-{3} rāja. cī-
+5. caibhājā{4}lalatada[o]vaśrīvra(bra)hmā-
+6. ṇasvāmikarā[ya ?]{5} taṃ{6}........
+
+------------------------------------------
+
+{1} From the original and inked estampages.
+{2} Expressed by a symbol which is partly visible. 
+{3} This and the following abbreviations I am unable to make out. The reading of this letter too is
+	doubtful and the horizontal stroke of the mātrā is joined to the letter, as in the case of dhā.
+{4} It is impossible to say whether Chīchaī was a royal personage or a private individual. It is equally
+	impossible to say whether the word bhājā has to be restored to bhāryā; in that case, however, the 
+	name that follows has to be restored to Lalatadēvī, i.e., Lalitādēvī.
+{5} The upper part of the loop of the subscript of svā is faintly visible. 
+{6} This portion is corrupt. Before the last akṣara, appears a sign resembling a crescent with that of 
+	anusvāra above; and the inscription is incomplete. 

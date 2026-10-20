@@ -1,0 +1,55 @@
+PennGlobal: PMR65
+Period: VS 1207 māgha vadi amāvāse
+Location: Achalagaḍh
+Dynasty: Paramāra
+King: Yaśodhavala 
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Records some donations.
+Published reference: Trivedi (1978), no. 65.
+
+
+Text{1}
+
+1. siddham{2} || [svasti]{3} saṃvat 1207 
+2. [mā]gha{4} vadi amāvā[se]{5} sū-
+3. ryagrahaṇe srī(śrī)varapu[re]{6} a-
+4. caleśvaradevasya cāṃ[drā]-
+5. pa[tyāṃ]{7} śrīmahāmaṃḍalesva(śva){8}.
+6. ra yaso(śo)dhavaladeva-
+7. vijayarājye sā(śā)sa-
+8. namabhilikhyate ya-
+9. thā || a[ca]lesva(śva)ra kṣe-{9}
+10. tre dha[ḍā]{10}satkatalārā-
+11. bhā[vyaḥ]{11} guhilotrarā-
+12. [jya]pālasutakābhuke-
+13. na [pra]dattaḥ{12} || [carā]ka-
+14. yāvaro{13} ayaṃ [yo] lo-
+15. payati |{14} tasya mā .....{15}
+16. [garda]..........||
+
+----------------------------------------
+{1} From an impression, subsequently also comparing the reading from the original.
+{2} Expressed by a symbol.
+{3} Both these akṣaras are damaged but the consonant of the first of them is definitely s. The reading
+	is as may be expected here.
+{4} The first letter of the name of the month has not distinctly come out in the impression and the reading
+	has been adopted from the Annual Rep. on Ind. Ep., No. B-718 of 1961-62, where the date has been
+	calculated.
+{5} Read amāvāsyām.
+{6} Probably acalapure is intended.
+{7} Read caṃdrāvatyām. These two letters and some of those in the preceding line are misformed but the read-
+	ing appears to be certain.
+{8} Here the sibilant, as occasionally elsewhere, appears as a combination of the palatal and the dental.
+{9} The pṛṣṭha mātrā of this akṣara is engraved as the sign of the secondary i and is attached to the pre-
+	ceding letter.
+{10} The consonant following dha is so carelessly formed as to make one indefinite about its reading; but
+	 the mātrā of ā attached to it is certain.
+{11} The sign of visarga was inserted subsequently, though it is certain.
+{12} The writing here too is very careless and one would be tempted to read the name Angadatta, but it
+	 would not be constructed and the sense would in that case remain incomplete.
+{13} The meaning of the six syllables ending with this letter is not clear.
+{14} The daṇḍa is redundant.
+{15} The rest of the akṣaras in this line and almost all in the following line are lostusual ass imprecation
+	 appears to have been engraved here.

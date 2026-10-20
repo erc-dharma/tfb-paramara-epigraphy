@@ -1,0 +1,26 @@
+PennGlobal: PMR66
+Period: VS 1210 Jyeṣṭha śudi 13
+Location: Bāgh
+Dynasty: Paramāra
+King: Yaśodhavala
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Records the installation of an image of the lord Brahmā.
+Published reference: Trivedi (1978), no. 66.
+
+
+Text{1}
+
+[A] 1. siddham{2} | saṃvat 1210 jyeṣṭa(ṣṭha) sū(śu) di 13 gurau ma-
+    2. ṇḍalika-śriya[śo]dhavaladevaṃsya
+    3. bhaginī śrībhābhīnya{3}cīkaratpratimā-
+    4. mimāṃ śrīmadvra(dbra)hmaṇaḥ prabhoḥ |
+[B] 1. siddham{2} | sūtradha[ā*)ra deu
+    2. praṇamati nīḍtaṃ(nityam) |
+    
+    
+--------------------------------------------------
+{1} From the original and an estampage.
+{2} Denoted by a symbol, which is partly visible before Saṃ.
+{3} There is no doubt about the reading, but it appears to be an unusual name. Can it be restored to bhāminī?

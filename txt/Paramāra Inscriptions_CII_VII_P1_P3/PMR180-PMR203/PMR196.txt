@@ -1,0 +1,29 @@
+PennGlobal: PMR196
+Period: VS 1466 caitra śudi 7
+Location: Rāsin
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in a verse
+Metres: Anuṣṭhubh 
+Gist: Epigraph is a pilgrm's record, and it registers the name of one Jaipāla the son of Surapāla, 
+	who visited the place to pay homage to the diety enshrined in the temple where it is engrained.
+Published reference: Trivedi (1989), no. 196.
+
+
+Text{1}
+
+1. oṃ{2} siddhiḥ || saṃvata(t) 
+2. 1466 varṣe caitra-
+3. sudi 7 sa(śa)nau | rājā{3}
+4. dāsaḥ srī(śrī)rājavāsinyā[ḥ]{4}
+5. paramarddimahīpateḥ |
+6. tasya bhṛtyosti jaipālaḥ
+7. samogha{5}surapālajaḥ ||
+
+-----------------------------------------------
+
+{1} From facsimile in A. I. R., Vol. XXI, Pl. XIV.
+{2} Expressed by a symbol.
+{3} This word remains unconnected.
+{4} The sign of anusvāra appears as a vertical stroke.
+{5} I am unable to make out the meaning of this.

@@ -1,0 +1,127 @@
+PennGlobal: PMR44
+Period: VS 1214 kārttika vadi 15
+Location: Bhopal
+Dynasty: Paramāra
+King: Hariśchandra
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 9 verses
+Metres: Verses 1-2, 4-5 and 7-9 Anuṣṭhubh; v.3 Vasantatilakā; v.6 Śālinī
+Gist: Records that the king donated a village to 19 brahmins.
+Published reference: Trivedi (1978), no. 44.
+
+Text{1}
+First Plate
+
+1. om{2} svasti | śrīrjjayobhyudayaśca || jayati vyomakeśosou yaḥ sarggāya vi(bi)bhartti tām | aiṃdavīṃ si(śi)ra{3}-
+2. sā lekhā[ṃ] jagad vī(d bī)jākurākṛtima(m) ||1|| tanvaṃtu va[ḥ] smarārāte[ḥ] kalyāṇam anisaṃ(śaṃ) jaṭāḥ | kalpāṃta sama-
+  yoddāma taḍi-
+3. d valaya piṃgalāḥ ||2|| parama bhaṭṭāraka mahārājādhirāja paramesva(śva)ra śrī naravarmmadeva pādānu[dhyā]-
+4. ta parama bhaṭṭāraka mahārājādhirāja paramesva(śva)ra śrī yaśovarmmadeva pādānudhyāta samasta pra{3}-
+5. sa(śa)stopeta samadhigata paṃca mahā śavdā(bdā)laṃkāra virājamāna mahākumara śrī trau(trai)lokyavarmmadeva pādā(da) pra{4}-
+6. sādāvāpta vijñā(jayā)dhipatye(tyaḥ ?) samasta prasa(śa)stopeta samadhigata paṃca mahāśavdā(bdā)laṃkāra virājamāna sā(ma)hākumāra hari{5} -
+7. caṃdradevo mahā dvādaśaka maṃḍale vikhilapadra dvādaśaka saṃva(ba)ddhaḥ(ddha) {6}dādarapadra grāma nivāsinaḥ pratigrāma ni-
+8. vāsinaś ca [ra]ājapuruṣa viṣayika paṭṭakila janapadādīn vrā(brā)ṇottarān vo(n bo)dhayatyastu vaḥ saṃviditaṃ ||{7} ya-
+9. diha mayā śrī bhāilasvāmideva spurasthite[na]{8} śrīmad vikramakālātītacaturddasā(śā)dhikadvādaśasa(śa)tāṃta[ḥ]pātisaṃvatsa-
+10. re kārttika{9} su(śu)di pūrṇṇimāyāṃ sajātasomagrahaṇasarvvagrāsaparvvaṇi{10} kalikaluṣahāriṇi vetravatīvāriṇi snā-
+11. tvā devarṣimanuṣyapitṝn saṃtarpya carācaraguruṃ bhagavaṃtaṃ bhavānīpatiṃ darppitadanujeṃdranidrāhara hari ca samabhyarccya tilā-
+12. nnājyāhuti[bhi]rhi[ra]ṇyaretasaṃ hutvā jagadānaṃdadāyine śasi(śi)ne ardhaṃ (rdhyaṃ) vidhāya savatsakapilāṃ triḥ pradakṣiṇīkṛ-
+13. tya ākala[jya(yya)] saṃāra[ā]{11} sāratāṃ parilulitakamaladalataralajalalavacalamālakṣya yauvanaṃ yauvanamadamattavāṇi-
+14. nī(māninī ?) bhrūbhaṃgabhaṃguramavalokya draviṇaṃ draviṇakaṇikānuśaraṇavivaśaviṣavilāsinīcita(tta)caṃcalamadhigamya jīvitaṃ(tam)
+15. || uktaṃ ca| vātābhravibhramamidaṃ bhuvanādhipatyamāpātamātramadhuro viṣayopabhogaḥ | prāṇāstṛṇāgrajalaviṃ(biṃ)dusamā narāṇāṃ
+16. dharmma:{12} sakhā paramaho paralokayāne ||3|| sā[ṃ]kṛtyagotrāya agnihotrikaśrībhāradvājasutaāvasthi(sathi)kaśrīdharāya pada{13} 1 bhā-
+17. radvājagotrāya tripāṭhi{14} nārāyaṇasutatripāṭhigartesva(śva)rāya pada 1 kṛṣṇātreyagotrāya dvivedakṣīrasvāmisutadvi-
+18. vedau[ddha]raṇāya pada 1 adavāhagotrāya dvivedava[tva(tsa)]sutadvivedayaso(śo)dhavalāya pada 1 kāsya(śya)pagotrāya ||{15}
+19. āvasthi(sathi)kadelhasutapaṃ{16} madhusūdanāya pada 1 śaunakagotrāya dvivedasīlesutadvivedapāhulāya pada 1 kā-
+20. sya(śya)pagotrāya avasthi(āvasathi)kadelha{17}sutapaṃ somadevāya pada 1 adavāhagotrāya dvivedayaśodhavalasu-
+21. tadvivedapālha[?]kāya pada 1 [gauta] magotrāyapaṃ-dhāmadevamutapaṃ raṇapālāya pada 1{18}
+
+Second Plate
+
+22. ......{19}dvivedaso(śo)bhāsutadvivedagaṃgādharāya pada 1 kṛṣṇātreyagotrāya dvivedakṣīra{20}-
+23. svāmisutadvivedalaṣmī(kṣmī)dharāya pada 1 sau(śau)nakagotrāya dvivedasīlesutadvivedaśrīdharāya[pada] 1/2 bhāradvājago{20}-
+24. trāya ṭhakuravī[lhe]{21}sutaṭhakuravācchukāya pada 1 sāṃ(śāṃ)ḍilyagotrāya ṭhakurakuladharasutaṭhakuravācchukāya pada 1 go(gau) -
+25. tamagotrāya dvivedagolhesutadvivedavālhukāya pada 1/2 sāṃ(śāṃ)ḍilyagotrāya ṭhakurakuladharasutaṭhakurarāsalāya |{22}
+26. pada 1/2 kāsya(śya)pagotrāya paṃ-soṇḍalasutaṭhakuraviṣṇave pada 1/2 kauṇḍinyagotrāya ṭhakuraku(ñja)sutavaṭukaāhaḍāya pada
+27. [1/2] kāsya(śya)pagotrāya ṭhakuravijapālasutavaṭukamahaṇāya pada 1/2 || tadevaṃ yathāyathaṃ vrā(brā)hmaṇaekonna(na) -
+28. viṃsa(śa) tīnāṃ{23} padā[:] ṣoḍamāṃke ( ṣoḍaśa aṅke ) pada 16 | tadamīṣāṃ vrā (brā) hmaṇānāmuparili[khi]tagrāmaḥ pūrvva-
+   dakṣiṇataladvayopeto{24} ni-
+29. dhinikṣepamahito nadanadīkūpataḍāgavāṭikāāpa(rāma)saṃyutaścarādyādyopetaḥ |{25}
+30. sarvvābhyatarasiddhyodakapūrvvakatayā śāsane[na] pradattastadetat(d-) grāmanivāsibhiḥ karṣa-
+31. kaiśca karahiraṇyabhāgabhogādika[ṃ(m)] | ājñāśravaṇavidheyairbhūtvā devavrā(brā)hmaṇabhu-
+32. ktivarjaṃ sarvvamamībhyo vrā(brā)hmaṇebhyaḥ samupanetavyaṃ(vyam) || yaduta(ktam) | va(ba)hubhirvvasudhā bhu- |
+33. [ktā] rājabhiḥ sagarādibhiḥ | yasya yasya yadā bhūmistasya tasya tadā phalaṃ(lam) ||4|| trīṇyā-
+34. huratidānāni gāvaḥ pṛ[th]vī sarasvatī | āśa(sa)ptamaṃ punantyetā dohavāhaniveda-
+35. naiḥ ||5|| sarvvānetānbhāvinaḥ pārthiveṃdrānbhūyo bhūyo yācate rāmabhadraḥ | sāmānyo-
+36. yaṃ dharmmase[tur]nṛpāṇāṃ kāle kāle [pā]{26}lanīyo bhavadbhiḥ ||6|| svadattāṃ paradattāṃ vā yo haredvasuṃdhā(sudhāṃ) nṛpaḥ | na tasya pu-
+37. narā[vṛ]ttirnnarakātkumbhipākā(ka)taḥ ||7|| devavrā(brā)hmaṇadvijapradattā{27} bhūrnna harttavyā nṛpai[r]ye(ya)taḥ | kenāpi saha vesye(śye) va na
+38. gatā na ciraṃ sthitā ||8|| iti purātata(na)munipraṇītavacanaparipāṭīśravaṇasamudbhūtaprabhūtavivo(ve)kodayena mātā- |
+39. pitrorātmanaśca puṇyayaśa[śo]bhivṛddhaye || [i]ti jñātvā parairbhūpairasmadva[ṃ]so(śo)dbhave(vai)stathā | dharmmoyamiha no{28}
+40. lopyo yaiḥ ke(kai)ścit(d) [dharmma]ciṃtakaiḥ ||9|| dū० mukhyādeśaḥ || śivamastu | maṃgalaṃ mahāśrīḥ ||
+41. svahastoyaṃ mahākumāraśrīharicaṃdradevasya ||{29} śrīḥ ||
+
+--------------------------------------------------------------
+
+{1} From facsimiles in Ep. Ind., Vol. XXIV, facing p.232.
+{2} Expressed by a symbol.
+{3} A mark at the end of the line, as of some others not noted below, shows that the word is continued in the
+	next line.
+{4} Some other letter, probably nu, was originally engraved here.
+{5} My reading shows that the line ends in a ś(श्) which is very faintly visible, and accordingly, we have the 
+	name Hariśchandra here.
+{6} The name of the village can also be read a dodarapadra-. It appears that originally a vertical was put after
+	the preceding ddha and later on it was scratched off only in the middle and thus we have the two dots
+	showing a visarga.
+{7} The daṇḍas are redundant.
+{8} Chakravarti remarked that the omission of visarga after ra(र) is according to the vārttika: "kharpare śari vā
+	visarga lopo vaktavyaḥ". But to me it seems equally probable that the word pura is used to end the name
+	of the place and thus sthitena is left separate. Thus the expression may be taken also in the sense of
+	'while residing or encamped at'.
+{9} Originally, the letter was engraved as ki, and later on the curve of the mātrā appears to have been mixed
+	with the preceding repha, and the vertical scored off by two small strokes faintly visible.
+{10} A redundant slanting stroke makes the pa appear as ṣa.
+{11} Chakravarti corrected it to saṃsāra[syā*]sārataṃ.
+{12} Chakravarti read dharmaḥ, but I find the double mma, in the facsimile.
+{13} Here and in some cases below the sign of anusvāra on da is faintly visible.
+{14} Here and below, we need not change the ṭhi to ṭhī, as done by Chakravarti, as it is a compound word
+	 requiring the original form of the first word.
+{15} This mark of punctuation is redundant.
+{16} This is a contraction of paṇḍita.
+{17} The second letter of the name more likely appears to be lhū. 
+{18} As Chakravarti has also noted, seven or eight letters specifying the gotra are completely effaced at the 
+	 end of the line. Moreover, it is possible that the first syllable of the father's name may also have been
+	 vā, as the left limb thereof is not horned and occasionally, though rarely, we find the verticals of vā also
+	 joined by a horizontal stroke.
+{19} Seven or eight letters are completely effaced. Moreover, both the letters of the first name are also effaced.
+	 Chakravarti read the first name appearing in this line as sotā.
+{20} As n.3 on the preceding page.
+{21} The reading of the second letter of the name is not certain.
+{22} The punctuation mark is redundant, as also in some of the lines below.
+{23} As suggested by Chakravarti, read brāhmaṇānāmekonaviṃśateḥ.
+{24} The dictionary meaning of tala is 'lowness, a forest, and a pound'. What is exactly meant here is not 
+	 known. Chakravarti takes the word in the sense of 'a suburb', but this is not found in the dictionary.
+{25} The punctuation mark is redundant. SOme of the lines at the end, and also where they are broken by
+	 the Garuḍa figure, are marked by daṇḍa, which is not noted here in every instance. This tendency is
+	 found more developed in Udayavarman's grant, below (No.46).
+{26} As n.10 on the last page.
+{27} The word vrā(brā)hmaṇa is superfluous here.
+{28} As Chakravarti has noted "the left hand stroke of the medial ō in nō is joined to the preceding ha".
+{29} This line is engraved in bigger letters, almost in the middle, and śrīḥ at the end.  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

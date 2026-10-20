@@ -1,0 +1,101 @@
+PennGlobal: PMR50
+Period: VS 1275 mārggaśudi 5
+Location: Harasaudā
+Dynasty: Paramāra
+King: Devapāla
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 14 verses
+Metres: Verses 1-6, 9-12 and 14 Anuṣṭubh; vv. 7-8 Upajāti(both irregular);{4} v.13 Śālinī; 
+Gist: Construction of a temple of śambhu.
+Published reference: Trivedi (1978), no. 50.
+
+
+Text{1}
+
+1. oṃ{3} namaḥ śivāya || sarvvakarmmasamārambhe gīrvvāṇairyo namaskṛtaḥ | sa mayā pārvvatīputra[o] heraṃvaḥ(baḥ ){4}
+   [stū]ya-
+2. tevi(ni)śaṃ(śam) ||1|| bhāratī bhavatā bhūyādvāgullāsavikāśadā{5} | jagajjāḍyaṃ(ḍya)tamodhastātkurvvatī
+   bhā ravai(ve)riva ||2||
+3. keśaḥ kaṃjālikāśābhā huṃkārāripinākinaḥ | vivigogatayo dadyuḥ śaṃ vomvujāṃduna[gau]kasaḥ{6} ||3||
+4. saṃvat paṃcasaptatyadhikadvādaśaśatāṃke{7} 1275 mārgrasu(rggaśu)di 5 satau(śanau) svasti śrīmaddhārāyāṃ samasta-
+   praśastopa(pe)ta-
+5. samadhigatapaṃcamahāśavdā(bdā)la(laṃ){8}kāravirājamānaparamabha[ṭṭā]rakamahārā[jā*]dhirājaparamesva(śva)raśrī-
+6. li{9}mvā(mbā)ryāprasādavaralavdha(bdha){10}pratāpaśrīmade(dde)vaṣā(pā)ladevacaraṇānāṃ mahīpravarddhamānakalyāṇavijayarājye sati
+7. ||adhike{11} paṃcasaptatyā dvādaśā[vda(bda)]śate śake | rvatśera{12} citrabhānau tu mārgra(rgga)śīrṣe site
+   dale ||4|| paṃcamyaṃtakaso(saṃ)-
+8. yoge nakṣatre viṣṇudaivate | yoge{13} harṣaṇasaṃjñe [tu] tithyarddhe dhātṛdaivate ||5|| śrīmaduṃdapure sa(pū)rvvamāsīddosīti-
+9. puruṣaḥ | khyātaḥ sa{14}rvvaguṇairlloke{15} sammataḥ satāṃ ||6|| tadaurasaḥ śuddhamatirvva(rbba)bhūva
+   śrīvi(bi)lha]] ||-{16}
+10. ṇonaṃ[gasa]mānamūrtiḥ | taśyā(syā)tmajobhūdvaṇijāṃ mahātmā śrīḍhala(lla ?)nāmā mahanīyakīrtiḥ ||7||{17}
+11. tasyānujaḥ keśavanāmadheyo ta(va)ṇik[pa]the śuddhamatirjane ratiḥ(taḥ) | āśī(sī)ttadā dharmmaniketanaḥ sadā{18}
+12. bhūdevabhaktaḥ svajanetiraktaḥ ||8|| tevā(nā)kāri mano dharmme keśavena sujanma(nā){19} | nalinīdalanīreṇa
+13. paśyatā{20} sadṛsṃ(śaṃ) [va]puḥ ||9|| harṣapūrvvātpurādai(de)śavibhāge lokanaṃdanaṃ(nam){21}| cakārāyatanaṃ sa(śaṃ)bhoraṃ-
+   bhonidhi-
+14. śama(samaṃ) saraḥ ||10|| tatsannidhāne ha[nu]matke(tkṣe)trapālagaṇesva(śva)rānn(n) | sthā{22}payāmāsa kṛṣṇādīnnakulīśama[thā]-
+15. mvi{23}(mbi)kām ||11|| lokānurāgatastyāgātviprasaṃtarpaṇāt [sa]dā | devārccannā(nā)gnihomābhyāmarjjita mupahā(sumaha)-
+16. dyaśaḥ ||12|| loke [vrū(brū)]te keśavaḥ satyavākyaṃ matprāsādaṃ yo na[raḥ] paśyatīmaṃ(mam) | saddāpaṃ
+   māṃ bhūtame supra ||{24}-
+17. siddhaṃ jānantvete sajja[nā]ḥ sarvvadaiva ||13|| mahājanānurāgeṇa [śre]yo mama vitanvaṃ(nva)tā | kṛtā śa-
+18. stā praśastaiyaṃ{25} dhīmatā devaśarmm[ṇā] ||14|| śubhaṃ bhavatu lepa(ṣa)ka{26}pā[ṭha]kayoḥ sarvvadaiva || śivamasta(stu) |
+  
+---------------------------------------------------------------------
+
+{1} From the rubbing, supplied to me through the courtesy of the Chief Epigraphist, at his request, by Prof.
+	Van Name.
+{2} In the fourth foot of v.7 the third letter is required to be guru, and the error can be eradicated by
+	reading the letter as lla, as it was probably intended. Verse 8 has its first and fourth feet in the Indravajrā
+	metre, whereas the second in the Vaṁśastha metre and the third in Indravaṁśā.
+{3} Before this syllable there is an ornamental device which was taken by Kielhorn as a flower, but to me
+	it appears to be a rayed Sun.
+{4} The anusvāra on ra is surrounded by an ornamental device resembling a petal on each of the four sides.
+{5} Here, as also in some other instances, the daṇḍas is engraved so close to the following letter as to appear as a mātrā.
+{6} Read -vomvujāmvunagaukasaḥ, which would offend against the metre but which has to be corrected as śaṃ vobjāmvunagau-
+	kasaḥ, to suit the metre. Parts of the third of these letters appear as scored off. This difficult verse was
+	first explained by Hall as follows:
+	"May Brahmā, Viṣṇu and Śiva (Ka Ī Īśa)-in colour resembling, severally, the water lilly, the black
+	bee, and the kāśa grass (kañjalka ali kāśa), having, respectively, for weapons, meaning utterances, a dis
+	cus, and the pināka (huṁkāra ari pināka); moving, in order as enumerated, with birds, a bird, and a
+	bull (vi vi gō), and whose abode is on the Jambū bearing mountain, bestow on you prosperity"(J.Am.O.
+	Soc., Vol.VI, p.537). Kielhorn suggested to translate the last compound as 'whose abode is, respectively,
+	a lotus, the water, and the mountain'(abja ambu naga). Kielhorn also read the first akṣara of the verse
+	as kai, stating that the superscript line which turns ē into ai is very faint, but it is undoubttedly there.
+	But he does not justify the reading Kaiśāh. And in this respect the following way of solving the com-
+	pound is proposed; aśca īśaśca eśau; kaśca eśau ceti kaiśāḥ.
+{7} As already noted by Kielhorn, one would expect -śate ṁke here.
+{8} The sign of anusvāra was originally omitted and engraved subsequently, but it is only a dot, unlike others.
+{9} This is following Kielhorn and the name appers in the other sources mentioned above. The con
+	sonant of the akṣara in the impression before me is definitely la.
+{10} This letter is badly engraved and also has a chisel mark above.
+{11} The right hand curve of this letter appears to have been originally omitted and was engraved subsequently.
+	 The daṇḍas at the beginning of this line are superfluous.
+{12} Read vatsare. The first of these letters is damaged.
+{13} A subsequent attempt was made to correct this akṣara.
+{14} A curve resembling u - mātrā appears to have been attached to sa.
+{15} Probably by a superfluous chisel mark the tri appears as vi.
+{16} The daṇḍas are redundant and the first and the tenth letter of the first foot of this verse are damaged in
+	the very process of engraving.
+{17} This sign of visarga is evidently superflous.
+{18} Read niketanaṃ. The following sa is so formed as to look like ṣa.
+{19} The first two akṣaras of this word have each an anusvāra over it, and the last two akṣaras appear to
+	 have been corrected subsequently. The consonant of ve is engraved as d.
+{20} Kielhorn read puṣyatā, but the impression before me clearly shows the word as I have taken here.
+{21} Kielhorn read maṇḍanaṃ, which I do not find in the impression before me.
+{22} The superscript of this akṣara is engraved as m, as in some other cases also, which are not noted separately.
+{23} A redundant superscript r was at first wrongly engraved on this letter and an attempt seems to have been 
+	 made to score it off later.
+{24} The daṇḍas are redundant. The first, third, fourth and the seventh akṣaras of this pāda are all wrongly
+ 	 engraved. As suggested by Kielhorn, read [taddāsaṃ] māṃ bhūta[le] suprasiddhaṃ.
+{25} Read praśastiriyaṃ, but it would not suit the metre and hence I follow Kielhorn in reading praśaṃseyaṃ.
+{26} The slanting stroke of the preceding akṣara is omitted and hence the letter appears as pa.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 

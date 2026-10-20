@@ -1,0 +1,212 @@
+PennGlobal: PMR82
+Period: VS 1344 jyeṣṭha śudi 5
+Location: Girvaḍ
+Dynasty: Paramāra
+King: Pratāpasiṃha
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 46 verses.
+Metres: Verses 1-2 Śārdūlavikrīḍita; vv. 3 and 21 Mālinī; vv. 4-12, 16-17, 19, 31, 40 and 45 Upajāti; v.23
+	    Indravajrā; vv.13-14, 18, 20, 41-42 and 46 Vasantatilakā; vv.15, and 34-35 Svāgatā;
+	    vv.22, 27-30, 36-39 and 44 Anuṣṭhubh, vv.24-25 BHujaṅgaprayāta; v.26 Āryā;
+	    vv.32-33 Śālinī; v.43 Mattamayūra.
+Gist: A praśati, a laudatory account and records the innovation at a temple of Paṭṭa-Nārāyaṇa by a Brāhmaṇa minister of Pratāpasiṃha,
+	  a Paramāra ruler of Chandrāvati. 
+Published reference: Trivedi (1978), no. 82.
+
+Text{1}
+
+1. | siddham{2} || oṃ namaḥ puruṣottamāya || śrīrāmeṇa vijitya rāvaṇamatha svīkṛtya sītāṃ kila vyāvṛttena purīṃ
+  purā'rbuda taṭe kṛtvā'tha devārccanaṃ(nam) |{3} viprasthānasamaṃ sumaṃ-
+2. galapadaṃ yaḥ sthāpito'sau vibhur bhūyād bhūri vibhūtaye sa bhavatāṃ śrīpaṭṭanārāyaṇaḥ ||1 devasyā[dbhu]ta vikramasya bhavato{4}
+  rāmasya dharmmakramaṃ vāśiṣṭhaṃ ca tathārbudaṃ ca caritaṃ kiṃ-
+3. cit pramārodbhavaṃ(vam) | cakre delhaṇamaṃtriṇoddhṛtiratha śrīpaṭṭaviṣṇoryathā vipraḥ sarvamidaṃ vyanakti vijayādityaḥ 
+  kavigrāmaṇīḥ ||2 jayatu nikhilatīrthaiḥ sevyamānaḥ samaṃ-
+4. tān muni surasura patnī saṃyutairarbudādriḥ | vilasadanalagarbhādadbhutaṃ śrīvaśiṣṭhaḥ kamapi subhaṭamekaṃ sṛṣṭavān yatra maṃtraiḥ ||3
+  ānītadhenve paranirjayena muniḥ svago-
+5. traṃ paramārajātiṃ(tim) | tasmaidadāvuddhatabhūribhāgyaṃ taṃ dhaumarājaṃ ca cakāra nāmnā ||4 vaśiṣṭhagotrojvala{5} eṣa
+  loke khyātastadādau paramāravaṃśaḥ || svastya[stu] tasmai kramasaṃkathā-
+6. yāṃ vidhāsyate tasya vibhāvanāpi ||5 kilaikadā ni[rhu]tarāvaṇaḥ śrīrāmo'rvu(rbu)dopāṃta niviṣṭasainyaḥ | vahnau
+  viśu[ddhā]miha vīkṣya sītāṃ śuddheśvaraṃ sthāpayati sma devaṃ(vam) ||6 sthā-
+7. naṃ tathāgre grivaḍiṃ ca nāmnā sāmnāyaviprairabhinaṃdyamānaṃ(nam) | niveśya paṭṭe{6} prakṛtābhiṣekaḥ śrīmadvaśiṣṭhena tadā
+  mudā ca ||7  śrīmadvaśiṣṭhasya ca gautamasya{7} puṇyāśramottīrṇṇa suraśra(sra)-
+8. vaṃtyāḥ | iha pravāhadvayasaṃgamārṇṇaḥpūrṇṇāpagāpaṭṭanadopakaṃṭhe ||8 śrīpaṭṭanārāyaṇamenamuccaiḥ prakalpya tatraiva ca 
+  lakṣmaṇeśaṃ(śam) | saumitri sītā paricaryamāṇastataḥ pratasthe svapu-
+9. rīmayodhyāṃ(dhyām) ||9 tadādi gaṃgādvayavāripūrṇṇaḥ khyātaḥ sphuṭaṃ paṭṭanadoyamuccaiḥ | kṛṣṇopakaṃṭhe nanu muktihetuṃ yaṃ guhyatīrthaṃ
+  pravadaṃti tajñāḥ(jjñāḥ) || kiṃ brūmahe vaibhavamarvu(rbu)dādreḥ sama-
+10. statīrthaiḥ samalaṃkṛtasya | cchā(chā)yāpi yasyātanute manunāṃ tanutyajāṃ durgātināśamuccaiḥ ||11 sthāne tatastatsavidhorvarāyāṃ varāṇi
+   tīrthānyatanotsa rāmaḥ | prathojva(jjva)laṃ sthānamapi pra- |{8}
+11. siddhaṃ sadvedavidvipravaroparuddhaṃ(ddham){9} ||12 śrīrāmaśāsanamaho kimu varṇayāmaḥ kiṃ vā pramāra pṛthivīpati saccaritraṃ(tram) | yai-
+   rāmamukhyapṛthivīpatidattabhūmirāpālyate pratipadaṃ vinirasta-
+12. laulyaiḥ ||13 tasmin kilā[rbu]dadharāvalaye sa dhārāvarṣo babhūva nṛpatir guru vīraratnaṃ(tnam) | yasya prabhāparikaro'dya dināni yāvat
+   yasminnasatyapi lasadyu(ddyu)tiradbhutaṃ tat||14 ekavā(bā)-
+13. ṇa nihata trilalāyuṃ yaṃ ni[rīkṣya]kuruyodhasadṛkṣaṃ(kṣam){10} | caṃḍikā hṛtatadekakapālā lajjitāsimadhunā na dhunāti ||15 śrīsomasiṃhojani
+   bhūmipālastatoribhūpālaniva(ba)ddhakālaḥ |
+14. yaḥ śauryadānādhikayo[gabhāvā]tsaṃgīyate rāma ivābhirāmaḥ ||16 śrīkṛṣṇadevastanayastatobhūdvu(d bu)ddhyāpi śauryeṇa ca kṛ[ṣṇa]kalpaḥ |
+   pradyumnakalpo'jani{11} yena sa śrīpratāpasiṃhorikarīṃ-
+15. drasiṃhaḥ ||17{12} kāmaṃ prama[thya sama]re jagadekavīrastaṃ jaitrakarṇṇamiha karṇṇamiveṃdrasūnuḥ | caṃdrāvatīṃ parakulodadhidūramagnāmuvvīṃ(rvvīṃ)
+   varāha iva yaḥ sahasoddadhāra ||18 athālameṣāmanu-
+16. saṃkathābhiretanmahīmukhya(ta)yādṛtābhiḥ{13} | vakṣyāmahe saṃprati paṭṭaviṣṇuprāsādajīrṇṇoddharaṇakramaṃ{14} taṃ(tam) ||19 kālaḥ kilāsti-
+   duratikrama eva yosau tān nirjarānapi jarāvidhurā-
+17. n karoti | cenneti nirjara[pa]teḥ kisanena cakre prāsāda eṣa nanu jarjaritāśmabaṃdhaḥ ||20 iti nanu katicidbhirvāsaraiḥ
+   śīrṇṇasaṃdhau śithilitaśikharāgre nirgaladvṛṣṭibiṃdau | bata ru-
+18. ditavatīva svāśra[yesmi]nharista[tpa]ṭutarakaraṇārthaṃ delhaṇaṃ vyādideśa ||21 tataḥ paṭutaraṃ maṃtrī delhaṇo{15} vyadhāt |
+   śrīpaṭṭaviṣṇuprāsādaṃ jīrṇṇaṃ vittarasāyanaiḥ ||22 vyāpāradhaureyatayai-
+19. ṣa maṃtrī '''''{16} kiṃ neti tatkiṃ nanu maṃtrayogā[t |] yo maṃtrayitvā hṛdi rāmarājyaṃ dharmeṇa sāhāyyamaho cakāra ||23
+   itaścopamanyormune ramyagotre sa vīṃkā-
+20. ka ityāvirāsīdvi(d dvi)jeṃdraḥ | yataḥ saṃ[pra]sūtā ca rūpītināmnī sutā caṃdrikāvat surūpātiśuddhā||24 tayā saṃgamāsādya sādā-
+   kanāmnā dvijenojva(jjva)leneṃdukāṃtopamena |{17} sutāḥ paṃ-
+21. ca yajñopamāḥ paṃca jātāḥ sudhā paṃca nisyaṃda saṃdoha kalpāḥ ||25 lakṣmaṇa{18} kelhaṇa vālaṇa saṃjñāsturyas[tu] delha[ṇa]steṣu | khyāto bhāskaranāmā
+   paṃcakaḥ śrutividaḥ{19} sa[rve] ||
+22. 26 [n]ijaṃ gargamumi(ni)rgotraṃ śākhāṃ mādhyaṃdinīmathā(tha |) pravarānstrīn yajurvedaṃ grivaḍiṃ tathā ||27 āvāso U U{20}
+   [lā ?]vetau vānādedākasaṃjñakau | keśavo mahamūṇaśca mā-
+23. lhāsā[sā ?]bhidhānakau ||28 ātmanā saha tān sapta pūrvajāniti ca kramāt | lakṣmaṇādīnatha bhrātṝnanyānapi ca pūrvajān
+   ||29 uddadhāra sa dharmātmā delhaṇosau{21} mahāpatiḥ | svakīrtye-
+24. va sudhādhautaṃ viṣṇuprāsādamuddharan ||30 turyopi dhuryasya guṇairudāraiḥ sa delhaṇo vittarasāyanena | yaḥ kālajīrṇṇaṃ{22} nanu paṭṭaviṣṇu-
+   prāsādamenaṃ navameva cakre ||31 jīrṇṇo-
+25. ddhārādāpratiṣṭhādinaṃ ca bhaktyā viṣṇāvekavelāśano'bhūt | karmasthā ye yaśca pūrṇṇotitūrṇṇaṃ mene ma[ā*]nī{23} tataḥ pūrṇṇa-
+   kāmaṃ(mam) ||32 haimaṃ paṭṭaṃ bhūṣaṇaṃ bhālamūle cakre vaikuṃṭhasya{24} kaṃ-
+26. ṭhe ca raupyāṃ(pyam |) [hai]menāsīnmuktiloko'kṣayosya raupyeṇānaṃdo mahīyān pitṝṇāṃ(ṇām) ||33 prāyaśaḥ kalimalākulitānāṃ 
+   su(śu)ddhaye hi śaraṇam harirekaḥ | sarva pātaka nirākṛ-
+27. ti hetuṃ yastataḥ śaraṇamenamayāsīt ||34 jīvitaṃ taruṇatātha dhanaṃ vā kasyacitkvacana na sthiramāste | ityavanyasukṛtairiti{25} tairyastāni
+   susthiratamāni vitene ||35 saṃvat
+28. trayodaśasate tricatvāriṃśadākhyayā | khyāte saṃvatsare śukladaśamyāma(mā)śvinasya ca ||36 jīrṇṇoddhārasamāraṃbhaṃ kārayāmasa delhaṇaḥ |
+   āgāmini catuścatvāriṃśadākhyetha vatsaro(re ||)
+29. 37 jyeṣṭhasya sitapaṃcamyāṃ pratiṣṭhāṃ ca dhvajoccha(cchra)yaṃ(yam) | samāpayya ca tatkṛtyaṃ sarvaṃ śāṃtikapūrvvakaṃ(kam){26} ||38 tato
+   yadṛcchayā [bho]jyavastradānairdvijottamān | yathāpātraṃ tathā lokān
+30. prīṇayāmāsa taddine ||39 vipraḥ kila grāhakapātrameva prāyaḥ kalau yo vidadhe vṛtheti{27} | nyāyārjjitaiḥ sthānavibhāgavṛttirdhanaini(rni)jai-
+   rīdṛśadharmakartta ||40 gaṃgāpravāhapa-
+31. ya[saḥ] stabakaḥ kigu(mu)ccaiḥ kiṃvā'sya sāva iva{28} sāṃga ihāsti śuddhaḥ | ābhātyalaṃ dhavalitaḥ sudhayā vidūrātprāsāda eṣa
+   janalocanakārmmaṇaśrīḥ{29} ||41 śrīmālavādhipati[ra ?]{30}-
+32. kabalaikajaitraśrīmādadevasutavīsalaramyarājye | sarvairdvijairanumatādimadevadāyaiḥ jīrṇṇoddhṛtirvyajani dattva(tta)catuḥśatīkaiḥ{31} ||42 dharaṇī-
+   dharapaṃḍitasya putro jananī ya-
+33. sya ca cāṃpaleti sādhvī | dvijayogibudhāgraṇīḥ sa tene vaijādityakaviḥ praśastimetāṃ(tām) ||43 roheḍāsthānavāstavyasūmadevā-
+   tmajaḥ{32} kṛtī | gāṃgadevaḥ sūtradhāraḥ praśastiṃ kīrṇṇavānimāṃ(mam){33} ||44
+34. ye śavda(bda)vidyāniravidyabhāvāḥ sāhityasauhityamupeyivāṃsaḥ | yeṣāṃ manā(no) matsaramuktameṣā samūhyatāṃ tairvijayārkavāṇī{34} ||45
+   śrīmadvaśiṣṭha[bha]vabhūpagūruttamoya(yaṃ) mūkāvabhāsipada-
+35. vākyavi[dāṃ] vareṇyaḥ | ālhā(hlā)danasya tanayojani mohanākhyaḥ{35} saṃkīrtyate sa iha ta[tka ?]vitātamitraṃ(tram) ||46 devasya
+   naivedyahetordattāya(tha) padavyaktiryathā || 
+36. mahārāja kula so(śo)bhita putradevaḍāmelākena{36} chanārigrāme doṇakārī kṣetru 1 ubhayaṃ datta(ttam) || ṣīmāulīgrāme vihala rā.{37}
+   vīrapāla(le)na ḍhīvaḍa(u) 1 dattā(tta) | (?) āuligrāme |{38}
+37. grāmeyakaiḥ arahaṭṭaṃ prati seḥ 8 ḍhīkaḍā ṭīkaā prati seḥ 2 dattaṃ(ttam) || kālhaṇavāḍagrāme halaṃ prati seḥ 1 gohilau(pu?)
+   tranuḍimala(le)na pratigrāmapādraṃ(?) dattaṃ dra. 10 tathā
+38. maḍāulīgrāme rā. gāṃgūkarmasī(siṃ)hābhyāṃ dvādaśaekādaśīṣu colāpikā{39} āyapadaṃ dattaṃ(ttam) | caṃdrādaṃ(va)tīmaṃḍapikāyāṃ
+   visāra{40}
+39. aṃkato'pi || saṃ. 1344 jyeṣṭhaśudi 5 śukre jīrṇṇoddhārapratiṣṭhā{41}|   
+   
+---------------------------------------------------------------------
+
+{1} From the original stone and inked impressions.
+{2} Expressed by a symbol.
+{3} This daṇḍa, as some others below, looks like a mātrā attached to the preceding letter, and there are
+	examples of the reverse case also, all of which are not noted here.
+{4} For bhagavato, which would not suit the metre. The flaw may perhaps be eradicated by reading
+	devasyādbhutakarmaṇo bhagavato.
+{5} Read -jjvala, and also note the spelling of the name of the sage with the palatal in this and in the 
+	fourth line.
+{6} And hence we get the name paṭṭa Nārāyaṇa. 
+{7} The use of cha between the two names is wrong; it is adopted for metrical exigencies.
+{8} This daṇḍa is redundant.
+{9} The fifth akṣara in this line was at first incised as di and later on corrected by erasing the horizontal
+	stroke following it. Similarly, the ninth and tenth letters were originally cut as vīrā and later on corrected.
+{10} As also noted by Śāstri, what is stated in this verse is supported by the fact that on the bank of the 
+	 tank that at Achalagaḍh, from which place we have the inscription No. 65, there is a statue of Dhārāvarṣa
+	 with a bow in his hands and three bufalloes standing before him with a hole running through their bellies.
+	 In my visit to the place I also noticed an inscription on the side of the statue but it is highly weather-
+	 worn to be made out.
+{11} Pradyumna was the son of Kṛṣṇa and is known to have killed the demon Śambara.
+{12} The number of the verse is written above the line.
+{13} It is an abstract noun from mahīmukhya, meaning mahīpāla, i.e., a Kṣatriya. The daṇḍa that follows
+	 was at first engraved as the sign for medial short i and later on the curve above was scored off by a 
+	 slanting stroke.
+{14} Before ddha the sign for the secondary i was at first engraved and later on the curve above was scored 
+	 off.
+{15} This word, which was omitted in this line, is engraved in the next line just below where it is to be 
+	 supplied, with an arrow mark and double daṇḍa on its either side, to draw attention.
+{16} These five curves are redundant. After nē in munē that follows, the sign of visarga was at first en-
+	 graved and later on scratched off, leaving the mark.
+{17} This daṇḍa looks like a mātrā and the mātrā in the preceding tō looks like a daṇḍa. The five sacri
+	 fies referred to in the latter half of this verse are those connected with bhūta, manuṣya, pitṛ, deva and brahman.
+{18} Above this letter a rēpha was at first engraved and later on erased, leaving the mark.
+{19} The first letter in this word was originally engraved as śre and the sign of mātrā was subsequently
+	 erased and the sign of the secondary u was put. 
+{20} The two letters giving a name are totally lost in the original.
+{21} On the second of these akṣaras a repha was at first engraved and later on erased, leaving the mark.
+	 The last letter is deformed.
+{22} Originally sa, later on corrected by overwriting.
+{23} The space for the mātrā of ā is left blank.
+{24} This and the fourth foot of this verse show a wrong pause fall.
+{25} Probably to be restored to ityavetya su..
+{26} That is, with observances or ceremonies calculated to remove calamities.
+{27} This stich means taht 'he removed the order or the belief that a Brāhmaṇa is only to take and not
+	 to give'.
+{28} The intended reading is perhaps sāvayavasāṃga for sāṃgopāṃga, with the main and sunsidiary. The 
+	 horizontal stroke of the preceding m is missing and thus it appears as g.
+{29} The word kārmaṇa means witchcraft, for which, cf. Vikramāṅkadevacarita(Bombay), II, 14 and VIII, 2.
+{30} This akṣara is blurred but the reading of the preceding one is certain and the one that follows it is
+	 rather deformed. Should we take it as -pati dhaṣka in the sense of -dharṣa or dhṛṣṭa, meaning
+	 assaulting? Sastri read the word as Turuṣka, but the mātrā of t is clear.
+{31} Only the consonant of this akṣara with the following visarga is certaain and all the rest part of it are
+	 corrected later on. The anusvāra above, too, is clear and some mātrā originally put above is scratched
+	 off. The reading of all these parts is uncertain.
+{32} The first letter of the name may also have been Mū. But the consonant is more like S.
+{33} In this line, and below too, the signs of anusvāra are only dots, some of which appear to have 
+	 been inserted later on.
+{34} The same person is mentioned in its sanskrit from Vijayāditya in 1.3 above.
+{35} Before this word is engraved another name Sathiradevaḥ, probably for Sārthadevaḥ, which was later
+	 on erased.
+{36} The preceding word is perhaps to be read as devaḍā and the word dōṇakārī has already explained by
+	 Sastri as a combination of drōṇa and khārī, both in the sense of measure. The whole of the remain-
+	 ing portion is in the local dialect.
+{37} It is a contraction of either Rājputra or Rāūla. The reading of the name of the village that precedes
+	 is certain but it is not known whether the first letter is a part of it or to be taken as śrī, an honorific
+	 prefix. Both ḍhivaḍā and ḍhīkaḍā (or ḍhīmaḍā) are local words denoting a well.
+{38} This daṇḍa is superfluous. Arahaṭṭa (or arghaṭṭa) is often, as taken here by Sastri to be a 'Persian
+	 wheel', but I find nothing like Persian in it. It only means, literally, has pots attatched to aras, i.e.,
+	 spokes or radius of a wheel (to lift water), as we find used in Rajasthan (for irrigation) even today.
+{39} This word too has not been explained before and some misunderstanding about its meaning still prevails,
+	 for which see P. B. P., p.234 where is has been taken as a tax on chōllikās brought from outside the
+	 town. I take it as a combination of two words, viz. cha (and) ulāpikā which is formed from ulapa
+	 (grass). Bundles of grass for cattle fodder are brought from the jungles even to day. D. C. Ganguly
+	 read the word as Cōpalikā (H.P.D.,p.324) but did not explain it.
+{40} This word means spreading out (articles for sale) before maṇḍapikā, i.e., a market pavilion where they
+	 were taxed.
+{41} The reading of this line, which is imbedded in the portion of the wall below, has been adopted from 
+	 the text in Ind. Ant., Vol. XIV, p.79.
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

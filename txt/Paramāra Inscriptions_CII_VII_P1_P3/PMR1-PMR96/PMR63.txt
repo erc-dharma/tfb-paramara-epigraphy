@@ -1,0 +1,131 @@
+PennGlobal: PMR63
+Period: VS 1102 Kārttika vadi 5
+Location: Bhāḍūṇḍ
+Dynasty: Paramāra
+King: Pūrṇapāla
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 7 verses.
+Metres: Verses 1-7 Anuṣṭhubh
+Gist: Records the construction of a stepped well.
+Published reference: Trivedi (1978), no. 63.
+
+Text{1}
+
+1. svasti | oṃ{2} namaḥ śrīnārāyaṇāya | [namaḥ śrī]varuṇā[ya ca | sa]rasvatyai gaṇeśāya | namo govrā(brā)hmaṇāya ca
+   ||1 raghuvaṃśa prasūtastu yātu dhānāṃtaka[ḥ] prabhuḥ | bhuṃḍipadrapradātāraṃ |{3} tasmai rāmāya vai na[maḥ] ||2 ˍU ˍU
+   rathasphuṭairṇṇāmaiḥ{4} goṣṭhikānāṃ(nām) |
+2. sarvvasya sukhasaṃvo(bo)dhā | praśa[sti]r likhya[te] U -{5} ||3 saṃvatsaraśateṣu daśasu durottaraśatādhikeṣu{6} | aṃkatopi
+   saṃvatsre(tsare) 1102 kārttika vadi paṃcamyāṃ 5 asyāṃ saṃvatsara māsa pakṣa divasa pūrvvāyāṃ tithau (1)| samastavṛ(bṛ)hadrājāvalīpūrvaṃ
+   | mahārā[jā*]dhi{7}rājaḥ | pra(para)-
+3. mārānvaya prasūtaḥ śrīdhaṃdhuka sutaḥ | ...... nvisita(?) | na......... ṇā .........ārātivarggaḥ{8} | śrīpūrṇṇapālaḥ
+   śrīma[da*]rvu(rbu)damaṃḍalaṃ praśāsati{9} hyetasmin kāle pravarttamāne | śrībhu(bhuṃ)ḍipadrasthāne | katipayavrā(brā)hmanaiḥ{10}
+   asāra(raṃ) saṃsāraṃ vudhvā(buddhvā) ||
+4. ātmaśreya[ja]śopavṛddhae{11} | suśliṣṭa .. ghaṭi[tā] ........yā | sādhu sajjana hṛdayānaṃdakarī | śrīmaṃta{12} śobhanā
+   vāpīḥ(pī) kārāpitāḥ(tā) | tatra vāpyāṃ prathamaḥ goṣṭhikaḥ{13}  atṛ(tri)gotra| prasūtaḥ soḍhakaḥ durggasvāmisutaḥ |
+   daśāṃsi(śi)kaḥ | aṃśu(śāḥ) 10||
+5. tathā tasyaiva durggasvāmi[naḥ*] sutaḥ | ātreyaḥ ......vanu......padmanābhāḥ | aṃśu(śāḥ) 20 ||
+   tathātreyaḥ madhusūdana rudraśarmmasutaḥ (|) vīṃ(viṃ)śāṃsi(śi)kaḥ aṃ{14} 20|| tasyaiva madhusūdana[sya*] suta[ḥ*] pradyumnaḥ |
+   catvārīṃ(riṃ)śāṃsi(śi)kaḥ | aṃ 40 || tasyaiva ....[ma]dhusūdana[sya*]
+6. [sutaḥ]......vīṃ(viṃ)śāṃsi(śi)kaḥ | [aṃ 20] || [kāśya]pari(ṛ)ṣi sutaḥ{15} dāmau(mo)dara[ḥ*] tṛṃ(triṃ)śāṃsi(śi)ka
+   [ḥ*]| aṃśu(śāḥ) 30| tathātreyasādhāraṇasutaḥ sarvvadevaḥ durggādityaḥ sutasametasya{16} sarvvadevasya vāpyāṃ bhāgaḥ vīṃśatimaḥ(viṃśatitamaḥ)
+   | aṃkatopi 20 || tathā [śāṃḍi]-
+7. [lya]gotraprasūtaḥ......suta | ri(ṛ)ṣiḥ vīṃ(viṃ)śāṃsi(śi)kaḥ | aṃ 20|| tathā tasyaiva durggaṭa[sya*]
+   sutaḥ śāṃḍilyagotrotpanaḥ(nnaḥ) śrīdevaḥ{17} | vīṃ(viṃ)śāṃśikaḥ | aṃ 20 || tathā śāṃḍilyagotra(trȳaḥ)
+   govīm(vin)daḥ sarvvadevasutaḥ vīṃ(viṃ)śāṃsi(śi)kaḥ | aṃ 20 || tathā tasyai[va]{18}
+8. deva[sya]suta[ḥ*] | tyā(?) ......[dā]{19}ua[ḥ*] saṃgarudrasutaḥ catvārīṃ(riṃ)śāṃsi(śi)kaḥ | aṃkato(taḥ)
+   40 || tasyaiva dāua[sya*] suta uddharaṇa[ḥ*] | aṃśu(śāḥ) 40 || tathā tasyaiva dāua[sya*] sutaḥ mādhavaḥ
+   aṃśu(śāḥ) 40 || tathātreyamaha{20}svāmisutaḥ || sarvvadeva[ḥ*] |....
+9. dāmo[daraḥ]........(ka)rmmarataḥ{21} vihiasutaḥ...... vāpyāṃ dvyaṃśāṃsi(śi)kaḥ || tasyaiva vihia[sya*] suta[ḥ*]
+   si(śi)vānaṃ[da]...... tu madhye caturthāṃsi(śi)kaḥ | aṃ 4 || tathā sarvvadeva[ḥ*] | kṣatṛ(tri)yamādhavasutaḥ
+   sajjanādisutai[ḥ*] saha{22} dharmme acalavu(bu)ddhiḥ{23} aṃśu(śāḥ) ....
+10. ...ma......yāṃtu śubhā(bhāṃ) gatīṃ(gatim) ||4 ......va | tiṣṭhaṃti [sasyarahitā] māsaṃ māsārddhameva ca ||
+    ahorātraṃ na tiṣṭhaṃti yā[vat salila varjjitā[ḥ*] ||5 anyajanmeṣu(nmasu) ye pāśī māhe - U śyapī tathā{24} ||
+    dūraṃ i....
+11. .......kabhūtāva.......ptāḥ sarvve [caṃḍa].... sī....||6 yasya kū[po ?] tu vitṛṣṇaiḥ | ṣaṭkarmmā
+    rohiṇī vu(u)bhau ||   [sa sapta]kulajaiḥ sārddhaṃ | sunāsīra (|) puraṃ vrajet |||7 dūṣayaṃti......
+12. cacada (?) .....rahitā tasmādvāpa..... atra sthāne riyaṃ{25} vāpiḥ(pī) [supra]tiṣṭhā | śriyānvitā |
+    sarasvatī(tī) prasādena aṃvā(bā)dityena śobhanāḥ(nā) ||8 tathā likhitamidaṃ mayā kāsya(śya)pagottra prasū[ta]-
+13. upādhyāya mādhava sutena | aṃvā(bā)dityavyā[sena |]....mayā likhitaṃ tatsarvvamāryaiḥ kṣamitavyaḥ{26} pramāṇamitiḥ(ti) ||
+    aparaṃ samastaśrībhuṃḍipadralokaṃ (|) sarvve goṣṭhikāḥ karamakulīṃ(mukulaṃ) kṛtvā vijñāpayaṃti | yathā lokakṛte[-]-
+14. lokamāhātma(tmaya)varddhitā goṣṭhikā......yena daivadaha{27} (daivāt bha)gnaḥ khasi(ci? )tapāṣāṇe tāti ciṃtā(cintā)
+    samastalokairna karttavyāḥ(vyā){28} kīṃ(kiṃ) va(ba)hunā | iyaṃ vāpiḥ(pī) lokotsaṃge kṣiptāḥ(ptā) |
+    prabhuryadevecha(ccha)ti ta.....
+15. ...............| atra sūtradhārāpi(rā api) catvāriḥ(raḥ) dhāreśvara(raḥ) | deua(aḥ) | devau(uḥ) |
+    laha.˛pa[śce]ti ||
+   
+-------------------------------------------------------------------------
+
+{1} From impressions.
+{2} Denoted by the Nāgarī letter u, with anusvāra above.
+{3} In the whole of this inscription the punctuation mark is very often used, sometimes even at the end of
+	the first and the third foot of a verse and also to separate names. All these marks, when redundant,
+	are here put in brackets, only to lissen the number of foot notes and corrections. Here read pradātāya
+	(or pradātre ca) tasmai. The first foot of this verse offends against the metre, as in some other instances 
+	also. The sign of visarga that precedes it is smaller and appears to have been inserted subsequently.
+{4} Read - ṭairnāṃmabhiḥ. The first two letters which are now lost may have been sarvvaiṃ-. The visarga is
+	not changed to r here.
+{5} Read praśastirli-. The last two akṣaras of this verse may have been mayā or -'dhunā.
+{6} Read dvyuttara-.
+{7} Some other letter appears to have been originally engraved here.
+{8} The intended reading may have been dalitārātivarggaḥ
+{9} Read praśasti. With praśasti, the following expression is redundant.
+{10} This visarga is changed to r in J. B. B. R. A. S., but sandhi is optional here. The daṇḍas in the 1. are 
+	 redundant.
+{11} Read śreyoyaśovṛddhaye. The following two letters which are missing may have been sandhi.
+{12} Read śrīmatī. The daṇḍa after tāḥ appears to have been scored off.
+{13} Gōṣṭhika means a member of the managing committee. See C. I. I., IV, p.21, n.3.
+{14} This is a contraction of aṃśa. What appears as the sign of anusvāra above dra is a fault of the stone.
+{15} Read kāśyaparṣi. From sutaḥ up to this letter the text is restored from J. B. B.R. A. S., as this part of the
+	 stone is now broken and lost.
+{16} Perhaps we have to read durggādityasutasametasya. The construction is not clear.
+{17} J. B. B. R. A. S. has śrīdharaḥ, but I am certain about my reading of the name.
+{18} The akṣara is now lost and has been restored from the reading in J. B. B. R. A. S.
+{19} This and the preceding letter are now lost. They are restored from the reading in J. B. B. R. A. S.
+{20} The second letter of the name may also be read as hu.
+{21} J. B. B. R. A. S. has [dha]rmmarataḥ, but to me the intended reading seems to be [ṣaṭka]rmmarataḥ.
+{22} The akṣara ha is engraved below the line.
+{23} J. B. B. R. A. S. has -rmmalabuddhiḥ, which is evidently wrong.
+{24} Read janmasu. Here the sense is not clear.
+{25} Read iyaṃ, but it would not suit in the metre after the sandhi. From the beginning of this line up to ṣṭhā
+	 the portion of the stone is lost and the reading is restored from J. B. B. R. A. S.
+{26} Read kṣantavyaṃ. The following five akṣaras cannot be connected with this.
+{27} These four akṣaras are again restored from J. B. B. R. A. S.
+{28} The intended sense appears to be that 'as the well has been constructed with dressed stones, there should
+	 be no anxiety about break in it'. tāti may have been wrongly engraved for tābhiḥ which again is
+	 to be corrected to tasmāt.
+
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

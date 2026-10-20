@@ -1,0 +1,21 @@
+PennGlobal: PMR197
+Period: 1276 śrāvaṇa śudi 7
+Location: Makāval
+King: Dhārāvarṣa
+Language: Sanskrit with local dialect
+Script: Nagari
+Text: Prose
+Gist: The purpose cannot be made out, but it refers to the illustrious Dhārāvarṣa
+Published reference: Trivedi (1989), no. 197.
+
+Text{1}
+
+1. ||siddham{2} || saṃvatu(t) 1276 varṣe srā(śrā)vaṇa
+2. śudi 3 sau[mye ?]{3} . . . . . . . . . .
+
+----------------------------------------------
+
+{1} From an impression.
+{2} Expressed by a symbol.
+{3} The letter in the brackets appears as a conjunct. The rest of the inscription is obliterated, as stated
+	above.

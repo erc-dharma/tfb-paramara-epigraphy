@@ -1,0 +1,121 @@
+PennGlobal: PMR6
+Period: VS 1038 bhādrapada śudi 14
+Location: Gaonrī 
+Dynasty: Paramāra
+King: Vākpatirājadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verses 1 and 2 Śārdūlavikrīḍita; vv.3 and 7 Vasantatilakā; vv.4 and 5 Anuṣṭubh; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Donation by Vākpatirājadeva
+Published reference: Trivedi (1978), no. 6. 
+
+
+Text{1}
+First Plate
+
+1. siddham{2} || yāḥ sphūrjjat phaṇabhṛd viṣānala milad dhūmra [pra]bhāḥ prollasan mūrddhā va(ba)ddha śaśāṅka koṭi ghaṭitā yāḥ saiṅhi(saihi )keyopamāḥ{3} 
+ | yāśca ca(ñca)dgi{4}rijā -
+2. kapola luli{5}tā[ḥ] kastūrikā vibhramās tāḥ śrīkaṇṭha kaṭhora kaṇṭha rucayaḥ śreyānsi(yāṃsi ) puṣṇantu vaḥ ||1|| yallakṣmīvadanedu(ndu)nā
+   na sukhitaṃ yannā-
+3. dritam vāridhervvārā yanna nijena [nā]bhi sarasī padmena śāntiṅgataṃ(tam) | yaccheṣāhi phaṇā sahasra madhura śvāsair na cāśvāsitaṃ tad rādhā virahā-
+4. turaṃ mura ripor vvellad vapuḥ pātu vaḥ ||2|| parama bhaṭṭāraka mahārājādhirāja parameśvara śrīkṛṣṇarāja devapādānudhyāta parama bhaṭṭāra-
+5. ka mahārājādhirāja parameśvara śrīvairisiṅha(siṃha) devapādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrīsīyakadevapādānu-
+6. dhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrīmadamoghavarṣadevāparābhidhāna śrīmadvākpati rājadeva pṛthvī vallabha-
+7. śrīvallabha narendradevaḥ kuśalī || yathā hūṇa maṃḍale āvaraka bhoga samva(mba)ddha pūrvvabhoktṛbhir bhukta bhukti krameṇa yathā samva(ba)[ddhaya]mā-
+8. na[e] samasta talakaiḥ sahita(te) vaṇikāgrāme samupagatān samasta rājapuruṣāṃ(ṣā)n vrā(n brā)hmaṇottarān prativāsi [paṭṭa]kila janapa[dā]-
+9. dīṃśca vo(bo)dhayatyastu vaḥ samvi(saṃvi)ditaṃ yathā atīta(tā)ṣṭatṛṃsa(triṃśa)duttara sāhasrika samva(saṃva)tsaresmin kārtti[kyāṃ soma] -
+  grahaṇa parvvaṇi
+10. snātvā carācara guruṃ bhagavantaṃ bhavānīpatimabhyarccya sansā(saṃsā)rasyāsāratāṃ{6} dṛṣṭvā | vātābhra vibhramamidaṃ vasu[dhā]{7}dhipatyamāpātamāttra-
+11. madhuro viṣayopabhogaḥ | prāṇās tṛṇāgra jalavi(bi)ndu samā narāṇāṃ dharmmaḥ sakhā{8} paramaho paraloka yāne ||3|| bhramat sansā(t saṃsā)ra cakrā-
+12. gradhārādhārāmimāṃ śriyaṃ(yam) | prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ phalaṃ(lam) ||4|| iti jagato vinaśvaraṃ sakalamidamā-
+     kalayyā(yyo)parilikhi-
+13. tagrāmaḥ svasīmā tṛṇa kāṣṭa(ṣṭha) yūti gocara  paryyanta(ntaḥ) savṛkṣamālākula(laḥ){9}  sahiraṇya bhāga bhoga(gaḥ) soparikaraḥ sarvvādāya sametaḥ u-
+14. pari likhita grāmesmin kalpitāṃśa{10} aṣṭasaptater madhyāt magaddha(dha) deśāntaḥ pātikaṇopābhaṭṭa grāma vinirga{11}ta sāṃkṛtya sagottra tṛ(tri)-
+15. pravara va(ba)hṛcaśākhine vrā(brā)hmaṇa sarvvānaṃdāya paṇḍita-dīkṣi[ta]lokānaṃda sūnave aṃśā'ṣṭau{12} 8 madhyadeśāntaḥ pātitya{13}kabhaṭṭagrāma-
+16. vinirgata vāsiṣṭha sagotra tṛ(tri)pravara cha(ccha)ndoga śākhine vrā(brā)hmaṇa mūlasthānāya āvasthika vra(bra)hmapaṇḍita sūnave aṃśattrayaṃ
+17. 3 kāvaḍabhaṭṭagrāma viniga(rga)ta gautama sagotra tṛ(tri)pravara vājimādhyandina śākhine vrā(brā)hmaṇa lohiṇāya īśvara sūnave aṃśattra-
+18. yaṃ 3 cauramva(mba)bhaṭṭa grāma vinirgata sāṃ(śāṃ)ḍilya sagotra tṛ(tri)pravara cchaṃdoga śākhine vrā(brā)hmaṇa caṃdrādityapi(pī)tavāsa sūnave aṃśacatuṣṭayaṃ 4
+19. kulāṃcā grāma vinirgata sāṃ(śāṃ)ḍilya sagotra tṛ(tri)pravara chaṃ(cchaṃ)doga śākhine vrā(brā)hmaṇa śāva(ba)rāya ranā(ṇā)ditya sūnave aṃśadvayaṃ 2
+   aśuresa{14}maṃḍalāntaḥ pā-
+20. ti avivā{15} grāma vinirgata vatsa sago{16}tra paṃca pravara chaṃ(cchaṃ)doga śākhine vrā(brā)hmaṇa paṃḍitāgnihotṛ(tri)kalohapāya vāsudeva su(sū)nave aṃśacatuṣṭa-
+21. yaṃ 4 dakṣiṇarāḍhāntaḥpātivilvagavāsa nirgata pārāsa(śa)ra sagotra paṃca pravara chaṃ(cchaṃ)doga śākhine vrā(brā)hmaṇa donākāya go-
+22. saraṇa su(sū)nave aṃśapaṃca{17} 5 khaḍu{18}pallikā grā[ma] vi[ni]rgata maudgalya sagotra tṛ(tri) pravara vājimādhyaṃdina śākhine vrā(brā)hmaṇa-
+   anantādityā-
+23. ya surāditya su(sū)nave aṃ-
+
+Second Plate
+
+24. śadvayaṃ 2 uttarakula deśāntaḥ pāti pauṇḍarikabhaṭṭa grāma vinirggata gārgya sagotra paṃca pravara chaṃ(cchaṃ)doga śākhine vrā(brā)hmaṇa vāma-
+25. naśvā(svā)mine dīkṣita hari sūnave aṃśatrayaṃ 3 umvarācara vinirggata agastya sagotra tṛ(tri) pravara vājimādhyandina śākhine vrā(brā)hma-
+26. ṇa ātukāya risiula sūnave aṃśamekaṃ 1 madhyadeśāntaḥ pāti maitreya sagotra tṛ(tri) pravara vājimādhyandina śākhine vrā(brā)hmaṇa puruṣottamāya
+27. līhā sūnave aṃśacatuṣṭayaṃ 4 madhupālikā grāma vinirgata kāsya(śya)pa sagotra tṛ(tri) pravara chaṃ(cchaṃ) doga śākhine vrā(brā)hmaṇa govinda śvā(svā)mine
+   devaśvā(svā)mi-
+28. sūnave aṃśatrayaṃ 3 śravaṇa bhadra vinirgata vatsa sagotra pañca pravara va(ba)hṛca śākhine vrā(brā)hmaṇa sihaṭāya mitrānaṃda sūnave aṃśacatuṣṭayaṃ 4
+29. śāvathikāntaḥ pātidardurikā grāma vinirgata bhārgava sagotra tṛ(tri) pravara chaṃ(cchaṃ)doga śākhine vrā(brā)hmaṇa saṃ(śaṃ)karāya devāditya sūnave aṃśadvaya
+30. 2 sāvathi[kā]deśāntaḥ pātimitilapāṭaka viniga(rga)ta parāśara sagotra tṛ(tri) pravara vājimādhyaṃdina śākhine vrā(brā)hmaṇa madhumathanāya a-
+31. cala sūnave aṃśadvayaṃ 2 kheḍāpālikā vinirgata mauni sagotra tṛ(tri) pravara vājimādhyaṃdina śākhine vrā(brā)hmaṇa svayaṃtapāya śrīnivāsa-
+32. sūnave aṃśatrayaṃ 3 kheṭaka vinirgata bhāradvāja sagotra tṛ(tri) pravara va(ba)hṛca śākhine vrā(brā)hmaṇa nenaiyakāya madhusūnave aṃśacatuṣṭayaṃ 4 ā-
+33. nohabhaṭṭa grāma vinirgata bhārgava sagotra tṛ(tri ) pravara vājimādhyaṃdina śākhine vrā(brā)hmaṇa jāsaṭāya viṣṇu sūnave aṃśadvayaṃ 2 tathā tasyaiva bhrā-
+34. tre vrā(brā)hmaṇa dedekāya aṃśadvayaṃ 2 sopura vinirgata śāṃḍilya sagotra tṛ(tri) pravara kauthuma śākhine vrā(brā)hmaṇa āvasthika sarvvadevāya{19} 
+    lohaṭasūna-
+35. ve aṃśadvayaṃ 2 kharjūrikā grāma vinirgata māhula sagotra tṛ(tri) pravara chaṃ(cchaṃ)doga śākhine vrā(brā)hmaṇa varāhāya śrīdhara sūnave aṃśacatuṣṭayaṃ 4
+36. dapura vinirgata vārāha sagotra tṛ(tri) pravara va(ba)hṛca śākhine vrā(brā)hmaṇa āśādityāya māhula sūnave aṃśatrayaṃ 3 [lā]ṭadeśa vinirgata-
+37. kāsya(śya)pa sagotra tṛ(tri) pravara vājimādhyaṃdina śākhine vrā(brā)hmaṇa bhāilāya harisūnave aṃśamekaṃ 1 rāja[kīya grāma] vinirgata vatsa sa-
+38. gotra paṃca pravara chaṃ(cchaṃ)doga śā[khi]ne vrā(brā)hmaṇa devādityāya līlāditya sūnave aṃśadvayaṃ 2 lāṭadeśāntaḥ pātināndipura vinirgata bhāra-
+39. dvāja gotra tṛ(tri) pravara vājimādhyandina śākhine vrā(brā)hmaṇa muṃjālāya īśvara sūnave aṃśadvayaṃ 2 śravaṇa bhadra vinirggata vatsa-
+40. sagotra pañca pravara vājimādhyā(dhya)ndina śākhine vā(brā)hmaṇāmāta(tya?) guṇākara su(sū)nave aṃśatrayaṃ 3 | evamamunā krameṇa u-
+41. parilikhita grāmoyaṃ u(yamu)parilikhita vrā(brā)hmaṇebhyaḥ ṣaḍvi(viṃ)śatibhyaḥ mātāpitrorātmanaśca puṇya yaśobhivṛddhaye'dṛṣṭaphala-
+42. maṅgīkṛtyācandrārkkārṇṇavakṣiti samakālaṃ parayā bhaktyā śāsanenodaka pūrvvakaṃ pratipādita iti matvā taṃni(tanni)vāsi pa-
+43. ṭṭi(ṭṭa)kila janapadair yathā dīyamāna bhāga bhogaḥ(ga) kara hiraṇyādikaṃ sarvvamājñā śravaṇa vidheyair bhūtvā sarvvadā eteṣāṃ(ṣām) u-
+
+Third Plate
+
+44. parilikhita niva(ba)ddha krameṇa{20} samupanetavyaṃ(vyam) | sāmānyaṃ caitat puṇya phalaṃ vu(bu)[ddh vā]'smad vaṃśajair anyair api bhā-
+45. vi bhoktṛbhir asmat pradatta dharmma dāyoyaṃ(ya)manumantavyaḥ ||{21}  pālanīyaśca | uktañca | va(ba)hubhir vvasudhā bhuktā rājabhiḥ
+46. sagarādibhiḥ | yasya yasya yadā bhūmistasya tasya tadā phalaṃ(lam) ||5|| yānīha dattāni purā narendrair dānāni dharmmārtha ya-
+47. śas karāṇi | nirmālyavānta pratimāni tāni ko nāma śā(sā)dhuḥ punarā[da]dīta ||6|| asmat kulakrama mudāramudāharadbhir a-
+48. nyaiśca dānamidam abhyanumodanīyaṃ(yam) | lakṣmyās taḍit salila budvu(budbu)da caṃcalāyā dānaṃ phalaṃ parayaśaḥ paripālanaṃ
+49. ca ||7|| sarvvānetānbhāvinaḥ pārthivendrānbhūyo bhūyo yācate rāmabhadraḥ | sāmānyoyaṃ dharmmaseturnṛpāṇāṃ
+50. kāle kāle pālanīyo bhavadbhiḥ ||8|| iti kamala dalāmvu vi(mbu bi)ndulolāṃ śriyama-
+51. nucintya manuṣyajīvitañca | sakala[midamudā]hṛtaṃ ca vu(bu)ddhvā na hi puruṣaiḥ para-
+52. kīrttayo vilopyāḥ | iti samva(saṃva)t 1038 dvirāṣāḍhaśudi 10 | svayamājñā |
+53. dāpakaścātra śrīrudrādityaḥ || sva hastoyaṃ śrī vākpatirājadevasya ||{22}
+
+--------------------------------------
+{1} From facsimiles between pp.108-11 in Ep. Ind., Vol. XXIII.
+{2} Denoted by a symbol.
+{3} The sign of visarga was inserted subsequently.
+{4} There are some chisel-strokes, probably showing that some other letters were first engraved here by mistake.
+{5} The curve of the mātrā is not formed above this akṣara.
+{6} The sign of anusvāra is put on the preceding letter.
+{7} The engraver first incised dhi(धि), and the later on the ā-sign was formed without deleting the top curve of the
+	medial i(K.N.D.).
+{8} There is a redundant anusvāra over sa(स).
+{9} The visarga sign was inserted subsequently.
+{10} Sandhi is violated here and in some instances below. The word kalpita here means fixed or settled.
+{11} Faint traces of the superscript letter are visible.
+{12} Read aṃśāṣṭakaṃ as suggested by Dikshit, or aṃśaḥ aṣṭaḥ
+{13} The superscript of this akṣara is engraved as avagraha
+{14} The correct form of this is asureśa.
+{15} It can also be read as avidhā(अविधा). Sandhi is violated here and in several places below, which are not noted 
+	separately.
+{16} The pṛṣṭha mātrā of go(गो) shows a fine curve.
+{17} Read aṃśapañcakaṃ or aṃśaḥ pañca. The pravaras of the Pārāśara gotra are three and not five, as wrongly 
+	mentioned here.
+{18} The second akṣara of this name can also be read as du(दु).
+{19} Both these letters are damaged, and the reading is doubtful.
+{20} The joining horizontal bar of this letter is not engraved.
+{21} This mark of punctuation is redundant.
+{22} The letters of the sign manual, which is in continuation, are smaller than the main portion of the record.
+
+
+
+
+
+
+
+
+
+
+

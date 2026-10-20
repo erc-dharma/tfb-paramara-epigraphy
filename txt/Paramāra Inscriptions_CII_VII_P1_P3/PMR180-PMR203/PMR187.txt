@@ -1,0 +1,54 @@
+PennGlobal: PMR187
+Period: 1181 jyeṣṭha vadi 12
+Location: Girvad
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 7 verses
+Metres: Verses 1-2 Vasantatilakā; v.3 Śārdūlavikrīḍita; vv. 4 and 6-7 Anuṣṭhubh; v.5 Mandākrāntā  
+Gist: To record that the temple in which the stone is set up was repaired by one Śrī Satyātmā, after taking permission 
+from Griviḍa (Girvaḍa) Brāhmaṇas, who too made some donations to the deity.
+Published reference: Trivedi (1989), no. 187.
+
+
+Text{1}
+
+1. siddham{2} || oṃ namo nārāyaṇāya ||{3} viṣṇoranuṣṇakarakāṃtiviḍaṃvi(bi)bhāsaḥ pādāṃgulīnakhamayūkhaśikhāḥ punaṃtu |
+   viśvaṃ puna(rvidhi)kamaṃḍa-{4}
+2. lukelilolasvarvvāhinīgamanavibhramāvahaṃtyaḥ ||1 pāyātpuraṃdarasahāyakirīṭaratnacchāyā-
+3. samicchalitakāṃtipadaṃ murāreḥ | tadvo yadarghamayapāthasi lokanāthāḥ pre[ṣyaṃ]ti{5} daivakṛtadurli-
+4. pilekhaluptiṃ(ptim) ||2 yadvācāṃ manasāṃ dhiyāṃ ca na padaṃ yasminna tejasvinau caṃdrārkkau nimiṣaṃti yatra
+5. taḍito nirvvāṃti yatrāgnayaḥ | etepi pratapaṃti lavdha(bdha)mahaso yasya praticchāyayā tattejaḥ kathamapyame-
+6. yavibhavaṃ śrīpaṭṭanārāyaṇe ||3 uttaṃkasuṣire bhīme vaśiṣṭho nadivarddhanaṃ(nam) | kiṃlādri sthāpayāmāsa
+7. bhujaṃgārvvu(rbbu)dasaṃjñayā ||4 asmillokatritayamahite devadevasya viṇṇorguhyaṃ tīrthaṃ tadidamabhava-
+8. tpaṭṭapurvvo hṛdoyaṃ(yam) | yatroddhāraṃ griviḍapadavīvrā(brā)hmaṇānprārthayitvā śrīsatyātmā vapuṣi vidadhe
+9. paṭṭanārāyaṇasya ||5 pāṭīkṣetraṃ tathā khyātāṃ rudrāvaṃtī{6} ca pattikā(kām) | gṛ(gri)viḍasthānalokoyaṃ dadau de-
+10. vāya bhaktitaḥ ||6 dhānyasetīcatuṣkaṃ tu varṣākālahalaṃ prati | dattaṃ pratyaraghaṭṭaṃ tu yavānāṃ seti-
+11. kāṣṭakaṃ(kam){7} ||7 tathāṭiṃ kuvakaṃ prati yavasetikā 4 tathā caikaḍīvinapāṃgotrāyattaṃ (?) devāya dattaṃ draṃma | 
+    tathā
+12. lokena dattāni puṣphā(ṣpā)ṇāṃ{8} necakāni paṃca | tathā māsopavāsikānāṃ{9} vastranimittaṃ dattaṃ draṃma | pavitrakahe-
+13. toḥ sutrapala{10} 20 [|*] naivedyamabhyaṃgatailakarṣadvayaṃ(yam){11} [ca pratye]ākādaśī | etatsamastaṃ lokena dattaṃ pālanīyaṃ
+    iti [|]
+14. saṃvat 1181 jyeṣṭha vadi 12 vu(bu)dhadine jīrṇṇoddhāraḥ kṛtaḥ ||
+
+----------------------------------------------------
+
+{1} From the original and an impression.
+{2} Expressed by a symbol.
+{3} The first of the daṇḍas is so close to the preceding akṣara as to look like a mātrā, and the second
+	appears to have been inserted subsequently.
+{4} The sign of rēpha on the first of the bracketed akṣaras is faint even on the original. The idea of 
+	the water of the Ganges flowing out of the kamaṇḍalu recalls that in N. S. C., Canto I, V.48.
+{5} The slanting stroke of the subscript of the bracketed akṣara is faintly visible even on the original. 
+{6} The sign of anusvāra on the penultimate letter is blurred. The meaning of the word pattikā is not
+	known to me. Though not known to lexicons, from the context it appears to denote a territorial division. 
+{7} The construction in this verse is not proper, but it shows that in that region araghaṭṭas (water- wheels)
+	is used to irrigating fields. The word sētī (khētī ?) is local, meaning cultivation, from kṣetra (?).
+	According to M. Williams, sētakī is nadyādi.
+{8} The subscript letter of the second akṣara is cut as y, ending in a stroke as of ph. The preceding 
+	sentence is in the local language, and I am unable to understand it. The sense shows that
+	nēchaka is a local word meaning a garden. 
+{9} The reading is certain. It probably means those who observe fast for a month.
+{10} Pala is a weight equal to four karṣas. 
+{11} The word karṣa appears also in No. 84, v.76. The expression that follows has to be corrected to
+	 -pratyekādaśi. 
+

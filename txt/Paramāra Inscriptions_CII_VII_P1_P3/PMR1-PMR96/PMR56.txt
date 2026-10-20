@@ -1,0 +1,168 @@
+PennGlobal: PMR56
+Period: VS 1314 māgha vadi 1
+Location: Mōḍī
+Dynasty: Paramāra
+King: Jayavarmadeva
+Language: Sanskrit
+Script: Nagari
+Text: All in verses, mostly in Śārdūlavikrīḍita and Sragdharā metres
+Gist: Land donation  
+Published reference: Trivedi (1978), no. 56.
+
+Text{1}
+Fragment No. 1
+
+1. {2}hatahṛdi vidadhatsiddhidattāvalamvo(bo) heraṃvo(bo) heraṃvo(bo) vo vivekaṃ vitaratumadhunāpādite{3}-.....
+2. {4}nihaṃti satataṃ savra(bra)hmakā nirjjarāḥ sākṣādeva sa eṣa siddhanagarīnādhārccito-.....
+3. rvviśaṃti cakitāḥ {5}[kha]dyotapuṃcā iva ||4|| uttaṃkāya mahīdhradarppadalanaśca-.....
+4. {6}[ddhṛ]taṃ bhujamivāmnākaujasāṃ paścime siṃdhau tiṣṭhati nandivarddhanagirirbha-.....
+5. tyayaṃ(yam) | krīṭābhiśca nidarśayaṃti gagane'dhvā yatra bhūmau sthitiṃ rvvāśiṃ-..... 
+6. {7}sanāthaṃ pramāraḥ prasiddhastadvaṃśyaṃ yadbhaviṣyatyaparanṛpaśataṃ tadbhaviṣyatya[ji]-.....
+7. {8}- - -ḍukalpo nidhiriva mahasāṃ maṃduko nāma yajvā | tāpenārttā dharitrī vicalati va[sudhā].....
+8. {9}U - na saha[viṃ ?]ścakre dharitrīdhavaḥ ||14|| vaṃśe tasya mahārathaḥ samajani śrīdarppaviścaṃ(śaṃ)bharaḥ saṃvarttā[i]..... 
+9. raṇaikapādavijayī kopi prabhurjyāyasāmetasminnajaniṣṭaduṣṭabhiduraḥ kāyasthiraścānvaye ||1 -{10}.....
+10. nāyācito gūḍhaṃ maṃtri[ja]nasya sotiniyate yu[ddhā]ya saṃketitaḥ{11} | satyaṃ paśyata rājarājamu[ddhau ?].....
+11. dhāḥ ||19|| ādhāne{12} yasya hetuḥ svamukhavi(bi)laviśatsvaprabhāve savitrīṃ viṃvā(biṃbā)tpradyotanasya cyutama-.....
+12. tkhātadhūlīprava(ba)lataratamovyastamārttaṃḍaviṃvaṃ(bibaṃ ) śaṃke saṃtapta[golaṃ] karakamalapuṭenaiva kṛṣṭaṃ dha[r]i[tryāṃ(tryām)|].....
+13. ṣaṃ(khaṃ)ḍe yatinagasaritāṃ puṇyatīrthānyabhūvaṃ hemnāṃ śrīvairisiṃhastatitaṃtinulāḥ{13} saṃdadau sva-.....
+14. {14}hate kṣiptaḥ śaveṃhri(ghri)kramaḥ | hṛnnālīkamanomilallayamamuṃ sīyākamīśapriyā prītā pretata-.....
+15. 26|| hūṇānāṃ rudhirāktamālavamahīṃ raktodakenokṣitāṃ sīyāko vu(bu)bhuje'yutāni subhaṭavrā[ta*]-.....
+16. tannāmnā svayaśaḥsthalakṣititale vyaktaṃ samutpādyatāṃ(tām) | ityuktvā parameśvareṇa vaḍajānāthena{15} sa--...
+17. raḥ ||[30]||{16} yasya vākpatirājeti nāma horā parisphuran | sa muṃjo yaśasāṃ puṃjaḥ paṃcāna[na]-.....
+18. mā(?)raṃ vinā nāsāṃge'nubhavaḥ{17} paro mṛgaśiśukrīḍāsphuraccakṣuṣāṃ(ṣām) | tā mlānāḥ kiraṇaiḥ-.....
+19. rakulaṃ tasminkathābhūmayaḥ ||34||{18} tadbhrāta siṃdhurāje'bhavadiha vasudhāprema-.....
+20. raḥ ||36|| {19}nāmnā yaccaturuttaraṃ śatamiyanmerutrikūṭādayaḥ prāsādā jala-.....
+21. [śa ?]varodhaṣṇutaścaidyo bhīmaparākramasya purataḥ ke nāma raṃkā nṛpāḥ ||3-{20}.....
+22. paṃca[su-] sasarjja sadṛśaḥ śrīkārttavīryeṇa{21} vā kodaṃḍaśrutinirggatāḥ.....
+23. savasyādhikaṃ(kam) ||41|| yonīrddevakulasya darśaya[ti]{22} yaḥ prāvarṣayatyaṃ-.....
+24. haryakṣasthāmni pīṭhe kṛmaya iva nṛpā yasya kṛtyāni dṛṣṭvā śrutvā.....
+25. -ge pratāpairiva naganagarīgrāmadā[haṃ] prasarpya jjvālābhiḥ pūrṇṇama[enaṃ*]..... 
+26. {23}yāpyekadā saṃgrāme tulayāṃ na cakrurasakṛdda[d dra]myā vṛṣasya[rddhi].....
+27. bhūbhṛtāṃ ca janako bhūyo va(ba)bhūva kṣitau | suślakṣṇā yadu[vaṃ]{24}.....
+28. xxx xxx xxx xxx
+
+Fragment No. 2
+
+29. .....prāṇā..jñāna-ccārā... .....
+30. {25}[dā ?]varīśārṅgiṇā yādṛgsa trividhapravīramuku[ṭai]- ....
+31. {26}ṇātyo yadunṛpatirabhūtkāṃdisī(śī)kotidīnaḥ ||54|| ka-...
+32. [ma]ruciḥ satyaḥ satāṃ sammataḥ | etasminnapi śūlapāṇi[ra]-...
+33. ḥ pāśupato'vaṃ[tya]{27} ṛṣiḥ śrī mallikārjunaḥ | karkko- .....
+34. maṃḍale svabhuktau maṃḍalīkayamadaṃḍara[ājitaśrī]{28}ekalladevā[ya].....
+35. da(de)vena pradattamiti || iti guvāsāgrāmasya [dā]naṃ(nam) || vārihi(dhi?)gā[u ?]{29}....
+36. {30}kalladevaḥ kṣitau || || samva(saṃva)t 1314 varṣe māgha vadi 1 adye[ha].....
+37. [tra]yamātraṃ savṛkṣamālākulaṃ sarvvādāyasahitaṃ ṭhakurasrīhara-.....
+38. śrī majjaya[varmma]{31}devakalyāṇarājye | ṭhakuraśrīharadevesa-.....
+39. -yade[vaparigṛ]{32}hītaḥ svabhuktāvāyātaṃ ca matvā savṛkṣamālāku[laṃ].....
+40. ma adyeha śrīmajjayavarmmadevarājye mahāpradhānacā[duri]{33}.....
+41. [kṣa]mālākulaṃ{34} sarvvādāyasahitaṃ devaśrīvaidyanāthāyoda-{35}.....
+42. -rājaputraśrīgoviṃdarājapautraṇa rājaśrī{36}arisiṃha[de]-.....
+43. || arddhaṃ devaśrīvaidyanāthāya | arddhaṃ śrīajayeśvarāya ca .... ...
+44. [u]dakena pradatta iti || mauḍīmaṃḍale pattanādāgneyāṃ di[śi]....
+45. naigamakāyastha paṃ{37} śrīarjjunena halaikasya bhūmī pradattā ||.....
+46. grāme || gharaḍautagrāmedhipa | rāja | vā(bā)lasīṃ(siṃ)hena grāmāddakṣiṇa.... 
+47. da(de)vena halaikasya bhūmī pradattā | grāmādīśānyāṃ diśi | vuha(buddha)....
+48. {38}kādāyānmāsaṃ māsaṃ prati dramma{39} 1 pradattaḥ || tathā dāyāt dinaṃ pra....
+49. madhye haṭṭadvayaṃ | gṛhaika ca || ḍoḍarāja | kamva(mba)lasī(siṃ)hasute[na]....
+50. {40}..nīyo bhavadbhiḥ || aṣṭāviṃśatikoṭyastu ma(na)rakāṇāṃ ca dāruṇāḥ ....
+51. -yena vipreṇa viduṣā vāmanena vai | praśastiḥ sadalaṃkārā kṛteha ....
+52. bhūmiḥ{41} maṇivāya 4 grāme paśca(ści)madiśāyāṃ pradattā mahirāutā{42} - grāme śu[di ]....{43}
+
+---------------------------------------------------------------
+
+{1} From the original and an impression.
+{2} Metre: Sragdharā
+{3} It is not known if this akṣara was to(तो), for a vertical after it, if engraved at all, is lost. At first,
+	tuṃmadhutā was engraved, as later on, the sign of anusvāra was erased, retaining the mark, and the consonant
+	of the last was changed to n(न).
+{4} Metre in this and in the following three lines: śārdūlavikrīḍita.
+{5} Because of a redundant stroke, this letter appears as sva.
+{6} Read -uddhataṃ, or samuddhataṃ. Probably nākaujasāṃ = 'of the gods' is intended. Va changed to vā, metris causa.
+	The first letter in paścime was originally cut as pā and later on the sign of the mātrā was scored off as
+	redundant.
+{7} Metre in this and the following line: Sragdharā. Read thaḥ. The word Paramāra is changed to Paramāra,
+	for metre.
+{8} These akṣaras are partly visible but they cannot be made out. The last two in this line are restored
+	conjecturally.
+{9} Metre in this and the following two lines: Śārdūlavikrīḍita. The reading of the bracketed letter that
+	follows is certain, but it gives no sense.
+{10} The unit figure of the number is lost. Also note the invented origin of the word Kāyastha.
+{11} The bracketed letter is erased (?). The phrase gives no sense.
+{12} Metre in II.11-13: Sragdharā.
+{13} The sign of anusvāra is erased and the consonant of the third letter is changed to t. SHould we read
+	 tatiratulāḥ, which also suits the metre (?)
+{14} Metre in this and the next two lines: Śārdūlavikrīḍita.
+{15} This is apparently a local deity. The name appears to be connected with Vajrata. Occurring in No.24.
+	v. II. But also see n. on this name, in the edition of the inscription, above, on p.196.
+{16} Metre: Anuṣṭubh. The lacunae at the end of this line may be filled in by reading samaprabhaḥ.
+{17} Metre in this line and in the beginning of the next: Śārdūlavikrīḍita. The reading of the first four
+	 akṣaras in this line, which are indistinct, is not certain.
+{18} Metre: Sragdharā. This is evidently the description of Bhoja.
+{19} Metre in this and the next two lines: Śārdūlavikrīḍita.
+{20} The unit figure of the number is lost.
+{21} That is, Sahasrārjuna who ruled Māhiṣmatī and was killed by Paraśurāma.
+{22} The consonant of this akṣara is formed as s. Metre in this and the next line: Sragdharā.
+{23} Metre of verse in this and the next line: Śārdūlavikrīḍita.
+{24} Probably -vaṃśajā, but the rest of the line is lost. The next line contains parts of only two akṣaras
+	 , which cannot be made out.
+{25} Metre: Śārdūlavikrīḍita.
+{26} Metre: Sragdharā, Kāndiśīka means frightened, or 'afraid'. Literally, one who has lost the direction.
+{27} The latter part of this akṣara is lost.
+{28} The letters in the brackets are altogether lost and are conjecturally supplied, as the last one also in this line.
+	 No sandhi is made between śrī and the following ē, of which we have some other instances below. In the
+	 beginning of this line the lost letters appear to be mālava-.
+{29} The reading is certain but no intelligible sense can be made out.
+{30} Metre: Śārdūlavikrīḍita. The first letter which is lost may have been ko(को).The number of the verse is
+	 lost.
+{31} These two letters are slightly damaged but the reading is certain. SOme of the following punctuation
+	 marks are redundant.
+{32} The bracketed letters in this line are all lost and their restoration is conjectural but almost certain.
+{33} The consonant of the first of these akṣaras looks (or, is) somewhat as d and the second has left only
+	 traces. It may also have been ṇ.
+{34} Read savṛkṣa-.
+{35} Read -kapūrvvakaṃ.
+{36} Sandhi is not made here, as also in some other instances below. The last two akṣaras in the line are
+	 obviously -vena.
+{37} This letter stands for Paṃḍita. It is noteworthy that this is used with the name of Kāyastha, who was
+	 also a trader.
+{38} Should we read maṇḍapikādāyāt, i.e., from the house where the articles brought for sale were taxed?
+{39} This word is used without any case suffix. The last five letters in the line have to be restored as 
+	 tad=ādāyānudinaṃ.
+{40} The first two akṣaras in the line appear to have been pāla.
+{41} The sign of visarga appears to have been later on inserted. Maṇivāya is rather an uncommon word and
+	 may denote a 'jeweller who prepares strings of precious beads', on the analogy of tantuvāya from tantu. It
+	 appears that they are shown by the number 4, without giving their names.
+{42} It is not known whether Rāūtā or Mahirāūtā was the name.
+{43} Probably cha(छ), denoting the end of the record.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

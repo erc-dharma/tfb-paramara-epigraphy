@@ -1,0 +1,25 @@
+PennGlobal: PMR17
+Period: c. 1000-1055 AC
+Location: Bhojpur 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 2 verses
+Metres: Verse 1 Vasantatilaka; v.2 Upajāti
+Gist: Engraved on the pedestal of a colossal image of a Jain Tīrthaṅkara in an old Jain temple.
+Published reference: Trivedi (1978), no. 17. 
+
+Text{1}
+
+1. ------{2}[kā]re cadrārddha moli rasanaḥ sama -U-U[|*] --U-UUUUmadbhūnaki[rtti]--{3}; --U rāja parameśvara bhojadevaḥ ||1||
+2. ------raḥ sāga{4}ranadi nāmā | sa nemicaṃ[dro] vidadhe pratiṣṭāṃ{5} [su]durlabhaḥ sā(śā)tijinasya [sūriḥ] ||2||
+
+---------------------------------------------
+
+{1} From an impression
+{2} It is expected that the Siddham symbol was engraved at the beginning. Along with that, twelve syllables are lost
+	here.
+{3} The two akṣaras lost here may have been rāśiḥ and the following three akṣaras rājādhi- (D.C.S.).
+{4} This akṣara is damaged. Fifteen syllables are lost at the beginning of this line.
+{5} The slanting middle bar of the superscript of this letter is not engraved. Read -ṣṭhāṃ.

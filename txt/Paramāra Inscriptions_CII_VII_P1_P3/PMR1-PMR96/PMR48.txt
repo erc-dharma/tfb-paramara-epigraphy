@@ -1,0 +1,77 @@
+PennGlobal: PMR48
+Period: VS 1270
+Location: Sehōre
+Dynasty: Paramāra
+King: Arjunavarman
+Language: Sanskrit
+Script: Nagari
+Text: Mixture of prose and poetry
+Gist: Land grant 
+Published reference: Trivedi (1978), no. 48.
+
+Text{1}
+
+{2}sa eṣa naranāyakaḥ sarvābhyudayī sāvairisolesambaddha uttarāyaṇogrāme ubhuvosaha{3} samastarājapuruṣān brāhmaṇottarān
+prati nivāsipaṭṭakilajanapādadīṃśca bodhayati |
+ast vaḥ{4} āṣāḍhavadi 15 some somavatītīrthe snātvā śrīmadarjunavarmadevena supurodhase paṇḍitagovindāya
+mahākālapuramadhye daṇḍādhipativāsavigrahamudakapūrva pradattaṃ{5} pratolīprāgārasīmāparyantam |
+saṃviditaṃ{6} yathā śrī bhṛgukacchasamāvāsitairasmābhiḥ saptatyadhikadvādaśaśatasaṃvatsare vaiśākhavadi {7}amāvāsyāyāṃ sūryagrahaṇaparvaṇi
+snātvā bhagavanthaṃ bhavānīpatimabhyarcya saṃsārasyā'sāratāṃ dṛṣṭvā |{8}
+
+*	*	*	*	*
+
+{9}iti sarvaṃ vimṛśyā'dṛṣṭaphalamaṅgīkṛtya muktāvasthū{10}sthānavinirgatāya vājasaneyaśākhādhyāyine kāśyapagotrāya kāśyapā-
+vatsāranaidhruvetitripravarāyā''vasthikadelhaprapautrāya paṇḍitasomadevapautrāya paṇḍitajaitrasiṃhaputrāya purohitagovindaśarmaṇe brāhmaṇāya
+samasto'pi grāmaścatuḥkaṅkaṭa{11}viśuddhaḥ savṛkṣamālākulaḥ sahiraṇyabhāgabhogaḥ soparikaraḥ sarvādāyasametaḥ sanidhinikṣepo
+mātāpitrorātmanaśca puṇyayaśobhivṛddhaye candrārkārṇavakṣitisamakālaṃ yāvat parayā bhaktyā śāsanenodakapūrvaṃ pradattaḥ |
+tan matvā tannivāsipaṭṭakilajanapadairyadhādīyamānabhāgabhogakarahiraṇyādikaṃ ddevabrāhmaṇabhuktivarjamājñāvidheyairbhūtvā sarvamamuṣmai dātavyaṃ |
+
+*	*	*	*	*
+
+saṃvat 1270 vaiśākhavadi 15 some | cha | śrī mu 3 | racitamidaṃ mahāsāndhi० paṃ०
+śrībilhaṇasammatena rājaguruṇā madanena |
+svahasto'yaṃ mahārājaśrīmadarjunavarmadevasya |
+utkīrṇaṃ paṇḍitabāpyadevena |
+
+--------------------------------------
+{1} As transcribed by F.E Hall in Journ. of Am. Ori Soc., Vol. VII, pp.52 f. Hall's transcript is not line.
+	by line, but I have retained the lines of his transcript.
+{2} The preliminary portion, which is practically identical with that of the preceding grant, as Hall says, was 
+	omitted by him in his transcript and thus it cannot be given here, as the original too is now missing.
+{3} The meaning of this expression is rather indistinct. Uttarāyaṇō as a name of a village is rather curious
+	and equally curious is the name Ubhuvōsaha. Probably the expression appear to denote some two villages.
+	and if so, the use of saha may be justified. Sāvaīri appears to be the name of the leading village, as can
+	be guessed by the use of the word sambaddha. It is, however, not known if the word sōlē is to be taken
+	hare in its local use denoting sixteen, as actually taken by some, for which see H.P.D., p.201.
+{4} Supply saṃviditaṃ here.
+{5} Read vigrahaḥ . . . .pradattaḥ. The first of these words which means 'body', appears to have been used
+	here in the sense of an image to be installed in a vāsa(temple) to be constructed on the spot. Hall translated
+	this expression as "a ground plot for a temple daṇḍādhipati"; but cf. Barnett who says that vigraha
+	here means a section or block and vāsa means a house. Thus the gift consisted apparently of a block of
+	buildings which belonged to (the office called) daṇḍādhipati. Also see D.H.N.I., Vol.II, p.896, n.2.
+{6} Insert ca after this word.
+{7} Sandhi is again violated here.
+{8} The punctuation mark is redundant.
+{9} The portion between the asterisk marks is identical with that of the previous inscription.
+{10} THis name appears as Muktāvasu in the previous grant.
+{11} Read catuṣkaṃkaṭa, which has been so often explained.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

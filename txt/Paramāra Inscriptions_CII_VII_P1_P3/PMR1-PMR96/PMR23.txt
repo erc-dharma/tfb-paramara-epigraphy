@@ -1,0 +1,104 @@
+PennGlobal: PMR23
+Period: Unclear
+Location: Śhērgaḍh  
+Dynasty: Paramāra
+King: Udayāditya
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 8 verses
+Metres: Verses 1-2 and 4-5 Anuṣṭubh; vv.3 and 7 Vasantatilakā; v.6 Indravajrā; v.8 Śālinī 
+Gist: Grant of village to god Somanātha.
+Published reference: Trivedi (1978), no. 23. 
+
+Text{1}
+
+1 oṃ{2} svasti | ja[yobhyudayaśca | jayati*]{3} vyomakeśosau [yaḥ sarggāya vi(bi)bhartti tām | ai*n]davīṃ si(śi)rasā lekhāṃ jaga-
+2 [dvī(dbī)]jāṃkurākṛtim ||1|| tanvaṃtu{4} vaḥ smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ | kalpānta samayoddāmataḍi-
+3 dvalaya piṅgalāḥ ||2|| paramabhaṭṭāraka mahārājādhirāja parameśvara śrī vākpatirājadeva pā[dānu*]-
+4 dhyāta paramabhaṭṭāraka mahārājādhirāja parameśvara śrī sindhurājadeva pā[dānudhyāta para*]-
+5 ma bhaṭṭāraka mahārājādhirāja parameśvara śrī bhojadeva [pādānudhyāta para]{5}[mabhaṭṭāraka ma*]-
+6 hārājādhirāja parameśvara śrī udayādityadeva[ḥ*]{6} kuśalī || caccuroṇī maṃḍa[lāntaḥpāti..]{7} -
+7 radrahadvādaśake śrī kośavarddhanadurggīya śrī somanāthadeva [bhu]kteranu{8} ......
+8 vilāpadraka grāme samupagatān samasta rājapuruṣān vrā(brā)hmaṇottarān prati[nivāsi paṭṭakila ja*]
+9 napadādīṃś ca vo(bo)dhayatyastu vaḥ saṃviditaṃ ||{9} yathā karppāsikā grāmāvasthitair asmā[bhi------dhi*]{10}
+10 kaśataikādaśa saṃvatsare caitra su(śu)di caturddaśyāṃ damanaka parvvaṇi snātvā carācara gu[ruṃ bhagavantaṃ bha*]-
+11 vānīpatiṃ samabhyarccya saṃsārasyāsāratāṃ dṛṣṭvā | tathā hi | vātābhra vibhramam idaṃ vasudhādhipa[tyam āpāta*]-
+12 mātra madhuro viṣayopabhogaḥ | prāṇās tṛṇāgra jala vi(bi)ndu samā narāṇāṃ dharmmaḥ sakhā parama[ho para*]-
+13 loka yāne ||3|| bhramat saṃsāra cakrāgra dhārā dhārām imāṃ śriyaṃ(yam) | prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ phalaṃ(lam ) [||4||*]
+14 iti jagato vinaśvaraṃ svarūpamākalayyādṛṣṭa phalam aṃgīkṛtya candrārkkārṇṇava kṣiti sama kālaṃ yā-
+15 vat parayā bhaktyā śrī kośa varddhana dugrggīya śrī somanāthadevāyaivoparilikhita grāmaḥ sa(sva) sīmā tṛṇa yū-
+16 ti gocara paryantaḥ savṛkṣa mālā kulaḥ sahiraṇya bhāga bhogoparikara sarvvādāya sametaś ca mātṛ(tā)pitror ātma-
+17 naś ca puṇya yaśobhivṛddhaye |{11} śāsanenodaka pūrvvakatayā pradatta iti | tanmatvā tannivāsi janapadair yathā [pra]-
+18 dīyamāna bhāga bhogakara hiraṇyādikaṃ deva vrā(brā)hmaṇa bhukti varjjam ājñā śravaṇa vidheyair bhūtvā sarvvamamuṣmai
+19 samupanetavyaṃ(vyam) | sāmānyaṃ caitat puṇya phalaṃ vu(bu)ddhvā asmad vaṃśajair aṇyai(nyai)r api bhāvi bhoktṛbhir asmat pradatta dharmmā-{12}
+20 dāyoyam anumaṃtavyaḥ pālanīyaś ca || uktaṃ ca | va(ba)hubhir vvasudhā bhuktā rājabhiḥ sagarādibhiḥ | yasya ya-
+21 sya yadā bhūmis tasya tasya tadā phalaṃ(lam) ||5|| yānīha dattāni purā narendrair ddānāni dharmmārtha yaśas karāṇi | ni-
+22 rmmālya vānti pratimāni tāni ko nāma sādhuḥ punar ādadīta ||6|| asmat kula kramam udāramudāharadbhir aṇyai(nyai)-
+23 ś ca dānamidam abhyanumodanīyaṃ(yam) | lakṣmyās taḍid valaya vudvu(budbu)da caṃcalāyā dānaṃ phalaṃ parayaśaḥ paripāla-
+24 naṃ ca ||7|| sarvvān etān bhāvinaḥ pārthiveṃdrān bhūyo bhūyo yācate rāmabhadraḥ | sāmānyoyaṃ dharmma setur nṛ{13} --------
+   .	.	.	.	.	.	.	.	.	.
+
+----------------------------------------------
+{1} From the impression.
+{2} Expressed by a symbol which is partly visible.
+{3} The portion in the brackets has totally peeled off and the reading is conjectural, following Dr.Alterkar, who
+	observed that svasti is generally followed by jayati vyomakeśosau in the records of the Paramāras. The space
+	can also accommodate these letters.
+{4} The sign of anusvāra is partly visible above va, and the consonant of ta that follows is cut as bha.
+{5} These seven akṣaras are now entirely lost and have been adopted here from Dr. Altekar's reading.
+{6} Read śrī-Udayāditya-. We have some other instances of the type where sandhi, though necessary, has not been
+	observed for the sake of clarity.
+{7} The portion lost here contained six akṣaras, four of which are as supplied here and the last two may have been
+	kaka, to make the complete name Kakaradraha, for the identification of which see above.
+{8} The rest of the line is lost.
+{9} The daṇḍas are redundant.
+{10} Here, four letters are lost, obviously showing the unit and the decimal figures, in words.
+{11} The daṇḍas in the line are superfluous.
+{12} This expression appears also in some other grants and is current throughout Mālwā even to this day. It may
+	 be interpreted as dharmasya ādāyaḥ ādānam, grahaṇam.
+{13} The rest of the inscription is lost, as already stated above.
+	  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

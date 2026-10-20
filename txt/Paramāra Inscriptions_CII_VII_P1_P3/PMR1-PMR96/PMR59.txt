@@ -1,0 +1,57 @@
+PennGlobal: PMR59
+Period: VS 1326 vaiśākha śudi 7
+Location: Paṭhārī
+Dynasty: Paramāra
+King: Jayasiṃha
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records allotment of ground for completion of a religious rite 
+	  in connection with an orchard. 
+Published reference: Trivedi (1978), no. 59.
+
+
+Text{1}
+
+1. siddham{2} | saṃ 1323 varṣe vaisāṣa(śākha) śu 7 vuddha(budha)dine
+2. [puṣya]nakṣatre{3} adya(dye)ha vaḍovyapatta[ne] sama[sta] rājā-
+3. valī sahita jaisiṃghadevarājye{4} tasminkā-
+4. le varttamāne gauḍānvaye paṃthidode[su]ta-
+5. praṃ(paṃ)mahaṇasīṃ(siṃ)hasuta-paṃ-raṇasīṃ(siṃ)hena{5}
+6. vāṭikāudyāpanārthe{6} kīrttisthalo-
+7. yaṃ(yam){7} | [su(śu)]bhaṃ bhavatu -{8} śrī[ḥ*] ||
+
+-----------------------------------------------------------------
+
+{1} From an inked impression.
+{2} Expressed by a symbol.
+{3} The first two letters in this line, as some others below, are not well formed; but the reading is certain.
+{4} Read jayasiṃha-.
+{5} The second akṣara in this word is probably to be corrected to śrī. In the Annual Report on Epigraphy,
+	referred to above, it is taken as given here and it is also stated in it that Raṇasiṃha, whose name ends in
+	siṃha, may not have been a Brāhmaṇa and therefore the prefix paṃ, that is, Paṇḍita, cannot be applied
+	to him. But names with the suffix siṃha are also found among the Bhrāhmaṇas, for example, that of
+	Jaitrasiṃha, the father of the Paramāra Arjunavarman's royal preceptor Govinda, for which see No.49.
+{6} Read vāṭikodyāpanārthaṃ.
+{7} Read -sthalamidaṃ. Ramsharma read kīrtti[ḥ*] sthā[pi*][te]yaṃ.
+{8} Here, the impression shows a sign resembling the Nāgarī figure 5; and it is not known if it is a mātrā
+	combined with the daṇḍa that follows, which is in fact needed here. Ramsharma took it the Nāgarī 5
+	and explained it as "repeated five times." But it may perhaps be the sign of a misformed double daṇḍa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

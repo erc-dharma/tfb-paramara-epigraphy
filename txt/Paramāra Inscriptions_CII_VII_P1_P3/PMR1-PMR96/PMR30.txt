@@ -1,0 +1,106 @@
+PennGlobal: PMR30
+Period: VS 1151 āṣāḍha sudi 7
+Location: Amērā
+Dynasty: Paramāra
+King: Naravarman
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 5 verses
+Metres: Verse 1 Śārdūkavikrīḍita; v.2 Sragdharā; vv.3-4 Indravajrā, Udendravajrā or Upajāti; vv.5,
+	 	6 and 9 Upajāti; vv.7-8 Indravajrā; vv.10-15 Anuṣṭubh
+Gist: Records the construction of a tank by a brāhmaṇa named Vikrama.
+Published reference: Trivedi (1978), no. 30.
+
+
+Text{1}
+
+1. siddham | om{2} | madhye [so(śo)]bhita[dugdha]siṃdhuvi U - - - U{3} [pāro]pamaṃ saṃmūrcchadghanaghoraghoṣaghaṭanī{4}vyā[ghū]-
+2. rṇṇitā[sāṃ(śāṃ)taraṃ(ram) |] - - ka U U - U - U ka U - kṛṣṇasya pāṇau sthitaṃ |{5} yuṣmākaṃ sa(śa)tabha U jālamiva - -
+3. [syā]tpāṃcajanyaṃ mude ||1|| yasminā(nnā)pūryamāṇe U U U U U karaṃ - U - - U - ˍU [trā]sādaprāptare - pra[ti]ra[tha]{6}-
+4. turagā naṣṭamā[rgā][ḥ*] prayānti | vra(bra)hmā vra(bra)hmāṃḍakhaṃ(ḍa) U U U U U U - syeti nārāyaṇāsyaṃ |{7} tadvaḥ pāyā -
+5. tsanādaṃ vadanavinihi[taḥ] pāṃcajanyo murāre[ḥ* ||2|| ˍU - U -'smin paramāravaṃse(śe) ˍU - U -{8} bhāririhā-
+6. bhavacca | śrīvā[kpa]tirvadana - U - - ˍU - U - - U U - U - ˍU ||3|| ajāyata - U U nṛpa - U ˍU
+7. rāgasaṃṭi (?)saṃghaṭṭa U - raṇasya| ˍU - U - - U U - U - ˍU, ˍU - U - - U U - da[yā]rkaḥ ||4||{9} śrīmānja(ñja)yī - U U
+8. jārjjitarājala -{10}tadaṃgaje śrīnaravarmmanāmni | pṛthvī sa[dā] sā(śā)sati su(śu)[ddha]dhāmni | vaktuṃ na sa(śa)ktā[ḥ*] kavayoḥ-
+  (yo) [gu]ṇe-
+9. na{11} sīmānamānaṃ[da]kṛtā[ta ?]prajānāṃ(nām){12} ||5|| asti U - - U U - U - ˍU, mayāṇakākṣa[ḥ*] prathita[ḥ*] [pṛ]thivyāṃ(vyām) |
+10. vi[prā ?]dināṃ varṇṇa U - pnave -{13}, yaḥ śobhate saccaritena sa(śa)śvat ||6|| taṃ nirmma[le]{14} [n]āyakavā(bā ?)lavaṃ-
+11. [śe]{15} śrīmadbharadvājakulaprasūtiḥ{16} | ˍU - U ṇāṃ tasya [vi]dhe{17}rvvidhātā |{18} strī(śrī)staṃbhanāme-
+12. ti va(ba)[bhū]va vipraḥ ||7|| tasmāda[bhū]lla U ṇarājanāmā{19} || su(śu)ddhairyaso(śo)bhirddhavalīkṛtāsā(śā)ḥ [|*]
+13. tasyāpi putrobhavaduccakīrttiḥ śrī(vi)kramastyāgimukhāṃvja(khābja)bhānū(nuḥ) ||8|| kārāpitaṃ{20} [te]na ta-
+14. ḍāgametat |12 su(śu)ddhairddhanairā U U - na cihna(hnam) | pīyū[ṣa]vatstaṃbhaniviṣṭamūrtti |{21} garutma-
+15. nāra[bhya ?]ta{22} su(śu)ddhavāri ||9|| ˍUˍUˍUˍU U - dvipai - U vad vra(bra)hmacāribhiḥ |(||) snānasaṃdhyāna-
+16. rācca{23} rṣipitṛsaṃta[rppa]ṇāya ca ||10|| sa(su)vyātayattaṭaṃ{24} sasva(śaśva)ddhautāmalasi(śi)lātalaṃ(lam) | pra-
+17. tāpe{25} ca jhaṣairnakrairanyaiśca jalajātibhiḥ ||11|| haṃsai[ḥ] sadrājahaṃsaiśca [svā]vakā-{26}
+18. raṃḍava(ba)rhibhiḥ | sārasaiścakravā[kai]śca kū[ja]dbhirjja(rya)tra{27} sevyate ||12|| bhūtānāmupakārāya
+19. tāḍāgaṃ{28} yaḥ pumāniha | vyanaṣṭe yasya bhūmau syāt{29} te[na] sārddha sa puṇyabhāka(k) ||13|| yasmājja-
+20. lātprajā[ḥ*] sarvvā[ḥ*] kalpe [kalpesṛjatprabhuḥ] | tasmājjalaṃ paraṃ dānaṃ na bhūto na bhaviṣyati ||14||
+21. nijabhuyo(jo)pārjjitā U ṭaṃkakai rāya(ja)mu[dri]bhiḥ(taiḥ) | taḍāgeṣu [ca] saṃlagnāḥ{30} sata(śatā)nāṃ
+22. paṃ[ca]visa(śa)tiḥ ||15|| 2500 | saṃvat 1151 aṣ(āṣā)ḍha sudi 7 eta(ṣā) prasastā(śastiḥ) kṛtā || siddhiḥ{31} |
+23. [likhi]taṃ(tā) paṃḍi[tarāja ?]pālena . . .{32} tatsūnunā saumatikenā(na|)
+24.                                                             māluḥ ||{33}
+
+
+--------------------------------------------------------
+
+{1} From impressions.
+{2} Expressed by symbols, the latter of which is engraved above the line just after the mātrā of dhye.
+{3} The traces show that the first three of the missing akṣaras were lasat.
+{4} Perhaps what is intended is ghaṭanā, meaning 'happening'.
+{5} The daṇḍa is redundant, as some others below.
+{6} The reading of this letter is doubtful. Its consonant also appears as chh, but the sense is not clear.
+{7} As no.5 above.
+{8} The lacuna may be filled in as santarjjitārāti by also changing bhāri.
+{9} The fifth to the seventh of the letters of the third foot appear to read the name of Sīyaka. The second
+	foot has five letters more, some of which appear to have been scored off.
+{10} From the context this letter appears to have been kṣmī. This quarter has two letters in excess. Re-
+	 store as śrīmāñjayī svīyabhujārjjitaśrīḥ.
+{11} The reading of the bracketed akṣara is doubtful. Perhaps what is intended is gaṇānāṃ.
+{12} Read -kṛtaḥ prajānāṃ.
+{13} The letters are damaged and the reading is not certain.
+{14} Read tannirmmale in the sense of tasminnirmmale.
+{15} This akṣara is unusually formed but the reading is certain. The reading of the second akṣara of the
+	 name of the family is not certain.
+{16} This akṣara is preceded by a redundant daṇḍa. Perhaps we have to read prasūtiḥ, but the upper curve of
+	 the medial i is misiing.
+{17} A pṛṣṭha mātrā was first engraved before dhe and then scored off. The letter that follows is engraved
+	 as rcci.
+{18} The daṇḍa is redundant.
+{19} A conjunct letter is illegible here and the reading of the preceding letter too is doubtful.
+{20} For kāritaṃ, for which see Ind. Ant., Vol. XIX, p.62, n.53. Read utkhānitaḥ or nirmāpitaḥ which would also
+	 suit the metre.
+{21} The daṇḍa is redundant.
+{22} The reading of the bracketed letter is doubtful and the fifth letter also appears as se. Probably what
+	 the poet means to say is that the water of this pond is as clear as emerald. The construction is defective.
+{23} Originally, a medial ā was attached to this letter and it was subsequently scored off as redundant.
+{24} Read suvyāyataṭaṃ. A redundant ta, engraved before ya at first, was scored off later on.
+{25} The meaning of this word is not clear to me and the second akṣara of the word may also have been mā.
+{26} The reading of the bracketed akṣara is uncertain; The first consonant of the first akṣara is s, and that
+	 of the second is v, which is preceded by a daṇḍa. May it be śyāma in the sense of the cuckoo? Or, if
+	 śyāva, it means dark brown or brown.
+{27} Possibly we have to read yacca.
+{28} The mātrā of tā appears to have been scored off.
+{29} By changing vyanaṣṭe to vinaṣṭe the sense appears to be that 'whosoever rebuilds this pond after it is
+	 broken'.
+{30} Drop the visarga and read ṭaṃkānāṃ rājamudritānāṃ, which, however, would not suit the metre.
+{31} Expressed by a symbol. An ornamental design precedes the daṇḍas.
+{32} The missing akṣaras appear to have been ṭaṃkitaṃ.
+{33} This word, as shown by the traces that follow, may have some design after it, or they may have been
+     only scratches.
+     
+     
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

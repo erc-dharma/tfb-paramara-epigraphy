@@ -1,0 +1,83 @@
+PennGlobal: PMR18
+Period: VS 1112 āṣāḍha vadi 13
+Location: Māndhātā 
+Dynasty: Paramāra
+King: Jayasimhadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 12 verses
+Metres: Verses 1,2,4,5 Anuṣṭubh(śloka); vv.3,7 Vasantatilakā; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Grant by Jayasimhadeva
+Published reference: Trivedi (1978), no. 18. 
+
+Text{1}
+First Plate
+
+1. Oṃ{2} || jayati vyomakeśosau yassarggāya vi(bi)bhartti tāṃ(tām) | aindavī si(śi)rasā lekhāṃ jagad vī(dbī)jāṃ -
+2. kurākṛtiṃ(tim) ||1|| tanvattu(ntu) vaḥ smarārāteḥ kalyāṇamaniśaṃ jaṭāḥ | kalpānta samayoddāma taḍid va-
+3. laya piṅgalāḥ ||[2||*] parama bhaṭṭāraka mahārājādhirāja parameśvara śrī vākpatirājadeva pādā-
+4. nudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī sindhurājadeva pādānudhyāta parama-
+5. bhaṭṭāraka mahārājādhirāja parameśvara śrī bhojadeva pādānudhyāta parama bhaṭṭāraka mahā-
+6. rājādhirāja parameśvara śrī jayasi[ṅgha]devaḥ{3} kuśalī ||{4} pūrṇṇapathaka maṃḍale maktulā grā{5}-
+7. ma dvicatvāriṃśa dantaḥpāti bhīma grāme samupagatān samasta rājapuruṣān vrā(nbrā)hmaṇottarān pra-
+8. tinivāsi paṭṭakila janapadādīṃś ca samādiśatyastu vaḥ saṃ viditaṃ(tam) |{4} yathā śrīmad vā(d dhā)rāva -
+9. sthitair asmābhiḥ snātvā va(ca)rācara guruṃ bhagavattaṃ(ntaṃ) bhavānīpatiṃ sama[bhya]rccya saṃsārasyāsāratāṃ dṛṣṭvā
+10. vātābhra vibhramamidaṃ vasudhādhipatyam āpātamātramadhuro viṣayopabhogaḥ | prāṇās tṛṇā-
+11. gra jala vi(bi)ndu samā narāṇāṃ dharmmaḥ sakhā paramaho paraloka yāne ||3|| bhramat saṃsāra cakrāgra dhā-
+12. rā dhārām imāṃ śriyaṃ(yam) | prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ phalaṃ(lam) ||4|| iti jagato vinasva(śva)raṃ
+13. svarūpamākalayyoparilikhita grāmoyaṃ sva sīmā tṛṇa gocara yūti paryantaḥ sahiraṇya-
+14. bhāga bhogaḥ soparikaraḥ sarvvādāya sametasca(śca) śrī  amaresva(śva)re{6} paṭṭaśālā vrā(brā)hmaṇebhyaḥ{7}
+15. sva hastoyaṃ śrī jayasiṅhadevasya ||
+
+Second Plate
+
+16. bhojanādi nimittaṃ mātāpitror ātmanaś ca puṇya yaśobhivṛddhaye 'dṛsṭa(ṣṭa) phalam aṃgī -
+17. kṛtya caṃdrārkkārṇṇava kṣiti sama kālaṃ yāvat parayā bhaktyā śāśa(sa)nenodaka pūrvva pratipā-
+18. dita iti mattvā{8} tannivāsi paṭṭakila janapadair yathā dīyamāna bhāga bhoga kara hira-
+19. ṇyādikaṃ deva vrā(brā)hmaṇa bhukti varjjamā[jñā] śravaṇa vidheyair bhūtvā sarvvamebhyaḥ samupanetavyaṃ(vyam )
+20. | sāmānyaṃ caitat puṇya phalaṃ vu(bu)ddhavā 'smad vaṃśajair anyair api bhāvi bhoktṛbhir asmat pradatta dharmma-
+21. dāyoyamanumantavyaḥ pālanīyaśca || uktaṃ ca | va(ba)hubhir vvasudhā bhuktā rājabhiḥ sagarā-
+22. dibhiḥ | yasya yasya yadā [bhū]mis tasya tasya tadā phalaṃ(lam) ||5|| yānīya(ha) dattāni purā narendrair ddātā(nā) -
+23. ni dharmmārtha yaśas karāṇi | nirmmālyavānti pratimāni tāni ko nāma sādhuḥ punar ādadīta ||6||
+24. asmat kula kramam udāram udāharadbhir anyai{9}ś ca dānamidam abhyanumodanīyaṃ(yam) | lakṣmyās taḍit sa-
+25. lila budvu(budbu)da caṃcalāyā dānaṃ phalaṃ para yaśaḥ paripālanaṃ ca ||7|| sarvvān etān bhāvinaḥ pārthive -
+26. ndrān bhūyo bhūyo yācate rāmabhadraḥ | sāmānyoyaṃ dharmma setur nṛpāṇāṃ kāle kāle pāla-
+27. nīyo bhavadbhiḥ ||5|| iti kamala dalāmvu(mbu) vi(bi)ndu lolāṃ śriyam anucintya manuṣya jī-
+28. vitaṃ ca | sakalam idam udāhṛtaṃ ca vu(bu)ddhvā na hi puruṣaiḥ para kīrttayo vilopyā ||6|| iti |{10}
+39. samvat{11} 1112 āṣāḍha vadi 13 | svayam ājñā | maṅgalaṃ mahāśrīḥ | sva hastoyaṃ
+30. śrī jayasiṅha{12} devasya ||
+
+
+-------------------------------------------------------------
+{1} From facsimiles facing p.50 in Ep.Ind., Vol.III.
+{2} Denoted by a symbol.
+{3} As also noted by Kielhorn, originally sigha was engraved and subsequently the proper right side of the second
+	letter of the name seems to have been altered.
+{4} The sign of the punctuation is superfluous.
+{5} The second letter of the name, as also noted by Kielhorn, might possibly be read as ktṛ.
+{6} Sandhi is not made here as in some cases when the name begins with a vowel, as in Udayāditya.
+{7} Kielhorn proposes to read -ṇebhyo, but sandhi is not necessary as it depends on vivakṣā. The word paṭṭa śālā
+	used here appears to have been 'an apartment made of cloth, i.e. a tent', for which c.f. the word paṭaveśma in śi.,
+	XII, 63. Or it may be the Sanskritised form of PAḍasāla, a local word for verandah or porch. In the following
+	line read -siṃha-. The sentence is continued on the next plate.
+{8} Kielhorn reads matvā; but a stroke appearing at the top of t shows the letter to be doubled.
+{9} The first member of this conjunct consonant is antique in form.
+{10} Read vilopyāḥ iti | 
+{11} Read saṃvat.
+{12} Read -siṃha-.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

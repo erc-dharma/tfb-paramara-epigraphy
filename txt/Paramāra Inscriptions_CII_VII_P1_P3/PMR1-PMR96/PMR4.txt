@@ -1,0 +1,106 @@
+PennGlobal: PMR4
+Period: VS 1031 bhādrapada śudi 14
+Location: Dharampuri 
+Dynasty: Paramāra
+King: Vākpatirājadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verse 1-2 Śādūlavikrīḍita; vv.3 and 7 Vasantatilaka; vv. 4-5 Anuṣṭubh; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Land donation by Vākpatirājadeva
+Published reference: Trivedi (1978), no. 4. 
+
+Text{1}
+First Plate
+
+1. siddham{2} [|*] yāḥ sphūrjjat phaṇabhṛd viṣānala miladdhūma prabhāḥ prollasan mūrddhā va(ba)ddha śaśāṅka koṭi ghaṭitā yāḥ sai-
+2. ṅhi(saiṃhi)keyopamāḥ [|*] yāś caṃcad girijā kapola lulitāḥ kastūrikā vibhramās tāḥ śrī kaṇṭha kaṭhora kaṇṭha rucayaḥ{3} 
+3. śreyānsi(yāṃsi) puṣṇantu vaḥ ||[1||*] yallakṣmī vadanendunā na sukhitaṃ yannārdritam vā(taṃ vā)ridhervvārā yanna nijena nābhisarasī-
+4. padmena śāntiṅgataṃ(tam) [|*] yaccheṣāhi phaṇā sahasra madhura śvāsair na cāśvāsitaṃ tad rādhā virahāturaṃ mura ripor vve -
+5. llad vapuḥ pātu vaḥ ||[2||*] parama bhaṭṭāraka mahārājādhirāja parameśvara śrīkṛ{4}ṣṇarājadevapādānudhyāta parama bha-
+6. ṭṭāraka mahārājādhirāja parameśvara śrī vairisiṅha(siṃha)devapādānudhyāta parama bhaṭṭāraka mahārājādhirā-
+7. ja parameśvara śrī sīyakadevapādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrīmad amo-
+8. ghavarṣadevāparābhidhāna śrīmad vākpatirājadeva pṛthvī vallabha śrī vallabha narendradevaḥ kuśalī || śrīna-
+9. rmmadā taṭe garddabha pānīya bhoge garddabha pānīya samvaddhi(sambandhi)nī{5} uttarasyāṃ diśi pipparikānāmnā(mni) taḍāre sa-
+10. mupagatān samasta rājapuruṣān vrā(brā)hmaṇottarān prativāsi paṭṭakilajanapadādīṃś ca vo(bo)dhayatyastu vaḥ sa-
+11. mviditaṃ |{6} yathā taḍāroyam asmā{7}bhir āghāṭāḥ pūrvvasyāṃ diśi | agāravāhalā{8} maryādā | tathā uttarasyāṃ{9}
+12. diśi cikhillikāsatkagarttā yā samāyatā{10} | sā maryādā | tathā paścimadiśau(śi) garddabhanadī maryādā [|*] ta-
+13. thā dakṣiṇasyāṃ diśau(śi) śrīpisā(śā)cadevatti(tī)rtha maryādā | evaṃ caturāghāṭopalakṣitābhir ekatṛṃ(triṃ)śaso(sā) -
+14. hasrika samva(saṃva)tsaresmin bhādrapada śuklacaturddasyāṃ(śyāṃ) pavitrakaparvvaṇi{11} śrīmadujjayanī{12} samā[vā]sitiḥ(taiḥ)
+15. śivataḍāgāmbhasi snātvā carācara guruṃ bhagavantaṃ bhavānīpatimabhyarccya saṃsārasyāsāratāṃ dṛṣṭvā |
+16. vātābhra vibhrama(mi)daṃ vasudhādhipatyam āpātamāttra madhuro viṣayopabhogaḥ [|*] prāṇās tṛṇāgra jala vi(bi) -
+17. ndu samā narāṇāṃ dharmmaḥ sakhā para[ma]ho paraloka yāne [||3||*] bhramat saṃsāra cakrāgradhārādhārāmimāṃ śriyaṃ(yam ) [|*]
+18. prāpya ye na dadusteṣāṃ paścāttāpaḥ paraṃ phalaṃ(lam) ||[4||*] iti jagatovinaśvaraṃ sa-
+
+Second Plate
+
+19. kalamidamākalayyoparilikhitataḍā(raḥ){13} sva sīmā tṛṇa kāṣṭha yūti gocara paryyantaḥ sa
+20. vṛkṣa mālā kula sa hiraṇya bhāga bhogaḥ{14} soparikaraḥ sarvvādāyasameto'{15}hicchattra vinirggatāya dhā-
+21. [ma] dakṣiṇa prapannāya{16} jñāna vijñāna saṃpannā{17}ya śrīmad vasantā{18}cāryāya śrīdhanikapaṇḍita sūnave ||{19}
+22. mātāpitror ātmanaś ca puṇyayaśo'bhivṛddhaye'{20}dṛṣṭaphalam aṅgīkṛtyā caṃdrārkkārṇava kṣitisamakālaṃ para-
+23. yā bhaktyā śāsanenodakapūrvvakaṃ pratipādita iti matvā tani(nni)vāsi janapadair yathā dīyamāna bhāga bho-
+24. gakara hiraṇyādikaṃ sarvvam ājñāśravaṇa vidheyair bhūtvā sarvvadāsmai samupanetavyaṃ(vyam) | sāmānyaṃ caitat puṇyapha-
+25. laṃ vu(bu)ddhvā'smad vaṃśajair anyair api bhāvi bhoktṛbhir asmat pradatta dharmma dāyoyam anumantavyaḥ pālanīyaś ca |{21} uktaṃ
+26. ca| va(ba)hubhir vvasudhā bhuktā rājabhiḥ sagarādibhiḥ [|*] r ya(ya)sya yasya yadā bhūmis tasya tasya tadā phalaṃ(lam) |[|5||*]
+   yānīha dattāni
+27. purā narendrair ddānāni dharmmārtha yaśas karāṇi [|*] nirmmālya vānta pratimāni tāni ko nāma sādhuḥ punarādadīta |[|6||*] asma-
+28. kulakramam udāramudāha[ra*]dbhir anyaiś ca dānamidama{22}bhyanumodanīyaṃ(yam) | lakṣmyās taḍit salila vudvu(budbu)da cañcalāyā dā-
+29. naṃ phalaṃ parayaśaḥ paripālanaṃ ca ||[7||*] sarvvānetān bhāvinaḥ pārthivendrān bhūyo bhūyo yācate rā-
+30. mabhadraḥ | sāmānyoyaṃ dharmma setur nṛpāṇāṃ kāle kāle pālanīyo bhavadbhiḥ ||[8||] iti ka-
+31. mala dalamvuvi(mbu bi)ndu lolāṃ śriyamanucintya manuṣya jīvitaṃ ca | sakalamidamudāhṛ-
+32. taṃ ca vu(bu)ddhvā na hi puruṣaiḥ parakīrttayo vilopyāḥ ||9|| iti saṃ{23} 1031 bhādrapada-
+33. śudi 14 svayamājñā | dāyakaścāttra kaṇhapaikaḥ{24} || sva hastoyaṃ śrīvā-
+34. kpatirājadevasya ||
+
+-------------------------------
+{1} From Plates between pp.51 and 52 in the Ind.Ant., Vol.VI.
+{2} Expressed by a symbol
+{3} What appears as an anusvāra above this letter is only a redundant chisel mark.
+{4} The formation of this akṣara is defective
+{5} This expression has probably to be taken as qualifying taṭāra and in that case we have to read the last
+	syllable as ni. The word taṭāra is not known to the lexicons, but the context shows that it denotes a region.
+	The reading is absolutely certain.
+{6} Read bodhayati | astu vaḥ saṃviditaṃ. The daṇḍa following taṃ is redundant, as some others below.
+{7} The horizontal bar of this letter was omitted in course of engraving.
+{8} The meaning of vāhalā is not known to me. It, however, appears to be nālā flowing by the side of a house
+	(agāra); but the use of the root vah in the sense of 'to cause to move (water) onward' would form the word
+	vāhā or vāhinī, for the best use of which see Raghumaṃśa, XIII, v.61. This word in the masculine form
+	occurs also in No.107.1.12
+{9} Read tathottarasyāṃ
+{10} It means 'a hollow or cave of (belonging to) Chikhillikā which joins it. The word taḍāra is not known to the
+	dictionaries, but from the boundaries specified here, it appears to be a piece of land, formed from tala=sur-
+	face or a forest or adjoint land, and the consonant of the second letter being changed to d, as both these
+	akṣaras are interchangeable. gartā means a hollow or cave.
+{11} i.e., the purifying day which is the fourteenth of the month or fortnight.
+{12} It is interesting to note the spelling of the word used here. In the last letter in this line the top-mātrā is so
+	engraved as to resemble the curve of medial i.
+{13} It may better be read as likhitastaṭāraḥ.
+{14} The appears that the mātrā of ō was first omitted and to indicate it, later on a curve was put just adjoining
+	to the top stroke before it. Read -kulaḥ.
+{15} After ta, only the lower dot of the visarga is visible and it is followed by the avagraha sign. It appears that 
+	because of the avagraha, the engraver. While making corrections as required, erased the upper dot of the 
+	visarga, but forgot to erase the lower one and also to put the mātrā of the dipthong.
+{16} The construction here is rather peculiar.
+{17}  The letter was misformed and appears somewhat like mā.
+{18} Some other letter. Which was formely engraved here, was subsequently erased to put this letter.
+{19} The daṇḍas are redundant. The preceding ṇa in the line is only partially engraved.
+{20} This avagraha, with the preceding sign of mātrā, appears to have been marked subsequently.
+{21} This daṇḍa appears to have been inserted subsequently
+{22} Before this akṣara a pṛṣṭha mātrā has been wrongly engraved.
+{23} That is, saṃvat.
+{24} Read svayamājñā | dāpakaścātra. The first expression means the order of (the kong) himself; and the second is 
+	in the sense of dūtaka, see Ep. Ind., Vol. XIX, p.178, n.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

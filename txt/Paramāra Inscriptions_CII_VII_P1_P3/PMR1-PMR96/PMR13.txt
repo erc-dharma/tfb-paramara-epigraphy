@@ -1,0 +1,84 @@
+PennGlobal: PMR13
+Period: VS 1079 caitra śudi 14
+Location: Dēpālpūr 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verse 1-2, 4-5 Anuṣṭubh; vv.3,7 Vasantatilakā; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Donation of land by Bhojadeva
+Published reference: Trivedi (1978), no. 13. 
+
+Text{1}
+First Plate
+
+1. Oṃ{2} || jayati vyomakeśosau yaḥ sarggaya vi(bi)bhartti tāṃ(tām) | aiṃdavī si(śi)rasā lekhāṃ jagad vī(d bī)jāṃkurākṛtiṃ(tim)
+  ||1||
+2. tanvantu vaḥ smarārāteḥ kalyāṇam anisaṃ(śaṃ) jaṭāḥ | kalpānta samayoddāma taḍid valaya piṃgalāḥ ||2||
+3. parama bhaṭṭāraka mahārājādhirāja parameśvara śrī sīyakadeva pādānudhyāta parama bhaṭṭāraka-
+4. mahārājādhirāja parameśvara śrī vākpatirājadeva pādānudhyāta parama bhaṭṭāraka mahārājādhirāja-
+5. parameśvara śrī siṃdhurājadeva pādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī bhojade-
+6. vaḥ kuśalī || śrīmad ujjya(yi)nī paścima pathakāntaḥ pāti kirikaikāyāṃ samupagatān samasta rājpu-
+7. ruṣān vrā(n brā)hmaṇo{3}ttarān prati nivāsi paṭṭakila janapadādīṃś ca samādiśatyastu vaḥ saṃviditaṃ(tam) ||{4} yathā
+8. śrīmad dhārāvasthitair asmābhiḥ pāradvi{5}prabhṛti kṛta prāṇi vadha prāyaścitta dakṣiṇāyāṃ snātvā carācara gu-
+9. ruṃ bhagavantaṃ bhavānīpatiṃ samabhyarccya saṃsārasyāsāratāṃ dṛṣṭvāṃ(vā) || vātābhra vibhramam idaṃ vasudhādhipatya-
+10. m āpāta mātra madhuro viṣayopabhogaḥ | prāṇās tṛṇāgra jala viṃ(biṃ)du samā narāṇāṃ dharmmaḥ sakhā paramaho
+11. paraloka yāne ||3|| bhramat saṃsāra cakrāgra dhārādhārām imāṃ śriyaṃ(yam) | prāpya ye na dadusteṣāṃ paścāttāpaḥ
+12. paraṃ phalami(m ||4|| i)ti jagato vinaśvaraṃ svarūpamākalayyopari likhita grāmāt grāma sāmānya bhūmeḥ(me) -
+13. ś catustṛṃ(triṃ)śatyaṃśa pra[stha]kaṃ halacatuṣṭayasaṃvatto{6} sva sīmā tṛṇa gocara yūti paryantaṃ sahiraṇya bhāga bho-
+14. gaṃ soparikaraṃ sarvvādāya sametaṃ ca |{7} śrī mānyakheṭa vinirggatāya | ātreya sa gotrāya | ātreyārccanā -
+15. sva hastoyaṃ śrībho{8}jadevasya |
+
+Second Plate
+
+16. nasasyā(śyā)vāśveti triḥ{9} pravarāya | va(ba)hvṛca śākhāya | bhaṭṭasośvara suta vrā(brā)hmaṇa vacchalāya | śrutādhyaya-
+17. na saṃpannāya || (|) mātāpitror ātmanaśca puṇya ja(ya)śobhivṛddhaye adṛṣṭa phalam aṃgīkṛtya candrā{10}rkkārṇṇava kṣiti-
+18. sama kālaṃ yāvat parayā bhaktyā śāśa(sa)nenodaka pūrvva pratipāditam iti matvā yathā dīyamāna bhāga bhogaka-
+19. ra hiraṇyādikaṃ deva vrā(brā)hmaṇa bhukti varjjam ājñā śravaṇa vidheyair bhūtvā sarvvam asmai samupanetavyaṃ(vyam) || sā
+20. mānyaṃ ci(cai){11}tat puṇya pha{12}laṃ budhvā(buddhvā) asmad vaṃśajair anyair api bhāvi bhovatṛbhir asmat pradatta dharmmādāyoyam anumantavyaḥ
+21. pālanīyaś ca || uktaṃ ca || (|) va(ba)hubhir vvasudhā bhuktā rājabhis sagarādibhir yya(bhiḥ | ya)sya yasya yadā bhūmis tasya tasya tadā
+22. phalaṃ(lam) ||5|| yānīha dattāni purā nareṃdrair ddānāni dharmmārtha [ja](ya)sa(śa)s karāṇi | nirmmātyavātipratimāni tāni
+23. ko nāma sādhuḥ punar ādadīta ||6|| itya(iti | a)smat kula kramam udāram udāharadbhir anyaiś ca dānam idam abhyanumo-
+24. danīyaṃ(yam) | lakṣmyās taḍit salila budvu(budbu)da caṃcalāyāḥ{13} dānaṃ phalaṃ para yasaḥ(śaḥ) -
+25. paripālanaś ca(naṃ ca) ||7|| sarvvānetān bhāvinaḥ pārthivedrān bhūyo bhūyo yācate
+26. rāmabhadras sā(draḥ | sā)mānyoyaṃ dharmma setur nṛpāṇāṃ kāle kāle pālanīyo bha-
+27. vadbhiḥ ||8|| iti kamala dalāmvu(mbu) viṃ(biṃ)du lolāṃ śriyamanucintya manuṣya jīvi -
+28. taṃ ca | sa[ka]lamidam udāhṛtaṃ ca vudhvā(buddhavā) na hi puruṣaiḥ para kīrttayo vilopyā[ḥ]||9||
+29. iti || samva(saṃva)t 1076 caitra śudi 14 svayam ājñā || maṃgalaṃ mahā
+30. śrīḥ || sva hastoyaṃ śrī bhojadevasya ||
+
+--------------------------------
+{1} From the original plates
+{2} Expressed by a symbol
+{3} Ojha read this letter as ṇe(णे) and corrected it to ṇo(णो); but the sign of medial ā is distinct on the plate.
+{4} These strokes are redundant.
+{5} It may also be read as gavi(गवि).
+{6} Read saṃvṛttaṃ(संवृत्तं)I am not definite but the whole phrase possibly means 'from the ordinary (level) land of
+	the village, a prastha (a kind of measure) consisting of thirty-four shares and worthy to be tilled by
+	four ploughs'. The use of saṃvṛttaṃ(संवृत्तं) is not quite clear. Should we take the word derived from vṛt, to
+	turn (to plough?).
+{7} This and some of the following daṇḍas are redundant.
+{8} Following bho(भो), a letter appears to have been originally formed but left uncarved. The sign manual need
+	not break the continuity of the writing.
+{9} The visarga is redundant.
+{10} Ojha:cadrā(caṃdrā) (चद्रा(चंद्रा)); but the sign for n(न्)is faintly visible.
+{11} Originally ci(चि) was engraved and subsequently the ūrdhva-mātrā was also carved without scoring off the
+	 unnecessary parts.
+{12} Originally pa(प), latter on corrected to pha(फ).
+{13} The visarga is not dropped here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

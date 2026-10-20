@@ -1,0 +1,125 @@
+PennGlobal: PMR24
+Period: Undated
+Location: Udaipur 
+Dynasty: Paramāra of Malwa
+King: Udayāditya
+Language: Sanskrit
+Script: Nagari
+Text: Prose and verse form.
+Metres: Verse 1 and 8 Indravajrā; vv. 2-3, 9-10, 12 and 19 Vasantatilakā; vv.4,6,15 and 
+		18 Anuṣṭubh; vv.5 and 21 Sragdharā; vv.7, 16 and 20 Upajāti; v.11 Śālinī; v.13 śārdūlavikrīḍita;
+		vv.14 and 22 Āryā; v.17 Mandākrāntā; vv.23 and 25 (only first quarter) śragdharā; v.24 Anuṣṭubh.
+Gist: Part A records the land grant and Part B records the construction of a temple.
+Published reference: Trivedi (1978), no. 24. 
+
+
+Text{1}
+
+
+1. oṃ namaḥ śivāya || gaṃgāṃvu(bu)saṃsiktabhujaṃgamālavāle kalendoramalāṃkurābhā | yanmūrdhni namrehitakalpavallyābhātīva bhūtyai sa tavāstu
+  śaṃbhuḥ{2} ||1||
+2. sānaṃdanaṃdikarasuṃdarasāṃdranāṃdīnādena tuṃvu(bu)rumanoramagānamānaiḥ | [nṛtyaṃ]tyavasya(śya)mani[śaṃ] suravāsavesyā(śyā) yasyāgrato bha-
+3. vatu vaḥ sa si(śi)vaḥ śivāya ||2|| mūrddhasthitā[bhrasaritokṣa]{3}mayeva saṃ(śaṃ)bhorarddhāgamaṃgaghaṭanād ghanamāśrayaṃtī | dṛṣṭvātmanātha vasa(śa)tāṃ
+4. sakalāṃgatuṣṭā puṣṭiṃ nageṃdratanayā bhavatāṃ vidadhyāt ||3|| gaṇeśo [vaḥ] su[khāyā] stu niśātaḥ paraśuḥ kare | yasya namraghanāvadya-
+5. kaṃdocchittyā ivodyataḥ ||4||{4} astyurvvīdhraḥ pratīcyāṃ himagiritanayaḥ siddhadaṃpatyasiddheḥ sthānaṃ ca jñānabhājāmabhimata-
+6. phalado'kharvvitaḥ so'rvvu(rbbu)dākhyaḥ | viśvāmitro vasiṣṭhādaharata va(ba)[la]to yatra gāṃ tatprabhāvājjajñe vīro[gni]kuṃḍādripuva(ba)lanidhanaṃ ya-
+7. ścakāraika eva ||5|| mārayitvā parāndhenumāninye sa tato muniḥ | uvāca paramārā ˍU;ˍU{5} rthiveṃdro bhaviṣyasi ||6|| tadanvavāye'khilayajñasaṃghatṛ-
+8. ptāmarodāhṛtakīrttirāsīt | upeṃdrarājo dvijavarggaratnaṃ [śauryyo]rjjitottuṃganṛpatva[mānaḥ]{6}||7|| tatsūnurāsīdarirājakuṃbhikaṃ-
+ ṭhīravo vīrya -
+9. vatāṃ variṣṭhaḥ | śrīvairi{7}siṃhaścaturarṇṇavāntadhātryāṃ jayastaṃbhakṛtapraśastiḥ ||8|| tasmādva(dba)bhūva vasudhādhipamaulimālāratnaprabhāruciraraṃ-
+10. jitapādapīṭhaḥ | śrīsīyakaḥ karakṛpāṇajalormmimagnasa(śa)truvrajo vijayināṃ dhuri bhūmipālaḥ ||9|| tasmādavamti(nti)taruṇīnaya -
+11. nāravindabhāsvānabhūtkarakṛpāṇamarīcidīptaḥ | śrīvākpatiḥ sa(śa)tamakhānukṛti[stu]raṃgā gaṃgāsamudrasalilāni pivanti yasya ||10||
+12. jātastasmādvairisiṃhonyanāmā loko vrū(brū)te [vajraṭa]svāminaṃ yaṃ(yam) | śatrorvvargaṃ dhārayāsernnihatya śrīmaddhārā sūcitā yena rājñā
+   ||11|| tasmā-
+13. dabhūdarinaresva(śva)rasaṃghasevā{8}garjjadgajeṃdrara[vasuṃ]daratūryanādaḥ | śrīharṣadeva iti khoṭṭigadevalakṣmīṃ jagrāha yo yudhi nagādasamapra-
+14. tāpaḥ ||12|| putrastasya vi[bhū]ṣivā(tā)khiladharābhogo guṇaikāspadaṃ sau(śau)ryākrāntasamastasa(śa)truvibhavādhivyādya(nyāyya)vittodayaḥ |
+   vaktṛtvo-
+15. ccakavitvatarkkakalanaprajñātasā(śā)[strā]gamaḥ śrīmadvākpatirājadeva iti yaḥ sadbhiḥ sadā kīrttyate ||13|| karṇāṭalāṭakerala-
+16. colasi(śi)roratnarāgipa[da]kamalaḥ {9}| yaśca praṇayi[ga]ṇārthitadātā kalpadrumaprakhyaḥ ||14|| yuvarājaṃ vijityājau [ha]tvā tadvā-
+17. hinīpatīn | khaḍgamūrddhvīkṛtaṃ{10} ye[na] tripuryā vijigīṣuṇā ||15|| tasyānujo nirjjitahūṇarājaḥ śrīsiṃdhurājo vijayārjji-
+18. taśrīḥ| śrībhojarājojani yena ratnaṃ narottamākampakṛ[da]dvitīyaṃ(yam ){11} ||16|| ākailāsānmalayagirito'stodayādridvayādābhuktā pṛthvī
+   pṛthu -
+19. narapatestulyarūpeṇa yena | unmūlyorvvībharaguru[ga?]ṇā līlayā cāpaya[ṣṭyā] kṣiptā dikṣu kṣitirapi parāṃ prītimāpāditā ca ||17||
+   sādhitaṃ vihitaṃ dattaṃ
+20. jñātaṃ tadyanna kenacit | kimanyatkavirājasya śrībhojasya prasa(śa)syate ||18|| cedīśvareṃdraratha[to]{12}ggala[bhīmamu]khyā[nka]rṇṇāṭalā-
+   ṭapatigurjjararāṭturu-
+21. ṣkān| yadbhū[tya]mātravijitānavalo[kya] maulā doṣṇāṃ va(ba)lāni kalayaṃti [na yoddhṛlokān]{13} ||19|| kedārarāmeśvarasomanātha-
+   [suṃ]{14}ḍīrakālānalarudra-
+22. satkaiḥ [|] surāśra[yai]rvyāpya ca yaḥ samantādyathārthasaṃjñāṃ jagatīṃ cakāra ||20|| tattrādityapratāpe gatavati sadanaṃ svarggiṇāṃ bharggabhakte
+   vyāptā dhāreva dhātrī riputi -
+23. mirabharairmmaulalokastadābhūt | viśra(sra)stāṃgo nihatyodbhaṭariputi[mirabha]raṃ{15} khaḍgadaṃḍāṃsu(śu) jālairanyo bhāsvānivodyandyutimuditajanānmoda-
+24. yādityadevaḥ ||21|| yena dharaṇīvarāhaḥ paramāreṇo[ddhṛto] nirāyāsāt | [tasyai tasyā bhū]meruddhāro va(ba)ta kiyanmātraḥ ||22||
+   kuṃtāgrāpātavājivrajabhu{16} -
+
+Part B; PLATE XXVI
+Text{17}
+
+25. {18}dhirahatānekapasve(śve)tadantapreṃkhatta[tkaṃṭha]muktāpatitataṭasi(śi)raḥso(śo)ṇasu(śu)bhrādivarṇṇā(rṇṇām) | saṃpūrṇṇā - rṇṇikāntāṃ
+    samara(su)vasane{19} cchādayitvā jayaśrīkrāntāmānaṃdakāntāṃ{20}
+26. pariṇayati parānmārayitvodayārkkaḥ ||23|| ḍahālādhīśasaṃhāravajradaṃḍa ivāparaḥ |(||) dorddaḍakhaṃḍitānekānekapo yasya rājate ||24||
+    kuṃte sidūrapūraṃ va(ba)ha-
+27. lamadajalaṃ kajjalaṃ satsa(ccha)lākaṃ --------{21}
+
+-------------------------------------------------------------
+
+{1} From the facsimile accompanying Būhler's article in Ep. Ind., Vol. I, and from an impression supplied by
+	The Superintending Archaeologist, Central Circle, Bhopal.
+{2} As noted by Būhler, the word ālavāla is here broken into the first two of its letters ending the
+	first foot and the rest beginning the second foot of this verse. In the latter half also I find that the
+	prefix ā is taken at the end of the third foot, and iva is not in its proper place. The error can be
+	corrected by the restoration -vallīvābhāti.
+{3} In the facsimile and the impression the bracketed akṣaras have disappeared, leaving traces. But they
+	are distinct on the stone from which they have been restored here.
+{4} This verse is followed by a floral design between two daṇḍas.
+{5} These two akṣaras are totally lost. Read -rākhyaḥ, as suggested by Būhler and as they are clear on the
+	stone. They mātrā of the preceding tyā was subsequently inserted.
+{6} The reading of these two akṣaras is uncertain. They also appear as bhūmiḥ. On the original the
+	reading bhīmiḥ is clear.
+{7} The vertical of the mātrā of the second akṣara of the name was subsequently inserted.
+{8} Read senā, as suggested by Būhler. The word nagāda (Garuḍa), as used in the last pāda of this verse,
+	is quite in consonance with engraving this figure in the land grants of the dynasty.
+{9} This daṇḍa is joined to the following letter and the preceding da is disfigured by a redundant chisel
+	stroke.
+{10} Read khaḍga ūrddhvīkṛto, as suggested by Būhler. The fourth akṣara in this verse may be read as rdvī or rddhvī but
+	not thdvī, as adopted in the text in its correct form.
+{11} Būhler read the bracketed letter as ta but it is distinctly da on the original; karotīti kṛt; it is changed
+	to d, by sandhi.
+{12} the bracketed letter is so formed as to appear as to or bho or ven so, as also remarked by Būhler. The
+	reading could not be ascertained even from my inspection of the original. The following nka is peculiarly
+	formed.
+{13} The bracketed letters are all extremely damaged and their restoration is due to Būhler. In my examina-
+	 tion of the original I found this reading to be certain.
+{14} The reading of this letter is again doubtful. On the original, however, mu is very clear.
+{15} The second yati of the third pāda of this verse contains two syllables in excess. The flaw can be removed
+	 by deleting bharaṃ. The letters rabha are struck off on the original.
+{16} The last letter is doubtfully read here. It is a protion of a verse in Sragdharā, and the following
+	 protion is continued on another stone. The restoration of these ten letters is merely from the inked
+	 impression and my personal examination of the original stone. They are not distinct in the facsimile, and 
+	 were read by Būhler as (kuṃvānya-)tavājivrajaru; but this gives no sense. The suggestion about the reading of
+	 the last letter is due to S. L. Katare.
+{17} From an impression.
+{18} This is in continuation of the last letter engraved on the first part of the praśasti.
+{19} The first akṣara of this word has not clearly come out on the impression. It appears as cū, but would
+	 make no sense. And the third one bears a redundant stroke, but its reading is absolutely certain.
+{20} This letter appears to have been damaged.
+{21} What follows is all abraded, as already stated, and consequently is not completely legible. It may also
+	 be noted here that the impression is complete, as shown by the last letters, which can be read as -teyaṃ praśastiḥ,
+	 followed by a flowery design between a double daṇḍa on either side. It is the last part of a verse
+	 giving the name of the writer or the engraver, which too cannot be made out.
+	 
+	 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+

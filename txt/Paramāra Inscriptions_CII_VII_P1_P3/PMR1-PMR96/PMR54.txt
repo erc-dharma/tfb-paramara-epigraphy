@@ -1,0 +1,40 @@
+PennGlobal: PMR54
+Period: VS 1312 varṣe bhādrapada śudi 7
+Location: Rāhatgaḍh
+Dynasty: Paramāra
+King: Jayasiṃhadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: Royal document
+Published reference: Trivedi (1978), no. 54.
+
+
+Text{1}
+
+1. oṃ siddhiḥ || saṃvat 1312 varṣe bhādrapada su(śu di) 7 so[me]{2}
+2. śrīmaddhā[rāyāṃ]{3} mahārājādhirājaśrīmajjaya[s*]i[ṃ]-
+3. [ha]devavijayarājye{4} uparihāḍāmaṃ[ḍa]le{5} rājaśrī{6} . .
+4. ..hāvyāpāre tasmin kāle vaṃdanā(?)dhikāre{7}
+5. [tamirjo ?]ditapatrakaṃ samabhilikhyate yathā..
+  ......{8}
+  
+----------------------------------------------------------------------
+
+{1} From the original and impressions.
+{2} What appears as an additional mātrā on the penultimate letter in this line is only a scratch.
+{3} The mātrā of the first of these akṣaras is broken, leaving traces thereof, and of the second, the consonant
+	is detached from the rest of the limbs. Cunningham read the first five of the akṣaras as tērasadhyaṃ,
+	which gives no sense.
+{4} This letter has only traces left. The fourth akṣara in this line is mutilated, but the reading is certain.
+{5} The reading of the third akṣara of the name of the maṇḍala is highly doubtful, as also noted by
+	Kielhorn, but here I follow him.
+{6} Two akṣaras are lost here and an equal number of them at the commencement of the next line.
+{7} Cunningham read tasminukālē and look Ukālēvandana as a name; but in that case, the consonant n would
+	have been doubled. To me, however, this letter also appears as marked by a stroke resembling the sign
+	of the mātrā of u.
+{8} The rest of the inscription cannot be satisfactorily made out for reasons stated above in the article.
+     
+ 
+
+

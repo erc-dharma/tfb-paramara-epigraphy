@@ -1,0 +1,37 @@
+PennGlobal: PMR67
+Period: VS 1102 Kārttika vadi 5
+Location: Kāyadrā
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 1 verse.
+Gist: Records the grant(śāsana) made for the  remission of taxes on a Phulahalī (a village) 
+	  belonging to  bhaṭṭāraka Deveśvara of the temple of Kāśīśvara.
+Published reference: Trivedi (1978), no. 67.
+
+
+Text{1}
+
+1. oṃ || svasti śrī saṃvat 1220 je(jye)ṣṭha su(śu)di
+2. 15 śanidine somaparvve{2} mahārājādhi-
+3. rāja mahāmaṃḍalesva(śva)ra śrīdhārāvarṣadeve-
+4. na śāsanaṃ pradataṃ(ttaṃ) śrīkāsesva(śva)radevīyabha-
+5. ṭṭārakadevesva(śva)rasya phulahalīsatka(tko)
+6. mocanīyaḥ śrīkumhara{3}pālhaṇadevena || vā-
+7. lakelhaṇena pradataṃ(ttam) || ....
+8. -ṇīdāyaṃ mocanītaṃ(yam) || bhoma{4} pache || sākṣi vā(cā?)-
+9. haḍasutavajayarā | dejaāsutadedā sākṣi 3-
+10. --sākṣimahājana || jo(yaḥ) pradatta(paradattāṃ) svadatta(ttāṃ) svadatta(ttāṃ) vā ha-
+11. re[ta*] bhūmīṃ(miṃ) narādhipa(paḥ?) | punaḥ -mapi kālena ||{5}
+12. tamāhurvra(rbra)hmaghātakaṃ(kam) ||1|| maṃgala(laṃ) mahāśrī[ḥ] ||
+13. vāsaṇagrāma vāstavya(vyā)matya śivasiṃga(hena) śrī-
+14. kṣetraṃ pradataṃ(ttam) ||.......
+
+--------------------------------------------------------------
+
+{1} From facsimile facing p.50 in Ind. Ant., Vol. LVI.
+{2} Read somaparvvaṇi.
+{3} Read kumāra-.
+{4} This and the following line are in vernacular.
+{5} The daṇḍas are redundant. The preceding verse is corrupt.

@@ -1,0 +1,45 @@
+PennGlobal: PMR186
+Period: VS 1366 śrāvaṇa vadi 12
+Location: Udaipur
+King: Jayasimhadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: The inscription records the donation of one-eighth of the revenue 
+	from the village Hathivāha by the Thakura. 
+	Vidyādhara to a Brāhmaṇa.
+Published reference: Trivedi (1989), no. 186.
+
+
+Text{1}
+
+1. -saṃvat] 1366 śrāvaṇa vadi 12 [śu]kre
+2. udayapure samastarājāvalī{2}-
+3. [samalaṃkṛta] [ra]ājādhirājaśrījaya-
+4. siṃghe(ha)devarājye hathi[vāhā]{3}-
+5. grāma- -aṣṭāṃsaṃ(śaṃ){4}japa(jāta ?)-
+6. vidyādhareṇa brā{5}hmaṇajai{6}--
+7. kṛte pādauprakṣālittvā{7} trada{8}-
+8. kaiḥ pradattaṃ -- --{9}
+9. śrī -- -- --{10}
+
+-------------------------------------------------------
+
+{1} From the original stone. Subsequently, I have also compared my reading from the facsimile facing p. 35
+	of Ep. Ind., Vol. XXXVIII. The inscription begins with a symbol which is partly mutilated. 
+{2} Here supply virājamāna, or mālālaṃkṛta, or, as suggested by Ramsharma, sahita; but on the original
+	it appears, as taken here, at the beginning of the third line. 
+{3} The reading of the bracketed akṣaras is based on lose ending the name of a village which exists in 
+	the neighbourhood even today. The mātrā of the first of them appears to be mixed with the slanting 
+	stroke of the second. On the original, the last two syllables appear as kapā. 
+{4} This akṣara is followed by two hollow circles and a horizontal stroke, and the reading of them, as 
+	adopted here, is doubtful. Ramasharma read the fourth and the fifth letters in this line as satka. 
+{5} This akṣara is deformed, and the mātrā on the preceding re resembles a curve. 
+{6} Two or three akṣaras are lost at the end of the line, and the reading tasī is adopted here from that
+	of Ramsharma; but the reading is not certain, as the last of the akṣaras appears as a conjunct.
+{7} Read prakṣālyātra. Possibly, what is intended is udakaiḥ, for (udakaṃ ?).
+{8} Two or three akṣaras are lost here also.
+{9} Some letters are indistinct here, and some are lost at the end. Ramsharma read them as [ā][jñā*](nti)
+	ṭha vaijja (?). He also took vaijja engraved for vaidya; but I do not find the ending certain. 
+{10} Eight akṣaras are lost here and they were read by Ramsharma as śrīcaṃdraprabha[pra*]ma(mā)ṇa, with some doubt
+	 from an impression prepared in 1961-62.

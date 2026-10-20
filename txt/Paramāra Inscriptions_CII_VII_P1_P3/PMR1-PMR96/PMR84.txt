@@ -1,0 +1,337 @@
+PennGlobal: PMR84
+Period: VS 1136 phālguna śudi 7 śukre
+Location: Arthūṇā
+Dynasty: Paramāra
+King: Cāmuṇḍarājā
+Language: Gauḍī
+Script: Nagari
+Text: Metrical in 87 verses. 
+Metres: Verses 1, 3-4, 13, 19, 24, 28-29, 31, 37, 39-41, 43, 45-46, 49, 58, 63-64 and 67 Śārdūlavikrīḍita; vv. 2, 
+	    5-7, 14, 16, 18, 21, 23, 26-27, 30, 32-35, 42, 44, 47, 52-53, 57, 61-62, 65, 68-70, 72-84 and 87 Anuṣṭubh; vv.8
+	    and 48 Drutavilambita; vv. 9-10, 38, 51, 56, and 59-60 Sragdharā; vv.11, 36 and 71 Svāgatā; v.55 the same,
+	    with its first quarter in Rathoddhatā; vv. 12, 15, 17, 22 and 25 Vasantatilakā; v. 20 Indravajrā; v.50
+	    Mandākrāntā; vv. 54 and 66 Mālinī; v.85 Āryā; v.86 Upajāti
+Gist: Records the line of kings belonging to the subordinate Paramāra house ruling over the province of Sthāli or Vāgaḍa. 
+	  Records the foundation of a temple, Maṇḍalēśa. Also discusses the maintenance of the temple, including imports and exports; 
+	  What is sold at the bazaar, etc.
+Published reference: Trivedi (1978), no. 84.
+
+Text{1}
+
+1. siddhaṃ{2}| oṃ namaḥ si(śi)vāya | pāṇau va(ba)ddhabhujaṃgaphūtkṛtibhayātsaṃkocayaṃtyāḥ karaṃ vyākṛṣṭaṃ jaratījanena rabhasāśchaṃ(cchaṃ)
+   bhorddṛḍhaṃ gṛhṇataḥ{3} | bhrāṃtāḥ saṃbhramataḥ sukhān mukulitā visphāritāḥ kautukāt(d) vrīḍā maṃtharitā vivāha samaye devyā dṛśaḥ
+2. pāṃtu vaḥ ||1|| iṃduṃ mūrddhani dadhat kṣīṇaṃ pātu vaḥ sasise(śaśiśe)kharaḥ | khedādiva sadāsanna gaurīmukha parājayāt
+   ||2|| astyuccair gaganāvalaṃva(bi) si(śi)kharaḥ kṣoṇībhṛda[syāṃ]{4} bhuvi khyāto merumukhocchritādriṣu parāṃ koṭiṃ 
+   gatopyarvvu(rbbu)daḥ | yatra sphāṭika puṣparāga kira-
+3. ṇālīḍhārkkacaṃdrau kṣaṇaṃ dṝṣṭvā siddha janair amanyata divā rātrisca(śca) naktaṃ dinaṃ(nam) ||3|| tasmiṃstyaktaha(bha)vasca(śca)-
+   ritravibhavastathyaṃ tapotapyata vra(bra)hmajñānanidhir guṇair niravadhiḥ sre(śre)ṣṭho vasiṣṭho muniḥ | yasya prajvalitāgnihotrajanitair dhūmairiva{5}
+   vyomagair jātāḥ saṃmilitāsci(ści)reṇa haritāste
+4. hāridasvā(śvā) hayāḥ ||4|| munes tasyāntike reje nirmmalā devyaruṃdhatī | sthiravasyeṃ(śyeṃ)driya grāmā tapaḥśrīriva jaṃgamā ||
+   5|| ananyasulabhā dhenuḥ kāmapūrvvāsya sannidhau | dadatī vāṃcchitān kāmā(n)s tapaḥsiddhir iva sthitā ||[6|| tataḥ
+   kṣatramadodvṛtto gādhirājasutaḥ
+5. cchalāt | dhenuṃ jarhre(hre)sya duḥ(duṣ)prāpyāṃ vighnaṃ siddhimivodyatāṃ(tām) ||7|| atha parābhava saṃbhava manyunā jvalana caṃḍarucā 
+   munināmunā | ripuvadhaṃ prati vīra vidhitsayā hutabhuji sphuṭamaṃtrayutaṃ hutaṃ(tam) ||8|| pṛṣṭhe to(tū)ṇīrayugmaṃ dadhadatha ca kare caṃḍako
+6. daṇḍadaṇḍaṃ va(ba)dhnan jūṭaṃ jaṭānāmatinivi(bi)ṣataraṃ pāṇinā dakṣiṇena | kruddho yajñopavīti nija viṣamadṝśā bhāyayan jīvalokaṃ tasmā-
+   duddāmadhāmā prativa(ba)ladalano nirggataḥ kopi vīraḥ ||9|| ādiṣṭastena yāto raṇamamaragaṇairmmaṃ-
+7. gale gīyamāne vā(bā)ḍhaṃ vyāptāṃtarālair dinakara kiraṇa cchādakair vvā(r bbā)ṇa varṣaiḥ ||(|) kṛtvā bhaṃgaṃ ripūṇāṃ prava(ba)la bhujava(ba)laḥ
+   kāmadhenuṃ gṛhītvā bhaktyā tasyāṃhri(ghri) padmadvaya lulita si(śi)rāḥ sovatasthau purastāt ||10|| ānatasya jayinaḥ parituṣṭo vāṃ-
+8. cchitāśiṣamasāvabhidhāya | tasya nāma paramāra itītthaṃ tathyamevamunirāsu(śu) cakāra ||11|| tasyānvaye kramavaśādudapādi
+   vīraḥ śrīvairisiṃha iti saṃbhṛtasinha(siṃha)nādaḥ | durvvāra vairivara vāraṇa kuṃbhakūṭa bhedodyatāsi nakha-
+9. roṭṭamaraḥ kṣitīndraḥ ||12|| kīrttiṃ tāvadavekṣya bhāvacapalāṃ saṃbhogavṛddhāṃ śriyaṃ nityaṃ maṃgalasadmanā su(śu)bhacaturddikkuṃbhikuṃbhaprabhe{6}
+   dorddaṇḍadvayaśālinā kṣitibhujāmāsā(śā)catuṣkāntare yenākāri karagraho vasudhayā gāḍhaṃ guṇāsa-
+10. ktayā ||13|| gataśrīḥ śrīnidhānena savaṃ(baṃ)dhaḥ saṃyatāriṇā | na yena samatāṃ dhatte jaḍadhiḥ paṭuvu(bu)ddhinā{7} ||14||
+    tasyānujo ḍamvarasinha{8} iti pracaṇḍadorddaṃḍacaṃḍimavaśīkṛtavairivṛṃdaḥ [|*] sṛ(śṛ)ṅgārasārataruṇījanalocanālipuṃjoparu-
+11. ddhavadanāṃvu(bu)ruho va(ba)bhūva ||15|| caṃdrikāpi kathaṃkāraṃ yasya kṝttyā samaṃ samā | ekā doṣā karodbhūtā{9} guṇotkara bhavāparā
+    ||16|| tasyānvaye karikaroddhura vā(bā)hudaṇḍaḥ śrīkaṃkadeva iti lavdha(bdha)jayo va(ba)bhūva | darppāṃdha vairi vanitā kuca patra vallī{10}-
+12. saṃdoha dāha dahana jvalita pratāpaḥ ||17|| yuddhakaṃḍūladorddaṃḍadvaye yaḥ samaraṃ prati | mene ripu sa(śa)rāghāta nakha kaṃḍūyanaiḥ sukhaṃ(kham)
+    ||18|| ārūḍho gajapṛṣṭhamadbhūtasa(śa)rāsārai{11} raṇe sarvvataḥ karṇṇāṭādhipater bvva(bba)laṃ vidalayaṃsta nnarmmadāyās ta-
+13. ṭe [|*] śrīśriharṣanṛpasya mālavapateḥ kṛtvā tathārikṣayaṃ yaḥ svarggaṃ subhaṭo yayau suravadhū netrotpalair arccitaḥ{12} ||19|| tasyā-
+    tmajas caṃ(ścaṃ)ḍapa nāmadheyo vra(bra)hmāṃḍa vibhrānta yasā(śā) va(ba)bhūva | sāmaṃta kāṃtājana hāsa[haṃsa] śreṇī pravāsaika payodakā-
+14. laḥ ||20|| vra(bra)hmastaṃva(ba)sya yatkīrttirmmaṃjarīvopari sthitā | sasva{13}(śaśva)tkinnarabhṛṃgo(gau)dhairupagītādhikaṃ va(ba)bhau
+    ||21|| satyāspadaṃ dahanaduḥsahadhāmadhāmā śrīsatyarāja iti tasya suto va(ba)bhūva | sāmaṭa dūranati saṃgila lāṭapaṭṭa lagnollasat tilaka pādana-
+15. khāṃśujālaḥ ||22|| vanamālādharā nityaṃ hi(bhi)yā yasyācyutā{14} api | ripavo na ca vikrāntā na lakṣmīpatayaḥ kathaṃ-
+    (tham) ||23|| nirvyājaṃ karuṇārdritopi sa(śa)taso(śo) nistaṃ(sitraṃ)śakarmmodyataḥ saṃjāta prasaropi vikramaśatairaṃtaḥ sadā saṃyataḥ |
+    āmūlaṃ guṇavarddhito
+16. pi va(ba)hudhā doṣārjjita śrīharo yopyevaṃ niyataṃ viruddha carito lokā viruddhobhavat |{15} 24||tasmādabhūdiha nayādiva vṛddhiyogaḥ
+    puṇyas triloka tilako vipulonnatāṃ[saḥ] | gīrvvāṇa cārucaritārppita karṇṇapūraḥ śrīmaṃdiraṃ jagati maṇḍanadeva{16}-
+17. nāmā ||25|| viśālora[ḥ*]sthalaṃ kā[n*]taṃ manye śrīrutthitoditaṃ(tam) | na vavaṃ(babaṃ)dha yamāsādya purāṇa puruṣe ratiṃ(tim)
+    ||26|| anavacchinna dānaugho yaḥ pralaṃva(ba)karoddhuraḥ | kulaika dhavalo bhadraḥ suradvipa ivāvhau(vabhau){17} ||27|| visphurjja nakha-
+    caṃdra dīdhiti lasal lāvaṇya-
+18. nīroccayaṃ su snigdha sphuṭa dīrgha rājirucibhṛtsatsaṃ(cchaṃ)khamīnāṃkitaṃ(tam) | vāhinyā[ḥ*] prapatitvayogyamatulaṃ khyātaṃ śriyaḥ kāraṇaṃ
+    yasyādhatta karāṃhri(ghri) padmayugalaṃ sāmudrikaṃ lakṣaṇaṃ(ṇam) ||28|| va(ba)ddhā kautukamanvayottharucirā sarvvāṃgapūrṇṇādhikaṃ
+    yenātra smararū-
+19. piṇā dṝḍhabhujādaṃḍollasan maṃḍape | vairi śrīr nṛvareṇa bhavya divasāvāptau parairīhitā datteyaṃ nijavikrameṇa mahatevoccairudū[ḍhā] svayaṃ(yam)
+    ||29|| dhṛta viśvaṃbharā bhāraḥ khaṃḍitārāti vigrahaḥ | asimmaṃ(rmmaṃ)trīva satataṃ yasyāvarddhayata{18} śriyaṃ(yam) ||30|| yasyārā-
+20. ti vadhūjanasya saralaiḥ svā(śvā)sānilaiḥ so(śo)kajair uṣṇoṣnaiḥ parito yugāṃta pavana praspa[rddhibhiḥ] kānane | dagdhe nīla tṛṇāṃkurotkara  bhare
+    nīredhikaṃ śoṣite |{19} kṛcchreṇāśana pāna vṛtti rahitaiḥ khinner mṛgaiḥ sthīyate ||31|| dīpyamānaḥ sadā sarvvavāhinīśa-
+21. kṣayolla(lva)ṇaḥ | pratāpo yasya jajvāla vāḍavognirivāparaḥ ||32|| kīrttini(rgga)manāthe(de)va sṛṃ(śṛṃ)khaleva ripusri(śri)-
+    yāṃ(yām) | yasyāsiḥ samare bhāti{20} veṇikeva jalaśriyaḥ ||33|| balabhidva(dba)layuktena gotrahā gotra naṃdinā | na yena
+    kṛtinā datte sopi sāmyaṃ puraṃdaraḥ{21} ||34||
+22. tasyāsti hṛdaye lakṣmīḥ{22} sa ca śrīhṛdayaṃgamaḥ | sparddhāṃ (ye)na kathaṃkāraṃ karoti garuḍadhvajaḥ ||35|| yaṃ pratāpa nava pallava-
+    kāṃtaṃ kīrtti nirmmala dhṛtākṣata dehaṃ(ham) | śrīḥ sadā nahi mumoca dayāṃbhaḥpūritaṃ vijaya maṃgala kuṃbhaṃ(bham){23} ||36|| nirvyājaṃ sura maṃdiretivima-
+23. vimalair vṛddhair guṇaiḥ sthāpitā muktānāṃ rucidhāri[ṇī] sumahitā{24} lokatraya vyāpinī | pratyāśaṃ pratikānanaṃ pratipuraṃ gehaṃ prati prastutāṃ-
+    (tā) yasyaiṣād bhūta devateva satataṃ kīrttir jjanaiḥ stūyate ||37|| lakṣmyā yasminnupāttaṃ jananamatha yaśaḥpāṃḍupīyūṣapūrairyatrodbhūtaṃ
+24. samantādakhilabhṛtalasadbhūtalāsā(śā)ntarālaḥ | kṣīrāṃbhodhir guṇaugho niravadhirabhavadyasya cāritra sīmnaḥ sī(śī)tāṃsu(śu)śrīryadutthācchurayati
+    gaganaṃ kṝtti kallola mālā ||38|| kharvvā kvāpi na{25} kutracinnahi tathā loke gatā śeṣatāṃ na prāptā viratiṃ sphuṭaṃ na hi
+25. vṛṣadhvaṃsodayāviḥ(viṣ)kṛtā | no pūrṇṇaiṃka padālpaka tribhuvanā kroḍīkṛtā na kvacidyat kīrtir vvisi(śi)naṣṭi kuṃda dhavalā kṛṣṇāṃ tanuṃ śrīpateḥ
+    ||39|| yasyoḍḍāmara vāma vā(bā)hu daṇḍa yugalasyodyad va(d ba)lenādhikaṃ saṃcchannena rajobharaiḥ pracalataḥ pratyarthir vṛṃdaṃ prati | te-
+26. jas tyaktamaho svakaṃ bhagavatā{26} caṃḍāṃśunāpi sphuṭaṃ pratyāśaṃ bhayasadma sā(śā)travajanasyānyasya tatkā kathā ||40|| yasyāsā-
+    (śā)vijayodyatasya nikhila kṣmāpāla cūḍāmaṇer vvaiṃri śrīdyutilaṃpaṭasya calatastīreṣu vārāṃ nidheḥ | kruddhādhoraṇa tarjjitair api muhur mmā-
+27. nonnataiḥ pīyate majjadi(ddi)ggajadānagandhi salilaṃ duḥkhena senāgajaiḥ ||41|| uccair dhṛta vṛṣo{27} nityaṃ samadarśī
+    gatāhitaḥ | ji[tā]saṃkhyapuraḥ pūjyo yoparaḥ  parameśvaraḥ ||42|| vikhyātā capaleti yā priyatamāsau śaṃkiteva
+    śriyā gatvādi-
+28. [tya]bhuvaṃ surairapi nutā nityaṃ visu(śu)ddhā satī | mānene(nai)va tathāpi kīrttirama[le]nāṃgīkṛtāpi svayaṃ |{28} yeneyaṃ yaśasā
+    sahaiva sahajenetthaṃ jagad bhrāmyati ||43|| dhanur vvidyā vidā yena satva(ttva) satyaika sadmanā | ra[ṇe] saṃdhānamānīya kathaṃ na
+    ripavo hatāḥ ||44||
+29. ālāno vijaya dvipasya rucirā veṇī nu kīrttistriyo dorddaṇḍa priya nirbharaika vasateśchāyā sphuraṃtī śriyaḥ | vā(bā)ḍhaṃ vairi vadhodyataḥ
+    pratiraṇaṃ kālogra daṃḍo gururyasyāsiḥ susu(śuśu)bhe parākramabhṛto dṝptāri darppa cchidaḥ ||45|| śūraḥ prauḍha va(ba)laḥ
+30. kulaika tilako durvvāra vīrāntako vairi śrī haraṇaikalaṃpaṭa lasaccaṃḍāsi daṃḍolvaṇaḥ | kāṃtā lola kaṭākṣa puṃja nilayaḥ śṛṃgāra mīnadhvajo jāto yasya
+    ravi dyuter gguṇa nidheś camuṃḍarājaḥ sutaḥ ||46|| guru duḥkhoṣṇa nisvā(śvā)sair aśrupūrai-
+31. śca satataṃ(tam) | kṛtaṃ yasyārikāṃtābhir ddagdha pallavitaṃ vanaṃ(nam) ||47|| ahita doṣa gu(ga?)ṇair uditoditair jjagati lavdha(bdha)-
+    jayairiva vihṛtāḥ{29} sakala loka nikāya nirākṛtā yamiha sarvva guṇāḥ śaraṇaṃ yayuḥ ||48|| durvvārāri vidāriṇā hari khura-
+    kṣunnā(ṇṇā)ntarā-
+32. le bhṛśaṃ tīkṣṇāstra kṣata vānta śoṇita payaḥ pūra plute sarvvataḥ | nistṛṃ(striṃ)śā hata kuṃbhi kuṃbha vigalan muktā phalānāṃ gaṇāḥ kṣiptā vīravareṇa
+    yena samara kṣetre yaśo vī(bī)javat ||49|| vāraṃ vāraṃ prakṛti subhagaṃ dhauta nistṛṃ(stiṃ)śa pāṇiṃ yuddhe (yu)ddhe{30} satata-
+33. vijaya śrī priyaṃ khejarīṇāṃ(ṇām) | [ta]tkālottha smara bhayavaśādyaṃ prati sparddhayai(tā) maṃdaṃ maṃdaṃ cakitacakitaṃ dṝṣṭayaḥ saṃpatanti
+    ||50|| krodhādyasyātibhītā diśi diśi vihatānaṃta sāmanta kāṃtāḥ kāṃtāreṣu praviṣṭāḥ śramavaśa[vi]vaśāḥ saṃsri[śrit]tā
+    duḥkhanidrāṃ(drām) [|]
+34. svapne daivādupāttā nnija nija ramaṇān prāpya saṃbhogametā(tya) jāgratyopyāsu(śu) (netthaṃ) rati rasa rasi(kā)s ca(śca)kṣur unmīlayaṃti
+    ||51|| sa(śa)travaścaṃḍakopena yena svasthānacālitāḥ{31} | nijakāṃtāmano muktā sthitimanyatra no gatāḥ ||52||
+    sasvatsannaṃdako{32} vā(bā)ḍhaṃ va(ba)livaṃ(baṃ)dhoditodi-
+35. taḥ | trivikrama ivodārāṃ yo lakṣmīṃ satataṃ dadhau ||53|| dṝḍhataramabhisa(śa)ktyā bhavyasaṃbhogaramyā vidhṛta vimala pakṣa dvaṃdvamānaṃda-
+    hetuḥ kṣaṇamapi na mumoca prāpya yaṃ rājahaṃsaṃ kuvalaya ratipātra rājahaṃsīva lakṣmīḥ ||54|| siṃdhurājama[ti]-
+36. mathya helayā khaṅgamaṃdarabhṛtā yudhi yena | uttameṣu puruṣeṣu vilebhe śrīryaso(śo) bhuvana pāvana śaṃkhaḥ ||55|| viśvaṃ vairi pratāpaṃ
+    jhaṭiti kavalayan līlayā jāṃgalābhaṃ caṃḍāśostīvraśocirmmalanakapilitārcciśchaṭākesaraśrīḥ | dhārādaṃ-
+37. ṣṭrākarālo vilasati samare jātaghātoccanādo yasyārātībhakuṃbhasthaladalanapaṭuḥ praudhanistṛṃ(striṃ)śasiṃhaḥ{33} ||56|| yasya
+    sarvāṃga sauṃdarya prativiṃva(biṃba)mapaśyatā | praśaṃsitā smareṇāpi  nijā ciramanaṃga[tā] ||57|| strībhir yatra gṛhaṃ prati pravi-
+38. śati svasthe svahṛnmaṃḍale harṣottālatayaiva hāra kiraṇān saṃbhāvya sasvastikaṃ(kam) | uttuṃga stana kuṃbha saṃga rucira śrīkaṇṭha kaṃvu(bu) sphurad va[ktrāṃ]-
+    bhoja vibhūṣitaṃ nija vapuś cakre svayaṃ maṃgalaṃ(lam) ||58|| dūtīṃ dṝṣṭvotsukānāṃ vada[namabhi]{34}bhavatsaurabhātkāmi-
+39. nīnāṃ nāyātyāyāti veti svavacana udite yatkṛte duḥkhasaukhyaiḥ | jātoṣṇaṃ(ṣṇa){35} svā(śvā)sadāhān madhukara paṭalāny aśru saṃpāta sekāt(d)
+    vaikalyasvāsthyabhāṃji tvarita[ta]ramadhaḥ saṃpatatyutpataṃti ||59|| gehe gehenurāgātpathi pathi [su]ciraṃ prāṃ-
+40. gaṇe prāṃgaṇe vā vāraṃ vāraṃ nitāṃtaṃ yutayuvatijano jātatṛṣṇābharārttaḥ | utkallolaṃ samaṃtādahamahamikayā yasya kaṃdarppakāṃterlāvaṇyāṃ-
+    bhastanu[ṣṭhaṃ] svanayanaculukairucchuluṃpīcakāra{36} ||60|| anaṃgaḥ sa smaro yuktaṃ viraha jvalite hṛdi |
+41. tasthau yadiha kāṃtānāṃ citraṃ yo vasatīti me ||61|| yema(na) dharmmo mahīpṛṣṭhe kopyapūrvvaḥ prakāśitaḥ | yasyonnama[ya*]-
+    topyeva(or ṣa?) guṇaḥ koṭiṃ parāṃ gataḥ ||62|| dattvā kāṃcana ratna dānamatulaṃ dharmmaikarāgānta(tta)thā yenaiśvaryamatiprapaṃci-
+    [tama]ho{37} puṇyadvijāḥ
+42. prāpitāḥ | jātaṃ maṃdiramālikāsu timiraṃ dīpairvino[jṛṃ(jjṛṃ)bhitaṃ]{38} jitvodyotamaharnisaṃ(śaṃ) vidadhate ratnapradeepāṃkurāḥ ||63||
+    yena svarṇṇagiri [U -]{39}rviracitāḥ(taḥ) svarṇṇena saptānvayaḥ svarṇṇyaḥ kalpataruḥ samastavasu[dhā sva]rṇṇyā sahasraṃ [ga]vāṃ-
+    (vām) | ityādi dvi-
+43. jasaṃcayāya dadatā sphūrjjadyaso(śo)hāsataḥ sollāsaṃ hasitā va(ba)liprabhṛtayaḥ sarvvepyamī pārthivāḥ ||64|| kāmadhenurakāmā-
+    bhūccintā ciṃtāmaṇerapi | vikalpaḥ kalpavṛkṣasya śru(śrṛ)tvā yaddānamadbhutaṃ(tam) ||65|| natari[pudhṛ]tacūḍālag[nanīle]ddha-
+    so(śo)cirmmadhukara-
+44. nikuraṃva(ba)cchannapādāṃvu(bu)jena | ruciramidamudāraṃ kāritaṃ dharmmadhāmnā tridasa(śa)gṛhamihaśrīmaṃḍaleśasya tena ||66||
+    yāvallocanadhūmadaṃḍamilitaṃ [ccha]tracchavī[ṃ]duṃ dadhau bhogīndraṃ navayogapaṭṭasadṛśaṃ yāvacca mau[lau] haraḥ | yāvatkaustubha e-
+45. ṣa bhāti hṛdaye viṣṇoḥ stri(śri)yo rāgavat |{40} śrīmanmaṃḍanakīrttanaṃ kṣititale tāvasthiraṃ tiṣṭhatu{41} ||67|| atha
+    caitracaturddaśyāṃ yaso(śo)devādikaṃ(kiṃ)karaiḥ | kīrttirājamukhairanyairdevasyaiṣā kṛtā pratiḥ{42} ||68|| vaṇijāṃ khaṃḍaguḍyorbharakaṃ{43}
+    prati varṇṇi-
+46. kā | maṃjiṣṭhāsūtrakarppasabharakeṣu ca rūpakaḥ ||69|| tathāśrīmaṃḍaneneyaṃ śāsane[na] mahātmanā | haṭṭe vikrīya[te ya]ttu
+    tasyāpi racitā pratiḥ ||70|| mā(nā)likerabharake phalamekaṃ mānakaṃ lavaṇamūṭakama[dhye]{44} [|*] pūgamekamapi pūgasahasrā-
+47. dājyatailaghaṭake palikaikā{45} ||71|| dāpito rūpakaḥ sārddhaḥ pratikarppaṭakoṭikāṃ(kām){46} | pūlakadvitayaṃ{47} jālādannacchadre(tre) ca
+    pāilī ||72|| tattho(tho)tthapanake tena vaṇijāṃ pratimaṃdiraṃ(ram) | caitryāṃ drammaḥ pavitryāṃ ca dramma ekaḥ pradāpitaḥ 
+    ||73|| sā(śā)lāsu kāṃ-
+48. syakārāṇāṃ māse drammaḥ kṛtastathā | tuṃva(ba)ke{48} kalyapālānāṃ rūpakāṇāṃ catuṣṭayaṃ(yam) ||74|| prakṛtīnāṃ ra(ca) sarvvāsāṃ
+    [ta]yā sthityānumaṃdiraṃ(ram) | dāpito dramma ekaiko dyūtesmiṃ(smin) rūpakadvayaṃ(yam) ||75|| lagaḍā[t*] patrasa(śa)te
+    dve{49} tailakarṣo(rṣe) nu (pā ?)ṇakaṃ(kam){50} | dāpi[to] yatra śāke-
+49. [cchā ? vṛ]ṣaviṃśopakastathā{51}  ||76|| drammastena tathā datto vaṇigmaṃ(ṅmaṃ)ḍalikāṃ prati | sarvvāvarttayutā māsaṃ pratisu(śu)klā
+    caturddaśī ||77|| arddhāṣṭamaśate deśe vyā(ghra)dorakasaṃbhave{52} | tathekṣu[ta]vaṇiṃ{53} drammoraghaṭṭe yavahārakaḥ ||78|| dāne ca
+    bhāṃḍadhā(nyā)nāṃ bharakaccha(ṅga ?){54}-
+50. [viṃ]śatau | tena datta[ḥ*] svadharmmeṇa bharaka[śchaṅga] eva ca | ||79|| svāṭikaṃ tathā tena puraṃ dhavalamaṃdiraṃ(ram) | 
+    kāritaṃ bhūḥ pradattā ca devāyāghāṭasammitā ||80|| vī(bī)japurakamekaṃ tu lagaḍāyāśca dāpitaṃ(tam) [|*] yavānāṃ 
+    mūṭaksyaiṣa vāpaścāṭavike{55} tathā ||81|| śrūyatāṃ bhu-
+51. vi bhūpālāḥ pradattaṃ śāsanaṃ mayā | pālyatāmanyathā nātra maulau va(ba)ddhoyamaṃjaliḥ ||82|| pṛthuprabhṛtibhūpairmuktā kaiḥ kairna
+    medinī | tairapyeṣā punaḥ sārddhaṃ yato naikapadaṃ gatā{56} ||83|| kaviḥ sumadhisādhāro vaṃśe sādhārasaṃbhave | va(ba)bhūva kramaso(śo)
+    vidvā-
+52. n bhāratī karṇṇa kuṃḍalaṃ(lam) ||84|| tasya suta[o*] guṇacaṃdanasuṃdara{57} saṃjāta dig vadhū tilakaḥ | kavijanamukhakumudasasī(śaśī)
+    jayatāt śrīvijayasādhāraḥ ||85|| tasyānujenābhihitā prasa(śa)stiścaṃdreṇa caṃdrojva(jjva)lakīrttibhājā | samāsahasraikasa(śa)te
+    prayāte{58} ṣaḍu-
+53. ttare [triṃśa]ti yāti kāle ||86|| vālabhyajātikāyasthaśrīdharasyeha sūnunā | likhitā {59}āsarājena praśastiḥ svasthacetasā
+    ||87|| utkīrṇṇā vijñā. cāmuṇḍakena{60} | sūtradhārotra nannāsutaguṃdākasūtradhāra[ḥ*] || saṃvat 1136 phālguna śudi 7{61} śukre ||
+    maṃgalaṃ mahāśrī ||
+    
+-------------------------------------------------------------------------------------------------------
+
+ {1} From the original and inked impressions.
+ {2} Denoted by a symbol with an ornamental design over its top stroke, as also to be seen on some other
+ 	 letters in this line.
+ {3} Barnett read the subscript of the second letter of this word as n and corrected it to ṇ as required, but
+ 	 to me, it appears as transcribed here.
+ {4} The akṣaras in the square brackets, here and also below, are either so damaged as to be read on the
+ 	 stone, or are not properly formed, and those marked with stars are supplied from the context.
+ {5} Barnett read the preceding word as jvalitair-, but the syllables are exactly as trascribed here. His read-
+ 	 ing would also offend against the metre.
+ {6} Barnett corrected bhe to bhau, but it is not necessary as this expression has to be taken as governing
+ 	 antarē (the periphery of the four quarters) adorned with water pots in the form of the frontal globes of 
+ 	 elephants. It is customary to place water jars in a maṇḍapa in marriage ceremonies.
+ {7} Here is a pun on the word jaladhi, which means (1) ocean and (2) of dull intellect (jaḍadhī), ḍa and la
+ 	 being used for each other.
+ {8} Prosodically, the first syllable of the name is required to be laghu, and, as suggested by the editor, the 
+ 	 reading Damarasiṃha would suit the metre.
+ {9} The mātrā of ṣā was inserted later on. The word is here used in double sense: (1) doṣā meaning
+ 	 the night, and (2) doṣākṣara meaning a mine (full) of faults. 
+ {10} Here is a kāka pada and not a daṇḍa as taken by Barnett; it is intended to show that the word is con-
+ 	  tinued in the next line. In the name Kaṃka that precedes, both the akṣaras are marked by serifs at the 
+ 	  lower extremity.
+ {11} The reading is certain. From the indifferent impression the letters were read by Barnett as gaja pṛṣṭha
+ 	  vāhuta(ahata?).
+ {12} Originally taiḥ, with the sign of mātrā erased so lightly as to show the remains. As also noted by Barnett,
+ 	  the first syllable in this line is engraved outside its proper border.
+ {13} Originally svā with the sign of mātrā erased so lightly as to leave its mark on the stone.
+ {14} Here Barnett read yasyācyasā and called it corrupt. He also sated that the translation of Gopal
+ 	  Lal Vyas gives acyuta which suits the sense well but does not seem to be the reading of the ink impress-
+ 	  ion. My reading is as trascribed here and Vyas appears to have prepared his reading from the original 
+ 	  stone. The pun on expressions used in this verse suggests that his enemies had disappeared in dharā, i.e.,
+ 	  land which had a line of mountains.
+ {15} This daṇḍa is followed by a rosette and another daṇḍa. 
+ {16} Here is a kāka pada symbol showing that the word is continued in the next line. 
+ {17} The double meaning of the words, dāna, kara and dhavala are intended to show that the king resembled
+ 	  Indra's elephant.
+ {18} Originally, taḥ, with the sign of visarga erased later on. The third akṣara in khaṇḍitārāti that precedes 
+ 	  in the same line is engraved in smaller letters just below where it is required.
+ {19} This daṇḍa is superfluous.
+ {20} Engraved as bhāṃ-, with the sign of anusvāra erased but leaving a clear mark. 
+ {21} The words used here with double meaning intended to show that the king excelled Indra, who is known
+ 	  to have killed the demon Bala and cut the wings of mountains (gotras).
+ {22} The sign of visarga, which was at first omitted, was inserted subsequently.
+ {23} The expressions here show that the king was identical with an auspecious bowl. The custom of adorning 
+ 	  an auspicious jar with foliage and grains is well known. 
+ {24} That is, well(much) esteemed. 
+ {25} Engraved nu, with the mātrā erased. This verse states that the King excelled all the incarnations of  
+ 	  Viṣṇu, namely, those of Vāmana, Balarāma, Buddha, Kṛṣṇa, Matsya and Varāha respectively; and 
+ 	  what is more is that his fame was of white colour in contrast with that of dark body (kṛṣṇāṃ tanuṃ) of 
+ 	  the lord of Lakṣmī. This is not suggested by Barnett's translation. The figure of speech is Vyatireka, 
+ 	  showing that the body of this king was not dwarf as of Vāmana, and so on. 
+ {26} Engraved tāṃ, with the sign of anusvāra erased later on. 
+ {27} Here is a pun on vṛṣa and the other words suggesting the king to be identical with śiva who is also 
+ 	  known as Tripurāri who destroyed three cities, whereas this king conquered many. Vṛṣa means (1) dhar-
+ 	  ma, and (2) bull. 
+ {28} The punctuation mark is redundant. The restoration mānēn=ē(ai)va in the beginning of this foot is as 
+ 	  suggested by Barnett, but I agree with the editor in retaining the original. The akṣara ṇe in the same line 
+ 	  is lost and has been restored from Barnett's reading. 
+ {29} Metrically, the first akṣara of this word is required to be guru. Its consonant is rather indistinct and 
+      the second akṣara seems to have had a subscript, which too is equally indistinct. From traces on the 
+      original I take the word as vihṛutāḥ or virhṛutāḥ. From his indifferent rubbing barnett also read vedārinā
+      that follows in the same line, but the curve of the mātrā of the first of these letters is clear in my impress-
+      ion as well as in the original. 
+{30} This akṣara with a part of the preceding one is lost and has been restored from Barnett's reading. As 
+	 also noted by him, this verse imitates the style of the Meghadūta. 
+{31} The sign of visarga is put here after the daṇḍa and vetthaṃ and kā in this line lost; they have been restored 
+	 from Barnett's reading. 
+{32} Read śaśvat. The akṣaras are exactly as transcribed here. They read by Barnett as sasvatannadako 
+	 and correcting them to sa śatānaṃdako, whereas the editor suggesting, with a query mark, śaśvat unnati-
+	 go, which is all due to the indifferent impressing, as already stated. This verse has an allusion to the 
+	 Vāmana avatāra of Viṣṇu. 
+{33} The figure of speech here is a metaphor. This daṇḍa is followed by a floral design and then by another.
+	 daṇḍa.
+{34} The letters in the brackets have now peeled off and have been restored from Barnett's reading.
+{35} The sign of anusvāra, which was originally marked, was erased later on. For the correct interpretation 
+	 of this verse, see the editor's remarks in Ep. Ind., Vol. XIV, p.308, n.3. 
+{36} For the use of this interesting word, see Bhavabhūti's Mahāvīracarita, V.8. 
+{37} Transcribed here as it actually appears on the stone, with doubt about the mātrā of the last akṣara, 
+	 which may perhaps be restored as vaṃ. Barnett read it as vin ojjṛṃbhitaṃ, which is incorrect. 
+{38} The sign of visarga was later on erased. 
+{39} The two syllables which were inadvertently left in engraving may have been punar or muhur.
+{40} The daṇḍa is superfluous. Kīrtana that follows means a temple. 
+{41} This daṇḍa is followed by a floral design and another similar daṇḍa resembling Nāgarī r. 
+{42} This word may possibly be connected with pratipatti, i.e., acquirement (for the temple), or with pratyaya, 
+	 tax. From the expression it appears that Yaśodeva may have been the royal representative and Kīrtirāja 
+	 representated the village along with some others who are not named. 
+{43} It is probably a kind of measure and is also mentioned in the Bilhāri inscription of Ratnadeva. See C. I. I, 
+	 Vol. IV, p.223, n. 7(v.80). Varṇikā also appears to be a kind of measure; it is unknown to me. 
+{44} The mātrā of the bracketed letter is faintly visible on the stone, and the daṇḍa that follows is joined to the 
+	 letter. We may also read as madhyāt, as restored by Barnett. M. Williams, on the authority of Kāraṇḍa-
+	 vyūha, gives muṭa(mūṭa) in the sense of a basket. Also see C. I. I., Vol.IV, p.151, 1.37, and p.153, n.6. 
+	 In the inscription of Vigraharāja (Ind. Ant., Vol.XLII, p.57), we also find mention of a tax on salt, but 
+	 the word given there is kūṭaka.
+{45} This is also a kind of measure of capacity, appearing in the Patābgarh inscription of V.1003. See Ep.
+	 Ind., Vol.XIV, p.176. The word pāilī or pāvalī is still current in the area in the sense of one-fourth
+	 of a rupee. 
+{46} Karpaṭa means patched garment. 
+{47} Pūlaka is also mentioned in the Bilhāri inscription referred to above. See n. on v. 71 in C. I. I., Vol.IV, 
+	 p. 223, (n.9). Dramma used in the next verse is a silver coin, struck to the weight-standard of Attic 
+	 drachma or 67.5 grains. See C.I.I., Vol. IV, p.clxxxiii. 
+{48} Here Barnett read vuṃvake and puts vuṃvaka in the translation of the verse; but my reading is certain 
+	 and the word is still locally known as tūmbā, i. e., container of the size of a gourd and still used in villages
+	 for liquids. 
+{49} Here Barnett read Lagaḍā yatra saṃte dve, but he did not explain it, only inviting a reference where 
+	 it is taken as a bar of gold. My reading is certain and it means 'two hundred of leaves from each laggaḍa,'
+	 i.e.,'the load taken by a cart or a bullock', as the word is still used in the locality. Karṣa is a standard 
+	 weight equal to 80 raktikās or 146.4 grains (see C.I.I., Vol.IV, p.clxxxiii), but it is perhaps to be taken 
+	 here in the sense of ghāṇa or oil mill used in an inscription from the same locality. See Ep. Ind. Vol.
+	 XIV, p.176. 
+{50} The bracketed letter is again lost. Barnett read it as pā and suggested that perhaps it is a mistake for 
+	 mā. 
+{51} Vimśopaka was so called as probably it was equivalent in value to one  twentieth of a dramma. Cf. Visvovā 
+     mentioned in Ep. Ind., Vol. I, p.343. Also see C.I.I., IV, p.195, n. and also p. cixxxiii. 
+{52} The third letter of this verse is not ṣū, as Barnett is inclined to take from the reading of Gopal Lal
+	 Vyas, but ṣṭa, as taken here. The second letter of the second foot is ghra. The first word, which  
+	 occurs also above, in No. 8(p.30, 1.6), means 750. See n. above, in the edition of the inscription. The 
+	 second foot gives another name for Vāgaḍa, which is a corruption. 
+{53} The meaning of tavaṇi is not known to me. The first of these syllables, though misformed, is almost 
+	 certain. Can it be pravaṇi, which is mentioned in 1.6 of the Rājōr inscription of Mathanadeva to which 
+	 Kielhorn has drawn our attention in Ep. Ind., Vol. III, p.263, n.4? According to Mirashi, it means a 
+	 śsreṣṭhin, for which see C.I.I., Vol. IV, p.331,n.2. This sense is most applicable here. Hāraka that 
+	 follows may be, as already suggested by Barnett, a handful; or it may be a bhāraka, i.e., bhārā, as it is 
+	 still locally known. The promiscuous use of ha and bha is often noted in this inscription. 
+{54} Apparently corrupt. I am not certain about the reading of the bracketed syllable which looks like dva, 
+	 or even dhha. Barnett took the whole word as su(śu)ddha, but the penultimate letter is definitely not 
+	 su, but as taken here. 
+{55} As already suggested by Barnett, vāpa means a handful. According to M. Williams, mūṭaka is a basket. 
+	 Cf. muḍā in Marathi, and muḍe in Kannada. 
+{56} Barnett translated the latter half of this verse as "whence the latter together with them (the kings) has
+	 again passed through various conditions". This is not all supported by the transcript which only means 
+	 to say that the earth went with none of the kings ruled over it. The same idea is found expressed in 
+	 the well known verse Māndhātā cha mahīpatiḥ, etc., of the Bhojaprabandha. 	
+{57} As noted by Barnett, this compound is irregular and the error can be removed by changing the position 
+	 of the two words. 
+{58} The reading is certain and not Sa(Śa)kāt* as taken by Barnett on the basis of the indifferent impression 
+	 , and therefore he had also to remark that the use of the word Śaka here is curious. See p.286, n.2. 
+{59} Here, Sansdhi is not observed for metrical exigencies. 
+{60} The preceding letters are perhaps to show the word vijñāninā. Barnett could not read the name of 
+	 the engraver and some more letters and stated that twelve letters were almost illegible in the impression 
+	 before him. He also wrote that "the transcript of Gopal Lal adds mahā śrī-". The impression before me 
+	 shows all these letters clearly. 
+{61} The reading of this figure is absolutely certain in the impression and also on the original stone. About 
+	 incorrectly reading it as 3 from an indifferent impression, see my remarks above in the edition of the 
+	 inscription. 
+		  
+ 
+ 	    
+ 	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,153 @@
+PennGlobal: PMR201
+Period: VS 1060
+Location: Digōdā
+King: Vidyādhara
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Inscription of great value of Chandēlla rulers and the Turkish invasion of India. 
+	The purpose of the inscription is to record a grant to some Brāhmaṇās the (produce of the) village Isaunī, situated in the Vāraṇgi-84.
+Published reference: Trivedi (1989), no. 201.
+
+
+Text{1}
+
+1. oṃvra{2} (bra)hma śrīḥ{3} || paramabhaṭṭārakamahārājādhirājaśrīdhaṅgadevapādānudhyātaḥ(ta)paramabhaṭṭārakamahārājādhirājaparame-
+2. śvaraśrīgaṇḍadevapānudhyātaḥ(ta)paramabhaṭṭārakamahārājādhirājaparameśvaraśrīvidyādharadevapādānāṃ mahīpravarddhamā-
+3. nakalyāṇavijayarājye asya pādapadmopajīvīcāhacandrātrayeṇa | [śrī]mahārājaputrau śrīgopālavitvanau{4} śrīvacchaikasu-
+4. tau tayormmātā(trā) mahārājñīśrīsatyabhāmayā śrīmannanasya duhitayā tayā ca samva(saṃva)tsarasahaśre(sre)
+   ṣaṣṭyadhike samva(saṃva)t 1600
+5. śrāvaṇī{5} amāvāsyāyāṃ sūryaṃgrahaṇe vra(bra)hmaśilāyāṃ snātvā gāṅge jale devapitṛmanuṣyānsaṃpūjya viṣṇu[pūjā]-
+   mabhinirvvartya tvaśānukṛ-
+6. yoyaṃ |{6} datvā vāraṅgī{7} caturāsi(śi)kāviṣayabhogasaṃva(va)ddhaīsaunyāṃ mahattamajanapadānvo(nbo)dhayati{8} || datto
+   grāmoyamasmābhirvvedavedāṅgapāragāya ṣaṭkarmmabhiratāya bha-
+7. ṭṭa ṭha{9} | amvā(mbā)dityāya | bhaṭṭasoggrā(?)kasutāya va(ba)hṛcaśākhāya triḥ(tri)pravarāya | paṇikavaḍavinirggatāya
+   padakadvayaṃ 2| tathā bhaṭṭava(ba)hurūpāya | bhaṭṭaśilādityasutāya |
+8. bhāradvājasya(sa)gotrāya | tripravarāya | vā(?)nābhaṭṭagrāmavinirggatāya | vājasaneyaśākhāya padaka 4| tathā
+   bhaṭṭava(ba)hāka | bhaṭṭanukkaṃkasutāya | upamanyugotra | bhaṭṭagrāma[yo-
+9. śī?]vinirggat[ta*] pada 3 | tathā bhaṭṭaśrīkumāra | devapālasuta | kāśyapagotrāya | ccha(cha)ndogaśāravā |
+   3{10} | pumvagaṇivinirggatāya | padaka 2| tathā bhaṭṭasāvadra | mihirasvāmisutāya | gautama-
+10. gotrāya | bhaṭṭagrāmayelevinirggatāya{11} | padaka 2 | tathā bhaṭṭagaṇḍeśāya | aniruddhasuta | laukākṣagotra | vāja-
+    śa(sa)neyaśāravā | svaṃdayaśrī(?) pada 1 || tathā rudraśaṃkara |
+11. va[vva?]ṭasuta | vāsiṣṭhasya(sa)gotra | vājasaneyaśākhā | bhaṭṭagrāmavarasrī(śrī?)vinirggatāya padaka 1 || tathā
+    bhaṭṭasamūṇa | kadākasuta{12} | padaka 1 || thathā mūṇāka-
+12. sutāya | padaka 1 | tathā bhaṭṭacāmuṇḍarāja | svāmisuta | padaka 1 | vasiṣṭhasya [lāuthive?]bhaṭṭagrāma-
+    vinirggatāya | tathā bhaṭṭa | yasānanda{13} | kra(kṛ)ṣṇaika(?)suta |
+13. kātyāyanigottra | vājaśa(sa)neyaśākhā | padaka 1 | tathā bhaṭṭapa[vvī]ka | chitū(?)suta | padaka 1 | tathā
+    vaccha(tsī) | padaka 1| tathā ni[mve ?]kadvausaudaryabhrātro(tarou){14} | padaka 1[|] prasaṃsa(sanna)
+14. suta{15} | bhaṭṭagrāmaśā[dva?]lavinirggatāya | tathā bhaṭṭasarvvāditya | lolikasuta | vatsasya(sa)gotra{16} |
+    vājaśa(sa)neyaśākhā | pañcapravarāya | bhaṭṭa[grāma*] [avidhi?] vinirggatā-{17}
+15. ya | padaka 1 tathā mammaṭa pada 1 tathā [ā]gasvāmi pada 1 | dvau saudaryabhrātrau(tarau)
+    padmanābhapu[trau] tathā bhaṭṭadāmodara | rudrādityasuta | pada 1{18} |
+16. tathā bhaṭṭavatsa | pada 1 || tathā haripāla pada 1 (?) | dvau saudaryabhrātrau(tarau) | vuddhaḍaputrau
+    tathā vigrahapāla | jayapatiputra | pada 1 | eteṣāṃ{19} gau-
+17. tamasya (sa)gotra | vājasaneyaśākhā | paṇikavaḍavinirggatāya | tathā mahāyaśa | pada 1 tathā mahīpāla
+    pada 1 | dvau sauda[rya]bhrātrau(tarau) uddhara-
+18. ṇasutau | tathā maharṣiśrīkaṇvasuta pada 1 | tathā jayapāla | bhā[rū?]suta | pada 1 [|] tathā sāṃbhūka | 
+    vāsudevasuta | pada 2 tathā....{20}
+19. śādha-{21} | dvau saudaryabhrātrau(tarau) | śubhādityasutau | puṇu(ṇḍa?)vīyakavinirggata[tau] pada 2 | tathā
+    nārāyaṇa | [da?]luvāputra pada 1 || u[dvāka]{22} kamalasuta pa[da?]........
+20. da 4{23} | grāmoyaṃ śāsane pradahaṃ{24} | yatvā bhāgabhogakarahiraṇyasamastapratyādāyā[dya*]syopanetavyamiti{25} || uktañca | 
+    va(ba)hu bhi[rba]-
+21. sudhā dattā{26} rājabhiḥ sagarādibhiḥ | yasya 2{27} yadā bhūmī(mis) tasya 2 tadā phalaṃ(lam) ||1||
+22. [śrī] vidyādharadevaḥ
+23. svahasto mama [|]
+    
+    bhārggavagotrāya | sahāraṇasutāya | jāhla- - -pada 1{28} |
+1. vatsa | gotrāya....yati || jayasarnma(śarmma)ṇe pada 1| vatsagotrāya tri.....tri....si(śi)vasa(śa)rmmaṇe pada
+   1----------------------{29}
+2. sutāya-vau | ṇarā(?)viṃda - - 1 (?){30}
+   [saṃ]vat 10[60]{31}
+    
+    
+-------------------------------------------------------------------------------------------------------
+
+{1} From the original plate and impression.
+{2} Expressed by a symbol represented by the Nāgarī ū with the sign of anusvāra above.
+{3} The upper circle of the visarga is engraved as the Nāgarī ō and the lower is omitted. The names
+	of Chandēlla kings, also end in Brahma in the Pṛthvīrāja Rāsō (Nāgarī Pracāriṇī Sabha), pp.25-28.
+{4} For the reading of the consonant in gō, see the same in Gaṇḍa in line 2, and for that of tvā, see the
+	same letter in datvā in line 6. The second appear to be a strange name. The sense of Chāha above.,
+	is not clear to me, but the reading is certain. Probably vin=atra is intended (?).
+{5} Sandhi is not made here and also in the next line in ddha and ī.
+{6} What appears to have been intended is kṛśānavē lōvam. The punctuation mark is redundant. 
+{7} What seems as the sign of anusvāra on ra in the impression is due to the fault of the plate, as seen from
+	the original.
+{8} This verb goes with mālā in line 4, which, however, cannot grammatically be connected with the word
+	Satyabhāmā nor also with tayā. Moreover, after this verb, one expects an expression like yathā. 
+{9} That is, Ṭhakkura. The next akṣara may also have been a misformed ja, and thus its reading is 
+	not certain. Most of the names and some other words in this and the following lines are without case-
+	endings and are also unnecessarily separated by punctuation marks. The corrections are not made every
+	time lest the number of footnotes should increase. The first akṣara of the name is blurred and also 
+	seems as ma. It may also be noted that in the following lines some details with reference to the donees
+	are dropped, and in some instances, nothing besides the names is found, as already stated.
+{10} The numeral 3 probably represents the pravaras, or it may have been a misformed ya, as required here.
+{11} The consonant of the first akṣara of the name of the place may also be read as r or v.
+{12} All the akṣaras of the name after tathā are blurred and their reading is uncertain.
+{13} Grammatically it is incorrect.
+{14} From the construction it is not possible to know anything about the names of the brothers, here and 
+	 in some cases below. Perhaps Nimvāka and his brothers (?).
+{15} An arrow mark above this akṣara probably indicates that the line in the left margin has to be supplied
+	 here, but the corresponding mark is not engraved.
+{16} The consonant of the preceding akṣara appears as l.
+{17} The reading of the bracketed akṣara is doubtful, and it is not known whether the mātrā of the third
+	 akṣara of the name is of ē. One naturally expects the name of the village here.
+{18} In this line, and also in some others below, the use of both the words pada and padaka occurs side by 
+	 side.
+{19} This gōtra seems to refer to those mentioned previously. The letter tra is also written as ttra in this 
+	 line.
+{20} After an indistinct akṣara following tathā, a portion of the plate is lost in this and the rest of the 
+	 lines.
+{21} One syllable after dha is indistinct and cannot be made out. It is engraved as rai, or vai, but what
+	 appears to be intended is sya.
+{22} Both these akṣaras are partly broken and their reading is not certain. They may also be read as 
+	 ddhāma. The first three letters, though not separated by a punctuation mark as in the other cases, denote
+	 the names of the donee or his father.
+{23} Perhaps a daṇḍa is intended here.
+{24} Read śāsanēna pradattam for pradattaḥ. One expects a word line ēvaṃ, before this and also iti, before
+	 matvā.
+{25} The correct form would be eteṣām upanetavyam.
+{26} For bhuktā, as usually found.
+{27} The use of the numeral showing repetition is noteworthy. Also see above, p.319, Text line 3.
+{28} The akṣaras in this line are slightly advanced in form than those in the main inscription. After 
+	 Jālha, two of them are altogether lost, and the third one is indistinct. The reading of the number
+	 after pada is also uncertain.
+{29} The letters which are indistinct on the plate are shown here by the number of dots, and when more,
+	 by a line. The second line begins after some space in the first, and ends much before it.
+{30} Reading from the original. The akṣaras here are most slovenly formed and those in the brackets 
+	 are also weather-worn, but are faintly visible.
+{31} Both the numbers in the brackets are almost lost, and their reading is from the traces left.
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     

@@ -1,0 +1,82 @@
+PennGlobal: PMR68
+Period: VS 1237 Kārttika śudi 11
+Location: Hāthal/Hathāra
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Prose and metrical in 3 verses.
+Metres: Verses 1-7 Anuṣṭhubh
+Gist: Records the royal gift, to the effect that Bhaṭṭāraka Vīsala Udagradamaka was permitted to graze his cattle on the pasture grounds, 
+	  free of charge, in the village in Sāhilavāḍa.  In addition to the two grants, a piece of land in the village 
+	  of Kumbhāranuli up to the boundary and a piece of land that can be tilled with two ploughs in a day were donated.
+Published reference: Trivedi (1978), no. 68.
+
+
+Text{1}
+
+First Plate
+
+1. Oṃ{2} saṃvat 1237 varṣe kārtika śudi 11 gurau vadye(gurāvadye)-
+2. ha cājñāpalaṃ(nam) || samasta rājāvalī samalaṃkṛ[ta] śrīmadarvu(rbu)dā-
+3. dhipati śrīdhu(dhū)marājadevakulakamalaṣo(dyo)tanamātta(rttaṃ)ḍa{3}-
+4. mā[ṃ]ḍalike(kā)suraśaṃbhu śrīdhārāvarṣadeva kalyāṇa vija-
+5. yarājye tatpādapadmopajīvina(jīvya)haṃ śrīkā(ko)vide(daḥ){4} sa-
+6. masta mudrā vyāpārāna(n) ya(pa)ripaṃthayatītyeva(panthayāmītyevaṃ) kāle pravartta-
+7. māne śa[ā]sanākṣarāṇi likhya[n*]te{5} yathā | adya saṃjā-
+8. tadevoṣṭhanīe(tthānye)kādaśyāṃ mahāpavvīṇa(rvvaṇi) nalinīdala-
+9. gata jala lava taralataraṃ jīvitavvāsida(vyamidaṃ) vidhā(jñā)ya
+10. parama ṣai(ṣai)vācārya bhaṭṭāraka vīsala udagradamake -
+
+Second Plate 
+
+11. sya(damakāya) sāhilavāḍā grāme . . . mukti[ḥ] || tathā etadīyadha-
+12. ṇeḥ(dhenavo) gocare ca(cā)raṇīyā[ḥ*] tathā kuṃbhāranuli grāme surabhima-
+13. ryādāparyaṃta(tā){6} bhūmi datta(bhūmirdattā) hala 2 haladvayī bhūmī(miḥ) śāsane-
+14. nodakapūrva[ṃ] pradattāḥ(ttā) || dyūte'tramahaṃ(dūtako'trāhaṃ) śrīkovida(daḥ) se
+15. ṭhi{7}śālhaṇau || matai || śrīḥ || va(ba)hubhir vvasudhā bhuktā rā-
+16. jabhiḥ sagarādibhiḥ [|*] yasya yasya yadā bhūmī(mis) tasya tasya ta-
+17. dā phala[ṃ(m)] ||1|| svadattāṃ paradattāṃ vā yo haredva(ta va)suṃdharāṃ(rām) | ṣaṣṭhi(ṣṭi)-
+18. rvarṣasahaṣrā(srā)ṇi valmāyā[ṃ](viṣṭhāyāṃ) jāyate kṛmi[ḥ] ||2|| mama vaṃśa-
+19. kṣaye kṣīṇe(jāte) anyoha{8} nṛpatir bhavet | tasyāhaṃ karala-
+20. gnosi(smi) mama dattaṃ na lopayen(t) ||3|| śubhaṃ bhavatū(tu) ||cha||
+21. māgavāḍīgrāmagrāsabhūmī dattā(bhūmirdattā) hātaḍalīgrāmagrāsabhūmī datta[ā] |
+
+------------------------------------------------------------
+
+{1} From the Shastri's transcript in Ind. Ant., Vol. XLIII, p.194.
+{2} Denoted by a symbol.
+{3} The intended reading appears to be -kamalodyotana-. Udyotana = The Sun.
+{4} In his transcript Shastri corrected kā to ko. But in his List of Inscrs. of N. Ind., D. R. Bhandarkar retains
+	the name kāvida whereas D. C. Ganguly takes the name to be kovidāsa (see H. P. D., p.305). We have no
+	means to ascertain the reading.
+{5} It is possible that the sign of anusvāra may not have been engraved deeply or may not have come out
+	in the impression with Shastri. There are similar other examples also.
+{6} For placing stone images of the cow by way of making land or a field, cf. above, No. 64, 1.13 and n.
+{7} Read śreṣṭhi-.
+{8} Read anyotra, The letter ha tempts one to suggest the reading anya iha but it would not suit the metre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

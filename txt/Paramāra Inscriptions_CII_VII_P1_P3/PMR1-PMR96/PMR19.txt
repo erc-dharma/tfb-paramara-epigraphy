@@ -1,0 +1,43 @@
+PennGlobal: PMR19
+Period: VS 1137 vaisākha sudi 7
+Location: Udaipur 
+Dynasty: Paramāra
+King: Udayāditya
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 1 verse
+Metre: Verse 1 Anuṣṭubh
+Gist: To record the hoisting of the flag on the temple
+Published reference: Trivedi (1978), no. 19. 
+
+Text{1}
+
+1. svasti || eka cchattrāṃ karotu kṣmām udayāditya bhūpatiḥ |
+2. ityādyaṃ siddhidaṃ vedaṃ śaṃsāmaḥ sarvvato nṛpa{2} ||1
+3. kṣmā si(śi)rasi bhūtyā sa kṣmā bhūd yaśastu{3} | || ravi saṃkrāti-
+4. karaṇaṃ(ṇam) || [śloko]yaṃ paṃḍita śrī śṛṅgavāsa sūnoḥ |{4}
+5. paṃḍita śrī mahīpālasya || saṃva[t] 1137 vaisā(śā)kha sudi 7{5}
+6. śrī madudayesva(śva)radevasya dhvajārohaḥ saṃpūrṇaḥ | ma[ṃ]galaṃ mahāśrīḥ ||
+
+----------------------------------------------------
+{1} From the original and the impression.
+{2} The use of this word appears to be in imitation of the writings of old in which some king is addressed.
+{3} The meaning of this expression is not clear.
+{4} The daṇḍa is redundant.
+{5} This is a pious day when the Ganges is known to have descended in this world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

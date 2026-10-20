@@ -1,0 +1,186 @@
+PennGlobal: PMR29
+Period: Undated
+Location: Jaināḍ
+Dynasty: Paramāra
+King: Jagaddeva
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 20 verses
+Metres: Verses 1,20 Anuṣṭubh; vv. 2-3, 7-12, 14-15, 18 Śārdūlavikrīḍita; vv.4, 16-17, 19 Sragdharā;
+		vv. 5-6 Upajāti; v.13 Mandākrāntā. 
+Gist: Records construction of sun temple.
+Published reference: Trivedi (1978), no. 29.
+
+
+Text{1}
+
+1. [oṃ]{2} namaḥ{3}sūryāya || akālepi raver vvāre nimva(mba) puṣpodga[mai]r ayaṃ(yam) | pratyayaṃ pūrayan bhānur nniratya yam upāsyatāṃ(tām) ||1| taṃ
+   vandemahi vāruṇī jala - {4}
+2. nidher vvelāvanālī sthira sthānaṃ sthāṇur abhedyamādyamamitacchāyātimātrocchrayaṃ(yam) | unmīlanti va(ba)hiḥ praroha samaye yasya trilokī cchalān madhye{5} -
+3. vyoma [diga]ntarālam atulāḥ śākhā śikhā pallavāḥ ||2|| tad bhrūbhaṃga viceṣṭitaṃ bhagavato bharggasya bhavyāya vo bhūyādbhaṅguritāṅgulī kisalaye pāṇau dha-
+4. nuḥ paśyataḥ | dagdhuṃ [trī]ṇi purāṇi pannaga [śa]tair jyāvallitālaṃbhite yatrāvirbhavati sma bhāsvara śara vyājena viṣṇor vvapuḥ{6} ||3|| āsīd ā-
+   śīr vvacobhiḥ saka-
+5. la muni janair   mmānito me[dinīndrai] rājā mudrāṃ vahadbhiḥ śirasi va(ba)huvidhair vvo(rbbo)dhitaś cāṭu vādaiḥ | viśvāmitra pratāpa vyapanaya nipuṇaḥ prāpta janmā
+6. vasiṣṭha dhyānād dhūmadhva[jācca] tribhuvana viditaḥ satvasāraḥ pramāraḥ{7} ||4|| tadanvaye sānvayanāmadheyaḥ śrīmān jagaddeva iti kṣitīśaḥ | abhūda-
+7. bhūpāla digantarāla [ni]rmmāṇa nirvyūḍha bhujaśramoyaṃ(yam) ||5|| yasyodayāditya nṛpaḥ pitāsīddevaḥ pitṛvyaḥ sa ca bhojarājaḥ | virejaturyau
+8. vasudhādhipatya prāptapratiṣṭhāviva puṣpavantau{8} ||6|| andhrādhīśa mṛgīdṛśaḥ pati parityaktāś ciraṃ yaccamūvāhavyūha khurāgra khaṇḍita-
+9. bhuvi kṣīṇāḥ skhalantyo dhvani | nīyante navanīta komala padās tāmra prabhaiḥ pallavair ddattvālaṃva(ba)nam amvu(mbu)dheḥ parisara kṣoṇī latā śreṇibhiḥ ||7|| krī-
+10. ḍoccāṭita cakradurgga nṛpater adyāpi yasyājñayā daṇḍānīta gajeṃdra dāna salilair nyastāṃ prasa(śa)stiṃ parāṃ(rām) | nirvyāvṛtti paṭhanti kaṇṭha luṭhitaiḥ kaiḥ
+11. kairnninādairnnadā śailopānta vasundharāsu vipinotsaṃgeṣu bhṛṅgāṅganāḥ ||8|| madhye [do]{9}ra samudram adri śikharākārāṃ kapālāvalīm ālokya
+12. [dvi]radeṃdra danta musala prānta spṛsāṃ(śāṃ) preyasāṃ(sām) | sākraṃdaiḥ pratima[ndi]raṃ malahara kṣoṇīsa(śa) cittodare śūlaṃ [pa]llavayanti vā(bā) -
+    ṣpā(ṣpa){10} salilair yad vairiṇāṃ va-
+13. llabhāḥ ||6|| āścaryaṃ jayasiṃha vikrama kathāsvādhyāya sa(ndhyā){11} dhanadhvānaṃ yasya dhanur dhvaniṃ narapate{12}r vyañjanti vistāriṇaḥ | adyā-
+    pyarvvu(rbbu)da parvatodara -
+14. darī dvāreṣu rātriṃdivaṃ kraṃdad gūrjjara vīra vargga ja(ni)tā vā(bā)ṣpāmvu(mbu) purormmayaḥ{13} ||10|| ektrādbhuta yuddha mūrddhani dhanuḥ sandhāna dhīraḥ
+    karaḥ kīrttiṃ kaṃdala -
+15. ya[nna]yannavirato yasyāri sarvvaṅkaṣaḥ | anyatrāmvu(mbu)dhi vīcikāṃci vasudhā madhye madhu syandibhiḥ sūktaiḥ satkavayaḥ śataṃ vyavasitāḥ [sto]tuṃ{14}
+    tathāpyakṣamāḥ ||11||
+16. utpannaḥ pratipanna karṇṇa nṛpater yasyaika evocitaḥ saṃsārodara sāra saṃgraha mahādhyāyo nidhiḥ pāthasāṃ(sām){15} | yasyā[bhya]rṇṇaniṣa[ṇṇa] paṇḍita śatālā-
+17. pānniśamyāniśaṃ [ni]ḥśaṃkaḥ kalarājahansa(haṃsa) virutai[radyā]pyamando[tsa]vaḥ ||12|| kīrtteḥ pātraṃ prakṛtipuruṣaḥ pauruṣotkarṣa bhūmir bhūme-
+    r bharttur bhuvana jayi-
+18. na{16} svasya mūrttaḥ pratāpaḥ | śrīlolārkkaḥ samajani jagadvallabho vā(bā)labhāvādārabhyaiṣa prathitamasāmanvaye dāhimānāṃ(nām) ||13||
+    ekameva mano-
+19. harāmabhinavollekhena re[khā]mukhāṃ [śuṃgā]{17}mprāpya ma[he]ndurityabhidhayā vo(vai)tānyavisphūrjjitaḥ | loke yasya pitāmahaḥ śucimahaḥpunja -
+   (ñja)nnijannāṭa-
+20. ya[tya]dyāpi dvipadantakuṃdakumudacchāyairyaśorāsi(śi)bhiḥ ||14|| āsīdyasya pitā pitāmahamukhānbho(mbho)jaiścaturbhiściraṃ gītaḥ
+    śrīguṇarāja{18} ityati-
+21. śayādviśveṣu vīrāgraṇīḥ | ekaḥ śūrasahasrasākṣiṇi raṇe kṣodakṣamaḥ [so]rjjunaḥ{19} prauḍhaḥ pallavayaṃ(yan) pratāpamudayādityasya nityapriyaḥ ||{20}
+22. 15|| [ca]ñcadbhiścitracihnadhvajapaṭapaṭalaiḥ pāṇḍurairātapatraiḥ paṃktinyastairapāsta[pra]layaghanaravairbhīmaḍhakkāninādaiḥ | jā(jñā)yante yasya
+    sai[nyā]nyavira-
+23. lataralairvvājibhirva[jrapuṃ]{21}japrā[yaiḥ] prāsāsipāśapraṇayibhiraparairaśvavāraiśca vīraiḥ ||16|| śā[la]prānsu(prāṃśu)ḥ{22} sitāsu(śu)prati-
+    nidhivadanaḥ padmapatrāyatākṣaḥ
+24. pīnāṃśo(so) dīrghavā(bā)huḥ kanakagiriśilāsannibhoraḥsthalaśca [|*] vāhavyū[he]U heṣā{23}ravakisalayitaśrotramūrccheṣu gacchanyo
+    madhye rājaputreṣvapi{24} va(ba)huṣu pari-
+25. jñāyate rekhayaiva ||17|| su(śu)ddho vāci śucirmanasya[ji(pi)] jagaddeva[pratoṣairihadvaṃdvadvaṃdvahara]{25}nnamannanudinaṃ vā(bā)lyātprabhṛtyeva yaḥ |
+    cañcaccāmarama-
+26. ntareṇa mahatīṃ rā[ṣṭra]śriyaṃ{26} niścalāṃ vi(bi)bhrāṇaḥ [prasabhādayaṃ]{27} dalayati dveṣaspṛśaḥ pārthivān ||18|| tatpatnī padyapatrāyatanayanayugā
+    padma-
+27. [saṃkāśavaktrā] nāmnā padmāvatīti trijagati viditā [rāgataḥ{28} śveta]padmā | etasminn agrahāre haṭhahatakaluṣe kārayāmāsa nimvā(mbā-
+    ditya prasāda-
+28. - - U U U U U U - -{29} karendraṃ visu(śu)ddhaṃ(ddham) ||19|| labhatāṃ jagatāṃ śrotraiḥ saṃgamaṃ hṛdayaṃgamā | sajjananyastabhāreyamaśvatthāmakaveḥ
+    kṛtiḥ ||20||{30}
+   
+   
+   
+   
+---------------------------------------------------------------------
+
+{1} From the facsimile (plate G) in An. Rep. of the Arch. Department of Nizam's Dominions (Hyderabad),
+	for 1927-28, and revised from a fresh impression kindly supplied by Dr. R. Subrahmanyam, Superintend-
+	ing Archaeologist, South Eastern Circle, now Professor in the Andhra University.
+{2} Denoted by a symbol which is mutilated.
+{3} Krishnamacharalu observed that "the sign which looks the secondary n below ma has to be omitted".
+	This sign, however, which is clear in the Plate, has disappeared in the impression, leaving only a faint
+	trace.
+{4} The medial sign of vā is mutilated and a redundant anusvāra sign appears on the following akshara.
+{5 }Krishnamacharlu reads -mātha-, which gives no sense. The horn above the left limb of the second of
+	these letters is distinct, showing it to be dh; and the pṛṣṭha-mātrā of this letter has wrongly been
+	taken by him as the medial ā attached to the preceding one.
+{6} Viṣṇu became the arrow with which Śiva killed the demon Tripura. See Saura - Purāṇa, XXXV, 16 and
+	also No. 60 v. 4, below. It is also interesting to note that verse 2 eulogises the creative aspect of the deity
+	whereas the third verse emphasises his destructive aspect.
+{7} Used for the dynastic name Paramāra which would not suit the metre.
+{8} That is, the Sun and the moon.
+{9} The consonant of the bracketed akṣara is formed as v.
+{10} The akṣara in the brackets appears to have been corrected later on.
+{11} Here Ganguly read dhyā and corrected it to ndhyā; but a trace above the horn shows that n was engraved;
+	 and I agree with Krishnamacharlu in taking it as ndhyā. And in that case the dot above the preceding
+	 akṣara has to be taken as a fault of the stone.
+{12} This akṣara has a redundant curve above, making it appear as ti.
+{13} Here the editor of Ep. Ind. remarks: "The Smṛtis enjoin that the study of vedas should be stopped  
+	 when there is an evening thunder". cf. Yājñavalkya smṛti(T.S.S.), I, 144.
+{14} The bracketed akṣara is so formed as also to appear as śro, as actually read by Krishnamacharlu.. But it
+	 gives no sense.
+{15} Ganguly translated this portion of the verse as this king "produced the only fitting lake which rivalled the 
+	 ocean." But the word which was taken by him to mean 'produced' is utpannaḥ, as used here, and not
+	 utpāditaḥ; and as far as I can see, the sense intended here is that the King's only suitable rival (or com
+	 panion) is the ocean which collected the best gems from the universe (as he collected the best learned men).
+	 It is arthopamā.
+{16} The visarga is omitted according to the Vārtika on Pāṇinī, VIII,3,36.
+{17} The reading of both these akṣaras is doubtful and a redundant anusvāra appears on the preceding khā,
+	 if it is not a fault of the stone itself.
+{18} This akṣara has not come out in the plate in the A.R. but it is clear in the impression.
+{19} The akṣara in the brackets is mutilated in the Plate in the A.R. whereas in the impression with me it
+	 is lost in the crack. Krishnamacharlu read it as so and Ganguly as sā; whereas the editor of the Ep.
+	 Ind. remarked that it is schā, and in that case the visarga of the preceding letter is to be taken redundant.
+	 I agree with Krishnamacharlu in taking the pada-cheda as saḥ arjunaḥ, the first of these words being
+	 intended to denote the sense of 'well-known'.
+{20} A sign or a letter was first engraved at the end of this line and was later on scratched.
+{21} Probably some other akṣaras were originally incised in place of both these.
+{22} The sign of visarga was subsequently inserted.
+{23} The reading is uncertain. In his transcript Krishnamacharlu omitted seven letters after ha, and Ganguly
+	 read them as given here. The intended reading appears to be vāhavyūheṣu heṣā, which also suits the metre.
+{24} Originally trai, with the pṛṣṭha mātrā erased later on.
+{25} Krishnamacharlu read: dvaṁdva dvaṁdva-, and Ganguly remarked that this expression does not yield
+	 any plausible sense. Ganguly also read the preceding expression as pateUha and observed that between
+	 te and ha there is no space for two akṣaras. The intended reading appears to be as given above; and
+	 I also agree with the editor of the Ep.Ind. who takes it to mean "bowing to the couple(i.e., śiva and
+	 Pārvatī) destroying the bad qualities (viz., passion and ignorance)". The word dvandva here means 'a
+	 couple of opposite conditions or things', for which cf. śiśupāla vadha, IV.64.
+{26} The reading of the bracketed akṣara is doubtful. It may also have been ja(for jya).
+{27} These five akṣaras are mutilated and the reading is as suggested by the editor of Ep.Ind. The sign of
+	 anusvāra above the second of them, which appears in the impression, is redundant.
+{28} The bracketed letters are badly mutilated and the reading adopted here is only conjectural, so as to fill in
+	 the gap.
+{29} All these letters are lost and the reading suggested is: -mabhyucchritaśikharalasatpūrṇṇacandraṃ.
+{30} The impression shows that some letters in the following line are totally lost, leaving traces, They may
+	 have denoted the date.
+ 
+	 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

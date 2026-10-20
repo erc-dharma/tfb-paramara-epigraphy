@@ -1,0 +1,84 @@
+PennGlobal: PMR7
+Period: VS 1043 māgha vadi 13
+Location: Gaonrī 
+Dynasty: Paramāra
+King: Vākpatirājadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verses 1 and 2 Śārdūlavikrīḍita; vv. 3 and 8 Vasantatilakā; vv.4 and 5 Anuṣṭubh; v.6 Indravajrā; v.7 Śālinī; v.9 Puṣpitāgrā
+Gist: Land donation by Vākpatirājadeva
+Published reference: Trivedi (1978), no. 7. 
+   
+Text{1}
+First Plate
+
+1. siddham{2} | yāḥ sphūrjjat phaṇabhṛd viṣānala miladbhūma(mra) prabhāḥ prollasan mūrddhāva(ba)ddha śaśāṃka{3} koṭi ghaṭitā yāḥ
+2. saiṃhikeyopamāḥ | yāścaṃcad girijā kapola lulitāḥ kastūrikā vibhramās tāḥ śrīkaṇṭha kaṭho{4} -
+3. rakaṇṭharucayaḥ śreyāṃsi puṣṇantu vaḥ ||1|| yallakṣmī vadanendunā na sukhita(taṃ) yannārdritaṃ vāridher vvārā yanna ni-
+4. jena nābhi sarasī padmena śānti(ntiṃ) gataṃ(tam) | yaccheṣāhi phaṇā sahasra madhura śvāsair nna cāśvāsai(si)taṃ tad rādhā virahā-
+5. turaṃ mura ripor vvellad vapuḥ pātu vaḥ ||2|| paramabhaṭṭāraka mahārājādhirāja parameśvara śrī kṛṣṇarājadeva-
+6. pādānudhyāta paramabhaṭṭāraka mahārājādhirāja parameśvara śrī vairisiṅaha(siṃha) devapādānudhyāta paramabha-
+7. ṭṭāraka mahārājādhirāja parameśvara śrī sīyakadevapādānudhyāta paramabhaṭṭāraka mahārājādhirāja pa-
+8. rameśvara śrīmad amoghavarṣadevāparābhidhāna śrī vākpatirājadeva pṛthvī vallabha śrī vallabha{5} nareṃdradevaḥ
+9. kuśalī || avantī maṇḍale śrīmad ujjayinī viṣaya pūrvvapathaka samva(mba)dhyamāna madbhukabhukta(ktau) kaḍahiccha{6}ka-
+10. grāme samupagatān samasta rājapuruṣān tvrā(n brā)hmaṇottarān pratinivāsipaṭṭakila janapadādīṃś ca vo(bo) -
+11. dhayatyastu vaḥ samvi(saṃvi)ditaṃ yathā | pūrṇṇapathakāvasthitair asmābhis tricatvārisa(riṃśa) samva(saṃva)tsara sahasre{7} māghe māsi
+12. udagayanaparvvaṇi | puṇyābhrasariti snātvā carācara guruṃ bhagavata(nta)mamvi(mbi)kāpatimabhyarcya sa(saṃ)sārasyāsā-
+13. ratāṃ dṛṣṭvā || vātābhra vibhramam idaṃ vasudhādhipatyam āpāta mātra madhuro viṣayopabhogaḥ | prāṇās tṛṇā-
+14. gra jala vi(bi)du(ndu) samā narāṇāṃ dharmaḥ sakhā paramaho paraloka yāne ||3|| bhramat saṃsāra cakrāgra dhārādhārāmimāṃ
+15. śriyaṃ(yam) | prāpya ye na dadusteṣāṃ paścāttāpaḥ paramphalam ||4|| iti jagato vinaśvaraṃ sakalamidamākala-
+16. yya | ayamupari samāropitagrāmaḥ |{8} svasīmātṛṇa gocara yūti paya(rya)ntaḥ{9} savṛkṣa mālākula-
+
+Second Plate
+
+17. ścatuṣkaṃkaṭavi[śu]ddhaḥ samasta bhāga bhoga kara hiraṇyādāya sametaḥ || magadhāṃta{9} * pātikaṇopā grāma vinigrgga-
+18. tāya | sa(saṃ)kṛti sagotrāya va(ba)hvṛce āślā(śvalā)yana sā(śā)khāya | tri pravarāya | dīkṣita lokānanda su[tā]ya | vrā(brā)hmaṇa-
+19. sarvvānandāya | pitorātmanaśca puṇyayaśobhivṛddhaye adṛṣṭaphalamaṅgīkṛtyācandrārkārṇavakṣiti sama-
+20. kālaṃ parayā bhaktyā sā(śā)sanenodaka pūrvvas sa(rvvaḥ saṃ)pratipādita ityavetyātratya janapadair yathā(tho)tpadyamāna bhā-
+21. ga bhogādikam ājñā śravaṇa vidheyaibhū(rbhū)tvā sadā sarvamasmai samupanetavyaṃ{10}(vyam) || sāmānyaṃ caitat puṇya phalaṃ budhvā(buddhavā)|
+22. asmad vaṃsa(śa)jairanyaiśca bhāvi bhoktṛbhir asmat pradatta dharma dāyoyam anumaṃtavyaḥ pālanīyaśca || va(ba)hubhir vvasudhā
+23. bhuktā rājabhiḥ sagarādibhiḥ | yasya yasya [ya]dā bhūmis tasya tasya tadā phalaṃ(lam ) ||5|| yānīha dattāni purā narendrai-
+24. r ddānāni dharmārtha yaśas karāṇi | nirmālyavānta pratimāni tāni ko nāma sādhuḥ punarādadīta ||6|| sarvvānetā-
+25. nbhāvinaḥ pārthivendrān bhūyo bhūyo yācate rāmabhadraḥ | sāmānyoyan dharmma setur nṛpāṇāṃ kāle kāle
+26. pālanīyo bhavadbhiḥ ||7|| asmat kula kramam udāramudāharadbhir anyaiś ca dānamidam abhyanumodanīyam |
+27. lakṣmās taḍit salila vudvu(budbu)dacaṃcalāyā dānaṃ phalaṃ parayaśaḥ paripālanaṃ ca ||5|| iti kamala dalāmvu vi(mbu bi) -
+28. ndu lolāṃ śriyamanucintya manuṣya jīvitaṃ ca | sakalamidamudāhṛtaṃ ca vu(bu)dhvā(ddhavā) na hi puruṣaiḥ parakīrtta-
+29. yo vilopyāḥ ||8|| samva(saṃva)t 1043{11} māgha vadi 13 maṃgalaṃ mahāśrīḥ ||
+
+-------------------------------------------
+{1} From the facsimile between pp.112-13 in Ep. Ind., Vol. XXIII.
+{2} Expressed by a symbol.
+{3} The sign of anusvāra has some decoration around.
+{4} The vertical for medial ā is turned up with a fine bend.
+{5} In both these title probably some other letters were first engraved and subsequently changed.
+{6} The fourth akṣara of this name may also be read as stha(स्थ) as remarked by the editor of Ep. Ind. The
+	subscripts ch(छ्)and th(थ्) are throughout alike; see yaccheṣāhi(यच्छेषाहि) 1.4 and sthitaḥ (स्थितः), 1.11
+{7} Read tricatvāriṃśadadhike saṃvatsarasahasre (त्रिचत्वारिंशदधिके संवतसरसहस्रे), as suggested by Dikshit.
+{8} This and some other punctuation marks below are redundant. Samāropita (समारोपित) means delivered or consigned.
+	The sign of visarga appears to be inserted later on.
+{9} K.N.D. takes it to be a sign for upadhmānīya, but it resembles the sign for ṣ.
+{10} This akṣara appears as graṃ(ग्रं).
+{11} The form of this unit figure is dissimilar to the one that appears in the tithi that follows, and, on the 
+	 other hand, very closely resembles that of 7 in the Mōḍāsā grant of the time of Bhojadeva in No. 8, just 
+	 below.
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

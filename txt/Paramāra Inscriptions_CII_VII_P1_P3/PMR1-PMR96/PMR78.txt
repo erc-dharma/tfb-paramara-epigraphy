@@ -1,0 +1,35 @@
+PennGlobal: PMR78
+Period: VS 1290 mārgga vadi 15
+Location: Nāṇā
+Dynasty: Paramāra
+King: Somasiṃha
+Language: Sanskrit
+Script: Nagari
+Text: Prose
+Gist: Records some donation, though the nature is unclear, 
+	  Though it appears to be land or a village, as the name of the village is mentioned.
+Published reference: Trivedi (1978), no. 78.
+
+
+Text{1}
+
+1. -{2} saṃvat 1290{3} varṣe mā(rgga) vadi 15 some'dya [caṃdrā]-
+2. vatyāṃ mahārājādhirāja śrīsona(ma)siṃhadeva śrī-
+3. vijayarājye tanniyuktohaṃ śrīsodera pratipattau
+4. [śrī]tadīyaparamapra[bhoḥ] śrīpādapadmaprasādāvāpta - ..
+5. śrīkānhaḍadeva prasādapatra(?){4}ttatra bhujyamānanāṇaka-
+6. . disīhanu . [ma]haṃ vikramasiṃhakṛ[ti] paṃca-----
+7. ----- rāma ----- vasati ---------------
+8. -------- śrīnīlakaṃṭhadeva naivedyāvatāra ---------
+9. --------------- pratidinaṃ ------ prada[ttaṃ(ttam)] ------
+  {5}....................
+  
+---------------------------------------------------
+
+{1} From impressions and subsequent personal scrutiny.
+{2} One expects here a symbol denoting auspeciousness, as also shown by the traces.
+{3} The first two digits, which are obliterated and illegible in the impressions, are adopted here from 
+	Bhandarkar's reading. The second akṣara of the name of the month is clearly g with a repha above,
+	and hence I take the month as Mārga (śīrṣa) and not Māgha as read by him.
+{4} The two akṣaras appear to be a struck off in the original and the whole corrected as prasādāvāpta. 
+{5} The rest of the inscription is illegible. 

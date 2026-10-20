@@ -1,0 +1,50 @@
+PennGlobal: PMR76
+Period: Unknown
+Location: Rohēḍā
+Dynasty: Paramāra
+King: Dhārāvarṣa
+Language: Sanskrit
+Script: Nagari
+Text: Metrical in 11 verses
+Metres: Verse 1 Anuṣṭubh
+Gist: The object is unclear because it was lost in the second part.
+Published reference: Trivedi (1978), no. 76.
+
+
+Text{1}
+
+1. oṃ || devaḥ pāyāt sa vaḥ śrīmān śṛṃgārī girijāpriyaḥ{2} | ya-
+2. sya gaṃgā jaṭājūṭe mālatīmālikāyate ||1 śrīma[cchre]ṣṭa(ṣṭha)vasi[ṣṭha]kuṃ-
+3. ḍahutabhuk(g)janmārvu(rbu)de yobhavat(d) bhūpālaḥ paramāra ityabhidhayā gāde(dhe)ya-
+4. darpāpahaḥ | tad vaṃśyotpalarāja bhūpati suto yoraṇyarājo nṛpas tanmūrterava-
+5. tīrṇavān kṣitipatiḥ śrīkṛṣṇarājo jayi ||2 śrīdharaṇīvarāhobhūtprabhu{3}-
+6. rbhūmestadaṃgajaḥ | śrīdhūrbhaṭamahīpālau tatsūnau(tau) dadhaturmahīṃ(hīm) ||3 śrīdha(dhaṃ)dhūkā[e]
+7. dharādhīśo mahīpālatanūdbhayaḥ(vaḥ) | niḥsārya vairivarggaṃ{4} yaścakre rājyaṃ [svamaṃ]ḍale ||4
+8. tatsu[taḥ] pūrṇṇapālobhūddaṃtivarmmā dvitīyakaḥ | tṛtīyaḥ kṛṣṇadevobhūdrājyaṃ cakruḥ kra-
+9. meṇa te ||5 daṃtivarmātmajaḥ śrīmān yogarājo jagajjayī | rājā kākalade[vo*] yet(yaḥ){5}
+10. kṛṣṇadevatanūdbhavaḥ ||6 yogarājāṃgasaṃbhūto rāmadevo raṇotkaṭaḥ | jātaḥ kākalade-
+11. vāṃgādvikramasiṃhaḥ kṣmādhipaḥ{6} ||7 rāmadevatanorjātaḥ śrīyaśodha[va]lo nṛpaḥ | yena mā-
+12. lava bhūpālo va(ba)llālo{7} dalito raṇe ||8 tatsūnuḥ paramāravaṃśa tilakaḥ kṣoṇībhu-
+13. jāmagraṇīḥ śāstrāstrādi kalākalāpa kuśalo lapdhā(bdhā)nurāgo jane | śrīmānarvu(rbu)dabhūmi-
+14. maṃḍalapatiḥ prauḍhapratāpānti(nvi)to dhārāvarṣana[re]śvarobhavadasau puṇyaprabhāvotkaṭaḥ ||9
+15. pū[rṇṇā]{8}taṭe mālavikapravīrān parāgtu(ṅmu)khān yaḥ kṛtavān śa[raughaiḥ]| kṣoṇīṃ pinu(tu)-
+16. rvikramasiṃhabhū(sū)nulele(rlebhe)ntarā śrīraṇasiṃhadevaḥ ||10 prasādya sa [pra]bhoḥ pārā(dā)n
+17. vu(bu)ddhibhakti parākramaiḥ | tatprasādātpunaḥ prāpa dhārāva[rṣo] nijāṃ mahīṃ(hīm)  ||11
+18. tasya bhāryā cāhumānakulavaṃśajā śrīkelhaṇadeva duhitā rājya[śrī]-{9}
+19. .......................{10} 
+
+-----------------------------------------------------------------------------------------------------
+
+{1} From facsimile facing p.137 of Ep. Ind., Vol. XXXII.
+{2} By wrong strokes of the chisel, the consonant of the preceding letter appears as tra.
+{3} This quarter of the verse is metrically defective as the second akṣara is short instead of long, as required.
+{4} The sign of anusvāra appears more on the preceding letter.
+{5} The intended reading appears to be kākaladevobhūt.
+{6} This pāda of the verse is again metrically defective.
+{7} By wrong carving the medial ā which is a component of the mātrā attatched to this letter appears as
+	the sign of visarga; and the pṛṣṭha mātrā of the following to appears as a daṇḍa.
+{8} The superscript of the bracketed letter has come out only in the form of traces, as also the sign of the 
+	mātrā of the first akṣara. 
+{9} The intended reading may have been rājñī śrīmatī. From the other inscriptions we know that Dhārāvarṣa's 
+	queen was śṛṃgāradevī. See Nos. 70 and No. 73, v.3.
+{10} As stated above, this line was engraved later and has no connection with the main record.

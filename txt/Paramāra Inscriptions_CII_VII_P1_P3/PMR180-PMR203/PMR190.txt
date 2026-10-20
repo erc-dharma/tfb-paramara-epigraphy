@@ -1,0 +1,35 @@
+PennGlobal: PMR190
+Period: VS 1293, phālguṇa śudi 9
+Location: Chhatarpur
+King: Madanavarman
+Language: Sanskrit
+Script: Nagari
+Text: Prose and Metrical in 2 verses
+Metres: Anuṣṭhubh  
+Gist: Records the installation of the statue of Jinōttama (Śāntinatha) by Lakshimīdhara, 
+	the son of Hariśchandra
+Published reference: Trivedi (1989), no. 190.
+
+Text{1}
+
+1. siddham{2} | golāpuūrvvānvaye sādhuḥ svayaṃbhūrdharmmavatsalaḥ | tatsutau(taḥ) svāmināmā ca devasvāmiguṇānvitaḥ 
+   ||1|| deva[svā]mi{3}-
+2. sutau śreṣṭhau su(śu)bhacaṃdrodayacaṃdrakaḥ{4} | kāritaṃ ca jagannāthaṃ{5} śāntinātho jinottamaḥ ||2|| dharmmāsevi - -{6}
+3. ṇa tathā du[vā]nvaye{7} sādhu jinacaṃdra tatputrahariścandra tatsutalakṣmīdhara{8} śrīsā(śā)ntināthaṃ praṇamati(nti) sadā |
+4. lakṣmīdharasya dharmmasaṃdhije{9} śrīmanmadanavarmmadevarājye samva(saṃva)t 1203 phā{10} sudi 9 some ||
+
+---------------------------------------------------
+
+{1} From a photograph supplied by the Chief Epigraphist.
+{2} Expressed by a symbol.
+{3} It seems that Dēvaswāmi- was a name and he was a younger brother of Svāmi-. If so, the change of 
+	sutau to sutaḥ is not necessary. The construction here is faulty and nothing can be definitely said.
+{4} This foot is metrically defective as it has one akṣara more than necessary. Singular is also wrongly
+	used instead of dual.
+{5} This word is wrongly put in the accusative instead of the nominative, as required by the construction.
+{6} Two akṣaras are indistinct here.
+{7} The reading of the akṣara in the brackets is not certain and the name of the family cannot be known
+	definitely.
+{8} All the names in this line are without any case ending, which is nominative.
+{9} I am unable to explain the meaning of this expression.
+{10} This is phālguna.

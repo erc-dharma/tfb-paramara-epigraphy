@@ -1,0 +1,87 @@
+PennGlobal: PMR12
+Period: VS 1078 caitra śudi 14
+Location: Ujjain 
+Dynasty: Paramāra
+King: Bhojadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 9 verses
+Metres: Verse 1-2 and 4-5 Anuṣṭubh; vv.3 and 7 Vasantatilakā; v.6 Indravajrā; v.8 Śālinī; v.9 Puṣpitāgrā
+Gist: Grant by Bhojadeva
+Published reference: Trivedi (1978), no. 12. 
+
+Text{1}
+First Plate
+
+1. siddham{2} | jayati vyomakeśosau yaḥ sarggāya vi(bi)bha{3}rtti tāṃ(tām) | aindavīn si(vī śi)rasā lekhāṃ jagad vī(d bī)jāṃkurākṛtim
+  ||1||
+2. tanvaṃtu vaḥ smarārāteḥ kalyāṇam aniśaṃ jaṭāḥ | kalpānta samayoddāma taḍid valaya-
+3. piṅgā(ṅga)lāḥ ||2|| parama bhaṭṭāraka mahārājādhirāja parameśvara śrī sīyakadeva{4} pādā-
+4. nudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī vākpatirājadeva-
+5. pādānudhyāta parama bhaṭṭāraka mahārājādhirāja parameśvara śrī sindhurājadeva pādānudhyāta-
+6. parama bhaṭṭāraka mahārājādhirāja parameśvara śrī bhojadevaḥ kuśalī || nāgahrada paścima patha-
+7. kāṃtaḥ pāti vīrāṇake [sa]mupagatān samasta rājapuruṣān vrā(nbrā)hmaṇottarān prati nivāsi pa[ṭṭa]ki-
+8. la janapadādīṃś ca samādiśatyastu vaḥ [saṃ]viditaṃ(tam) ||{5} yathā atī{6}tāṣṭa[sa]ptatyadhikasāha[sri]ka-
+9. samva(saṃva)tsare māghāsitatṛtīyāyām |{7} ravāvuda[ga]yana parvvaṇi kalpita ha-
+10. lānāṃ lekhye{8} || śrīmad dhārāyām avasthitair asmābhiḥ snātvā [ca]rācara guruṃ bha[ga]va-
+11. ntanbha(taṃ bha)vānīpatiṃ samabhyarccya saṃsārasyāsāratāṃ dṛṣṭvā | vātābhra vibhramam idam va(daṃ va)sudhādhipatya-
+12. m āpāta mātra madhuro viṣayopabhogaḥ | prāṇās tṛṇāgra jala vi(bi)ndu samā narāṇāṃ dharmma ssa-
+13. khā paramaho paraloka yāne ||3|| bhramat sansā(saṃsā)ra cakrāgra dhārādhārām imāṃ śriyaṃ(yam) | prāpya ye na
+14. dadusteṣāṃ paścāttāpaḥ paraṃ phalaṃ(lam) ||4|| iti jagato vinaśvaraṃ svarūpamākalayyopari-
+15. likhita grāmaḥ sva sīmā tṛṇa gocara yūti paryyantas sahiraṇya bhāga bho- sva hastoya(yaṃ) śrī bhojadevasya{9} 
+
+Second Plate
+
+16. gaḥ soparikaraḥ sarvvādāya sametaḥ vrā(brā)hmaṇa dhanapatibhaṭṭāya bhaṭṭagovinda sutāya va(ba) -
+17. havṛcāśvalāyana śākhāya | agasti gotrāya | tri pravarāya | vellavalla prati va(ba)ddha śrīvāḍā(ḍa) vinirggata rā-
+18. dhasu{10}rasaṃgakarṇṇāṭāya | mātāpitror ātmanaśca punya(ṇya) yaśobhivṛddhaye | adṛṣṭa phalam aṃgīkṛtya ca -
+19. ndrārkkārṇava kṣiti sama kālaṃ yāvat parayā bhaktyā śā[sa]nenodaka pūrvva(rvva) pratipādita iti matvā{11}
+20. yathā dīyamāna bhāga bhoga kara hiraṇyādikam ājñā śravaṇa vidheyair bhūtvā sarvvamasmai samupanetavyaṃ(vyam) |
+21. sāmānyaṃ caitat puṇya phalam vu(mbu)ddhvāsmad vansa(d vaṃśa)jair anyair api bhāvi bhoktṛbhir asmat pradatta dharmmādāyoya-
+22. manumantavyaḥ pālanīyaśca | uktaṃ ca | va(ba)hubhir vvasudhā bhuktā rājabhis sagarādibhiḥ | yasya yasya yadā
+23. bhūmis tasya tasya tadā phalaṃ(lam ) ||5|| yānīha dattāni purā narendrair ddānāni dharmmārtha yasa(śa)s karāṇi | nimmā(rmma)lya-
+24. vānti pratimāni tāni ko nāma sādhuḥ punar ādadīta ||6|| asmat kula kramam udāramudāharadbhir anyaiś ca
+25. dānamidam abhyanumodanīyaṃ(yam ) | lakṣmyās taḍiccha(t sa)lila budvu(budbu)da caṃcalāyā dānaṃ phalaṃ parayasa ppa(śaḥ pa)ripā-
+26. lanaṃ ca ||7|| sarvvānetān bhāvinaḥ pārthivendrān bhūyo bhūyo yācate rāmabhadraḥ |
+27. sāmānyoyaṃ dharmma setur nnṛpāṇāṃ kāle kāle pālanīyo bhavadbhiḥ ||8|| iti ka-
+28. mala dalāmvu vi(mbu bi)ndulolāṃ śriyamanuciṃtya manuṣya jīvitaṃ ca | sakalami-
+29. dam udāhṛtaṃ ca vudhvā(buddha vā) na hi puruṣaiḥ para kīrttayo vilopyāḥ ||9|| iti || samva(saṃva)t 10 -
+30. 78 caitra śudi 14 | svayam ājñā | maṃgalaṃ mahāśrīḥ || sva hastoyaṃ śrī bhojadevasya ||
+
+-------------------------------------------------
+{1} From photolithographs facing pp. 52-54 in Ind. Ant., Vol.VI.
+{2} Denoted by a symbol.
+{3} This akṣara appears as na(न).
+{4} By scribal error, this akṣara appears as da(द).
+{5} The daṇḍas are superfluous.
+{6} The curve of the ī-mātrā is not carved and sandhi is not made with the preceding ā(आ).
+{7} This and some other daṇḍas below are redundant, which need not be mentioned separately.
+{8} What is intetnded here by the word kalpita(कल्पित) is not definitely known. This term occurs also in the Kadamba-
+	padraka grant of Naravarman of V.S. 1110 and in his son Yaśovarman's grant of V.S. 11192; and while 
+	has to be taken in the sense of 'settled or fixed'. And the whole expression may perhaps here refer to the 
+	donated village, the halas of which were fixed and also entered in lesya(लेस्य) i.e., the government documents.
+	I am, however, unable to explain, in this case, the use of the seventh case in the word lekhya(लेख्य).
+{9} The sign manual, which is engraved on the right corner of the first plate, should not be taken to break the con-
+	 tinuity of the writing.
+{10} The meaning of this word I cannot make out. Kiratanē translates it as 'inhabitant of sādhasurasaṃga(साधसुरसंग)-'but to me
+	 it appears to be a mistake for dharāsura(धरासुर), a Brāhmaṇa, or, as Hultzch has suggested, in Ep. Ind., Vol. XI,
+	 p.184, n.4, we may have to read here vinirggata(||) bhūsurasaṃga (विनिर्ग्गत(||)भूसुरसंग). For the double daṇḍas which are as carved
+	 here, cf. above, 1.2, after jaṭāḥ(जटाः).
+{11} This akṣara is followed by a small hollow circle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T

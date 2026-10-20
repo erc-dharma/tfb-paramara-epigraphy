@@ -1,0 +1,50 @@
+PennGlobal: PMR21
+Period: VS 1140
+Location: Kamēd  
+Dynasty: Paramāra
+King: Udayāditya
+Language: Sanskrit
+Script: Nagari
+Text: Prose 
+Gist: To record the donation made by Naravarman
+Published reference: Trivedi (1978), no. 21. 
+
+
+TEXT{1}
+
+1. svasti{2} || śrīmad ujjayanyāḥ - -{3}
+2. - - dhavalī grāmāvasthita parama-
+3. bha[ṭṭā]raka mahārājādhirāja parameśvara śrī{4} uda-
+4. yādita(tya)deva[ḥ] | tasya putra [la]{5}kṣama(kṣma)devasya akṣa-
+5. [ya] dīpikārthe rāḍaghaṭī(ṭi)kā grāma(me) kṣetrabhūmi[ḥ]
+6. halāṃka{6} 12 pradattā iti dvitīya - - -{7}
+7. naravarmmadevena udakaṃ pra[da]ttaṃ(ttam) || saṃvat
+8. 1140{8}||
+
+-------------------------
+{1} From an impression.
+{2} Some symbol may have been engraved before this word as shown by a vacant space with some faint traces.
+{3} Here are two indistinct letters, as also at the commencement of the next line. From the traces left the
+	reading may conjecturally be restored as -samīpastha-. In the impression which was later on provided by 
+	the Chief Epigraphist, I find traces of sama(sta)rājāvalīmālāla(laṃ)kṛtaparama--.
+{4} Sandhi is not performed here.
+{5} The reading of the bracketed akṣaras is conjectural.
+{6} The reading is conjectural as required by the sense.
+{7} As above, Conjecturally, the three akṣaras may be restored as putreṇa.
+{8} The decimal figure is somewhat indistinct due to over-writing, but the reading is certain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

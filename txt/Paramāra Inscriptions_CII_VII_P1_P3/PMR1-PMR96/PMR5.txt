@@ -1,0 +1,86 @@
+PennGlobal: PMR5
+Period: VS 1036 caitra vadi 9
+Location: Ujjayinī 
+Dynasty: Paramāra
+King: Vākpatirājadeva
+Language: Sanskrit
+Script: Nagari
+Text: Prose and  Metrical in 7 verses
+Metres:  Verses 1-2 Śārdūlavikrīḍita; v.3 Anuṣṭubh (śloka); v.4 Indravajrā; v.5 Vasantatilakā; v.6 Śālinī; v.7 Puṣpitāgrā  
+Gist: donation of the village by Vākpatirājadeva
+Published reference: Trivedi (1978), no. 5. 
+
+Text{1}
+First Plate
+
+1. oṃ || yaḥ(yāḥ) sphū(rjjat phaṇa)bhṛd viṣānala miladdhūmra(ma) prabhāḥ prollasan mūrddhāva(ba)ddha śaśāṅka koṭi ghaṭitā yāḥ saiṅhi(saiṃhi)keyopamāḥ
+  | yā[ś cañca]-
+2. d girijā kapola lulitāḥ kastūrikāvibhramāstāḥ śrī kaṇṭha kaṭhora kaṇṭha[ru]cayaḥ śreyānsi(yāṃsi) puṣṇantu vaḥ ||1||
+3. yallakṣmī vadanendunā na sukhitaṃ yannārdritamvā(taṃ vā)ridher vārā yanna nijena nābhisarasī padmena śānti-
+4. ṅgataṃ(tam) | yaccheṣāhi phaṇāsahasra madhuraḥ(raiḥ) {2}śvāsair na cāśvāsitaṃ tad rādhā virahāturaṃ muraripor vvelladvapu-
+5. pātu vaḥ ||2|| parama bhaṭṭāraka mahārājādhirāja parameśvara śrīkṛṣṇarājadevapādānudhyāta parama-
+6. bhaṭṭāraka mahārājādhirāja parameśvara śrīvairisiṅha(siṃha)devapādānudhyāta parama bhaṭṭāraka mahārā-
+7. jādhirāja parameśvara śrīsīyakadevapādānudhyāta parama bhaṭṭāraka mahārājādhirāja parame-
+8. śvara śrīmad amoghavarṣadevāparābhidhāna śrīmad vākpatirājadeva pṛthvī vallabha śrī vallabha narendrade-
+9. vaḥ kuśalī || tiṇisapadradvādaśakasamva(mba)ddha mahāsādhanika śrīmahāikabhuktasemva(mba)lapuraka grāme sa-
+10. mupagatān samasta rājapu(ru)ṣān vrā(n brā)hmaṇottarān prativāsi paṭṭakilajanapadādī(dīṃ)ś ca vo(bo)dhayatyastu vaḥ samvi(saṃvi) -
+11. ditaṃ yathā grāmoyamasmābhiḥ ṣaṭtṛṃ(triṃ)śasāhasrika samva(saṃva)tsaresmin kārttika śuddhapaurnṇimāyāṃ{3} so-
+12. ma grahaṇa parvvaṇi śrībhagavatpurāvāsitair asmābhirmmahāsādhanika śrīmahāikapatnīāsi-
+13. nī prārthanayā{4} uparilikhita grāmaḥ sva sīmātṛṇayūtigocara paryyantaḥ{5}  sa hiraṇya bhāga bhogaḥ
+14. soparikaraḥ sarvvādāyasametaḥ śrīmad ujjayanyāṃ bhaṭṭārikā śrīmad bhaṭṭeśvarīdevyai snāna vilepa-
+15. na puṣpa gandha dhūpa[nai] vedya prekṣaṇakādi{6}nimi[tta]ñca tathā khaṇḍa sphuṭita devagṛha jagatī samāracanārtha -{7} 
+16. ñca mātāpitror ātmanaś ca puṇya yaśobhivṛddhaye'dṛṣṭaphalamaṅgīkṛtyā candrārkkārṇṇava kṣiti  samakā-
+17. laṃ parayā bhaktyā śāsanenodakapūrvvakaṃ pratipādita iti matvā tannivāsi paṭṭa-
+
+Second Plate
+
+18. kila janapadair yathā dīyamāna bhāga bhogaḥ(ga)kara hiraṇyādikaṃ sarvam ājñā śravaṇa-
+19. vidhemai(yai)r bhūtvā sarvathā sarvvamasyāḥ{8} samupanetavyaṃ(vyam) || sāmānyaṃ caitat puṇya phalaṃ vu(bu)ddhvā'sma-
+20. d vaṃśajair anyair api bhāvi bhoktṛbhir asmat pradatta dharmma dāyoyam anumantavyaḥ pālanīyaś ca | uktaṃ ca | va(ba)hu-
+21. bhir vvasudhā bhuktā rājabhiḥ sagarādibhir yyasya{9} yasya yadā bhūmis tasya tasya tadā phalaṃ(lam) ||3|| yānīha da-
+22. ttāni purā narendrair ddānāni dharmmārtha yaśas karāṇi | nirmmālya vānta pratimāni tāni ko nāma sādhuḥ
+23. punarādadīta ||4|| asmat kulakrama mudāramudāharadbhir anyaiś ca dānamidamabhyanumodanīyaṃ(yam) | la-
+24. kṣmyās taḍit salila vudvu(budbu)da cañcalāyā dānaṃ phalaṃ parayaśaḥ paripālanañca ||5|| sarvvānetān bhāvinaḥ pā-
+25. rthivendrān bhūyo bhūyo yācate rāmabhadraḥ | sāmānyoyandha(yaṃ dha)rmma setur nṛpāṇāṃ kāle kāle pālanī-
+26. yo bhavadbhiḥ ||6|| iti kamala dalāmvu(mbu) vi(bi)ndulolāṃ śriyamanucintya ma-
+27. nuṣya jīvitaṃ ca | sakalamidamudāhṛtañca buddhvā na hi puruṣai-pa-
+28. rakīrttayo vilopyā iti ||{10} samva(saṃva)t 1036 caitra vadi 6 | guṇa-
+29. purāvāsitai(te) śrīman mahāvijayaskandhāvāre svayam ājñā dāyakaścātra{11} 
+30. śrīrudra(ā)dityaḥ || sva hastoyaṃ śrīvākpatirājadevasya ||
+
+----------------------------------
+{1} From Kielhorn's transcript in Ind. Ant., Vol. XIV, pp.477 f.
+{2} Keilhorn: मधुरश्वासैः (madhuraśvāsaiḥ). Both the corrections as given by him and by me are equally good.
+{3} Read either पौर्ण्णमास्यां(paurṇṇamāsyāṃ) or पूर्णिमायां (pūrṇimāyāṃ).
+{4} Sandhi is optional here.
+{5} This expression has been variously interpreted. Colebrooke rendered it by "within the proper bounds,
+    extending to the grass and pasture" (Misc. Essays, Vol. II, p.312); and Kirtane translated it by "within all its
+    proper boundaries, which extend as far as the ground for the tending of the cattle and for cutting grass"
+    (Ind. Ant., Vol. VI, p.53). Referring to both these renderings, Kielhorn translated the expression as "up
+    to its proper boundaries, the grass and pasture land" (op. cit., p.161). The purport of all these renderings
+    is the same, but all these scholars have failed to catch the meaning of the word yuti, which means 'mixing' or
+    'junction'. And thus I would render the expression as 'extending up to the grass within its bounds and the 
+    pasture land connected with it.'
+{6} This word means 'show' or 'spectacle'. Possibly pro(प्रो) may have been intended.
+{7} Kielhorn: "putting in order of the temple buildings, when damaged or out of repairs." I would, however,
+    take it as khaṇḍaśaḥ sphuṭita (खण्डशः स्फुटित), partially broken, and also for the construction of jagatī(जगती), foundation, or for repairing 
+    the jagatī(जगती), which was partially broken.
+{8} This word appears to be restored to asyai(अस्यै).
+{9} Read sagarādibhiḥ | yasya -.(सगरादिभिः | यस्य -.)
+{10} Read vilopyāḥ ||7|| iti (विलोप्याः ||७|| इति).
+{11} Read svayamājñā | dāpakaścātra. For translation, see n. on the same in the preceding inscription.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
